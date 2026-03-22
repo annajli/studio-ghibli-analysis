@@ -1,0 +1,1508 @@
+==========================================================================
+
+ SCRIPT:  NAUSICAA OF THE VALLEY OF THE WIND                     7/25/91
+
+==========================================================================
+
+This script is a fan-produced translation to the animation movie "Kaze no
+Tani no Nausicaa" and is not meant in any way to infringe upon the rights
+held by the artist or those in connection with the movie.  The script is purely
+an instrument to aid fans better understand the movie when viewed legally.
+
+This script adapts fragments from the works of Sue Shambaugh (date
+unknown) edited by Jeff Okamoto (1988) and Scott Sanford (1990).
+
+The dialogues in this script attempts to retain the original flavor of the
+anime.  Smoothness may have been compromised somewhat due to this.  For
+the purpose of dubbing, the alternate dialogue represented by [ALT:] may
+have a better fit.
+
+Reproduction of this material is permitted for Non-Profit purposes only.
+Maturity in the use of this script is expected.
+Please keep this headlines intact.
+
+Special thanks to Sheng-Te Tsao and K Hindall of CJAS for their editing.
+
+  Miho Nishida  7/25/91                       Cornell University
+=========================================================================
+
+                           KAZE NO TANI NO NAUSICAA
+                      -Nausicaa of the Valley of the Wind-
+                              BY HAYAO MIYAZAKI
+
+-------------------------------------------------------------------------
+( ) = scenery notes
+[ ] = translational/cultural notes
+       Note:  (within translational notes)
+       LT  indicates literal translation of Japanese;
+       ET  indicates equivalent translation;
+       ALT indicates alternative phrasing of previous sentence or word;
+       ?   indicates inadequate translation due to unclear dialogue in the
+           film.  The preceding sentence is as accurate as this translator
+           can determine.
+
+< > = hidden reference of a dialogue
+* * = emphasis on the word
+
+The symbols, ...!!, ...?!, etc., if not preceded by a sentence without a
+period, are equivalent to an intake of a breath in astonishment or an
+exclamation.
+--------------------------------
+
+CHARACTERS:
+
+
+NAUSICAA    A young princess of the Valley of the Wind who is adept at reading
+            the wind.  She has strange empathy with the insects of the Fukai
+            [LT=Spoiled Sea, Rotten Sea; ET=fungus forest], especially Ohmu.
+JHIL        The chieftain of the Valley of the Wind; Nausicaa's father.
+MITO        Steward of the Castle [LT: Castle Uncle (a title)]; Nausicaa's
+            adviser/watcher.
+YUPA        Nausicaa's teacher.  One of the most renowned swordsman in the
+            region.
+GRANDMOTHER Eldest wise woman of the castle.  [LT: Grand Elderwoman]
+ASBEL       Rastel's twin brother.  Surviving rebel from Pejite.
+KUSHANA     Imperial Princess of Torumekia.  Fourth in line to the throne.
+KUROTOWA    Kushana's Chief of Staff [ET: Advisor]; of common blood.
+OHMU        Guardians of the Fukai, lords of the insects. [Note: "Ohmu" is
+            literally, "King (or Lord) Insect".  In this script "Ohmu" is both
+            singular and plural term]
+
+--------------------------------------------------------------------
+
+(A man walks into a ghost town overrun with fungus)
+
+YUPA      Another village has died...
+YUPA      Let's go...  This place, too, will soon sink into the Fukai.
+
+--------------------------------
+
+INSET     1000 years after the collapse of a giant industrial civilization,
+          rust and ceramic fragments covered the land.  Over this wasteland,
+          a deadly forest of fungi that released poisonous vapors (miasmas),
+          which came to be called the "Fukai" (Spoiled Sea), spread and was
+          threatening the very existence of the declining human race.
+
+Title: Kaze no Tani no Nausicaa  (Nausicaa of the Valley of the Wind)
+
+----------------------------
+
+(Nausicaa is flying over the wasteland on her glider, Mehve.  She lands at the
+edge of Fukai and enters the forest)
+
+NAUSICAA  A path of an Ohmu...  It's still fresh...  (She follows the track)
+NAUSICAA  A cast-off skin [ALT: shell; exuviae] of an Ohmu...  How
+          magnificent...!  This is the first time I've ever seen a perfectly
+          shed skin.  (She taps the shell with her ceramic sword)
+NAUSICAA  Good sound...  (She strikes the shell; the sword does not causes any
+          significant cut)
+NAUSICAA  The ceramic sword got chipped.  The Valley people will be happy.
+          They wouldn't have to worry about materials to make tools out of for
+          quite some time.
+NAUSICAA  An amazing eye...  Maybe I can fly back with this one...  She frees
+          the eye covering)
+NAUSICAA  Ah, got it!  How light <it is>!
+
+(Spores are falling in snow-like fashion)
+
+NAUSICAA  The mushibayashi [a plant name] is spreading its afternoon spores.
+          How beautiful... <even> though this place is a forest of death where,
+          if not for this mask, my lungs would decay in five minutes. [pause]
+          ...!!    Who is it?!  [pause]  What can it be?  My heart is pounding.
+          (She hears blast of guns)
+NAUSICAA  It's an insect gun!  Someone is being attacked by the insects.
+
+(She runs to find a better vantage point)
+
+NAUSICAA  Oh!  Sorry!
+NAUSICAA  What a smoke of spores...  Ohmu!!  It must be the owner of that shed
+          skin.  (Observing the path of the Ohmu, and hence the path of the
+          human,)
+NAUSICAA  You mustn't go [LT: escape] that way!  (She fires a signal flare)
+NAUSICAA  Please, see the signal!  He answered!  He's coming this way!
+
+(She takes to the air aboard Mehve, and soon finds a rider fleeing from the
+forest)
+
+NAUSICAA  That's...!  (A huge Ohmu crashes out from the forest in pursuit of
+          the man)
+NAUSICAA  What a splendid Ohmu...  (to Yupa) To the windward side!
+YUPA      Thanks! [LT: Sorry]
+NAUSICAA  Ohmu!  Go back to the forest.  This side isn't your world.  See?
+          ["Ne?": expression used in soliciting an agreement]
+          Be a good child. [pause]
+          He's forgotten himself with anger.  I must calm him.  (Nausicaa drops
+          flare bombs)
+YUPA      The Ohmu has lost consciousness from the flare!  (Nausicaa circles
+          the Ohmu, holding a strange noisemaker)
+YUPA      An insect-whistle...
+NAUSICAA  Ohmu, open your eyes...  Let's go back to the forest.  It's awake!
+YUPA      The Ohmu is going back to the forest...  With only flare bombs and a
+          insect-whistle, she managed to calm the Ohmu...
+--------------------------------
+
+(Hill top; Nausicaa lands and runs to Yupa)
+
+NAUSICAA  Master Yupa!
+YUPA      Nausicaa, you've grown!  [LT: you've visually changed; I've mistook
+          you for another]
+NAUSICAA  It has been a year and a half!  Father will be delighted.
+YUPA      I must thank you.  You've become a fine wind-user.
+NAUSICAA  No,  Father says not yet.  (Nausicaa notices something in Yupa's belt
+          pouch)
+YUPA      Oh, yes...  I completely forgot about this fellow.
+NAUSICAA  My!  A fox-squirrel.
+YUPA      This fellow was kidnapped by a bird-louse.  I mistook him for a human
+          baby and I ended up using my gun.
+NAUSICAA  So that's why the Ohmu was so angry.
+YUPA      It seems he didn't inhale the poison because he was unconscious.  No,
+          you shouldn't put out your hand like that.  He's small, but still
+          ferocious.
+NAUSICAA  Come...
+YUPA      Hey!
+NAUSICAA  There's nothing to fear.  There's nothing to fear.  (The fox-
+          squirrel bites Nausicaa)
+NAUSICAA  ...!!  There's nothing to fear.  See? ["Ne?"] (After a while, fox-
+          squirrel releases Nausicaa's finger)
+NAUSICAA  You were only scared, weren't you?  Master Yupa, won't you give him
+          to me?
+YUPA      Ah...  I won't mind, but...
+NAUSICAA  Waa!  [expression indicating excitement]   Thank you!  (She runs to
+          the riding beasts)
+NAUSICAA  Kai and Kui.  Do you remember me?
+YUPA      Such a mysterious power...  [The word is "Fushigi" and encompasses
+          nuances of words like mysterious, strange, wonderful, and mystical.
+          Just plain "mysterious" does not explain the word "fushigi" well]
+NAUSICAA  <Are you guys> tired?  You've ran a lot!
+YUPA      Is everyone the same?  [LT: There's no change in everyone?]  (Notices
+          Nausicaa's mood change)  What's the matter...?
+NAUSICAA  It's Father!  Father cannot fly any more...
+YUPA      Jhil...?  The forest's poison...?
+NAUSICAA  Yes...  It is the destiny of all who live near the Fukai, or so I'm
+          told.
+YUPA      I should have visited earlier.
+NAUSICAA  No...  It was really good of you to come...  Teacher!  Later, I want
+          you to look at something.  My secret room!  Don't tell anyone lest
+          they be frightened.
+YUPA      Oho...
+NAUSICAA  I'll go on ahead to tell <everyone> you are here.  You hurry, too.
+          (Brandishing her find,)
+NAUSICAA  Master Yupa!!  Would you please carry this for me?  The air currents
+          get disrupted so I can't fly well <with it>.
+YUPA      My, she reads [ALT: understands] the wind well.  Come, just a little
+          further.
+--------------------------------
+
+(Later, in the Valley of the Wind)
+
+GOLL      Master Yupa!
+OLD UNCLE Welcome!
+YUPA      Is everyone well?
+GOLL      Both water and wind are calm, without an incident.
+CHILD     Master Yupa!
+YUPA      Ah, is everyone well?
+GUARD     Master Yupa.
+VILLAGER  It's Master Yupa.
+VILLAGER  We've been waiting for you, Master Yupa.
+VILLAGER  Welcome back.
+
+(Nausicaa is repairing a windmill blade)
+
+MITO      Princess!  He's arrived!
+NAUSICAA  Just a second.
+MITO      Master Yupa!!
+YUPA      Uncle Mito!  Working hard, I see.
+MITO      Tell us some more of those foreign stories tonight!
+NAUSICAA  Ok.  Turn it.
+MITO      It looks good.
+NAUSICAA  Yes.
+
+(On the ground, people are admiring the Ohmu's eye case)
+
+GOLL      Oh, it's a really good one.  We must set out first thing tomorrow to
+          get it.
+NAUSICAA  Okay, Toeto?
+TOETO     Yes.
+NAUSICAA  Master Yupa, this is Toeto's child that was born this year.
+YUPA      Oh, let me see.  She's a fine girl.  Reminds me of Nausicaa when she
+          was young.
+TOETO     Would you please be this child's godfather?
+OLD WOMAN So that a good wind will always blow for her...
+YUPA      I accept.  I'll give her a good name.
+TOETO     Thank you.  May she grow as healthy as the Princess...
+MITO      Hm!  If we're talking about health, the Princess is famous for it.
+          But it would be a problem if the child comes to imitate the
+          Princess's Fukai playing as well.
+NAUSICAA  But thanks to that <playing>, I found the shell of the Ohmu.
+MITO      Well, put yourself in my shoes as the Steward.  I can't sleep easily
+          [ALT: peacefully] at night from worry.
+GOLL      If we're talking about Ohmu's shells, we can't quite say that the
+          Princess's Fukai playing is all for nothing.
+YUPA      That's true.  I was rescued, too, wasn't I?
+--------------------------------
+
+(Jhil's room in the castle)
+
+JHIL      Saved by this child...?
+YUPA      This valley is good...  Whenever I come here, my heart is consoled
+          [ALT: soothed].
+JHIL      How were your travels this time?
+YUPA      It's terrible.  In the South, two more countries have been swallowed
+          by the Fukai.  The Fukai is steadily expanding.  But wherever I go,
+          there's only hunger and warfare.  Just ominous shadows.  Why can't
+          they live like this valley?
+GRNDMOTHR It's because here we are protected by the Lord Wind [ALT:  blessed
+          wind] that blows from the sea.  The poisons from the forest cannot
+          reach this valley.
+JHIL      How about it, Yupa.  Why don't you settle in this valley soon?  I'm
+          in this condition...  Everyone would be happy...
+GRNDMOTHR That's impossible.  Yupa is a man destined to continue his search.
+YUPA      Destiny, you say...?
+NAUSICAA  Grandmother, what do you mean by "search"?
+GRNDMOTHR My my...  You didn't know, Nausicaa?  There - It's that tapestry on
+          the wall.  I can't see it any more, but it's the lord on the left
+          corner.
+          "That one, wearing a robe of blue, shall descend onto a golden field.
+          To forge once again the lost bond with the land."
+NAUSICAA  "And lead everyone, at last, to a land of blue purity..."  Master
+          Yupa, I thought that it was only an old legend [ALT: ancient lore]
+YUPA      Grandmother!  You vex me with your teasing.
+GRNDMOTHR Same thing, isn't it?
+YUPA      I only want to solve the riddle of the Fukai...  Are we, the human
+          race, a species destined to be swallowed by the Fukai and be
+          destroyed...?  I want to see and judge for myself.
+--------------------------------
+
+(In Nausicaa's room)
+
+NAUSICAA  If only I could help Master Yupa...
+--------------------------------
+
+(That night)
+
+MITO      Princess...  Princess!
+NAUSICAA  What, Mito?
+MITO      Goll says he smells something in the wind.
+NAUSICAA  It's almost dawn <isn't it>...  I'll be right there.
+
+(Atop the castle)
+
+NAUSICAA  Good work.  ["Gokuro^sama" ET: Thanks for the toil]
+GOLL      It's a good storm, but something's strange...
+NAUSICAA  ...!  There!!  There, again!  It's a plane.
+MITO      Why would a plane be in a borderland like this...
+YUPA      What's happening?
+MITO      Master Yupa!  It's a plane.
+YUPA      A plane?!
+NAUSICAA  It's coming!
+MITO      It's big!
+YUPA      It's a giant <sized> Torumekian ship!
+NAUSICAA  The way it's flying is strange...!  It's trying to make an emergency
+          landing [ALT: forced landing].  Goll!  Get me up!
+MITO      Princess!  That's absurd!
+NAUSICAA  I'll guide them to the coast!
+YUPA      They've turned around!
+GOLL      Here goes.
+
+(Teto jumps onto Nausicaa's shoulder just before the catapult launches Mehve
+into the air)
+
+NAUSICAA  Teto...!
+
+(A swarm of ground insects -caterpillar like- are attacking the plane and
+causing damages)
+
+NAUSICAA  How could they?  They <must have> landed in the Fukai and killed some
+          insects.  Raise your rudder!!  You're going to crash!!  Raise your
+          rudder!!  Your rudder...!!
+--------------------------------
+
+(Explosion.  On the castle roof)
+
+YUPA      It fell...
+MITO      Princess...!
+GOLL      It's the seaside cliff!
+MITO      Let's go!!
+VOICE     Move it, let's go!!  All who're able, hurry up!!
+--------------------------------
+
+(At the crash site)
+
+NAUSICAA  It's that girl!  She's alive...!
+RASTEL    Where...?
+NAUSICAA  The Valley of the Wind...  You mustn't speak!
+RASTEL    I am Rastel of Pejite...  The cargo...  Please burn the cargo...!
+NAUSICAA  The cargo?
+RASTEL    Please ...  Burn it...
+NAUSICAA  The cargo.  I understand.  It's all right.  Everything burned.
+RASTEL    Good...
+MITO      Princess!
+MITO      This lady...!  She's a princess of the royal house of Pejite...
+--------------------------------
+
+(From the center of the tumult,)
+
+MAN       An insect!!  An Ushiyabu was alive!!
+MAN       Damn!  It's calling other insects!
+MAN       It's hurt and can't fly.
+MAN       Bring your guns here!
+MAN       It's no use!  If we shoot, it'll call more of its kind!
+MAN       I'll kill it on the first shot.
+MAN       You can't kill an Ushiyabu with a gun!
+MAN       Then what?
+NAUSICAA  Wait!  Mito, <please> bring the Mehve.
+MITO      Yes!
+MAN       Princess!  (Nausicaa takes out her insect-whistle)
+NAUSICAA  Go back to the forest...  It's all right!  You can fly.  Yes, that's
+          a good child...
+MITO      Princess!
+NAUSICAA  Thanks.  (She tosses the insect-whistle up into the air, and the
+          Ushiyabu takes flight.  Leading the insect, Nausicaa heads for the
+          Fukai)
+MITO      I'm glad...  We don't know what would happen if we killed even one of
+          them...
+          [The alternative, "if even one of them is killed", does not
+          specifically imply humans as the killers.  For this reason, the
+          preceding sentence should be left as is, even though it is a bit
+          awkward]
+--------------------------------
+
+(In the wasteland, an Ohmu awaits)
+
+NAUSICAA  Ohmu...
+--------------------------------
+
+(In the air, war planes signal each other)
+--------------------------------
+
+(In the Valley, the fields are being searched for spores)
+
+BOY       Found it!  Over here!  Here it is.  There were spores on that ship
+          after all.
+MAN       They haven't given off any poisons yet?  (Torches spore) Just a
+          little more.
+BOY       Yup.  If even one remains, it would be a disaster.  (At the
+          smouldering remains of the crash)
+MAN       What do you suppose this lump is...?
+MAN       It didn't burn even in that fire.
+MITO      Well, everybody, we'll return to the investigation of this thing
+          later.  Please go help burn the spores.  Be extra careful.  [pause]
+          Really, what a troublesome thing they've managed to transport in <to
+          this valley>.
+YUPA      Mito, look here.
+MITO      It's moving...  It's as if it's alive.  Master Yupa, this is...?
+YUPA      In the midst of my travels, I heard of an ominous rumor...  It said
+          that a monster from the ancient world had been excavated from beneath
+          the city of Pejite where it had been sleeping.
+MITO      A monster from the ancient world?
+YUPA      It's a God Soldier [LT: Giant God Soldier].
+MITO      A God Soldier?!  You mean, the ones that burned the world in the
+          Seven Days of Fire...?!  This thing ...!
+YUPA      All God Soldiers should have become fossils.  But this one managed to
+          sleep underground for 1000 years.
+MITO      It does seem to have a human form, now that you've told me.
+YUPA      Torumekia is a large military state in the far West.  And with these
+          dead captives from Pejite...  It bothers me...
+--------------------------------
+
+(Near the forest of the Valley)
+
+NAUSICAA  Please take care of the rest.  [pause] What can it be...?  (Planes
+          appear, scattering the people)
+NAUSICAA  It's a Torumekian ship.  Everyone, to the castle!  (From the landed
+          planes, armored soldiers is getting off)
+NAUSICAA  Everyone!  To the castle!!  Everyone, go to the castle!! [LT:  gather
+          at the castle; meet at the castle]
+          To the castle!!  (Seeing a plane dispatching troops into the castle,)
+NAUSICAA  Father!!
+--------------------------------
+
+(In the castle.  Jhil takes out a sword)
+
+JHIL      Hide, Grandmother.
+GRNDMOTHR I'll stay here.
+
+(As she approaches the castle, Nausicaa hears gun shots)
+
+WOMAN     Princess!?
+
+(Bursting into Jhil's apartment, Nausicaa finds Torumekian soldiers standing
+over her father's body)
+
+NAUSICAA  How dare you...!!  [LT: self; ET: you]
+
+(She attacks.  As she finishes off the guards, new armored soldiers arrive.
+She evades an attack and leaps back.  Finding her father's sword, she charges)
+
+GRNDMOTHR Nausicaa!
+
+(Yupa leaps between Nausicaa and the invading soldiers)
+
+YUPA      You!  Don't move!!  If you do, this knife shaved from the very shell
+          of an Ohmu will pierce your ceramic armor.
+SOLDIER   (To Kushana) That man... is Yupa.
+YUPA      I ask the Torumekian army.  Last night, the people of this valley
+          worked furiously to save your ship.
+YUPA      Even now, we just finished carefully burying the dead.  Though <this
+          country> is small, is this the courtesy of Torumekia towards
+          such a country?!  If you're starting a war, there must be a reason.
+          You should first send a messenger and state <whatever> your
+          objections <are>.  (Quietly, to Nausicaa)  Nausicaa...  Calm down,
+          Nausicaa.  If we fight now, everyone in the valley will be murdered.
+          We must remain alive and wait for our chance.
+KUROTOWA  Oof...  That wench...!
+KUSHANA   Stop it, Kurotowa.
+KUROTOWA  But...! Oh hell... What a fiend! [ALT: What a bitch]
+          She killed off *everyone*!
+KUSHANA   Your admonition pains my ears...  Aren't you Yupa Miralda, the best
+          swordsman in the borderlands?  Our objective is not massacre.  I want
+          to talk.  <I ask that you> sheathe your sword.
+--------------------------------
+
+(Outside the castle, the people have been gathered under guard.  Kushana is
+standing on a tank facing of them.  Nausicaa walks up to the tank)
+
+MITO      It's the Princess!
+MAN       Princess!
+KUROTOWA  Listen!  It is the words of Her Highness Kushana, Commander of the
+          borderland expeditionary force of the Torumekian Empire!
+KUSHANA   We have come to unite the borderland countries to construct a land
+          without worry. [LT: Big and leisurely way].  You are on the verge of
+          being destroyed by the Fukai.  Obey us, and cooperate in our
+          undertaking!  Burn down the Fukai and once again revive this land!
+UNCLE     Burn down the Fukai?
+UNCLE     Is that possible?
+KUSHANA   We have revived the miraculous skills and powers that have once made
+          the human race the masters of this planet.  To those who obey me, I
+          promise a livelihood without fear of the forest poisons or the
+          insects!
+GRNDMOTHR Wait!
+
+(Grandmother walks up to the tank and faces Kushana)
+
+GRNDMOTHR You must not raise a hand against the Fukai!
+KUROTOWA  Who is this old crone?  Hey!  Take her away!
+KUSHANA   Let her speak...
+GRNDMOTHR Thousand years since the birth of the Fukai... Humans have frequently
+          attempted to burn down the Fukai.  But every time, a herd of Ohmu,
+          maddened with anger, converged to become a giant wave that covered
+          the land and came as a flood [ALT: maddened with anger, came at an
+          onslaught as one wave]
+          Destroying countries, swallowing up cities...  The Ohmu continued
+          to run until their own lives expired from starvation.  In due time,
+          using Ohmu's corpses as the seed-beds, the spores dropped their roots
+          to the earth and vast lands were swallowed by the Fukai...
+          You must not touch the Fukai...
+KUROTOWA  Shut up!  I won't allow such raving!
+GRNDMOTHR Well, what will you do?  Kill me?
+KUROTOWA  Y-You <bitch>!  ["Kisama": "You", but a nastier term; curse-like]
+GRNDMOTHR Go ahead, kill me!  I'm a blind old woman; it's simple!  Like <the
+          way> you killed Jhil...
+MITO      Lord Jhil?!
+MAN       Lord Jhil was ill!
+VILLAGERS Murderers!  Murderers!!
+KUROTOWA  Quiet them!  Don't be lenient with those who defy.
+NAUSICAA  Everyone, wait!  Please listen to me...!  I don't want to create any
+          more casualties...
+MITO      Princess...
+NAUSICAA  Please understand as well, Grandmother.  Let's obey these people.
+--------------------------------
+
+(The God Soldier is being hauled by the village people to the castle)
+
+KUSHANA   It's a pretty nice valley, don't you think...?
+KUROTOWA  I'm opposed to this.  Our orders are to transport the God Soldier
+          back to our native country as soon as possible.
+KUSHANA   The orders cannot be carried out.  Even the giant <sized> ship could
+          not bear the weight of that thing and crashed.
+KUROTOWA  But...  You can't be serious to establish a state [ALT: nation]
+          here...
+KUSHANA   And what if I am?  Are you saying we should make that monster the
+          play-thing of those fools back home?
+KUROTOWA  Well, I could understand that, but... (Snaps to attention,) I am no
+          more than a simple soldier.  I would be overstepping my privilege in
+          such a decision.  [ALT: Such decision would be beyond my station]
+KUSHANA   Hmph!  Fox...!  [LT: Badger]  I will return to Pejite.  In my
+          absence, pour all efforts into reviving the God Soldier.
+KUROTOWA  Yes, ma'am!
+KUSHANA   Is this gun ship usable?
+KUROTOWA  Yes, it's a find.
+--------------------------------
+
+(In Kushana's makeshift headquarters)
+
+KUSHANA   Don't mistake me.  I am not consulting you.
+MITO      But...!  Taking the Princess to Pejite...
+GOLL      Five hostages, the gunship, and food, you say...
+KUSHANA   I'll leave the selection <of hostages> up to you.  Complete the
+          preparation by departure, tomorrow morning. [ALT: the preparation in
+          time to depart tomorrow morning]
+--------------------------------
+
+(In the hanger)
+
+YUPA      Thanks for being the hostages.
+MITO      Never mind us...  Please look.  They're intending to take everything.
+YUPA      I will leave this place for the time being.  I'll return secretly and
+          wait for an opportunity.  We must stop the revival of that monster at
+          all costs.
+MITO      Yes.
+--------------------------------
+
+(Yupa knocks on Nausicaa's door)
+
+YUPA      Nausicaa.  (Hearing no reply, he enters)
+YUPA      Teto, where is your mistress?
+
+(Yupa follows Teto to a room under the castle)
+
+YUPA      Nausicaa, what is the meaning of this? These are plants from the
+          Fukai!
+NAUSICAA  I gathered the spores and raised them.  It's all right.  They're not
+          giving off any vapor [ALT: miasma].
+YUPA      Not giving off poison...!?  Although the air in here is certainly
+          pure...  Why?!  Even when this venomous Hisokusari plant has
+          flowered?!
+NAUSICAA  The water used here is brought up from 500 meters underground by the
+          castle's giant windmill.  I gathered the sand from the bottom of the
+          same well.  I've found out that the Fukai's plants don't give off
+          poison with clean water and soil... It's the soil that's polluted!
+          Even the soil of this valley is polluted.  Why!?  Who could have done
+          this to the world?
+YUPA      You found that out all by yourself?
+NAUSICAA  Yes...  <Because> I wanted to cure Father's and everyone's illness.
+          But...  I will close this place soon.  I've stopped the water a
+          little while ago, so everything should soon wither away.  (Nausicaa
+          goes to Yupa crying)
+YUPA      Nausicaa...!
+NAUSICAA  I...  I'm afraid of myself...  I don't know what I will do in anger!
+          I don't want to kill anyone else...!
+--------------------------------
+
+(The next day, just before takeoff)
+
+GIRL      Princess [ALT: Sister-Princess]!  Princess!  We've gathered these
+          Chico nuts...  We give them to you, Princess!
+NAUSICAA  Everyone...!  So many...  It must have been hard...  Thank you...
+          I'll eat them with care.
+GIRL      Poor Princess!
+GUARD     Hurry and get on board!  We're departing!!
+NAUSICAA  Come...  Everyone.  Don't cry any more... It's OK.  I'll come right
+          back.
+GIRL      Really?
+NAUSICAA  Hey, have I ever told you a lie?
+GIRL      No...
+NAUSICAA  Ne?
+GIRL      Really?
+NAUSICAA  Yes.  Come, it will be dangerous <to stand around here>.
+GIRLS     Promise!! [LT: For sure.  They are essentially asking for
+          reassurance]
+
+(The planes are accumulating acceleration)
+
+MAN        Take care of the Princess!
+UNCLE     Take care of the rest!  [A common farewell phrase]
+--------------------------------
+
+(Airborne; aboard the Valley's towed barge)
+
+GOLL      Is Pejite any closer? [LT: Pejite not yet?]
+UNCLE     My hip [LT: area covering waist and hip] is hurting...
+UNCLE     My, my, the Princess has really chosen those that won't be missed.
+GOLL      Hey...  Don't you think this is strange?  Why are we flying in a
+          swarm like this?
+UNCLE     It's as if they fear an attack.
+
+(Aboard a large transport ship)
+
+NAUSICAA  Beneath the clouds is a terrible whirlpool of vapors.
+NAUSICAA  ...?
+GUARD     Don't move.
+
+(A foreign gunship suddenly appears from the clouds above)
+
+NAUSICAA  Gunship!!
+VOICE     Enemy attack!  Ship number 2, destroyed!!
+
+(On the barge)
+
+UNCLE     Like I said!
+UNCLE     How frightening!!
+
+(The gunship is coming around for another attack)
+
+VOICE     Perimeter defense!  It's a Pejite gunship!
+NAUSICAA  Pejite!?
+VOICE     Damn - ship number 3, destroyed as well!  What is the corvette
+          doing?!
+RADIO     (from ship number 3) "We can't steer!  We can't steer!"
+MITO      What a fragile ship.  (Explosion)
+VOICE     The rear-guard was caught up in it!
+
+(The barge's tow-line snaps and the barge drifts away)
+
+NAUSICAA  The barge's wire...!  Teto, hurry!
+MITO      It's no use, this one'll fall, too!  Princess!
+
+(Nausicaa climbs open to the transport's roof)
+
+NAUSICAA  <Please> stop!  Don't kill any more!!
+NAUSICAA  Stop!!  (The pilot hesitates and the gunship swerves.  It is hit and
+          goes down)
+MITO      Princess!
+
+(The transport is on fire; Nausicaa and Mito make for the gunship in the cargo
+hold)
+
+NAUSICAA  Hurry, Mito!!
+MITO      Ouch-ouch-ouch.  Princess!  It's useless!
+NAUSICAA  We might be able to fly!
+MITO      What?!
+NAUSICAA  Mito!  Hurry!!
+MITO      Y-Yes!!
+NAUSICAA  Engine, start!  We'll blast the door with the gun!!
+MITO      Yes!  (Nausicaa notices Kushana)
+NAUSICAA  Come!  Quickly!!  (Kushana hesitates, then jumps aboard the gunship)
+NAUSICAA  Quickly, get inside!  Mito, ready?!
+MITO      Somehow!
+NAUSICAA  Engine full at the same time as the blast <of the gun>!
+MITO      Roger!
+NAUSICAA  Ready!  Shoot!
+
+(The gunship successfully leaves the burning transport)
+
+NAUSICAA  Put on the masks!  We'll descend below the clouds and rescue the
+          barge!
+--------------------------------
+
+(Beneath the cloud, above the Fukai)
+
+NAUSICAA  <Still> warm...  Please don't die, Teto!
+MITO      What a world <down there>!  I've never seen such dense a vapor [ALT:
+          miasma] before!
+NAUSICAA  Rear seat!  Attention to the right-rear direction!  It's near.  It's
+          still flying!
+MITO      It's true!  It really was there!!
+UNCLE     It's the Princess!
+GOLL      Princess!
+NAUSICAA  Everyone!  Hang on!!  I'll extend the rope.
+UNCLE     The hook is broken.  Aerial retrieval is impossible!
+UNCLE     I don't want to make an emergency landing [ALT: forced landing] and
+          be eaten by the bugs!!
+UNCLE     I'll just die [ALT: I'll just kill myself] without any more ado!
+MITO      Calm down!!  Throw out the baggage!!
+UNCLE     Fare thee well!
+MITO      Do as I say!!  Throw out the baggage!!
+NAUSICAA  Rear seat! Cut the engine!!
+MITO      W-What?!
+NAUSICAA  The engine noise is distracting.  Hurry!!
+MITO      Y-Yes! (Nausicaa stands up in the cockpit and removes her mask)
+GOLL      P-Princess!  W-What...
+UNCLE     Princess, your mask!!  You'll die!  Put on your mask!!
+NAUSICAA  Everybody!  I'll save you for certain [ALT: sure]!  Believe me and
+          throw out the baggage!
+UNCLE     We'll do anything!  Please, hurry, put on your mask!
+GOLL      The Princess is smiling.
+UNCLE     We're going to be saved.
+GOLL      Hurry!  Throw out the baggage!
+MITO      The bow is falling!!
+NAUSICAA  Ignite the engine!  We'll look for a place for emergency landing!  A
+          little <of the vapor [ALT: miasma]>... got in my lungs...
+--------------------------------
+
+(The gunship and the trailer barge splash down onto a lake)
+
+UNCLE     Princess!
+NAUSICAA  Is everyone all right?
+KUSHANA   Don't move!  (She points her gun)
+MITO      You...!! ["Kisama"]
+KUSHANA   Thanks for your labor a while back.
+GOLL      Princess!  Why <did you save> such a one...?
+KUSHANA   You're too naive. ["Amai"  ET: sweet, easy, simple, trusting]  Did
+          you think I would get on my knees and thank you?
+NAUSICAA  You haven't understood anything about the Fukai.  This is not a human
+          world...  It's a place where you don't know what will happen if you
+          use a gun.  Many ships fell to the forest from the battle a little
+          while ago, and the insects are angry.  Look, above...  The royal
+          Yanma is the sentinel [ET: watch] of the forest.  It will call [ALT:
+          gather] the other insects immediately.  We must escape at once!
+          <Bring out> the spare rope!
+MEN       Y-Yes!
+NAUSICAA  Mito!  Repair the hook!
+MITO      Yes!  (Kushana shoots)
+KUSHANA   Don't move!  I'll give the orders!
+NAUSICAA  What are you frightened of?  You're like a lost fox-squirrel.
+KUSHANA   WHAT!?
+NAUSICAA  Don't be afraid...  I just want you to go back to your own country.
+KUSHANA   You <bitch>...! ["Kisama"]  (The ship bobs up and down as waves form
+          on the lake)
+UNCLES    What is it?
+NAUSICAA  They've come!  (Ohmu surface all around them)
+NAUSICAA  Quiet!!  Don't anger them!
+UNCLE     This is an Ohmu's nest!!
+GOLL      We're surrounded...
+NAUSICAA  They're investigating us...  Ohmu!  I'm sorry!  For disturbing your
+          nest...  But, please understand!  We're not your enemies.  (An Ohmu
+          extends his feelers, surrounding Nausicaa)
+UNCLE     P-Princess!
+
+(Nausicaa sees a vision of golden field and a large tree.  The Ohmu leave)
+
+NAUSICAA  ..!!  That person is alive?  Wait!  Ohmu!!
+GOLL      What's starting [ALT: happening]?!
+UNCLE     The Ohmu's eyes are bright red.
+GOLL      Princess!  What do you think you're doing with Mehve?
+NAUSICAA  When the water calms down, lift off at once and wait in the upper
+          sky!  If I'm not back in one hour, return to the valley!!
+MITO      But!
+UNCLE     Princess!  (Nausicaa flies off)
+UNCLE     She's gone...
+MITO      (To Kushana) You will give me that...  Well, everyone, let's do as
+          the Princess instructed.  Princess...
+--------------------------------
+
+(The pilot of the downed-gunship is fighting a losing-battle with swarms of
+ground insects)
+
+PILOT     S-Shit!  (The pilot drops from the cliff, pursued by Hebikera, a
+          flying insect.  Nausicaa saves the pilot from the closing jaws of the
+          insect)
+PILOT     You <are>...?
+NAUSICAA  You've killed too many <insects>!  Neither the light bombs nor the
+          insect-whistle will work anymore!
+
+(The tail of the insect strikes Mehve.  They crash-land onto a patch of sand.
+The pilot regains consciousness)
+
+ASBEL     Quicksand!  D-Damn!
+--------------------------------
+
+(In the sky above Fukai)
+
+UNCLE     It's already been 2 hours!
+UNCLE     The insects have only increased.
+UNCLES    Princess!  Princess!!
+--------------------------------
+
+(Golden field; a dream.  Young Nausicaa is gathering flowers)
+
+JHIL      Nausicaa...  Nausicaa!  Come here...  Come here...!
+NAUSICAA  Father...  Mother's here, too...  No...  I don't want to go that
+          way...
+NAUSICAA  Don't come!  There's nothing <here>.  Really there's nothing <here>!
+          (An Ohmu larva appears)
+NAUSICAA  Don't come out!
+MAN       It's an Ohmu larva .
+JHIL      So the tree was being infested, after all.  [This phrase can also be
+          interpreted as "So she was possessed <by the bug> afterall".  It is
+          my strong belief that it is the former, but it's hard to say for
+          sure] Give it here, Nausicaa.
+NAUSICAA  No.  It hasn't done anything wrong!
+JHIL      People and insects can't live in the same world, child.
+NAUSICAA  Please!  Don't kill it!!  Please ...
+
+(She wakes)
+
+NAUSICAA  Teto ...
+NAUSICAA  A mysterious [ALT: strange; "fushigi na" ] place...  (The pilot,
+          carrying Mehve, runs up to Nausicaa)
+ASBEL     Hi!  I found it at last.  How do you feel?
+NAUSICAA  Where are we?
+ASBEL     First of all, let me thank you.  I'm Asbel of Pejite. Thanks for
+          saving me.
+NAUSICAA  I'm Nausicaa of the Valley of the Wind...  Where is this place?
+ASBEL     It's not surprising that you're amazed.  We're beneath the Fukai.
+NAUSICAA  Beneath the Fukai?
+ASBEL     Look.  We fell down from up there, with the sands.
+NAUSICAA  ...!!  We don't have our masks on!
+ASBEL     Yes, that's just it.  The air here is clean.  I was surprised, too...
+          That there was a place like this under the Fukai.  What's the matter?
+          (Nausicaa starts to walk away)
+ASBEL     Nausicaa!  Don't go too far!  (She walks up to one of the fossilized
+          tree)
+NAUSICAA  What a magnificent tree...  It's still conducting water even though
+          it has died...  (Sand-fragments fall from above.  She picks one up)
+NAUSICAA  Just like the sand from the well...
+NAUSICAA  The trees that fossilized crumbled, and is falling down...
+
+(After a while, Asbel finds Nausicaa)
+
+ASBEL     You're crying?
+NAUSICAA  Yes...  I'm happy...
+--------------------------------
+
+(Later)
+
+ASBEL     Rastel was my twin sister...  I wanted to be there for her <when she
+          died>...
+NAUSICAA  I'm sorry...  <That> I was delayed in telling you.
+ASBEL     No...  I'm sorry.  I almost killed the person who observed my
+          sister's death.  [ALT: who was by my sister's death bed] ["Mitoru" -
+          To oversee death.  In Japan, as in other countries, observance of the
+          death of those you love or related to is considered important.  Here,
+          with Nausicaa observing the death of Asbel's sister in his place,
+          Asbel "owes" Nausicaa somewhat]
+NAUSICAA  No.
+ASBEL     So... That thing is in the Valley of the Wind?
+ASBEL     ...!!  Strange tasting nuts, aren't they?
+NAUSICAA  They're called Chico nuts...  They're very nutritious.
+ASBEL     Tastes aside, I want to eat a boot-full!
+--------------------------------
+
+(That night)
+
+ASBEL     The reason for the birth of Fukai?  You're a person who thinks about
+          strange things.
+NAUSICAA  The trees of the Fukai were born to clean this world that humans have
+          polluted.  They take the earth's poison into themselves, turn it into
+          clean crystals, then die and become sands.  This underground cavern
+          was created in that way.  The insects are protecting that forest.
+ASBEL     If so, it seems like we have no choice but to die out.  We won't know
+          how many thousands of years it would take - We can't keep living in
+          fear of the vapor [ALT: miasma] and the insects.  At the ver least,
+          we need a way to keep the Fukai's poison from spreading any more than
+          it has.
+NAUSICAA  You say the same thing as Kushana.
+ASBEL     No!  We aren't planning to use the God Soldier in warfare!  Tomorrow,
+          when you meet everyone, you'll understand!
+NAUSICAA  Let's go to sleep...  Tomorrow...  we'll have to fly a lot...
+--------------------------------
+
+(Back in the Valley, where the God Soldier is being revived)
+
+GUARD     Nothing unusual, sir.
+KUROTOWA  Going smoothly?
+GUARD     Yes, sir!  The upper-half has almost stabilized.
+KUROTOWA  (to the God Soldier) Really, the more I look, the more adorable a
+          monster you seem.  Even for a poor soldier like myself, the ambition
+          that has been rusted for quite some time starts to throb.  Sheesh!
+          It's laughing!  The likes of you should've slept underground 'til the
+          end of time!
+GUARD     Chief!  Her Highness' convoy was attacked by a Pejite rebel and,
+          leaving only one corvette, have all been annihilated.
+KUROTOWA  What happened to Her Highness!
+GUARD     I'm told that her ship exploded in mid-air.
+GUARDS    Chief!
+KUROTOWA  The villagers haven't caught on yet...?
+GUARD     No, sir!
+KUROTOWA  Good!  I'll go at once.  As for the rest of you, continue the
+          operation!
+GUARDS    Yes, sir!
+KUROTOWA  Is it luck that's finally come around to an unlucky commoner, or is
+          it a snare of destruction?
+--------------------------------
+
+(On a hidden-stairwell in the castle)
+
+BOY       Uncle Mito and the others have come back.
+BOY       They're waiting for you at the Acid Sea, Master Yupa.
+--------------------------------
+
+(In the hull of the ancient ship near the Acid Sea)
+
+MITO      We alone have returned <without the princess>...  [apologetic]
+          [ALT: We had the nerve to return alone]
+VOICE     No...  I'm glad no one's hurt.
+
+(In one section of the hull,)
+
+KUSHANA   <You say you're> setting me free?
+YUPA      Won't you sink the God Soldier deep into the Acid Sea and return to
+          your own country?  The <Torumekian> warriors who remain in the valley
+          are few.  It would be easy to fight now, but there's no sense i
+          increasing any more casualties.
+KUSHANA   Neither fire nor water will work on that thing... Nor can you move it
+          now, until it starts to walk...  Don't you understand?  There's no
+          turning back.  Because of the fear that a foreign country might
+          possess enormous power, I was ordered to conquer Pejite.  Now that
+          the existence of the thing is known, the neighboring countries will
+          soon be dispatching huge armies, one after the other.  There's only
+          one path left to you <all>.  Revive the God Soldier, reject the
+          intervention of the neighboring powers, and live with that thing!
+          Look!  (Kushana unfastens some gadgetry to reveal her mechanical left
+          hand)
+YUPA      By an insect...?
+KUSHANA   One who will be my husband will see yet more dreadful things.  Burn
+          the Fukai!  Kill the insects!  Why do you hesitate to take back t
+          human world?!  Take [ALT: Snatch] that thing <from us> as we took
+          [ALT: snatched] it from Pejite.
+YUPA      We will not revive the God Soldier!
+
+(A child arrives at the door)
+
+BOY       Emergency!!
+BOY       Hey, give the password!
+BOY       I'm in a hurry!
+BOY       Wind!
+BOY       VALLEY!!
+BOY       OK.
+BOY       A spore was left!
+MITO      WHAT?!
+BOY       They're giving off great vapors and it's becoming a huge commotion
+          throughout the valley!
+--------------------------------
+
+(Outside the castle, a crowd has gathered)
+
+VOICE     Hand them over!
+VOICE     Hurry, hand them over!
+VOICE     If we don't hurry, the whole valley will be annihilated!
+VOICE     That's right!  Hand over the hand-hooks and flame- throwers!!
+VOICE     It's growing rapidly!
+GUARD     The tools for burning the spores could become weapons...  Giving them
+          that <would be>...
+KUROTOWA  It can't be helped.  Return all but the guns.
+GUARD     Yes, sir!
+GUARD     The corvette is departing.
+KUROTOWA  Don't fail this time.  Gather all the remaining troops from Pejite
+          and bring them to this valley.
+GUARD     Yes, sir!
+KUROTOWA  Geez, it's becoming troublesome...
+MAN       Hurry! Hurry up!
+--------------------------------
+
+(At the Acid Sea, the gunship is about to leave)
+
+GOLL      Please find the Princess.
+YUPA      Take care of the valley.  Restrain yourselves until I return.
+GOLL      Yes <we will>.
+GOLL      We'll go to the valley.
+--------------------------------
+
+(In the fields)
+
+MAN       It's no use!  The spore has spread this far.
+MAN       It struck here, too!
+WOMAN     Out of the way!
+GUARD     What are you doing!
+WOMAN     Here, too!
+VOICE     Grandmother...
+GRNDMOTHR We can only burn them...  This forest is lost.  If we hesitate, the
+          whole valley will be swallowed up by the Fukai.
+MAN       Isn't there anything that can be done...?  This forest has protected
+          the reservoir for 300 years...
+MAN       Damn... If only they hadn't come...  (Approaching the Valley,)
+GOLL      It looks like it won't settle as it is [ALT: settle with just the
+          burning of the forests].
+          Let's go!
+--------------------------------
+
+(Near Pejite, Nausicaa and Asbel are riding tandem on Mehve)
+
+ASBEL     You think so?  It looks the same as always to me.
+NAUSICAA  No insects...  I wonder why?  My heart is pounding.
+ASBEL     It's a little further.  If we cross those mountains, my people [ALT:
+          friend.  "Nakama" encompasses the nuances of friends, allies,
+          companions, those who aspire for the same thing] are there.
+ASBEL     ...?!  It looks strange in Pejite's direction.  What's that haze?
+NAUSICAA  ...!  Asbel, put on your mask!
+ASBEL     Insects...!  <They're> dead...
+NAUSICAA  We're going to Pejite!
+ASBEL     Be careful!  Torumekian troops should be there.
+--------------------------------
+
+(Pejite is in ruins.  Nausicaa and Asbel walk through the city.  They find a
+corpse of Ohmu that has penetrated the the ruined mass that was the wall)
+
+NAUSICAA  Even an Ohmu...
+ASBEL     <I can't believe> the Center Dome was broken [ALT: eaten] through...!
+          It's the end of Pejite ...  Even if we annihilated the Torumekians,
+          this is...
+NAUSICAA  annihilated?  What do you mean, Asbel?  (They notice a plane)
+NAUSICAA  It's a brig [ALT: transport ship].
+ASBEL     It's my people's [ALT: friends'] ship!  It's coming down.  Let's go!
+
+(The brig lands)
+
+LEADER    Asbel!  You're alive!
+ASBEL     What have you done?  We can't even reconstruct like this!
+LEADER    You saw the city, I see.  Don't worry.  Even if it's swallowed by the
+          Fukai, we can burn it away almost at once.
+ASBEL     But the God Soldier isn't here.
+LEADER    I know.  It's in the Valley of the Wind.
+ASBEL     How <did you know>?
+LEADER    We weren't playing, either.  We have already put plan number 2 into
+          action.  By tonight, all of the Torumekian army in the Valley of the
+          Wind will be destroyed.
+ASBEL     What?!
+NAUSICAA  Destroyed?  What are you going to do?
+LEADER    Asbel, who is this?
+ASBEL     Nausicaa of the Valley of the Wind.  She saved my life.
+LEADER    The Valley of the Wind...
+NAUSICAA  Tell me!  What's happening?  Asbel!  You know, don't you?  Tell me!
+ASBEL     We will make the insects...attack.
+NAUSICAA  You were the one who made the insects attack Pejite?!  How can
+          you...?
+LEADER    We must take back the God Soldier before it's revived at any cost.
+MAN       It's to protect the world...  Please understand.
+NAUSICAA  So you'll kill the people of the valley in the process?!  Stop it!
+          Stop it at once!  Please!
+MAN       It's too late.
+LEADER    No one can stop them once they've started to run.  Most of us were
+          killed off by the Torumekians.  There's no other way left <for us>!
+
+(Nausicaa tries to leave on Mehve)
+
+LEADER    Hold her down!
+NAUSICAA  Release me!  Let me go!!
+LEADER    Even though it's tough right now, soon as we take back the God
+          Soldier, we can burn the Fukai and take back the human world.
+NAUSICAA  That's a lie!  You're the same as the Torumekians!!
+LEADER    No!  They would only use it for destruction!
+NAUSICAA  You drink the well-water, too, don't you?  Who do you think is
+          purifying that water?  The lakes and rivers that humans have made
+          into poisoned waters, the trees of Fukai are purifying.  You're
+          saying you'll burn down those forests?  You're at fault for
+          excavating the God Soldier!!  [ALT: It's your fault for excavating
+          the God Soldier]
+LEADER    Then, what should we do?!  Do as the Torumekians dictate?!
+NAUSICAA  No, no!!  Asbel, tell them the reason why the Fukai was born!  That
+          the insects are protecting the world...!  Asbel!  Please!!  (Asbel
+          grabs the Leader's gun)
+LEADER    What are you doing?
+ASBEL     Don't move!  Let her go.
+LEADER    Calm down, Asbel!
+ASBEL     I'm serious!  Let her go!  Nausicaa!  Let everyone (in the Valley)
+          know!  (Asbel is struck from behind and he goes down)
+NAUSICAA  Asbel!!  Release me!!
+--------------------------------
+
+(Kushana has managed to escape and is returning to the Valley on foot.  She
+sees the Valley in turmoil)
+
+KUSHANA   Those fools...!
+--------------------------------
+
+(A mob is attacking the Torumekian soldiers and heading for the castle)
+
+GOLL      We can't help what's already started.
+UNCLE     <But> we were told to restrain ourselves...
+KUROTOWA  Don't panic; go rescue the soldiers with tanks!
+GUARD     Chief!  The last one went down.
+KUROTOWA  Are they coming this way?
+GUARD     I don't know.  The villagers are gathering.
+KUROTOWA  Don't you hate it?  A forest or two, and they go blood-thirsty.  It's
+          a repetition of Pejite.  (Kurotowa notices the uncles making for the
+          castle gate)
+KUROTOWA  They've taken the tank!
+GOLL      Move it quickly!
+UNCLE     Don't hassle me.
+UNCLE     They're coming!!
+GUARD     Forward!
+GOLL      Hey, hey, hurry up.
+UNCLE     I wonder if this is it?  Ah, it moved.
+UNCLE     Which way are you going?!
+GOLL      Go forward!  Forward!!
+UNCLE     I KNOW.
+KUROTOWA  Damn!  Send out all tanks!  (Kurotowa notices Kushana striding in)
+KUROTOWA  <Wouldn't you know it,> she was alive...  It was but a brief dream...
+          (snaps to attention)  Your Highness!
+UNCLE     While we hold the enemy in check, take everyone and make refuge by
+          the Acid Sea!
+MAN       Understood!
+MAN       Hold on until the Princess returns with the gunship!
+MAN       Everybody, hurry.
+MAN       Hurry up!
+GOLL      Don't be slow.  Why don't you help too?
+UNCLE     I have a bad back ["gikkuri-goshi": a bad hip; a failed spine to hip
+          area].  They've come!  The tanks have come!
+UNCLE     Quickly!
+UNCLE     I know, already!
+--------------------------------
+
+(On board the Torumekian corvette)
+
+LIEUTENNT There's no mistake?
+GUARD     It's a Pejite brig.  I caught a glimpse of it beyond those clouds.
+LIEUTENNT Good!
+--------------------------------
+
+(On the Pejite ship)
+
+GUARD     Please be careful.  She was acting violently only a little while
+          ago...
+WOMAN     Hurry!
+WOMAN     Miss Nausicaa, we'll get you out of here.  Go and let the Valley
+          know...  There may still be time if you use your kite...  It's
+          prepared.  I heard everything from Asbel.  [ALT: Asbel told us
+          everything]
+GIRL      I'll take your place, so hurry and take this...
+NAUSICAA  You are...?
+WOMAN     I'm Rastel's mother...
+NAUSICAA  Mother...!
+MOTHER    (Asbel's) I'm so sorry...  What we did was all wrong.
+GIRL      Hurry!  (Nausicaa, wearing the other girl's dress, leaves with
+          Asbel's mother)
+NAUSICAA  That girl...?
+MOTHER    It's all right; don't worry.
+
+(In a storage section of the brig)
+
+WOMAN     Be careful.
+OLD WOMAN Please forgive <us for> the terrible treatment...
+ASBEL     Nausicaa, over here!  Hurry!
+NAUSICAA  Thank you, everyone!
+ASBEL     Sorry I was late...
+
+(In a cargo hold/hanger)
+
+ASBEL     Can you fly from here?
+NAUSICAA  I'll try.  (A corvette appears from the cloud)
+NAUSICAA  A corvette!
+LEADER    Retreat!  Hurry, into the clouds!!
+LIEUTENNT Cease fire!  Fools!  It's air disturbance and electric hell within
+          the clouds.
+GUARD     (Pejite) It's no use!  We can't steer!
+ASBEL     The ship is breaking up!
+LEADER    Everyone!  It can't be helped.  Let's get out of the clouds and
+          fight!
+
+(The brig comes out of the cloud, but the corvette is waiting)
+
+LEADER    They've anticipated us!  [ALT:  They've read our intention]
+ASBEL     Damn.  What are they <Torumekians> intending to do?!
+NAUSICAA  The clouds!  They're going to force us onto the clouds and board!
+          (The corvette lands on top of the larger Pejite ship, and boarding
+          parties enter)
+ASBEL     They're coming!  If you're going to fly, now is the only time.
+NAUSICAA  I can't do that!  I'll stay behind, too!  I can't just leave that
+          girl who took my place or your mother behind and go!
+ASBEL     Only you can save the people of the Valley!  Please, go!  Go for us!!
+
+(There is fighting in the corridors)
+
+GUARD     We'll take the ship.  Don't take prisoners.  Kill them all [?].
+--------------------------------
+
+(A man appears in the hatchway to the hold)
+
+ASBEL     Go, Nausicaa!!  GO!!  (Nausicaa is pushed out by Asbel)
+NAUSICAA  Asbel!!
+
+(The corvette leaves the Pejite ship to chase Nausicaa.  Soon, the Valley
+gunship appears)
+
+MITO      Princess!!
+NAUSICAA  Mito!  (Valley gunship shoots down the corvette)
+NAUSICAA  Mito!  Master Yupa!!
+MITO      Princess!!
+NAUSICAA  Hurry!  Everyone <will be> [in ref to people of Pejite]...!
+          Everyone <will be>!!
+MITO      I'll extend the retrieval hook now!  Master Yupa!  <Pull> the red
+          leve on the right!
+--------------------------------
+
+(Back aboard the Pejite ship)
+
+GUARD     This is the only place left.  Hurry!
+ASBEL     The door...is breaking!
+LEADER    Let them come...  We'll show them the pride of Pejite!!
+GIRL      I wonder what that is?  A bird...?
+LOOKOUT   It's a ship!  A gunship from the Valley of the Wind!
+GUARD     What!?
+
+(Yupa lands)
+
+GUARD     You <bastard>...! ["Kisama"]  (Three guards fall on Yupa, but he
+          quick them)
+LIEUTENNT It's Yupa!  Kill him and gain fame! [ALT: win fame; gain renown]
+          (Yupa leaps over the guards and corners their lieutenant)
+YUPA      Surrender!  The corvette will not be returning.
+GUARD     S-Strong... [ALT: S-Skilled]
+--------------------------------
+
+(In the gunship)
+
+MITO      Princess, this is ridiculous!  The engine will explode!
+NAUSICAA  All it has to do is last until the Valley. [ALT: I don't care as long
+          as it lasts to the Valley]  Raise it to 300!!  Dear God...!  Dear God
+          of the Wind!  Please protect everyone.
+--------------------------------
+
+(The people of the Valley are holed up in the wreck of an ancient space ship;
+the Torumekian army has them surrounded)
+
+KUROTOWA  It doesn't seem like we can move them even with a lever...
+KUSHANA   They're waiting for her return...
+KUROTOWA  Return?
+KUSHANA   They believe that that girl will return with the gunship.
+KUROTOWA  The gunship would be troublesome...  Shall we start a round now
+          <before the gunship returns>?
+KUSHANA   Do you know what that ship is?
+KUROTOWA  It was built before the Seven Days of Fire, right?  I don't know if
+          it's true or not, but it <supposedly> went as far as the stars, or
+          some such.  The guns don't work very well <against it> because it's
+          extremely hard, but, heck, if we aim at [ALT: shoot in]  the holes...
+KUSHANA   I want to wait as well.
+KUROTOWA  Huh?
+KUSHANA   If, that is, she can indeed return from the depth of the Fukai
+          alive... I would have liked to have spoken with that girl once.
+
+(She goes down to the Valley prisoners)
+
+KUSHANA   Well?  Made up your minds?  If you're going to counsel surrender <to
+          them> I'll release you.  Do you want this to be a repetition of
+          Pejite?
+UNCLE     You're a Princess, too, but you're very different from our
+          Princess...
+GOLL      Please look at this hand.  It's the same disease as Lord Jhil's.  In
+          half a year, it'll be just like a rock.  But, our Princess says she
+          likes this hand.  She told me it was the beautiful hand of a hard-
+          working person.
+KUSHANA   Even while being affected by the poisons of the Fukai, you
+          nonetheless say you will live with the Fukai?
+UNCLE     You use fire...  We use a little of that, too, but...
+GOLL      Too much fire gives birth to nothing...  Fire turns a forest to ash
+          in one day...
+UNCLE     Water and wind takes 100 years to nurture a forest.  We prefer water
+          and wind...
+UNCLE     If the Princess saw that forest, she would grieve...
+GUARD     Chief.  Any orders yet?
+KUROTOWA  Mind your business... [ALT: Stay down; stay away; go away]
+GUARD     Yes, sir!
+KUROTOWA  I don't know what happened, but, my, you've turned soft-hearted.
+          [ALT: cute(well...); manageable]
+KUSHANA   Kurotowa!  Release those people!
+KUROTOWA  Then we're going to wait?
+KUSHANA   Let the troops take their meal!  In one hour we'll begin the attack!
+KUROTOWA  A meal, eh...?  I guess I'll take my time with it...
+
+(Later)
+
+MAN       Somebody's coming!
+MAN       It's Goll and the others!
+GOLL      Hm?
+UNCLE     What's the matter...?
+GOLL      There's no wind...
+UNCLE     No wind?  You're right...  The wind has stopped...
+GRNDMOTHR Oh...
+GIRL      Grandmother, what's the matter?
+WOMAN     Grandmother?
+GRNDMOTHR Somebody...  Somebody take me outside...!
+
+(On the hull of the ancient ship)
+
+GIRL      This is the first time the wind ever stopped...
+GIRL      Grandmother, my ears hurt...
+GRNDMOTHR The atmosphere...  The atmosphere is filled with anger...
+--------------------------------
+
+(Aboard the gunship)
+
+NAUSICAA  <We're> close!
+MITO      We've cut through the Fukai!  Three minutes to the Acid Sea!
+NAUSICAA  Engine, slow!  We'll descend beneath the clouds.
+MITO      What are these lights?!
+NAUSICAA  Ohmu...!
+MITO      The Ohmu have flooded out of the Fukai!!  They're heading for the
+          Valley of the Wind!
+NAUSICAA  Why?  How did they get the Ohmu to <stampede>...?
+NAUSICAA  ..!!  Someone is calling the herd...  Mito!  Fly towards Sirius!
+MITO      Y-Yes.
+NAUSICAA  There!  Mito, a flare!  Ready...  Fire!
+
+(A small Ohmu is being carried through the air)
+
+MITO      What is that!?
+NAUSICAA  How cruel...!  They're using that child as a lure to call the herds.
+MITO      Damn!!  I'll knock them down!
+NAUSICAA  No!!  Don't shoot!  Mito, please!!
+MITO      Why!  Why can't I shoot them down?!
+NAUSICAA  If we kill the Ohmu's child, we won't be able to stop the stampede!!
+MITO      Then what can we do?!  As it stands, the Valley will be annihilated!!
+NAUSICAA  Calm down, Mito!  We'll return the Ohmu's child to the herd.  I'll
+          try it!
+MITO      Princess, what are you doing?!
+NAUSICAA  Mito, you go let everyone know!  (Nausicaa leaves on Mehve)
+MITO      Princess!!  Without even a weapon...!
+--------------------------------
+
+(Back in the Valley)
+
+GUARD     Those are not our flares!
+KUSHANA   Distance?!
+GUARD     About 20 leagues.  I speculate that it is on the other side of the
+          lake.
+KUSHANA   Do you think it's the gunship?
+KUROTOWA  Most likely...  It's a signal requesting help.  It's definitely the
+          gun ship.
+KUSHANA   One hour has passed.  Let's go.
+KUROTOWA  You won't wait?
+KUSHANA   It's a bloody path, after all.
+GUARD     Armored troops, forward!
+KUROTOWA  Your Highness, <won't you go> inside?
+KUSHANA   Here is fine.
+GUARD     The gunship!
+GUARD     Air raid!
+KUSHANA   Don't shoot!!  Stop.  Stop it!
+GOLL      Princess!!
+KUSHANA   Await orders here!  Hold your fire!!
+KUROTOWA  Your Highness!
+
+(The gunship lands)
+
+KUSHANA   What happened to that girl?!
+GOLL      Where's the Princess!?
+UNCLE     She's not riding in the back!
+MITO      It's the Ohmu!  A herd of Ohmu is coming this way!
+GOLL      What?
+MAN       Ohmu?
+MITO      The Princess stayed behind alone to stop the stampede.  There's no
+          time for fighting!  Everyone, escape to high ground!  Hurry!!
+
+(Atop the wreck, looking on)
+
+GIRL      Grandmother, I can see red lights!
+GIRL      It looks like they're multiplying rapidly...
+GIRL      They're coming this way!
+GRNDMOTHR Hang on tight to Grandma...  No one can stop them now...
+VOICES    Don't panic!!  It's still all right!  Hurry!
+OLD WOMAN Mito...  I'm going to die anyway; I'll die in the valley.
+MITO      No.  While the Princess hasn't given up, don't give up.
+
+(Kushana is addressing her troops)
+
+KUSHANA   All right?  Gain as much time as you can.  I will return shortly.
+KUROTOWA  Your Highness!  Are you considering that thing...?  It's too soon.
+KUSHANA   If we don't use it now, when do we use it?  Go!
+--------------------------------
+
+(Nausicaa is circling the Pejite 'flying jar')
+
+NAUSICAA  Don't shoot!  Hear me out!
+MAN       Damn...  That one's like a bird!
+GUNNER    That person's not an enemy.  She was crying out something.
+MAN       Anyone who hinders the plan is an enemy.  If we don't drop the lure
+          in the valley soon, it'll be us who are in danger. [ALT: we will be
+          in danger] She's coming...  Draw her in real close before you fire.
+          Now!  Shoot!!
+GUNNER    No!!  That's Rastel's <clothes>...
+MAN       Move!
+
+(Nausicaa leaps from Mehve into the flying jar.  The operation is disrupted and
+the flying jar loses altitude.  The Ohmu larva lands and pulls the vehicle
+down.  Nausicaa heads for the injured larva)
+
+NAUSICAA  Ohmu...
+NAUSICAA  Don't be angry...  Don't be frightened...  I'm not your enemy...  I'm
+          sorry...  I'm so sorry...  I can't ask you to forgive us, can I...?
+          It was too cruel, wasn't it...?  (The Ohmu larva, sensing the
+          approach of the herd, starts forward)
+NAUSICAA  You mustn't move!!  Your body fluid's going to flow!!
+MAN       Oh no! [ALT: Oh my god] We've been found! [ALT: They found us]
+GUNNER    They're coming this way!
+
+(The Ohmu larva tries to cross the lake to rejoin the herd)
+
+NAUSICAA  Don't!  If you go in with a wound like that...!  This lake water is
+          no good, I tell you!  (Nausicaa's foot enters the water and is burned
+          the acid)
+NAUSICAA  AHHH!!  (The Ohmu larva lifts her away from the lake.  It extends its
+          feelers to comfort Nausicaa)
+NAUSICAA  You...  [pause]  Kind child...  I'm all right...  Soon everyone will
+          be here to take you back...  (Ohmu herd that was heading toward the
+          larva now turns away)
+NAUSICAA  They're not coming this way!  Ohmu!  Don't!  The Valley of the Wind
+          lies that way!!  In anger they've forgotten themselves.  If I can
+          calm them, the Valley will be...!!
+
+(Rockets are being launched from the Valley)
+
+MAN       Fools!  They're gathering the Ohmu themselves!
+GUNNER    We're saved...
+MAN       Let's take off at once.  Check the engine...  [pause] S-stop!
+
+(Nausicaa has dismounted the flying jar's machine gun)
+
+MAN       We can explain!
+NAUSICAA  Carry us...  I will return that child to the herd!
+MAN       It's no use <doing a thing like that>.  The herd won't stop!
+NAUSICAA  You'll only have to drop [ALT: unload] us in front of the herd.
+          Carry us!
+GUNNER    But...  You'll die, too!
+--------------------------------
+
+(Acid Sea)
+
+GIRL      Will everyone die, Grandmother?
+GRNDMOTHR If that is our destiny...we can only obey.
+KUROTOWA  Haven't budged at all!
+GUARD     Let's retreat, sir.
+KUROTOWA  Idiot.  You talk about escaping but...where do we escape to?  (The
+          soldiers loses heart and a mass desertion is about to begin)
+KUROTOWA  Hey!  Don't run away!  Wait!  Hey!  Stand your ground until Her
+          Highness returns!  Her Highness...  (Kushana arrives) It's Her
+          Highness!!
+
+(The God Soldier appears behind Kushana)
+
+PEOPLE    It's the God Soldier!
+KUROTOWA  It's spoiled [ALT: rotting]...  It was too early.
+KUSHANA   Burn them down!!  What's the matter...?!  Are you not the descendent
+          of the most evil clan <ever to live> on earth?!
+
+(The God Soldier opens fire on the Ohmu; Tremendous explosion follows)
+
+KUROTOWA  Amazing...  No wonder the world was burned!
+GUARD     Her Highness Kushana...  Hooray!  Hooray!
+KUSHANA   Burn them down!  What's the matter, monster?   Shoot at once!
+
+(The God Soldier begins to disintegrate and collapses)
+
+GIRL      The God Soldier died...
+GRNDMOTHR It's better that way.  The anger of the Ohmu is the anger of the
+          earth.  Of what use is surviving, relying on a thing like that?
+
+(Nausicaa is carried in with the small Ohmu)
+
+GIRL      Princess !!  It's Princess!
+VILLAGERS Princess.  Princess...!
+
+(The flying jar drops Nausicaa and the Ohmu larva)
+
+MAN       A place like that...!
+MAN       That's crazy...
+WOMAN     Princess!
+
+(The stampede arrives, and Nausicaa's body is tossed into the air)
+--------------------------------
+
+(The Pejite brig, as it approaches the Valley)
+
+YUPA      The Ohmu's attack color is going out...!
+--------------------------------
+
+(Acid Sea)
+
+GRNDMOTHR The anger has disappeared from the atmosphere...
+MITO      They've stopped... .  The Ohmu have stopped.
+GIRL      Princess!!
+GIRL      Princess is dead...
+GRNDMOTHR She has quieted the Ohmu's anger with her own body [ET:  life]...
+          That child has protected the Valley...  (An Ohmu lifts Nausicaa's
+          body on its feelers; other Ohmu join in)
+MAN       Look!
+KUROTOWA  What are these lights...?
+
+(There is a great coalescence of light.  Nausicaa regains consciousness [or
+resurrected, whichever you prefer])
+
+NAUSICAA  Teto...  I'm glad...  Ohmu, thank you...  Thank you...!
+GOLL      It's a miracle...  It's a miracle!
+GRNDMOTHR What sympathy they possess...!  The Ohmu are opening their hearts...
+          Children, look well <for me> in place of my blind eyes.
+GIRL      Princess is wearing a deep blue foreign dress.
+GIRL      It's as if she's walking through a golden field...
+GRNDMOTHR "That one, wearing a robe of blue, shall descend onto a golden
+          field..."  Oh...!!
+GIRL      Grandmother?
+GRNDMOTHR The old legend was indeed true...!
+GIRL      Look!
+MAN       It's Mehve!
+MAN       The wind...!  The wind has come back!
+
+(The people run to meet Nausicaa.  Scenes of what happens afterwards follow.
+Nausicaa's mask lies near a new sapling growing in the cavern below the Fukai)
+
+THE END
+

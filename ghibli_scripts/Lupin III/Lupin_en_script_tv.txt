@@ -1,0 +1,1603 @@
+From LISTSERV@BROWNVM.BROWN.EDU Sun Jan  1 23:01:47 1995
+Return-Path: <LISTSERV@BROWNVM.BROWN.EDU>
+Received: from mx4.u.washington.edu by redms.cac.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.32 ) id AA04102;
+	Sun, 1 Jan 95 23:01:46 -0800
+Received: from mx2.cac.washington.edu by mx4.u.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.31 ) id AA11639;
+	Sun, 1 Jan 95 23:01:45 -0800
+Received: from brownvm.brown.edu by mx2.cac.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.31 ) id AA13758;
+	Sun, 1 Jan 95 23:01:34 -0800
+Message-Id: <9501020701.AA13758@mx2.cac.washington.edu>
+Received: from BROWNVM.BROWN.EDU by BROWNVM.brown.edu (IBM VM SMTP V2R2)
+   with BSMTP id 2798; Mon, 02 Jan 95 02:00:47 EST
+Received: from BROWNVM.BROWN.EDU (NJE origin LISTSERV@BROWNVM) by BROWNVM.BROWN.EDU (LMail V1.2a/1.8a) with BSMTP id 3091; Mon, 2 Jan 1995 02:00:42 -0500
+Date:         Mon, 2 Jan 1995 02:00:40 -0500
+From: BITNET list server at BROWNVM (1.8a) <LISTSERV@BROWNVM.brown.edu>
+Subject:      File: "LUPINTV SCRIPTS"
+To: "Michael S. Johnson" <michj@nausicaa.net>
+Status: O
+
+lupinTV SCRIPTS
+
+Subject:  LUPIN III: "Albatross: Wings of Death" script (Okamoto, 4/5/88)
+
+
+Lupin III  Albatross
+
+ Lupin the Third
+ (second series)
+
+ Episode #145
+ "Albatross: The Wings of Death"
+
+ Written and directed by
+ Hayao Miyazaki
+
+ Produced by
+ Tokyo-Movie Shinsha
+
+ Originally broadcast on
+ August 28, 1980
+
+ Version 1.0: Yoshiyuki Tani
+ Date Unknown
+
+ Version 2.0: Carl Horn
+ Date Unknown
+
+ Version 3.0: Jeff Okamoto
+ 04/05/88
+
+ This script is a translation of a copyrighted work, and as such,
+ it is subject to applicable international copyright laws.
+
+ *****
+ Reproduction of this material is permitted
+ for NON-PROFIT purposes only!
+ *****
+
+ Lupin, Jigen, and Goemon are preparing sukiyaki in their camper.
+
+ LUPIN
+ Smells delicious!
+ Too bad Fujiko isn't here to join us.
+ We'll start without her.
+
+ JIGEN
+ Too bad she made us come all the way here and broke her promise.
+
+ GOEMON
+ So, what else is new?
+
+ LUPIN
+ Ah, it's well done!
+ (Jigen hands him a beer)
+ Nice and cold!
+ Jigen pours some beer into the sukiyaki.
+
+ LUPIN
+ Hey, cut it out!
+
+ JIGEN
+ It improves the taste.
+
+ LUPIN
+ Not for me!
+
+ JIGEN
+ Let's have some beef. . .
+
+ LUPIN
+ Hey, that's mine!
+ They fight over some of the beef.
+ Then Goemon removes a huge slice.
+
+ LUPIN
+ (To Goemon)
+ Don't eat the beef!
+ What kind of Japanese are you?
+ (Fujiko rushes into the camper with an Uzi,
+ and jumps out the other side)
+
+ LUPIN
+ Fujiko, what's going on?
+ Machine gun fire, followed by grenades tossed into the camper.
+ The three leap out before it explodes.
+ Fujiko roars past in Lupin's Mercedes SSK.
+ Another car chases her.
+ They toss a grenade at Lupin, who kicks it aside.
+
+ LUPIN
+ What the hell is she doing?
+ She ruined our sukiyaki!
+
+ JIGEN
+ (Observes explosion down the road)
+ And our car.
+
+ LUPIN
+ Shit!
+
+ JIGEN
+ (Picks object out of sukiyaki)
+ Did you intend to eat this?
+
+ LUPIN
+ A present from Fujiko. . .?
+ In room somewhere, Fujiko is being strip-searched.
+
+ GOON
+ Shit, where'd you hide it?
+ Now I'll have to search her body!
+
+ MAN BEHIND DESK
+ Wait, I know where it is.
+ You made a lot of trouble, and I don't want any of this to go public.
+ Now the next move is Lupin's.
+ (He laughs)
+
+ Title: ``Albatross: The Wings of Death''
+ A SHIP'S CABIN
+
+ JIGEN
+ Did you find out what her little present is?
+
+ LUPIN
+ Just about. . .
+ This is finely made, for an atomic bomb. . .
+
+ JIGEN
+ What?
+ Radiation and garlic don't mix for me!
+
+ LUPIN
+ Don't worry. . .
+ this is just its detonator.
+ But its size, that's what scares me. . .
+ It's very hard to make A-bombs that small.
+
+ LUPIN
+ Armed with this device, even you, Jigen, could make a miniature A-bomb.
+
+ GOEMON
+ Black-market made.
+
+ LUPIN
+ Yeah, that's an important point.
+
+ JIGEN
+ Are there any laws about A-Bombs in the first place?
+
+ LUPIN
+ Somebody wanted to sell this on the black market. . .
+ then, Fujiko must have intercepted it.
+
+ JIGEN
+ A miniature A-bomb. . .
+ there are all kinds of terrorists who would want one.
+ Forget hijacking a plane. . .
+ you could hijack a city!
+
+ GOEMON
+ Horrible to think about.
+
+ LUPIN
+ Jigen, is there any facility around here that no one would suspect,
+ even if they're actually assembling atom bombs?
+
+ JIGEN
+ Well, around here, it's mostly quiet vacation spots. . .
+ the airport, this museum. . .
+ that's about it.
+
+ LUPIN
+ Air Museum. . .
+ The Lonebach Air Museum, eh?
+ A plane arrives at the Lonebach Air Museum.
+ Detective Zenigata of Interpol steps out.
+
+ ZENIGATA
+ Dr. Lonebach?
+ I'm Detective Zenigata.
+
+ LONEBACH
+ I've been expecting you. . .
+ I understand Lupin has targeted our museum?
+
+ ZENIGATA
+ I'm certain of it.
+ Knowing Lupin, he might have already struck.
+
+ LONEBACH
+ But, all we have here is our classic plane collection.
+ What would he want with it?
+
+ ZENIGATA
+ Finding that out is my business.
+ (He looks inside the hangar window)
+ What a huge flying boat!
+
+ LONEBACH
+ This is the Albatross, built 50 years ago.
+ This way. . .
+
+ ZENIGATA
+ This is just its front nose!
+ Inside the Albatross
+
+ ZENIGATA
+ It looks so beautiful. . .
+ Hard to believe this was built 50 years ago.
+
+ LONEBACH
+ We have almost completed its reconstruction.
+ Our museum's policy is to restore all of our classic planes
+ back to operating condition.
+
+ ZENIGATA
+ So it can fly. . .
+ It must be able to carry a huge payload. . .
+ such as an atomic bomb.
+
+ LONEBACH
+ An atom bomb. . .
+ (He laughs)
+ Let's stop this game.
+ How much do you know, Mr.Lupin?
+
+ LUPIN
+ (With Zenigata's voice)
+ We have clear evidence. . .
+ (Now in his own)
+ Surrender now!
+ Two men burst in with guns.
+
+ LONEBACH
+ It's all right, Schmidt.
+ Let's continue our conversation. . .
+
+ LUPIN
+ (Brings out detonator)
+ I'll bet you're really interested in this.
+
+ LONEBACH
+ Ah, you returned it for me!
+ LUPIN
+ This one's fake.
+ The real one is hidden somewhere. . .
+
+ LONEBACH
+ I understand. . .
+ well, take a look at what I've got.
+ Lonebach reveals a chained Fujiko
+
+ LUPIN
+ Wow, Fujiko!
+ Only a few more bits of clothing to go!
+ (To Lonebach)
+ What a great hobby you've got. . .
+ (Fujiko throws an ashtray in his face)
+
+ LONEBACH
+ Will you trade for this lady?
+ (The ashtray falls from Lupin's face)
+ So, it's a deal?
+
+ LUPIN
+ Fujiko's hardly a bargain trade!
+
+ LONEBACH
+ Ah, but you really love her.
+
+ LUPIN
+ No, I'm irritated by her chasing me all the time!
+
+ LONEBACH
+ Then, we'll meet on the lake tomorrow morning.
+ Sound of police sirens from below
+
+ LUPIN
+ Zenigata!
+
+ LONEBACH
+ Oh, excuse me.
+ I forgot to tell you I called the real one.
+
+ LUPIN
+ What?
+ The chair tips backwards, spilling Lupin onto the tarmac.
+
+ ZENIGATA
+ Lupin!
+
+ LUPIN
+ Fire it up, Jigen!
+
+ JIGEN
+ Hurry!
+
+ ZENIGATA
+ Shit !
+ Lonebach laughs.
+ In a room on the Albatross, Fujiko is trying to pick her shackles
+
+ LONEBACH
+ You're not going to have any luck with that. . .
+ I have good news, Fujiko.
+ As soon as we get the detonator back,
+ we're going to have our maiden flight!
+
+ FUJIKO
+ So, you're going to sell atom bombs?
+
+ LONEBACH
+ That's right. . .
+ Look at all my dear children.
+ Only $300,000 per bomb, $50,000 for each detonator.
+ As long as we have the Albatross,
+ we can manufacture as many as our buyers want.
+ Wherever our buyers are, we can fly to them. . .
+ what fantastic service!
+
+ FUJIKO
+ What are you going to do with me?
+
+ LONEBACH
+ Once I'm rich, I'll buy you a bridal gown and make you my first wife.
+ Well, duty calls. . .
+ so excuse me.
+ Next morning, on the lake
+
+ JIGEN
+ I don't like this.
+ It must be a trap.
+
+ LUPIN
+ What else can I do?
+ Can I leave Fujiko naked?
+
+ JIGEN
+ And. . .
+ Goemon won't help us while she is.
+ The two boats approach each other
+
+ LUPIN
+ I brought the detonator.
+
+ LONEBACH
+ The real one?
+
+ LUPIN
+ A thief never lies.
+ Where's Fujiko?
+
+ LONEBACH
+ In the cabin.
+
+ LUPIN
+ Fujiko, I've got some clothes for you!
+ OK, move us closer.
+
+ LONEBACH
+ Drop it in the net on the count of three, please.
+
+ LUPIN
+ Fujiko, jump over on the count of three.
+ Let's go.
+
+ LONEBACH
+ One. . .
+
+ LUPIN
+ Two. . .
+
+ ZENIGATA
+ Three!
+
+ LUPIN
+ What?
+ A horde of cops leap out and pile onto Lupin and Jigen
+
+ LUPIN
+ We're gonna sink!
+
+ ZENIGATA
+ (laughs)
+ (To Lonebach)
+ Thank you for your cooperation.
+
+ LONEBACH
+ Let me thank you, too.
+
+ LUPIN
+ What's this, Zenigata?
+ The public servant helps the criminal!
+ That man is holding an atomic detonator!
+
+ ZENIGATA
+ What ?
+
+ LONEBACH
+ Despite its special shape, this is indeed a spark plug,
+ for the Albatross's engine. . .
+ the only such one in the world.
+
+ ZENIGATA
+ (to Lupin)
+ Don't make up such clumsy lies!
+ Everyone knows atom bombs are huge, like this.
+
+ LUPIN
+ You've got your grandfather's notions of technology!
+ Can't you see he's holding Fujiko hostage?
+
+ ZENIGATA
+ You sink even lower, Lupin.
+ I got her overseas call in Japan.
+ She was crying and wanted to leave you.
+
+ LUPIN
+ The man talks so smooth, that I can almost believe it...
+
+ ZENIGATA
+ Good-bye, Doctor.
+ Best of luck for your maiden flight.
+
+ LONEBACH
+ Thank you.
+ Mr. Lupin, take good care of yourself.
+ The cops throw Lupin and Jigen into Zenigata's paddy wagon.
+
+ LUPIN
+ ``This side up'', you idiot!
+
+ ZENIGATA
+ I'm already tired from chasing you around, so let's finish up now.
+ Strip them!
+
+ LUPIN
+ Cossacks!
+
+ ZENIGATA
+ Their stuff's hidden well so take everything.
+ (The cops hand him Lupin's shorts and Jigen's hat)
+ My samurai's mercy.
+ Give them back.
+ (He bends down to grab Lupin's foot)
+ I'll finish up myself.
+
+ LUPIN
+ Old Man, is that big plane really going up?
+
+ ZENIGATA
+ (emptying Lupin's false foot)
+ Its challenge is to fly across the Mediterranean Sea.
+
+ LUPIN
+ A-ha, he said that plug was for the Albatross's. . .
+ (Zenigata grabs Lupin's hair)
+ Let go!
+
+ ZENIGATA
+ Ah, here we are.
+ (The hair comes off and starts to smoke)
+
+ LUPIN
+ You shouldn't have done that!
+ The false hair explodes.
+ Lupin and Jigen race out.
+
+ ZENIGATA
+ Stop them!
+
+ LUPIN
+ Goemon, take care of them!
+
+ ZENIGATA
+ Halt!
+ Zenigata and the cops fall into the water
+
+ GOEMON
+ (to Lupin)
+ Go.
+
+ LUPIN
+ We can't let that monster fly!
+ The Albatross comes out of its hangar and starts to take off.
+
+ LUPIN
+ There it is!
+ Get as close as you can!
+ (He tries to leap onto the plane)
+ Damn you, don't take off!
+ Shit, let's head back to the museum!
+
+ JIGEN
+ OK.
+ They crash into the Air Museum
+
+ LUPIN
+ Find one that will fly!
+ (Jigen falls through one plane.
+ Lupin finds another)
+ Jigen, I've got it!
+ Start it up.
+ (Sounds of police sirens)
+
+ ZENIGATA
+ Lupin!
+
+ LUPIN
+ He never gives up!
+
+ ZENIGATA
+ (leaps onto plane)
+ You're not getting away!
+ (Lupin takes off)
+ I've got you now!
+
+ LUPIN
+ So hold on tight!
+ (He banks upwards)
+ On board the Albatross
+
+ LONEBACH
+ What do you think of my plane and hospitality?
+ The old style's more fun.
+
+ FUJIKO
+ I agree, but I'd enjoy it even more without this.
+
+ LONEBACH
+ No, keep it on.
+ It really agrees with you.
+ Cheers!
+
+ FUJIKO
+ Lupin will never give up.
+
+ LONEBACH
+ Well then, it looks like this time I've got no choice but to kill him.
+ (A bell pings on the intercom)
+ Well, he's here already.
+
+ VOICE
+ Doctor, come to the cockpit, please.
+
+ LONEBACH
+ Excuse me.
+
+ FUJIKO
+ (looking out window)
+ Lupin. . .
+ In the Albatross's cockpit
+
+ SCHMIDT
+ It's Lupin!
+
+ LONEBACH
+ I know!
+ Take care of him immediately!
+ On Lupin's plane
+
+ ZENIGATA
+ What?
+ A private plane with those weapons. . .
+
+ LUPIN
+ See, I told you.
+ Now they've shown their true colors.
+ The Albatross crew launch a missile at Lupin.
+ He takes evasive action.
+
+ LUPIN
+ Shit, it's a flying fortress!
+ Jigen starts to fire on the missiles with a Colt .45.
+
+ ZENIGATA
+ Hey, that's mine!
+ When did you take it?
+
+ JIGEN
+ Another clip.
+
+ ZENIGATA
+ I don't have any more!
+
+ LONEBACH
+ Don't let them get close!
+ Fire!
+ Lupin moves in close to wave to Fujiko, and subsequently gets winged
+
+ FUJIKO
+ Lupin!
+
+ SCHMIDT
+ We did it!
+
+ LONEBACH
+ It's just leaking fuel.
+ Give them the coup de grace.
+
+ SCHMIDT
+ Yes, sir.
+ A goon comes into Fujiko's chamber
+
+ GOON
+ Doctor's orders: Get back to your room.
+
+ FUJIKO
+ No, I won't.
+
+ GOON
+ What?
+ Stand up!
+
+ FUJIKO
+ Can you carry me?
+
+ GOON
+ You bitch!
+ Fujiko knocks him out, frees herself,
+ and goes on a rampage through the ship.
+ Then she takes off her skirt to signal to Lupin.
+
+ LUPIN
+ Hey, that's Fujiko!
+ She flagged the gunner!
+
+ LONEBACH
+ Lupin's getting close!
+ (His crew flee from Fujiko)
+ What are they doing back thee?
+ Schmidt, where are you going?
+ Fujiko rains a hail of bullets on them.
+
+ LONEBACH
+ Fujiko, I'm sorry!
+
+ SCHMIDT
+ If we don't do something, she'll destroy the plane!
+
+ LONEBACH
+ I know!
+ So she can't be my first wife.
+ Come on!
+ (They depart)
+
+ LUPIN
+ (lowering the plane to Fujiko)
+ Fujiko, grab on!
+ Schmidt stops her with a burst of gunfire.
+
+ LONEBACH
+ Fire!
+ Don't let them any closer!
+
+ SCHMIDT
+ Yes, Doctor. . .
+ (Lonebach picks up a grenade)
+ Doctor, what are you doing?
+
+ LONEBACH
+ I'm going to punish her.
+
+ SCHMIDT
+ You're not serious!
+
+ LONEBACH
+ This has a reduced charge - it'll just smoke her out.
+ No harm to the plane.
+ (Fujiko throws the grenade back. . .
+ Boom.
+
+ SCHMIDT
+ True German workmanship!
+
+ LONEBACH
+ It works so well. . .
+ Oh no, my third engine. . .
+ (The middle engine flies off)
+ Woman, you. . .
+ take this!
+ This will destroy a tank!
+ Fujiko fires and scatters his grenade.
+ The explosions strip away the skin of the left wing.
+
+ LONEBACH
+ My plant!
+
+ LUPIN
+ Look at the inside of that wing.
+
+ JIGEN
+ It's filled with sophisticated machinery. . .
+
+ ZENIGATA
+ Lupin, what is it?
+
+ LUPIN
+ An automatic A-bomb factory.
+
+ ZENIGATA
+ What are you going to do?
+
+ LUPIN
+ Finish them off.
+ We're almost out of fuel.
+ (He dive-bombs the Albatross,
+ shearing off their second and fourth engines, then swoops up.)
+ Ha!
+ (His wings fall off)
+ Oh, my God!
+ (Lupin's plane drops into the Albatross.
+ Inside, the crew struggles with the plane)
+
+ PILOT
+ We're out of control!
+
+ SCHMIDT
+ What shall we do!
+
+ LONEBACH
+ I don't care!
+ Go if you want!
+ (The crew bails out)
+
+ SCHMIDT
+ Good idea!
+ Inside the Albatross,
+ everyone is jumbled in the wreckage of Lupin's plane.
+
+ LUPIN
+ Fujiko, Fujiko. . .
+
+ FUJIKO
+ Lupin. . .?
+ This is no time to act romantic!
+ Lupin and the others examine the plane.
+
+ ZENIGATA
+ Nobody's here.
+
+ JIGEN
+ (looking out)
+ The situation's bad!
+ We're dropping quickly.
+
+ LUPIN
+ Leave it to me.
+ In this plane, we can land anywhere on the water.
+
+ ZENIGATA
+ Lupin, look below!
+
+ FUJIKO
+ There isn't any water under us!
+
+ LUPIN
+ It sure looks that way.
+
+ ZENIGATA
+ Lupin, I'll wait to arrest you.
+ Try a crash-landing.
+
+ FUJIKO
+ Did you forget we're carrying an atomic cargo?
+ What if the bombs go off from the shock?
+ We're going to crash!
+ (A mountain looms ahead)
+
+ LUPIN
+ No, we won't!
+ Throw everything out!
+ Hurry!
+ (They scurry to dump everything out the door.
+ Alpine climbers are almost crushed by falling appliances.)
+
+ FUJIKO
+ (carrying a kitchen sink)
+ There's nothing else we can throw out!
+ (Zenigata and Jigen peel back the wall,
+ to reveal Lonebach grabbing A-bombs.)
+
+ ZENIGATA
+ Doctor!
+
+ JIGEN
+ You're still here?
+
+ LONEBACH
+ Any closer, and I'll explode this.
+
+ FUJIKO
+ That's the bomb!
+
+ LONEBACH
+ Calm down, or I might just have to detonate this.
+ These are my children, and I'm not letting you have them.
+ Excuse me. . .
+ (He runs for the door)
+
+ ZENIGATA
+ (Grabbing onto him)
+ No, you don't!
+ (They fall to Earth together)
+
+ JIGEN
+ Zenigata!
+
+ ZENIGATA
+ You can't fool me!
+ There's no such thing as a miniature A-bomb!
+
+ LONEBACH
+ I tell you, it's real!
+
+ ZENIGATA
+ Prove it!
+ Blow us up!
+
+ LONEBACH
+ I won't go that far!
+ In the cockpit of the Albatross
+
+ LUPIN
+ We did it.
+ We've reached the water.
+
+ JIGEN
+ We're OK now.
+
+ FUJIKO
+ (Throws arms around him)
+ Lupin!
+ He picks a piece of paper out of her hair, holding it away from her.
+
+ FUJIKO
+ Give it back!
+
+ LUPIN
+ What a dangerous little piece of paper!
+ This is the blueprint for the atomic detonator.
+ Jigen, dispose of this carefully.
+
+ JIGEN
+ My pleasure.
+ (Lupin kisses Fujiko on the cheek)
+
+ FUJIKO
+ Huh!
+
+ -FIN-
+========================================================================
+Subject:  LUPIN III: "Farewell, Lovely Lupin" script (Okamoto, 5/4/88)
+
+
+Lupin III  Farewell
+
+ Lupin the Third
+ (second series)
+
+ Episode #155
+ "Farewell, Lovely Lupin"
+
+ Version 1.0: Sue Shambaugh
+ Date Unknown
+
+ Version 2.0: Jeff Okamoto
+ 05/04/88
+
+
+ This script is a translation of a copyrighted work, and as such,
+ it is subject to applicable international copyright laws.
+
+ *****
+ Reproduction of this material is permitted
+ for NON-PROFIT purposes only!
+ *****
+
+ Superimposed: 1981 Tokyo
+
+ MAN
+ It's coming this way!!
+
+ MAN
+ Call the police, hurry!
+ Wah!!
+
+ MAN
+ What are the police doing!
+ Please hurry!!
+ Wah!
+ It's here!!
+
+ POLICE
+ Stop!
+ Stop!
+ Stop or we'll shoot!!
+
+ POLICE
+ It's Lupin!
+ Title: Farewell, Lovely Lupin
+
+ TV
+ It has been discovered that the Secretary of Defense has been
+ secretly promoting the development of new weapons - the "Lupin Robot"
+ that attacked the jewelry store!
+
+ TV LUPIN
+ An army of robot soldiers - monsters to destroy the human race.
+ I want you to understand something - I will use them.
+ I repeat - using the monsters, until you wash your hands of them...
+
+ TV LUPIN
+ I will continue my challenge!
+
+ LUPIN
+ Very well done.
+ (Claps)
+
+ TV
+ It's a message from Lupin.
+
+ LUPIN
+ Yes, thanks for your trouble.
+
+ MAKI
+ This is all of it.
+
+ JIGEN
+ Can we all have some?
+
+ MAKI
+ Help yourself...
+ I don't need it.
+
+ JIGEN
+ Excuse me...
+
+ LUPIN
+ Idiot!
+ Don't be greedy.
+ Have you forgotten our purpose?
+
+ GOEMON
+ We stand for peace.
+
+ LUPIN
+ That's right!
+ Our purpose is to inform the public of the inhumanity
+ of the robot soldiers.
+ >From now on, it's the real thing.
+ We'll help you,
+ Maki.
+
+ MAKI
+ Thank you.
+ I'm completely finished.
+
+ MAKI
+ I intend to atone for the crimes.
+ Come with me, Lambda.
+
+ VOICE
+ To meet the challenge of the Lupin Gang,
+ a state of emergency has been declared.
+
+ VOICE
+ Citizens, please restrain yourselves from going outside.
+ Please refrain from going outside.
+
+ ZENIGATA
+ Inspector!
+ Lupin doesn't do stupid things like this!
+ It's an imposter!
+ I've decided it's a fake Lupin.
+
+ INSPECTOR
+ Fake or real, or whatever, the point is, CATCH him.
+
+ INSPECTOR
+ I suppose you don't know he came from another country.
+ In order to maintain secrecy, by hook or by crook,
+ the highest orders have been given to destroy it.
+ Three days ago, a National Defense trailer was
+ attacked by Lupin.
+
+ INSPECTOR
+ The armored robot soldier Lambda was stolen.
+
+ INSPECTOR
+ It was probably developed secretly by Nagata Industries on commission
+ for the National Defense Force.
+
+ ZENIGATA
+ It's just like a Superman, isn't it.
+
+ INSPECTOR
+ At any rate, to change the condition of the tank is a secret weapon.
+ Our equipment is beyond help.
+
+ ZENIGATA
+ And this is...?!
+
+ INSPECTOR
+ The creator of the robot, Oyamada Hakase.
+ However, Hakase was probably opposed to their use in combat.
+ But he died last year...
+
+ ZENIGATA
+ What a cute girl.
+
+ ZENIGATA
+ No...
+ a young woman?
+
+ INSPECTOR
+ Hakase's only daughter; her name is Maki.
+ She was a talented assistant, but now her whereabouts are unknown...
+ Hey!
+
+ ZENIGATA
+ Hm?!
+
+ ZENIGATA
+ Ah...
+ Inspector, I will put this matter to rights unexpectedly fast.
+ No, I will show you I can settle it. Well, then...
+
+ INSPECTOR
+ Then please look for Lupin's hideout.
+ At any rate, try to arrest him.
+
+ ZENIGATA
+ I'll do that.
+
+ POLICE
+ All right.
+ You can pass through.
+
+ DRIVER
+ At the next curve.
+
+ JIGEN
+ OK!
+ Go!
+ Sheesh, someone's in the way.
+
+ DRIVER
+ Go!!
+
+ DRIVER
+ Get a job! (??)
+
+ VOICE
+ Next stop, Nagano...
+ Wh - What?
+ What is that!
+
+ ZENIGATA
+ Hm?!
+
+ VOICES
+ What is that?!
+
+ ZENIGATA
+ Excuse me a moment.
+
+ ZENIGATA
+ Ah!
+
+ SOLDIER
+ Charge!
+ Get out of the way, get out of the way!
+
+ DRIVER
+ Idiot?
+ Do you think you can get this out of the way?!
+ Wah!!
+
+ ZENIGATA
+ It's becoming absurd!
+
+ SOLDIER
+ Get down, civilian!
+
+ ZENIGATA
+ Shut up!
+ We're on the same side!
+ Aren't you mistaking this for the slopes of Mt. Fuji?!
+
+ SOLDIER
+ Direction, 3 o'clock.
+ Target detected!
+
+ SOLDIER
+ HE-bomb, auto-shot!
+
+ ZENIGATA
+ Hey, are you going to shoot in a place like this?!
+ Stop!
+ Fool!
+
+ SOLDIER
+ Fire!!
+
+ SOLDIER
+ Forward!
+ Direction, 1 o'clock.
+
+ ZENIGATA
+ You idiot.
+
+ SOLDIER
+ Oof...
+
+ ZENIGATA
+ Don't go anywhere!
+ Ah!
+
+ ZENIGATA
+ Ah!
+
+ SOLDIER
+ You're in the way!
+
+ ZENIGATA
+ Stop it!
+
+ ZENIGATA
+ Don't you understand?
+ He's just running around trying to escape!
+
+ VOICE
+ The robot has lost its fighting spirit, and is fleeing.
+ Quitting the alleys,
+ it is heading towards the direction of Koen Temple.
+
+ VOICE
+ What are you doing!
+ Finish off the helicopters with the laser.
+
+ MAKI
+ It's no use!
+ I can't do it...
+
+ VOICE
+ You have to be prepared for some victims.
+ Now, what...
+
+ MAKI
+ It's murder!
+ No matter what method you use...
+
+ MAKI
+ I...
+ can't...
+
+ VOICE
+ Sheesh!
+ At any rate, make an emergency retreat.
+
+ JIGEN
+ Shamelessly snooping around.
+
+ GOEMON
+ A small opportunity, isn't it.
+
+ LUPIN
+ Yes, that's good.
+ No.
+ I just thought it was a little gaudily done.
+ Ha, ha, ha!
+ Yes. I'll clean up the kitchen, Papa...
+
+ MAKI
+ Sorry.
+ I've brought you some coffee.
+
+ ZENIGATA
+ You're Oyamada Maki, aren't you.
+ What, no sugar in it...?
+
+ ZENIGATA
+ You drove the robot?
+
+ MAKI
+ Yes...
+ Please bear with this a little longer...
+
+ ZENIGATA
+ How many people are dead...?
+ How many people died because of your daytime revelries.
+
+ ZENIGATA
+ How many people have you killed!
+
+ MAKI
+ Stop it!
+ I didn't shoot...
+
+ ZENIGATA
+ Don't give me that - you must have known there were tanks poking around!
+
+ ZENIGATA
+ I suppose you thought you were helping the passers-by!
+
+ MAKI
+ That's right!
+ But...
+ I didn't think it would be like that...
+
+ MAKI
+ But...
+ There was no other way...
+
+ MAKI
+ My father was the only person in charge of the robots.
+ Being hard up for money,
+ he jumped at the offer of help from Nagata Industries.
+ By the time he discovered their true motives,
+ it was too late...
+
+ MAKI
+ Now, the manned robot Lambda, under development,
+ has always been a frightful assassination weapon.
+ Somehow, I had to put an end to it...
+
+ MAKI
+ I have let everyone know of the frightful nature of the robots.
+
+ ZENIGATA
+ Wasn't there another method?
+
+ MAKI
+ It's done...
+
+ ZENIGATA
+ The wall of military secrecy?
+
+ MAKI
+ Father closed the laboratory;
+ he died stealing the patents and the research data...
+
+ LUPIN
+ Well, it's my turn.
+
+ LUPIN
+ Impressed by Maki's kindness, aren't you?
+ She's told you she helped us.
+
+ ZENIGATA
+ Ha, ha, ha!
+ Idiot - Lupin, with such a stupid look...!
+
+ LUPIN
+ I suppose I'm a fake?!
+
+ ZENIGATA
+ If you're the real one, you should have a blue birthmark on your butt.
+ Show it to me...
+
+ LUPIN
+ Wh - What...?
+ There is.
+ Of course there is.
+
+ ZENIGATA
+ Oh?
+ Is there?
+ Idiot.
+ There's no birthmark on Lupin's butt!
+
+ ``LUPIN''
+ You - You told her, didn't you...
+
+ MAKI
+ Who are you!?
+
+ ``LUPIN''
+ Ooh...
+
+ ZENIGATA
+ Probably a spy from Nagata Industries.
+ The robot soldiers are money-eating bugs.
+ They must have spent a considerable sum of money on development.
+ There were no orders for them to be adopted
+ for profit as real weapons...
+ They didn't want to sell them to foreign countries,
+ and they couldn't advertise it because it was a military secret...
+
+ MAKI
+ So...
+ What I did...
+
+ ZENIGATA
+ ...Is advertising for the robots.
+
+ MAKI
+ Ah...
+
+ ``LUPIN''
+ Wah, ha, ha...
+ Maki...
+
+ ``LUPIN''
+ The most frightful thing in the whole frightful world
+ will be in great demand.
+ Thanks for your help.
+ A little while ago, the National Defense Council decided
+ to place a large order.
+ Now, now...
+
+ MAKI
+ Ah...
+
+ ``LUPIN''
+ We have to get Maki to do one more job for us...
+
+ ``JIGEN''
+ Don't struggle.
+
+ ``LUPIN''
+ Come with me.
+ We're going at once.
+
+ MAKI
+ I'm sorry, Inspector.
+ I...
+
+ ZENIGATA
+ Hey, let me say goodbye.
+
+ ``LUPIN''
+ How about if I let you listen...
+
+ ZENIGATA
+ Maki - I take back what I said a little while ago.
+ You're no murderer.
+
+ MAKI
+ Inspector...
+
+ ``JIGEN''
+ Come on!
+
+ ``LUPIN''
+ Well, then...
+ The Lupin Gang's hideout will explode, while they escape.
+ Ciao!
+
+ ``LUPIN''
+ At the same time as the explosion, this fellow, if he flies,
+ will be spotted by a helicopter.
+
+ ``JIGEN''
+ We'll cremate you with a missile.
+
+ ``LUPIN''
+ Farewell, Maki.
+
+ ``JIGEN''
+ Couldn't you see anything?!
+
+ ``LUPIN''
+ Hurry up!
+ The helicopters are coming.
+
+ MAKI
+ Inspector...
+
+ MAKI
+ You...!
+
+ LUPIN
+ About now, the real old boy has arrived at Narita.
+ Oh dear...
+ Not going to leave us in peace?
+
+ LUPIN
+ Can you manage?
+
+ MAKI
+ Yes.
+
+ LUPIN
+ Well, shall we go to dispose of the rest?
+
+ MAKI
+ Yes!
+
+ ``LUPIN''
+ Why is there so little here, Papa?
+
+ NAGATA
+ Is it not luxurious?
+ Until the excitement wears off, go play in South America.
+
+ ``LUPIN''
+ All right!
+ And, the next job?
+
+ NAGATA
+ Tne Middle East...
+ Africa will be a good market.
+
+ ``LUPIN''
+ This time, we'll change to guerilla warfare?
+
+ NAGATA
+ Ha, ha, ha... That's funny.
+
+ LUPIN NEWS
+ Lupin's robot, as before, is whereabout unknown.
+ We'll continue the search as before.
+
+ NAGATA
+ Taking a desperately long time, isn't it.
+
+ LUPIN NEWS
+ We have discovered Lupin's address.
+ It is a subway station!
+ He is skilfully running away in the city streets and subway tunnels.
+
+ LUPIN NEWS
+ He's come out from underground!
+ The Kawagoefu station of the North-South subway line!
+
+ NAGATA
+ That's near here!
+
+ ``LUPIN''
+ Call the police!
+ I think they're coming here.
+
+ ``JIGEN''
+ Hello, #110...
+ Hey!
+ We didn't take off our disguises!
+
+ NAGATA
+ Hide before the police get here!
+
+ ``LUPIN''
+ Wait, Papa!
+
+ ``GOEMON''
+ It's spilling...
+
+ ``JIGEN''
+ Don't drop any!
+
+ NAGATA
+ Ah!!
+
+ ``LUPIN''
+ The - the real one...
+
+ NAGATA
+ Lupin!
+
+ LUPIN
+ Shall we drop the fancy dress parade, Mr. Wire-puller?
+
+ NAGATA
+ Grr...
+
+ ``JIGEN''
+ Ah!
+
+ JIGEN
+ The shame is real.
+
+ ``LUPIN''
+ Shit...
+ Unawares...
+
+ ``GOEMON''
+ Ah...
+ He's here!
+
+ ``LUPIN''
+ Y - You...!
+
+ FUJIKO
+ Hello, everybody.
+
+ FUJIKO
+ Look this way.
+
+ LUPIN
+ How is it, Fujiko?
+
+ FUJIKO
+ Fine.
+ It's perfect as evidence.
+ Although it's no work of art...
+
+ ``LUPIN''
+ Shit...
+
+ NAGATA
+ Ah...
+
+ NAGATA
+ I'll show you the power of the real robot army.
+
+ LUPIN
+ Well... If you insist.
+
+ NAGATA
+ Sigma!
+ Kill the invaders.
+ What's wrong?!
+ Sigma, the invaders are over there!
+ Hey!
+ What's the matter with you.
+
+ NAGATA
+ Wah!!
+ Ah - wah - wah...
+
+ NAGATA
+ Help! Ahh!
+
+ NAGATA
+ (Panting)
+ Hah, hah...
+ Ma - Maki...
+
+ MAKI
+ You know what this is, don't you?
+
+ NAGATA
+ Sigma's control box...!
+
+ MAKI
+ A little while ago,
+ I ordered the released Sigmas to blow up the laboratory
+ and blow themselves up.
+ (Breaks box)
+
+ MAKI
+ Now nobody can stop Sigma.
+
+ NAGATA
+ Ahh...
+
+ POLICEMAN
+ It's dangerous to approach beyond here.
+
+ ZENIGATA
+ Yes.
+ HM?!
+
+ ZENIGATA
+ Don't shoot!
+
+ ZENIGATA
+ Oyamada Maki?
+
+ MAKI
+ Yes.
+ This will tell you everything.
+
+ ZENIGATA
+ Hm...
+ It's a video correspondence from Fujiko, isn't it?
+ Sign on Thieves: Fakes
+
+ ZENIGATA
+ Only a fool would assume the name of Lupin.
+ And the thieves?
+
+ MAKI
+ They have already departed.
+
+ MAKI
+ Thank you, Lupin...
+ Superimposed: The End
+

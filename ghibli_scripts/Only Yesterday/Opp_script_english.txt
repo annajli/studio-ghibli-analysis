@@ -1,0 +1,4666 @@
+Omohide Poro Poro (1991)
+(Memories with Teardrops):
+"Only Yesterday"
+
+Translated by "The Poro x2 Project":
+
+Poro part 1 translated by Hana Kawashima and Brad Lucido.
+Poro part 2 translated by Yohei Honda and Bryan Wilkinson.
+
+Revisions, first draft editing, and annotations by Bryan
+Wilkinson.
+
+Yohei Honda was consultant for some revisions and
+annotations, providing much additional translation from the
+books named in the bibliography on request.
+
+Second draft editing by Enrique Conty, Deborah Goldsmith, and
+Bryan Wilkinson.
+
+Translation of "Ai wa Hana, Kimi wa Sono Tane" (Love is a
+flower, you are the seed) (The Rose) by Theresa Martin.
+
+Translation of "Koke Kokko no Uta"  (Cock-a-doodle Song) by
+Lee Collins and Deborah Goldsmith.
+
+This script is public domain and may be used in fan-made
+subtitlings provided that the above translation credits
+are given and the subtitle is not made for profit (we also
+wouldn't mind being sent a copy... :).  Parties interested in
+using this script should contact the translators at the
+following address:
+
+Poro x2 Project
+c/o Bryan Wilkinson
+17408 NE 45th St., #176
+Redmond, WA 98052
+USA
+
+or send email to the Miyazaki Discussion Group at:
+nausicaa@brownvm.brown.edu
+
+------------------------------------------------------------
+
+Due to the strong cultural elements in this film, this
+translation will be presented using Japanese names of some
+things that are representative of Japanese culture, and use
+the Japanese system of honorifics, explained below in brief.
+Some subtitlers may wish to present a more "Western" version,
+so alternatives are given after these cases which can be used
+as a substitute.  These will be enclosed in [] brackets.
+
+Other places in the film translation include brief
+translations or explanations of some terms or things that can
+be easily included in a subtitling following the "cultural"
+version.  These will be enclosed in <> brackets.
+
+Annotations are also included, giving much excessive detail
+on the background of some elements of the film--these may be
+used in part or entirety in small print below the subtitles
+if desired for viewers to check at their leisure with their
+freeze-frames if necessary--these longer annotations are
+enclosed in {} brackets and may be used with asterisks--*--
+attached to the relevant dialogue.
+
+Some redundant descriptions may appear such as setting
+information. This and regular parenthetical statements will
+use parentheses ().
+
+Lastly, the inhabitants of the Yamagata Prefecture speak in a
+unique regional dialect which is quite strong.  A small
+effort was made here to give these characters a vague-in-
+origin accent.
+---------------------------------------------------------
+
+As mentioned above, the Japanese honorific system will be
+maintained in translation, in a simplified form.  Here is a
+brief explanation:
+
+-san: honorific for someone of status equal to yourself
+-sama: honorific for someone of status higher to yourself
+-chan: honorific for someone of status lower to yourself,
+       and term of endearment for family and friends--
+       very informal
+-sensei: honorific for professors, doctors, teachers
+-kun: similar to chan, but mostly applied to males
+
+Some relatives, though, have been identified by their direct
+Western counterpart's nomenclature (i.e. "Mother", "Mom",
+etc.  rather than "Okaa-san", "Kaa-chan", etc.).
+
+Some pronounciations look confusing in English "romanji",
+so most are phoneticized instead, for ease of reading in
+subtitled form. There is no objection from the translators,
+though, if this is changed by a particular subtitler, and
+such changes are assumed valid alternatives.
+
+---------------------------------------------------------
+Bibliography (for annotations, script, etc):
+
+Omohide Poro Poro (the original manga)
+ by Hotaru Okamoto
+ and Yuko Tone
+
+The Art of Only Yesterday
+
+Omohide Poro Poro Roman Album
+
+(All the above are published by Tokuma Shoten.)
+
+---------------------------------------------------------
+
+Omohide Poro Poro: Only Yesterday
+[<Memories with Teardrops>]
+
+(opening credits)
+
+(part one--translation by Kawashima/Lucido)
+
+(1982: Office Building)
+
+EXECUTIVE
+You had said you would take a ten-day vacation---
+
+So I just assumed you would be travelling abroad. But you are
+headed for Yamagata{*}, Okajima-san [Miss Okajima]?
+
+{* Yamagata: a rural prefecture about 180 miles north of
+Tokyo}
+
+TAEKO {*}
+Yes.
+
+{* Taeko, the main character of this film, is played by Miki
+Imai, who interestingly enough was well known in 1982, when
+much of this film occurs.  She debuted acting in television
+dramas, but became famous for acting in makeup commercials
+and such, and later would become a popular actress and
+singer, whose career is still doing well today.}
+
+EXECUTIVE
+Did you break up with someone...?
+
+TAEKO
+I yearn for the countryside.
+
+
+(1966: School grounds {*})
+
+{* Music note: the BGM for this scene, "Mime, Mime", is
+derived from an Israeli folk dance.}
+
+CHILDREN
+`Bye!
+See you later!
+Let's go to Hama's house.
+Nyah, nyah!
+What do you mean, "Nyah" ?!
+Let's go, let's go!
+
+TSUNEKO
+So...did your grades go up?
+
+AIKO
+Uh-uh. But it's all right.
+
+TOKO
+How come?
+
+AIKO
+As soon as I get home, we're going to Grandma's house.  So I
+won't be in trouble until much later.
+
+TAEKO
+Wow, that's nice.
+
+Toko-chan [Toko], are you going to the country, too?
+
+TOKO
+Yeah, to Nagano.  Are you, Taeko-chan [Taeko]?
+
+TAEKO
+I'm not sure.
+
+TSUNEKO
+Well, guess what--my father bought a cabin!
+
+TAEKO/TOKO/AIKO (in unison)
+Wow, that's great!
+
+(1966: Okajima Residence)
+
+MOTHER (OFF)
+As I expected, your math grade's not good.
+
+TAEKO
+Yeah, but I got a "B" in science {*}.  Oh, Mom?  Are we going
+somewhere for vacation?
+
+{* A "4" in the Japanese numerical system of 1-5.  She got a
+"2" in math, which equates to a "D", her worst score on the
+card.}
+
+MOTHER
+Nowhere special.
+
+TAEKO
+Hey, Mom, take me someplace.
+
+MOTHER
+I'll take you to a movie. "Tsuru No Ongaeshi" [<The Crane's
+Return>] {*} is playing, isn't it?
+
+{* "Tsuru no Ongaeshi" is a 1966 theatrical puppet-animation
+film.  It is not mentioned in the original Omoide Poro Poro
+manga, so it is probably mentioned here as a tribute by
+Director Isao Takahata.  Going to see it by itself really is
+NOT a big deal, as the film was only 17 minutes long!  It
+did, however, on a positive note, feature with the
+legendary Osamu Tezuka's first theatrical release of Jungle
+Taitei (Jungle Emperor/Kimba the White Lion) and two other
+shorts.  The film itself is of a classic Japanese folk tale
+about a kind peasant who frees a crane from a trap, and is
+repaid in a supernatural fashion for his kindness--but later
+his curiosity gets the better of him, and by breaking a
+promise, his reward turns forfeit.}
+
+TAEKO
+That's not what I meant--someplace in the country.
+
+MOTHER
+The country?
+
+TAEKO
+Right, like "Grandma's house in the country".
+
+MOTHER
+Your Grandmother lives here, doesn't she?
+
+TAEKO
+Then Grandpa!
+
+MOTHER
+Didn't he pass away?  We don't know any places in the
+country.  Please don't ask for something we can't possibly
+do.
+
+
+(1982: Eidan Marunouchisen subway {*})
+
+{* One of the oldest, if not the oldest, subways in Japan,
+and one of the more famous, because of its distinctive red-
+with white stripes paint scheme.  It connects Ikebukuro to
+Ogikubo, and Taeko's stop is at Ohtemachi.}
+
+NARRATOR (1982 Taeko, Voice Over for all narration)
+I was born and raised in Tokyo, and my parents were as well.
+I always envied my friends who had a country hometown to
+return to.
+
+
+(1966: Okajima residence)
+
+NANAKO
+It's impossible to take a trip now, because everywhere will
+be crowded.
+
+TAEKO
+But I want to go somewhere.
+
+GRANDMOTHER
+How about Ohnohya?
+
+MOTHER
+Huh?
+
+GRANDMOTHER
+We've been regular visitors, so if we chose to go to Ohnohya,
+we might be able to reserve a room.
+
+TAEKO
+Where, where is it?
+
+NANAKO
+Oh, sure--Ohnohya is good, because Taeko hasn't been there
+before.
+
+MOTHER
+Say, that's right...
+
+TAEKO
+Hey, is it in the mountains?  By the sea?
+
+YAEKO
+It's the Atami hot springs.
+
+TAEKO
+Huh--"Atami"?
+
+NANAKO
+Right.  You can reach it by bullet train.
+
+YAEKO
+Oh, sure, that place would be good.
+
+TAEKO
+Atami...
+
+NANAKO (OFF)
+It's really fun--there are all kinds of baths.
+
+YAEKO
+Um, yeah, there's a giant Roman Bath.
+
+NANAKO
+That's right, and many smaller ones like the Swan Bath
+and the Pansy Bath {*}.
+
+{* "Pansy": "Sanshiyokusumire", a fancier floral name in
+Japanese meaning "three-colored violet".}
+
+YAEKO
+Right, right!  The Pansy Bath!
+
+TAEKO
+Pansy Bath?
+
+YAEKO
+Yeah, it's a really fantastic bath!
+
+NANAKO
+Taeko, you just love baths, don't you?
+
+MOTHER (OFF)
+
+Okay, well Father is working and can't go, so why don't you
+four go together?
+
+YAEKO/NANAKO (unison)
+Huh?
+
+YAEKO
+US...
+
+NANAKO
+...go TOO?
+
+
+(1966: Park)
+
+RADIO (reel-to-reel tape recorder) EXERCISES {*}:
+1,2,3,4,5,6...lean to the side...
+
+{Calisthenics required for P.E. during vacation time}
+
+SIXTH GRADER
+Taeko-chan [Taeko], it's incredible--you've come to every
+single radio exercise.
+
+TAEKO
+Well, everyone else has gone to the countryside, after all.
+
+SIXTH GRADER (OFF)
+Taeko-chan [Taeko], aren't you going anywhere?
+
+TAEKO
+I'm going!
+
+SIXTH GRADER
+Where?
+
+TAEKO
+Atami!
+
+SIXTH GRADER
+Atami?  What are you going to Atami for?
+
+TAEKO
+To go bathing!
+
+SIXTH GRADER
+Ohhh?
+Well, it's good timing.  I'll be going, too--my relative's
+place, next Monday.  So maybe no one will come to exercises
+for a while.
+
+
+(1982: Taeko's one-room apartment)
+
+NANAKO (OFF/TELEphone)
+Hello, Okajima residence.
+
+TAEKO
+Ah, Nanako `ne-san [Nanako]?  It's me, Taeko.  I'm leaving
+today, and was wondering if Mitsuo `ni-san [Mitsuo] {*} had
+anything for me to tell his family at the farm.
+
+{* This particular use of "`ni-san" uses a different
+character when written, meaning "brother-in-law": in this
+case Mitsuo is the husband of Nanako of 1982.  This usage
+will also appear later for Mitsuo's brother Kazuo, and
+his wife, Kiyoko}
+
+NANAKO (TELE)
+Hmm...doesn't seem like he had anything special to say...oh
+yeah, would you buy some cookies or something for Naoko-chan
+[Naoko]?  Say it's from Mitsuo Oji-chan [Uncle Mitsuo] and
+me, and I'll pay you back later.
+
+TAEKO
+That's fine...I'll say hello for you.  How's Mother?
+
+NANAKO (TELE)
+She went out today.  She was angry, though--after all, you
+did turn down her Ohmiai [<arranged marriage (traditional)>]
+meeting, didn't you?  Considering that you're 27, you're not
+going to get any better choices for a husband.
+
+TAEKO
+That's all Mother ever talks about.
+
+NANAKO (TELE)
+But you should think about it, you know.  You're not so young
+anymore.
+
+TAEKO
+Is that so?
+
+NANAKO (TELE)
+Yes, it is--you can't be a cute little girl forever.
+
+You can be so impulsive--you actually pitched in with the
+farming last year, didn't you?
+
+TAEKO
+Yeah, harvesting rice!  And this year, I'm going to pick
+benibana [<safflower>] {*}.
+
+{The benibana is not a native flower of Japan, but is in fact
+the safflower of Egypt, and was introduced to Japan in early
+600 A.D.  More will be explained about this flower at length
+later in the film.}
+
+NANAKO (TELE)
+Benibana [Safflower]?
+
+TAEKO
+That's right!  Because of your husband's family in the
+country, I can have a hometown.
+I might as well make the most of it!
+
+{Taeko's cassette tapes include Billy Joel: Flowers in the
+Attic, Dan Siegel, Southern All Stars (Tiny Bubbles), Yuming
+II (Yumi Matsutouya, who sang the theme music for Kiki's
+Delivery Service), Darryl Hall and John Oates, and Pointer
+Sisters.}
+
+
+NANAKO (TELE)
+Oh, cut that out.
+You don't get a vacation like this often, so instead of
+staying at such an old place, why not go to a nice rental
+cottage and have a "delicious life" {*}?
+
+{*"delicious life" (oishii seikatsu) is a catch-line from a
+commercial for the department store "Seibu".  It was written
+by the famous copy writer Shigesato Itoi, who wrote the copy
+for ads for many commercials including for all of Miyazaki's
+films as well as this film, and was the voice of the father
+in My Neighbor Totoro. This commercial's copy was inspired by
+a Fellini film, and the commercial starred Woody Allen.  This
+commercial popularized the use of "oishii" (delicious) as a
+slang word used to describe things besides food.}
+
+NANAKO (TELE, with 1966 insert)
+You might be able to meet a nice guy.
+
+TAEKO
+Stop, stop!  You're trying to trick me again, like you did
+with the Pansy Bath at Ohnohya!
+
+NANAKO
+Ohnohya..?  Oh...ah, that time, huh?
+You just talked about that a while ago, too.  What a burden
+your past must be if you're still holding a grudge like that!
+
+
+(1966: bullet train)
+
+NARRATOR
+At that time, my sisters wouldn't have been caught dead going
+to a place like Atami.
+
+
+(1966: Ohnohya--Atami)
+
+TAEKO
+Oh...
+Grandma...?
+
+GRANDMOTHER
+Hmm...?
+
+TAEKO
+Done yet?
+C'mon, let's go to the bath.
+
+GRANDMOTHER
+Didn't we just go?
+
+TAEKO
+But that was only to the Swan Bath.
+
+
+NARRATOR
+I was incredibly bored.
+So starting with the Grimm Bath, and then to the Mermaid
+Bath, the Lemon Bath, and the Pansy Bath, I went from one to
+the next on my own.
+
+TAEKO
+It's enormous!
+
+NARRATOR
+By the time I had reached the Roman Bath, I was starting to
+feel dizzy...
+
+TAEKO
+Wow...!
+
+NARRATOR
+...And I finally passed out.
+
+
+(1966: Park)
+
+NARRATOR
+Thus my much-anticipated one-night trip came to an abrupt
+end, and was followed by a long, long Summer vacation that
+was still waiting for me.
+
+RADIO EXERCISES:
+...Jumping jacks--open, close, open, close.  Next, arm and
+leg exercises.  1,2,3...
+
+
+(1982: Market on way to station, at Izumiya {*})
+
+{* Izumiya is a chain that sells western cookies and
+cakes and other goodies}
+
+NARRATOR
+When I met with my sisters last time, I slipped and mentioned
+the disastrous bath trip, so we laughed, "Oh yeah, and then
+there was that time...", and the conversation turned to other
+memories of those days.
+
+{The music that can be heard in the background here is
+"Raideen" by Yellow Magic Orchestra from their hit
+"Technopolice" single (notice both are anime show titles...).
+With their innovative uses of synthesizer music integrated
+with computer programs, they were one of the key groups in
+establishing the "Technopop" genre of music.  Keyboardist
+Ryuichi Sakamoto went on to fame for winning an Academy Award
+for creating the soundtrack of "The Last Emperor", and more
+significantly to anime fans, he created the soundtrack of
+Gainax's first film and highest budget anime film ever,
+"Oneamisu no Tsubasa" ("Wings of Honneamise"), released in
+1987.}
+
+(1966: Okajima Residence)
+
+YAEKO (OFF)
+You've eaten this before?
+
+NANAKO (OFF)
+Nope, my first time.
+
+TAEKO
+Remember, I'm the one who asked for it {*}.
+
+{* In the manga, Taeko's best friend, Toko, got one at her
+birthday party from a Japanese-American friend, which sparked
+Taeko's interest in the fruit.}
+
+YAEKO
+We know.
+
+NANAKO
+Where did you buy it, Dad?
+
+FATHER
+The Senbiki shop in Ginza {*}.
+
+{* Popular for carrying more exotic foreign produce.
+Imported produce like pineapples, bananas, etc. were rare at
+the time and costly luxury items.}
+
+MOTHER
+It was expensive, then?
+
+YAEKO
+So, how do we eat this?
+
+NANAKO
+We slice it into rings.
+
+YAEKO
+How?
+
+NANAKO
+...I don't know.
+
+MOTHER
+Father, didn't you ask the people at the shop?
+
+FATHER
+Uh-uh.
+
+MOTHER
+Let's eat it next Sunday.
+
+TAEKO
+Huh---we're not going to eat it today?
+
+MOTHER
+But we don't know how to eat it, do we?
+
+YAEKO
+I'm gonna eat a banana.
+
+TAEKO
+Me too!
+
+GRANDMOTHER
+Warmer countries have rather unusual fruit, don't they?
+
+
+(1966: later on)
+
+NANAKO
+I'm home!
+I found out how to serve pineapple.
+
+TAEKO, YAEKO (unison)
+What, really?
+
+TAEKO
+I..I'll get that.
+
+FATHER
+Carefully, now.
+
+MOTHER
+Wouldn't a fish knife be better?
+
+TAEKO
+Nice smell, nice smell!
+
+Nice fragrance, nice fragrance!
+
+FATHER
+Oh, I see.
+
+NANAKO
+Hey--plates, plates!
+
+YAEKO
+..Oh, right!
+
+FATHER
+Itadakimasu [We shall try it now].
+
+FAMILY
+Itadakimasu [Let's try it].
+
+TAEKO
+It's tough.
+
+FATHER
+Not such a big deal.
+
+NANAKO
+Not very sweet at all.
+
+YAEKO
+It's completely different from when it's canned.
+
+GRANDMOTHER
+If you live a long time, you get to have many experiences.
+
+YAEKO
+Taeko can have mine.
+
+NANAKO
+Mine too.
+
+TAEKO
+...Delicious...
+
+MOTHER
+You don't have to force yourself to eat it.
+
+FATHER
+You'll get a stomachache.
+
+YAEKO
+Oh well, that was boring.
+
+NANAKO
+Bananas are far more tasty, aren't they?
+
+YAEKO
+True, true.
+
+NANAKO
+As I expected, the banana is the king of fruit, I guess.
+
+YAEKO
+I'm gonna have a banana.
+
+{The TV music is "Tokyo Blues", a hit two years earlier.}
+
+TAEKO
+As I thought, the king of fruit is...
+the king of fruit is...
+
+
+(1982: the market, and Uenoeki Station {*})
+
+{* Uenoeki Station is the largest station and transportation
+hub of Japan, the station for a number of express trains to
+all reaches of Japan, including the Akebono 3 Line, Taeko's
+next train.  She used the subway mentioned earlier to get
+there.  The Akebono 3 line is an overnight express that stops
+in Yamagata, and includes sleeping compartments. Her time of
+departure is 10:24 P.M., and time of arrival in Yamagata is
+3:51 A.M.}
+
+
+NARRATOR
+...the banana!
+
+The year I passed out at the Roman Bath and ate pineapple for
+the first time, was the same year that the "group sound"
+became a fad, starting with the Beatles' visit to Japan.
+Soon after that, the electric guitar boom would come.
+
+{the music playing is "Memories of Nagisa" (Omohide no
+Nagisa), by The Wild Ones, one of the debuting "group sound"
+groups alluded to here.}
+
+My sister Nanako 'ne-san [Nanako] was a freshman at an art
+college, and was always the first to try out all the new
+fads.
+
+NANAKO
+Yeah, "Michelle," isn't it?   Another cool Beatles song, huh?
+
+NARRATOR
+She tried the mini-skirt when it first came out, and like
+everyone else, she hid her behind with a bag whenever going
+upstairs.
+
+My other sister, Yaeko 'ne-san [Yaeko], the smart eleventh
+grader, was completely in love with someone in the Takarazuka
+theater {*}.
+
+{* a form of theater performed entirely by a female cast,
+including the male roles, which has been popular for some
+time now (Osamu Tezuka, for example, cites being influenced
+by his trips to the Takarazuka when he was a child), sort of
+a counterpart to the all-male Kabuki performances.
+Takarazuka focuses on Western dramas.  The "someone" Yaeko
+was in love with was the male-impersonator "Gon-chan", whom
+the Okajima family dog is apparently named after.}
+
+TAEKO
+Yaeko 'ne-chan [Yaeko]...
+
+YAEKO
+D....didn't I tell you to always knock first??!!
+
+NARRATOR
+The memories that my sisters mainly talked about were the
+stars and fashions that they were into.  1966 was a memorable
+teenage year for my sisters.  But back then, I was only in
+the 5th grade.
+I became a fan of Julie of The Tigers {*}...
+...but they didn't debut until later.  There was no way for
+me to have big dreams in the days when I was just simply
+going back and forth between school and home.
+
+{* The Tigers was another "group sound" group that would
+debut the next year in 1967.  Lead singer Kenji "Julie"
+Sawada was a pop singer (idol) who was popular with high and
+junior high school girls and would later continue a popular
+solo career.}
+
+TAEKO
+...and it's been on the wall for a long time.
+
+MOTHER
+That's nice.
+
+TAEKO
+And I was told to keep the essay I wrote on the book, because
+they might send it to a contest.
+If that happens, I'll be very happy...
+
+MOTHER (OFF)
+You didn't eat your school lunch again.
+
+TAEKO
+...huh?
+
+MOTHER
+Why do you put it between bread?
+
+TAEKO
+Because I hate namasu <daikon radish and carrots marinated in
+vinegar>.
+
+MOTHER
+Well, if you do this, we can't use the bread or the namasu.
+How wasteful.
+The kid who can eat all of her food is more respected than
+the one who can write an essay.
+
+(1966: classroom--Fifth grade, room 5)
+
+{The classroom music being played, and used for a humorous
+effect, is The Hungarian Rhapsody #5  by Brahms.  This may
+or may not be a subtle tribute from director Takahata to
+Warner Brothers cartoons, particularly Friz Freleng, which
+used the same technique of synchronizing humorous animation
+with classical pieces, including this score.  It also
+serves, in a way, as a foreshadowing tie to the real
+Hungarian music that plays a role in the later 1982 parts of
+this film.}
+
+SUU'
+Wow, how can you drink that tasteless stuff?
+
+TAEKO
+The milk's all right.  It's the daikon radish and onion I
+can't stand.
+
+SUU'
+Since I'm leaving carrots today, I have to drink the milk.
+I wonder who decided you could only leave one thing?
+
+TAEKO
+Want me to drink it?
+
+SUU'
+W..would you?
+
+TAEKO
+And next time, you could eat my daikon or onion in return?
+
+SUU'
+Uh-huh, uh-huh, uh-huh.
+
+"Thank you!"
+
+LUNCH CREW (pony-tail girl)
+Aah, carrots!?
+
+SUU'
+You can leave one thing, you know...
+
+TAEKO
+I was right, the second bowl is worse...
+
+
+(1966: class meeting)
+
+BOBBED-HAIR GIRL
+There are people who keep running if they are told to start
+over again by the hall monitors. I think to keep running is
+really bad.
+
+"SPARE ME"
+"Start over again?"  Spare me.
+
+RIE
+You can't run in the halls.
+
+PUT-UP HAIR GIRL, HER FRIEND
+That's right, that's right.
+
+TOKO
+It's dangerous--you might hurt somebody.
+
+SUU'
+No way--if I hit a girl like you, Toko, I would be the
+one hurt.
+
+TOKO
+Oh, PLEASE...
+
+SUU'
+I'm hit!
+
+TSUNEKO'S NEIGHBOR
+Once you ran, what can you do about it?
+
+AIKO'S NEIGHBOR
+Here, here.
+
+PUT-UP HAIR GIRL AND FRIEND
+Be quiet.
+
+Who asked you, anyway?
+
+TAEKO'S NEIGHBOR
+Why not abolish the system of starting over?
+
+HIS NEIGHBOR (GIRL)
+You can't, it's part of the rules.
+
+MALE CLASS PRESIDENT
+If you have an opinion, please raise your hand.
+
+TSUNEKO
+I do.
+
+MALE CLASS PRESIDENT
+Tani-san [Miss Tani].
+
+TSUNEKO
+I think the hall monitor should run after the runner, catch
+them, and make them go back and start over.
+
+BOYS
+I do!
+I do!
+I do!
+
+MALE CLASS PRESIDENT
+Suzuki-san [Mr. Suzuki]
+
+SUU'
+And then the hall monitor has to go back and start over, too.
+
+BOYS
+Right, right!
+
+BOBBED-HAIR GIRL'S NEIGHBORS (BOYS)
+That's more like it! {*}
+
+{* Actually, "Iijanaaaaai!" (Isn't it good?), a gag-line
+used by the comedian duo "Haruno Tic-Tac"}
+
+RIE'S NEIGHBOR (BOY)
+That's right.
+
+MALE CLASS PRESIDENT
+Yes, Tani Tsuneko-san [Miss Tsuneko Tani].
+
+TSUNEKO
+I don't think that the hall monitors need to start over
+because...their job is just like a police patrol car catching
+a speeder.
+
+MALE CLASS PRESIDENT
+Any opposing arguments?
+
+TONOMURA
+Like a patrol car...?
+
+TAEKO'S NEIGHBOR'S NEIGHBOR (GIRL)
+...Then running is no good.
+
+MALE CLASS PRESIDENT
+The decision rests on allowing the hall monitor to run.
+
+Anything else to discuss?
+
+TSUNEKO
+Yes.
+
+MALE CLASS PRESIDENT
+Tani-san [Miss Tani].
+
+RIE'S NEIGHBOR (BOY)
+Her again?!
+
+SUU'
+The show-off!
+
+TAEKO
+Quit chattering.
+
+TSUNEKO
+Lately I've been seeing people leaving food at lunch.  I
+just read a magazine article about the war in Vietnam.  In
+foreign countries like those there are many poor people.  We
+are happily more fortunate.
+
+TSUNEKO'S NEIGHBOR
+Yeah, "we're happy." {*}
+
+{* Reference to the hit song "Kimi to Itsumademo" ("Be
+Forever with You"), by the still popular Yuzo Kayama.  It
+comes from a part of the song that is spoken, not sung.}
+
+TSUNEKO
+(A-hem!)
+We must be thankful for the food we have.  Right now we may
+leave one thing per meal, but I feel that is too lenient.
+
+RIE'S NEIGHBOR (BOY)
+Geez, Tsuneko...aren't you the goody two-shoes?
+
+TSUNEKO'S NEIGHBOR (BOY)
+Bleah!
+
+AIKO'S NEIGHBOR (BOY)
+Why can't we leave even one thing?
+
+SUU'
+And then everyone could leave the milk.
+
+TAEKO
+Why not ask somebody to eat what you don't like?
+
+TAEKO'S NEIGHBOR'S NEIGHBOR.
+That's obvious.
+
+BRAIDED HAIR GIRL'S NEIGHBOR (BOY)
+Some people leave extra by hiding it between their bread.
+
+BRAIDED HAIR GIRL
+Ohh, cheaters!
+
+BOY (OFF)
+School lunch stinks.
+
+MALE CLASS PRESIDENT
+Raise your hand!
+
+FEMALE CLASS PRESIDENT (KOBAYASHI {*})
+Raise your hand!
+
+{* See the last portion of the movie, dealing with "Abe"}
+
+CLASS PRESIDENTS
+If you have an opinion, raise your hand, please!
+
+"SPARE ME"
+"Oh...you got me!"{*}
+
+{* gag-line from the comedian trio "Tempuku Trio"
+("Sinking Trio")}
+
+{The music which can be heard in the background here is
+"Damatte Ore ni Tsuite Koi" ("Shaddup and Stick with Me") by
+the group Hana Hajime & the Krazy Kats.  This was the main
+title song of the movie "Horafuki Taikoki," and the famous
+starring actor, Hitoshi Ueki, was a member of this group.}
+
+
+(1982: Train station)
+
+NARRATOR
+After I said goodbye to my sisters and went to bed, one by
+one, my memories of fifth grade came back.
+
+Memories about our dog, Gon...about sports day...about the
+scary feeling we got from reading Kazuo Umezu's comics...and
+even about yearning for an electric pencil sharpener {*}.
+
+{* All of these memories are stories from the original manga
+not adapted in this film. Kazuo Umezu was a popular creator
+of horror comics.  The story in particular that scared her
+was "Mama ga Kowai" ("Mama is Scary") ran in Shojo Friend
+magazine in 1965 (actually when she was in the fourth
+grade, though she wrote an essay about it as a fifth grader),
+and was about a girl whose mother is really a snake-woman:
+Taeko wound up extremely suspicious of her OWN mother for a
+while after that...}
+
+
+(1982: Train hallway)
+
+Even such trivial things came back vividly, occupying my mind
+as if I were watching a movie, and overwhelmed the real me.
+
+(1966: Fifth grade, room 5)
+
+GIRL "A" FROM ROOM 4
+Is there an "Okajima-san" [a "Miss Okajima"] here?
+There's the one.
+
+{The strange way the girls are walking is in imitation of a
+commercial for "Renown" women's apparel, one of the few
+color commercials of its time.  The American women in the
+commercial walked in this unique manner (long, confident
+strides, in step), which was very surprising to the Japanese
+viewers.}
+
+Hirota-kun [Hirota] says that "I like Okajima-san [Okajima]
+of room 5."
+...Shall we go?
+
+I'm gonna tell Hiro that you know, now!
+
+GIRL "B" (ROOM 4)
+Hurry up!
+
+TOKO
+So it IS true?
+
+
+(1966: Sukebeyokocho: "Naughty Alley")
+
+TSUNEKO
+Where, where?
+
+TOKO
+Over there.
+
+GRAFFITI
+"Taeko Okajima, 5th grade, Room 5 + Shuji Hirota, 5th grade,
+Room 4"
+
+{To the right of this is a drawing of Tetsujin 28go, the
+first anime giant robot, and quite popular at that time (and
+known in the U.S. as "Gigantor").}
+
+TSUNEKO.
+Oh, she's right!
+
+AIKO
+Whoa...
+
+TOKO
+See?
+
+TSUNEKO
+What kind of guy is Hirota-kun [Hirota]?
+
+AIKO
+I don't know.
+
+TOKO
+Me neither.
+
+TSUNEKO
+Taeko-chan [Taeko], are you sure you don't know him?
+
+TAEKO
+I..I..I don't know him.  Not at all.
+
+
+(1966: Fifth grade, classroom 4)
+
+TSUNEKO
+Which one here is named Hirota-kun [Hirota]?
+
+BOY
+Oh, its some room 5 kids.
+
+GIRL A
+Hiro, you're being called.
+
+HIROTA
+Yes, that's me!
+
+TSUNEKO
+D...don't write strange things at "Naughty Alley"...
+
+HIROTA
+Huh?
+
+TSUNEKO
+...Okajima-san ["Miss Okajima"] said to tell you.
+
+HIROTA
+I...I didn't write anything.
+
+GIRL A
+Ah, but Hiro, didn't you say you liked "Okajima-san [Miss
+Okajima] from room 5?"
+
+GIRL B
+He did, he did!
+
+GIRL C
+So we wrote it for you.
+
+HIROTA
+Whaa...?!
+
+GIRLS ABC (singing, in unison)
+"I love you, but..."
+
+GIRL C
+Cha cha cha cha!
+
+GIRLS ABC (cont'd)
+"...we're apart,"
+
+GIRL C
+Cha cha cha cha!
+
+GIRLS ABC (cont'd)
+"just like the stars..."
+
+GIRL C
+Cha cha cha cha!
+
+GIRLS ABC (cont'd)
+"...that we see far away. {*}"
+
+{* "Hoshi no Flamenco" ("Flamenco of Stars"), another hit at
+the time by Teruhiko Saigo, this will appear again in the
+film in instrumental form.}
+
+TSUNEKO
+Goodbye.
+
+
+(1966: school hallway)
+
+TSUNEKO
+Taeko-chan [Taeko]!
+We just got back from meeting Hirota-kun [Hirota].
+
+TAEKO
+Whaa...?
+
+TSUNEKO
+I certainly didn't forget to tell him you didn't want him
+writing strange things!
+
+AIKO
+Tsuneko-chan [Tsuneko]!
+
+TSUNEKO
+Oops, not supposed to do that.
+
+BRAIDED HAIR GIRL
+Good for you, Taeko-chan [Taeko-chan].
+
+(1966: Room 5)
+
+BRAIDED HAIR GIRL
+Here, here.  Look there--that's Hirota-kun [Hirota].
+
+SUU'
+What, Hirota from room 4 likes Okajima?
+Hirota's incredible--he's an ace.
+
+TOKO
+Oh, a pitcher?
+
+SUU'
+The only one who can hit that guy's pitches is Tonomura.
+
+TSUNEKO
+Whoa, you don't say?
+
+SUU'
+We'll be playing against the team from his class in the fifth
+grade school tournament.
+
+{The music here is the instrumental version of "Hoshi no
+Flamenco," quoted by the girls earlier.}
+
+(1966: Fifth grade tournament)
+
+CLASS 4
+Go for it, go for it, Hirota!
+Go for it, go for it, Hirota!
+
+UMPIRE
+"Play ball!"
+
+CLASS 5
+Hit it, hit it, Tonomura!
+Hit it, hit it, Tonomura!
+
+GIRL A
+Go for it, Hiro...!
+...Okajima-san's ["Miss Okajima's"] watching you!
+
+TSUNEKO
+Tonomura-kun (Tonomura), good luck!
+
+UMPIRE
+"STRIKE!"
+
+CLASS 4 STUDENT (OFF)
+Attaboy, Hiro!
+
+CLASS 4 STUDENT 2 (OFF)
+Strike 'em out, Strike him!
+
+TSUNEKO
+Taeko-chan [Taeko], I'll never forgive you if you encourage
+their side.
+
+TAEKO
+I...I wouldn't even think of such a thing!
+
+TSUNEKO, leading CLASS 5
+Hit it, hit it, Tonomura!
+Hit it, hit it, Tonomura!
+Hit it, hit...
+
+UMPIRE
+"OUT!"
+
+CLASS 4
+All right, all right, Hirota!
+All right, all right, Hirota!
+
+CLASS 5 BOY (OFF)
+Get him, Suu'!
+
+CLASS 5 BOY
+One leg hitter {*}!
+
+{* The famous one-leg hitting (also known as "Flamingo
+hitting") popularized by Japanese baseball legend Ou
+Sadahara, a Chinese player for the Yomiuri Giants, also known
+as "One-chan" because his Chinese name is the same as the
+character for the number "one", and his uniform number, is of
+course, the same.}
+
+UMPIRE
+"Strike!"
+"Strike!"
+"Strike!  Batter out!"
+
+TAEKO
+Amazing...
+
+CLASS 4
+All right, all right, Hirota!
+All right, all right, Hirota!
+All right, all right, Hirota!
+
+NARRATOR
+Even though I knew nothing about baseball, at least I could
+tell he was incredible.
+
+CLASS 4
+All right, all right, Hirota!
+All right, all right, Hirota!
+
+AIKO
+What's the matter, Taeko-chan [Taeko]?
+
+NARRATOR
+Because of the cold and my nervousness, I had to run to the
+bathroom five times.
+
+CATCHER
+Over here!
+
+UMPIRE
+"Safe!"
+"Game Set."
+5 to 3.  Class 4 wins.
+
+TEAM MEMBERS
+Thank you for the game.
+
+GIRL B
+Terrific, Hiro!
+
+GIRL C
+Way to go!
+
+GIRL A
+You were great!
+
+TSUNEKO
+It's Suu's fault.
+
+SUU'
+Why?
+
+TEAM MEMBER
+You don't know anything.
+
+SUU' (OFF)
+Even Tonomura couldn't hit the ball, so how could we win?
+
+TEAM MEMBER (OFF)
+Right.
+
+TSUNEKO (OFF)
+It's because Suu' had an error.  That's how we gave them
+three extra points.
+
+SUU'
+That's not true.
+
+BOY 1, CLASS 4
+Hey, the coach is going to buy us all ice cream!
+
+BOY 2, CLASS 4
+Really?
+
+BOY 3, CLASS 4
+Great!
+
+GIRL A
+Hey, Hiro, why don't you go talk to Okajima-san [Okajima]
+from room 5?
+
+GIRL B
+Yeah, yeah!
+
+TAEKO
+I...I'm...ggg, going home!
+
+AIKO
+What's the matter, Taeko-chan [Taeko]?
+
+GIRL A
+Hey, she's going home...
+
+(1966: crossroads)
+
+HIROTA
+Uh..umm!
+Nah! ...Naughty! n..n..nah-Naughty Al..luh...
+...luh...al..al...
+
+Ruh...Rainy days!
+
+TAEKO
+Huh?
+
+HIROTA
+...Cloudy days, or sunny days...which do you like?
+
+TAEKO
+...kuh..Cloudy days...
+
+HIROTA
+Oh, we're alike!
+
+{The music here is an instrumental adapted from the
+theme of the theatrical version of "Ohanahan", the mega-hit
+NHK drama series (with a maximum viewership of 54%, and an
+overall average of 46%) from that time. The fact that the end
+of the music and the end of the sequence sync perfectly was
+not intentional, but nonetheless a lucky accident.}
+
+{The starry eyes Taeko has in this one scene are
+appropriately in the style of popular girls' manga of this
+time frame.}
+
+(1982: Taeko's Apartment)
+
+TAEKO
+Rainy days...cloudy days, or sunny days...which do you like?
+Oh...we're alike.
+
+{The magazine next to Taeko on her bed is "an an", a fashion
+magazine for women published by Heibon Shuppan since 1970,
+though since then the company's name has changed to Magazine
+House.  This magazine is a rival of the even more popular
+Non-No, published by Shueisha since 1971.  Both magazines are
+still popular today.}
+
+
+(1982: On the train)
+
+NARRATOR
+I didn't intend to bring my fifth grade self with me...but
+once she was revived, she wasn't going to leave easily.
+
+But why the fifth grade...?
+
+
+(1966: Auditorium)
+
+TEACHER (OFF)
+The boys in the fourth period class will play baseball, and
+the girls will meet in the gymnasium.
+
+SCHOOL NURSE (OFF, but camera FADES/TILTS ON)
+Today there is something important to talk about.  After you
+graduate from elementary school, you will go to junior high
+school, then high school, then grow up and have a baby.  In
+order to have a baby, a woman's body starts preparing for it.
+
+
+(1966: Room 5)
+
+TAEKO
+You knew?
+
+TOKO
+Uh-huh.
+
+TAEKO
+Really?
+
+TOKO
+My mom told me when I was in fourth grade since I have been
+developing faster.
+
+TAEKO
+"Developing?"
+
+TOKO
+Right...I've heard that if you're taller or more overweight
+than average, your period might come sooner.  So, in other
+words, Enomoto-san [Enomoto], Onobu, and Rie-chan [Rie] all
+probably already started theirs.
+
+TAEKO
+Oh...?
+
+TSUNEKO
+Hey, hey...
+Will you buy THAT?
+
+TOKO
+I'll buy it.
+
+TSUNEKO
+I thought so.
+
+TOKO
+Taeko-chan [Taeko], will you buy it too?
+
+TAEKO
+Uh....uh-huh....
+
+TOKO
+Buying it's a good idea.  Hey, remember like the school
+nurse said, you're going to need it eventually, after all.
+
+TSUNEKO
+That's true, you know.
+
+
+(1966: Lunch, Room 5)
+
+TSUNEKO'S NEIGHBOR (BOY)
+Hey, did you know the girls are buying underpants {*} from
+the infirmary?
+
+{* the "underpants" in question, as the viewer might guess,
+are specially lined with a napkin and are reusable.
+According to the manga, Taeko almost was lent a pair by
+Yaeko, until she asked too many embarrassing questions about
+it, and wound up having to get her own after all.}
+
+BOYS
+Huh?
+
+AIKO'S NEIGHBOR (BOY)
+Didn't you know, Suu?
+
+SUU
+Nope.
+
+BOY ACROSS FROM AIKO
+How come?
+How come you're buying underpants?
+
+GIRL BEHIND AIKO
+W...well it's...um,
+
+AIKO
+That is...
+
+AIKO'S NEIGHBOR (BOY)
+Why do they sell underpants at school?
+
+SUU
+Are they swimming shorts?
+
+{The music here is an instrumental of "Konichiwa Aka-chan"
+("Hello Baby"), yet another hit song from an NHK television
+show, "Yume de Aimashou" ("See you in a Dream").  Also, for
+reference toward the next scene, the boy walking past with
+his tray and a knowing grin is the infamous Nakayama.}
+
+(1966: Girl's Restroom)
+
+TSUNEKO (OFF)
+Say what---!?
+
+TSUNEKO
+You went and told Nakayama-kun [Nakayama]?
+
+GIRL WITH PUT-UP HAIR
+What did you have to go do that for?
+
+GIRL WITH PLAIN HAIR RIBBON
+You're not supposed to tell any boys!
+
+TSUNEKO
+That's for sure, girls are supposed to keep it to themselves.
+
+PUT-UP HAIR
+Rie-chan [Rie], you like Nakayama-kun [Nakayama], so that
+must be why, well...
+
+TSUNEKO
+He must've asked you to tell him.
+
+RIE
+Um...uh-huh.
+
+TAEKO
+What's the matter?
+
+TSUNEKO
+Well, Rie-chan [Rie] here went and told Nakayama-kun
+[Nakayama] all about periods.
+
+TAEKO
+No way...!
+
+TSUNEKO
+That Nakayama-kun [Nakayama], he'll tell everyone about it.
+
+RIE
+I told him to keep it a secret.
+
+PUT-UP HAIR
+You can't trust him on that.
+
+TSUNEKO, HAIR RIBBON
+Right?  Right.
+
+HAIR RIBBON
+Omigosh.
+
+PUT-UP HAIR
+The boys are so dirty-minded.
+
+TSUNEKO
+They sure won't only look up skirts, now.
+
+
+(1966: Hallway)
+
+GIRLS
+Hey!
+
+SLIDING BOY
+Safe!
+
+GIRLS
+Eek..!
+
+TOKO, TAEKO, GIRL WITH PIGTAILS
+Pervert!
+
+TSUNEKO
+Jerk!
+
+NARRATOR
+This skirt-peeping {*} had caught on earlier, and not
+surprisingly, the knowledge of menstruation only complicated
+the problem.
+
+{* Lifting skirts and looking up them when going past girls
+was a new fad among young boys in the mid-sixties--in
+response, many girls wore their gym shorts under their skirts
+(including in the manga).}
+
+SUU
+Safe!  Ah, but your period isn't!
+
+SWEEPING GIRL
+Eek!  Why you...!  Wait up!
+
+SUU
+Sorry!  Sorry!
+
+SWEEPING BOY
+PERIODical cleaning.
+
+PIGTAILED GIRL
+Jerk!
+
+SWEEPING BOY
+Hey, that hurt.
+
+SWEEPING GIRL
+Wait...!
+
+SUU
+Sorry!  Sorry!
+
+STRIPED SHIRT BOY
+You've got a period.
+
+SHORT-HAIRED GIRL
+Do not!
+
+PUT-UP HAIR
+This is all Rie-chan's [Rie's] fault.
+
+SUU
+Ouch!
+
+{Need it be said that this music is "Turkey in the Straw"..?}
+
+(1966: Hallway)
+
+RIE
+I'm sorry.
+
+TAEKO
+What for?
+
+RIE
+That I slipped and told Nakayama-kun [Nakayama].
+
+TAEKO
+Well, no big deal.
+
+RIE
+But the school nurse said it was important, didn't she?
+
+TAEKO
+That's true, but...
+
+RIE
+I...I was a fourth grader, when mine came.
+
+TAEKO
+Huh....really?
+
+RIE
+So that's why sometimes I skip P.E. class.
+
+TAEKO
+You skip P.E. when you have your period?
+
+RIE
+Right, my mother told me I should.
+
+Nakayama-kun (Nakayama) said that it must be a big bother for
+girls after I told him.
+
+TAEKO
+You told him about skipping P.E. class?!
+
+RIE
+Uh-huh, though I told him to keep his promise and not tell
+any other boys.
+
+TAEKO
+If you told him that...
+When any girl skips P.E. class, everyone will think she's
+having her period, won't they?!
+
+RIE
+Huh, you think so?
+
+TAEKO
+Darn right!
+
+BOY IN HALL TALKING TO ANOTHER
+...really?  I'll have to tell the guys.  Hey...!
+
+(1966: Okajima residence)
+
+EXCUSE NOTE
+Please excuse Taeko from P.E. class because of the flu.
+
+TAEKO
+(cough) I'm not going to skip P.E.
+
+MOTHER
+Forget it--that summer flu will only get much worse if you
+don't skip it.
+
+TAEKO
+Well, then I'm staying home.
+
+MOTHER
+You don't have a fever, so you're going.
+
+TAEKO
+Then I'll go to P.E., too.
+
+MOTHER
+Fine, go ahead.
+But then if you get worse, it's on your head.
+
+TAEKO
+(cough) I'm going now.
+
+MOTHER
+I wonder when she started liking P.E. so much...
+
+
+(1966: Room 5)
+
+PONYTAILED GIRL
+Taeko-chan (Taeko), your face is real red.
+
+AIKO
+Oh, it really is.
+
+TSUNEKO
+What's the matter?
+
+TAEKO
+Its a cold.
+
+AIKO
+Do you have a fever?
+
+TSUNEKO
+You ought to skip P.E.
+
+PONYTAIL
+She's right.
+
+TSUNEKO
+I'll go tell the teacher.
+
+TAEKO
+That's okay!
+
+TSUNEKO
+But...
+
+TAEKO
+I have a note to excuse me from P.E.
+
+TSUNEKO
+What, well, that's okay then.
+Right?
+
+
+(1966: stairway)
+
+RUNNING KID
+Gangway!
+
+
+(1966: Room 5)
+
+RIE
+I'm also skipping it today, so we're together.
+
+
+(1966: School grounds)
+
+RIE
+That looks nice...
+I wish I could be playing dodge-ball.
+
+TAEKO
+Rie-chan [Rie], do you...that is, are you...having your
+period?
+
+RIE
+Mmm-hmmm.
+
+TAEKO
+I'm not, I've got a cold.
+
+RIE
+I know that, Taeko-chan [Taeko], you're just sick.
+
+TAEKO
+Right, just sick, that's what I am.
+
+RIE
+A period isn't being sick, of course.
+
+I'm sure I could play dodge-ball.
+
+DODGE-BALL BOY
+Oh, period contagion!
+
+RIE
+Huh?
+
+DODGE-BALL BOY
+Back off, back off!
+That was close--any further and we could have been
+contaminated!
+
+TAEKO
+("Contaminated?!")
+
+OTHER KID
+Hey, over here!
+
+RIE
+Periods are contagious?
+How stupid!
+
+TAEKO
+It...It's not funny!
+
+RIE
+Taeko-chan [Taeko]...?
+
+
+(1966: Hallway)
+
+{The bin they are carrying is labeled "Dust Bin".}
+
+BOY
+Hey, a pair with periods!
+
+TAEKO
+It's not true!
+
+RIE
+What a pervert, huh?
+
+
+(1966: Incinerator)
+
+TAEKO
+Rie-chan [Rie], how can you stand this?
+
+RIE
+But it isn't really a bad thing, or so my mom tells me.
+
+TAEKO
+Well, I suppose so, but...
+
+
+(1982: Overnight express)
+
+NARRATOR
+A larva has to become a pupa in order to become a butterfly.
+
+I didn't want to become a pupa....
+
+I wonder, maybe the reason I am remembering those days is
+because my period of becoming a pupa has come once again.
+
+I know something is different now compared to several years
+ago when I got my job.  I am changing again.
+
+In work and play, we were always more lively than the boys.
+We thought we had already flown away from home...but now I
+look back and think maybe we were just too busy flapping our
+wings and forgot who we were.
+
+I wonder if the reason my fifth grade self is following me is
+that she is trying to tell me to look back and figure out who
+I am.
+
+Whatever the case, I decided to take a short nap until I
+arrived in Yamagata.
+
+
+(1982: Yamagata train station)
+
+TOSHIO {*}
+'Scuse me--has the "Akebono #3" train already left?
+
+{* Toshio's voice actor is Toshiro Yanagiba, who debuted with
+the song-and-dance group "Iseihubi Sepia"  ("iseihubi" is an
+idiom meaning "great change brought through innovation"),
+popular during the time this part of the film is set, and has
+since acted in many dramas, comedies, and films.}
+
+STATION EMPLOYEE
+You missed boarding it?
+
+TOSHIO
+Er...no...
+Oh!
+You're...Taeko Okajima-san [Miss Taeko Okajima], right?
+
+TAEKO
+Well...yes...
+
+TOSHIO
+Whew, that's good!
+The car's this way.
+
+TAEKO
+Um, er, excuse me, but just who ARE you?
+
+TOSHIO
+Oh, don'tcha remember?
+Well, can't say I blame you, there's small chance you would.
+I'm Toshio.  Um...Kazuo's second cousin.
+
+TAEKO
+Oh...ah, really...?
+Oh dear.
+
+TOSHIO
+What's so funny?
+
+TAEKO
+Oh, um, nothing.  I'm sorry, it's just I thought you were
+trying to steal my bag.
+
+TOSHIO
+Huh, that's cruel--remember, I certainly made it clear I knew
+your name, didn't I?
+
+TAEKO
+I spoke too soon.  Thanks for coming out of your way to pick
+me up.  I'm sorry about this.
+
+TOSHIO
+No trouble.
+
+TAEKO
+What happened to Kazuo 'ni-san [my brother-in-law Kazuo]?
+
+TOSHIO
+He suddenly called last night and asked me to pick you up
+instead.
+
+TAEKO
+It's been raining?
+
+TOSHIO
+Yep, but it's stopped for today.
+
+I should've borrowed my pa's car {*}...but, well, I happen to
+like this one.
+
+It's a little cramped, but hop in.
+
+Oh, mind if I keep it on?
+
+{The big sign on the left states "Benibana no Yamagataji"
+("The Yamagata Road of Benibana").  This part of Yamagata's
+self-promotion.  While benibana was popular in the Edo
+period, it was overshadowed by imported foreign chemical dyes
+in the Meiji period.  The recent trend towards all-natural
+products, however, has brought about a revival of the use of
+benibana, and Yamagata has cashed in on this with several new
+benibana products including benibana noodles, benibana tea,
+benibana candy, and even benibana paper.}
+
+{* The teensy Subaru R-2 subcompact, an economical "road and
+ leisure" car first manufactured by Fujijuko in 1970 in the
+ shadow of the more famous R-360.  It sports a 2 cylinder
+ engine, and reportedly is able to do 115 kph at top speed.
+ In researching the car, the movie staff took a full binder
+ of reference photos and 8 mm videos.}
+
+TAEKO
+Um, sure.
+
+What unusual music...
+
+TOSHIO
+Its a group of five Hungarians called "Muzsikas" {*}.
+
+{* "Muzsikas" is a folk music group from Budapest featuring
+Ma'rta Sebestye'n.  Three of their songs are used in this
+film: "Teremte's" ("Creation"), "Hajnali No'ta" ("Dawn's
+Song"), and "Fuvom Aze'nekem" ("My Song").  (These
+translations were in Japanese, and so may not be precise in
+English)}
+
+TAEKO
+Oh, Hungarian?
+
+TOSHIO
+Yep.
+
+TAEKO
+Do you know much about it?
+
+TOSHIO
+A little.  It's music for peasants.  I like it 'cause I'm
+one, too.
+
+TAEKO
+Wow, that's cool.
+
+TOSHIO
+Isn't it?
+
+You recall the time,  when we all had a sake party at the
+main farmhouse {<Honke--the primary farmhouse, in a housing
+system determined by importance of position in the family by
+order of birth>} after the rice harvest, that one time...?
+
+TAEKO
+Umm, oh...
+
+TOSHIO
+Yep.  And that time, a buncha guys crashed the party?  Don't
+you recall that...?
+
+Well, to be quite frank, since they got wind of a young Tokyo
+gal being there, they decided to go check her out.  I was one
+of those fellas.
+
+TAEKO
+Ah, ah...
+
+TOSHIO
+That fool!
+
+You came out here to pick benibana [safflower]?  Are you into
+dyes or something?
+
+TAEKO
+No, just curious.  You see, benibana [safflowers] are
+unusual...but maybe not so much for people here.
+
+TOSHIO
+Nah.  What's famous is just the name of the cosmetics made
+from it, but it ain't so common anymore.  Like my farm
+doesn't make it these days, for one example.
+
+TAEKO
+But I heard it prospered during the Edo era.
+
+TOSHIO
+True, 'cause there was a politician who gained influence
+through its sales.  It would've been a big deal for the
+wealthier people, but it was only a product as far as we
+peasants were concerned.
+
+Ummm...
+"In the end,
+Someone else's skin would be touched by
+The vermillion flower."
+Do you know this one?
+
+TAEKO
+Right, its a haiku by Basho {<Matsuo Basho>}, right?  I had
+looked it up before I came here.
+
+TOSHIO
+Do tell?  Well, honestly, I looked it up myself yesterday.
+
+TAEKO
+Really...
+
+TOSHIO
+That same book also said that the women who gathered the
+flowers never were able to wear the lipstick made from
+them.
+
+TAEKO
+Is there going to be a festival here?
+
+TOSHIO
+Yep, the riverbank'll be full of people.
+
+TAEKO
+Agriculture's still in trouble, isn't it, with fields being
+reduced to make way for markets, and such.
+
+TOSHIO
+Sure, already there's a lot of trouble, and if it goes on,
+Japanese agriculture'll be ruined.  Just some day, suddenly
+"poof," and its gone.
+
+But y'know, even with all this trouble or not, if you're
+trying your best, it still doesn't come easy.  The work in
+the big city must be the same, right?
+
+TAEKO
+Sure...but the people who think work is everything are
+becoming fewer in number.
+
+TOSHIO
+How 'bout you, Taeko-san [Taeko]?
+
+TAEKO
+Huh?  Me?
+I don't think I'm obsessed...with work, but I don't hate it,
+either.
+
+TOSHIO
+As for me, well, I think I can do my best in agriculture,
+'cause its so interesting to raise living things.
+
+TAEKO
+You...raise livestock?
+
+TOSHIO
+Huh?
+No, that's not what I meant.  I do have cows and chickens,
+but I don't mean livestock.  Hey, look there...rice, as well
+as apples and cherries, they're all living things.
+
+TAEKO (OFF)
+Ohh.
+
+TOSHIO
+Yep.  If I take care of them the best I can, I feel like they
+respond to me by trying to grow up their best.
+
+I guess I'm sounding a bit like some hotshot farmer, huh?
+
+TAEKO
+Not at all...I feel I understand.
+
+TOSHIO
+To be frank, I was working at a company until recently.  I'm
+really just a beginning farmer, so...
+
+TAEKO
+Oh...is that so?
+
+TOSHIO
+So y'know, with my parents still in good health, maybe that's
+why my attitude is positive.   But that's how I have to be,
+you see?  I quit the company because someone doing "organic
+farming" called me and asked me to try it, too.  Everyone
+said I was a fool, but so far, I have no regrets.
+
+TAEKO
+"Organic farming?"
+
+TOSHIO
+"Farming that requires guts...farming that gives you guts."
+That's a little joke.   An "organic farm" uses as much
+compost as possible and as few agricultural chemicals and
+chemical fertilizers as possible.
+
+TAEKO
+Ohh, I've heard about this, it's non-chemical or uses few
+chemicals.
+
+TOSHIO
+But that's not right, it sounds so negative.  It's really an
+ideal agriculture that takes advantage of the life force of
+living things.  And people are only beneficial to it.  That's
+what makes the whole idea so cool.
+
+TAEKO
+Huh.
+
+TOSHIO
+But this "helping" part is extremely hard.
+
+{The music here is the famous pan pipe music of Gheorghe
+Zamfir, of Rumania. His music became internationally renowned
+in the early eighties, and two of his songs serve throughout
+the film as the theme for both Toshio and the countryside--
+"Frunzulita` Lemn Adus" ("Fluttering Green Leaves"), and
+"Ci^ntec de Nunta`" ("Song of Marriage").
+
+Well, I've been told to take you directly to the fields...
+
+TAEKO
+Right, I'm ready to help out.
+
+TOSHIO
+Oh?  You're not going to sleep?
+
+TAEKO
+You see, I heard that benibana [safflowers] should be picked
+in the early morning, when the dew makes the thorns soft.
+
+TOSHIO
+Well, that's true, but...
+
+TAEKO
+I'm a night owl, so I thought the best way to switch my life
+to being a morning person is to come by a night train.
+
+TOSHIO
+Huh, you really get into it, huh?
+
+TAEKO
+There it is!
+
+Good morning!
+
+KIYOKO
+Taeko-san [Taeko], welcome back!
+
+TAEKO
+Once again, I'm in your debt.
+Obaa-chan [Auntie], its good to see you doing well.
+
+BANCHA
+Welcome, welcome.
+
+KAZUO
+Aren't you tired?
+
+TAEKO
+No, not at all.
+
+KIYOKO
+I made your bed for you just in case...
+
+TAEKO
+I'm fine, look--I'm full of energy!
+
+KIYOKO
+Wow, you really are ready--you're wearing a farming uniform.
+
+TAEKO
+Though this is all I'm prepared for.
+
+BANCHA
+Young farmers' wives seldom wear them these days.  But Taeko-
+san [Taeko], you're more into it.
+
+KIYOKO
+Ain't that a fact.
+
+TOSHIO
+Taeko-san [Taeko]!
+
+TAEKO
+Quit that!
+
+NARRATOR
+And thus began my second experience with country life.
+
+{The music here is of the Bulgarian Voice (choir), and is
+called "Malka Moma Dvori Mete", "Dilmano Dilbero". It is
+also unique in that the music either follows 7-beat or 9-
+beat time.}
+
+How can such a vivid crimson color be born from this flower?
+Kiyoko 'ne-san [my sister-in-law, Kiyoko] once told me a sad
+story that goes with it.  Long ago, there were no such things
+as rubber gloves.  When the young girls picked the flowers
+with their bare hands, they were pricked by the thorns and
+bled.  The blood turned the color deeper crimson.
+
+I felt as if I heard the hostile feeling the girls, who never
+got to put the red color on their lips, must have had against
+the women in Kyoto that wore it.
+
+In order to get a handful of rouge, 60 heads of flowers are
+necessary. That shining, iridescent color had the same value
+as gold back then, I've heard.
+
+After washing them with water and stamping on them, kneading
+them by hand, and letting them sit in the air and water, they
+become oxidized, and begin to get closer to red in color.
+
+{The machine the benibana is put through here is a
+"Misokiriki", usually used for Miso.}
+
+In addition to that, if you let it sit two or three more
+days, the flower will ferment, becoming sticky, and turn into
+a deep red.
+
+Next, you stamp it with a mortar, squeeze it, and shape it
+into balls.
+
+And if you dry it in an oven, you finally are done with the
+flower patty, from which the main ingredient of rouge is
+made.
+
+A long time ago they didn't waste the remaining water which
+we got from compressing it earlier.  Now this by-product
+usually goes unsaved. The crimson color, which is still in
+the leftover water, could be used for making a dye, which
+cloth can be stained in.  This is the "benibana-dye"
+[safflower-dye].
+
+
+TAEKO/NAOKO (unison)
+Be dyed!  Be dyed!
+It's benibana-dye [safflower-dye]!
+Nice colors dye well--
+Nice colors make my heart brave.
+
+NARRATOR
+It's said that the village women, who were denied the rouge
+or bright kimonos, used to add color to their simple lives by
+using the benibana-dye [safflower-dye].
+
+The remaining yellow color dissolves in water, and the cotton
+or hemp is dyed with a beautiful light rouge color.
+
+TAEKO
+Oh, pretty!
+
+NARRATOR
+Although a little time and labor has been cut these days, by
+using machines for example, every day they repeat the work of
+harvesting the flowers.
+
+The flower-patties get moldy easily, so precise timing when
+harvesting the flowers is necessary, for they never wait.
+
+If you turn around after you've finally finished picking the
+flowers, you'll see that other new flowers have emerged in
+the meantime.
+
+The rainy season comes without mercy, and sometimes work can
+continue until midnight.
+
+Day after day passed in the blink of an eye and as I
+comfortably became tired, I wondered about the women
+flower harvesters and their conditions.
+
+If I had a chance to help with such things during my
+childhood, I surely would have been able to write more lively
+compositions than my book reports.
+
+
+(1982: the main farmhouse)
+
+NAOKO
+Hey, mom, lemme have 5000 yen <around $30 in 1982>.
+
+KIYOKO
+5000 yen?  We don't have that kind of extra money.
+
+NAOKO
+You said you'd buy me a new pair of sports shoes, didn'tcha?
+
+KIYOKO
+Are sport shoes so expensive?
+
+NAOKO
+Yep.
+
+KIYOKO
+I don't buy that.
+
+NAOKO
+`Cause they're PUMAs {*}.
+
+{* Popular Adidas sports shoes of the early eighties. This
+marks the time of when the fad of trendy sports shoes was
+just starting.}
+
+KIYOKO
+PUMA?
+
+NAOKO
+Yep, Pu...ma!
+
+KIYOKO
+I don't know anything about Pumas, but I DO know you can find
+ones for cheaper.
+
+Like how about the same kind you have now?
+
+NAOKO
+No one's wearing boring shoes like them anymore.
+
+Everybody's getting Puma sports shoes.
+
+KIYOKO
+Who's everybody?
+
+NAOKO
+Kako-chan an' Megu-chan, an' also Ya-chan n' Non-chan.  [Kako
+an' Meg, an' also Ya n' Non.]
+
+KIYOKO
+See, only four people, right?
+
+NAOKO (OFF)
+I know others--everyone's buying them.
+
+KIYOKO
+Nope, you can't ask for that anyway when you're not helping
+with the chores enough.
+
+YAEKO (OFF)
+Hey, you got another dress for "Barbie-san" {*} ["Barbie"],
+didn't you--though you promised to ask for presents only on
+your birthday and Christmas--and you must have at least known
+it wasn't your birthday, right?!
+
+{* "Barbie-chan" was originally sold in Japan by the big toy
+manufacturer Takara, licensed from Mattel.  The dolls did not
+sell well at first because of the western-styled face--
+prompting a change to a Japanese-styled face. This change
+resulted in immediate popularity, along with a similar Takara
+-designed doll called "Licca-chan", also Japanese-stylized
+(resembling a girls' comics style), and more younger in
+appearance and proportions, for possible easier
+identification with girls.  Both were the biggest selling
+products Takara ever sold.  However, later, the rights
+transferred to toy manufacturer giant Bandai, and currently
+"Barbie-chan" is marketed directly by Mattel.
+
+     The equivalent toy for boys at the time was, of course,
+"G.I. Joe", owned by Hassenfield Bros. (now Hasbro), was and
+still is marketed in Japan by Takara, and would inspire new
+successful lines of toys such as "Transforming Cyborg #1" and
+"Microman".  "Microman" was in turn marketed in America as
+"Micronauts" by the now-defunct Mego Corp., and set the
+precedent in both countries for 3-inch figures including the
+current "G.I. Joe" line.  Takara's later "Microman" robot
+toys would later, along with the company's "Diaclone" line
+would wind up becoming the basis of Hasbro's "Transformers"
+line that would end up replacing "Microman" in Japan as
+Takara recognized the marketing package with greater
+potential.  The confusion of complex international cross-
+marketing hasn't even spared the toy industry.}
+
+
+(1966: Okajima residence)
+
+YAEKO
+I can't believe Dad's so soft on Taeko!
+
+FATHER
+Did you promise that, "Ta-bo" {*} <nickname>?
+
+{* Period slang, a nickname--"bo" is short for "bohzu", which
+means "wild boy".  "Bo" was common as a boy's nickname and
+later as slang for boys in general.  Taeko is apparently
+still young and "boyish" enough in her father's eyes to be
+given a gender-bending nickname like this one. It's meant
+affectionately, yet may be subtly suggesting something about
+this otherwise all-female family's patriarch figure...}
+
+NARRATOR
+Unexpectedly, my fifth-grade self emerged yet again.
+
+TAEKO
+But...you bought Yaeko 'ne-chan [Yaeko] a long-sleeved
+kimono, didn't you?  Even though it wasn't even an Adult
+Celebration day.
+
+YAEKO
+That was for my tea ceremony.
+
+NANAKO
+Well, we see you get a lot of little things all the time,
+while we get something big only once in a while...right?
+
+YAEKO
+Right!
+
+MOTHER
+Would you stop that...picking only the food you like?!
+
+TAEKO
+Daddy, you like onions, don't you.
+
+FATHER
+Uh-huh.
+
+YAEKO
+Well, as for the long-sleeved kimono, eventually that dress
+will be yours anyway, so don't complain.
+
+TAEKO
+"Hand-me-downs"...oh gee.
+
+NANAKO
+Well, some girls don't even get "hand-me-downs".
+
+YAEKO
+True, true.
+
+TAEKO
+Then give me that enamel bag <purse> of yours soon.
+
+MOTHER
+Oh, didn't you give it to her yet?
+
+NANAKO
+What a baby! The sooner you give it to Taeko, the better.
+
+TAEKO
+I don't want it.
+
+MOTHER/NANAKO/YAEKO
+Huh?
+
+TAEKO
+That handbag, I don't want it...
+
+YAEKO
+Oh, really?  That's fine, then I won't give it to you.
+
+MOTHER
+I won't be buying a new one.
+
+TAEKO
+Fine by me!
+
+YAEKO
+Whew, that's good.  That bag was a favorite of mine, anyway.
+
+TAEKO
+I totally hate that one!
+
+FATHER
+Hey, I'm ready {*}.  Could you take care of this?
+
+{* This is typical behavior for a father in a Japanese family
+like this.  Rather than eat with the family, he first winds
+down with a newspaper and cup of sake, and then only when he
+is ready does he expect to be served.  He seems to lead a
+life mostly separate from the family.  These days, it is
+common for them to even miss the family dinner altogether due
+to being out drinking with co-workers, a mandatory ritual of
+the workplace.}
+
+YAEKO
+See--and the food gets thrown away anyway.
+
+NANAKO
+Wasteful, isn't she?
+
+TAEKO
+No, don't throw it away!
+Hey, Mother...!
+
+MOTHER
+You picked these out didn't you?
+If you're going to complain now, then you should have eaten
+all the food on your plate.
+
+GRANDMOTHER
+All of my kids are so selfish.
+
+
+(1966: later)
+
+TAEKO
+Hey, Daddy, could you buy an enamel bag for me?
+
+Yaeko 'ne-chan [Yaeko] won't give me hers.
+
+{The music here is the "Trout" quintet by Schubert.}
+
+FATHER
+You did say you didn't want one.
+
+TAEKO
+But...
+
+FATHER
+You said you didn't want us to get you one, so you don't need
+one.
+
+
+(1966: again later)
+
+MOTHER
+Hurry up and get ready.
+
+TAEKO
+Mmm...
+
+YAEKO
+I think these shoes will do instead...
+
+TAEKO
+Mom, why does Yaeko `ne-chan have to come, too?
+
+Daddy, Mom, and me--you said it would just be us three,
+didn't you?
+
+YAEKO
+I'm going because I'm through studying.  Are you saying I
+can't come too?
+
+MOTHER
+We're having Chinese food.  The more of us, the merrier--
+right?
+
+TAEKO
+But Grandma said she's not coming.
+
+MOTHER
+Your Grandmother doesn't like fatty foods, you know that.
+
+YAEKO
+If you don't want us all to come, why don't you stay with
+her?!
+
+{The broadcast being heard in the background is the popular
+Amateur Singing Competition.  Originally first broadcast on
+the radio in 1946, it was joined in 1952 by an NHK TV
+simulcast.  The song that will be sung later is "Konnichiwa
+Aka-chan" ("Hello, Baby"), heard earlier in instrumental form
+in this film (the scene in which the boys are in the dark
+about the girls purchasing underwear at the school
+infirmary).}
+
+(1966: later)
+
+MOTHER
+Hey, we're leaving, Taeko.
+
+TAEKO (OFF)
+Mmm...
+
+YAEKO
+Hurry up, slowpoke!
+
+TAEKO
+I don't have a handbag.
+
+MOTHER
+Yae-chan [Yae], would you let her have that enamel bag?
+
+
+YAEKO
+Here.
+
+TAEKO
+That hurt...
+
+MOTHER
+Well, let's go.
+
+TAEKO
+I'm not going.
+
+YAEKO
+Oh, really...?  Well, shall we go then, Mother?
+
+MOTHER
+Well, then you can stay with Grandma.
+
+FATHER
+What, "Ta-bo" isn't coming with us?
+
+TAEKO
+I'm not going!
+
+FATHER
+Oh well, let's go then.
+
+
+TAEKO
+I'm coming, too...!
+
+FATHER
+Barefoot..?! {*}
+
+{* In Japanese culture, going outside with no shoes on is
+equivalent to being just in your underwear.  Taeko's father
+comes from a traditional conservative pre-war generation,
+which of course values its traditions strongly, and his
+reaction came automatically.  This situation is probably a
+perfect reflection of the same event in his life as a boy.
+And the manga, by the way, takes more of an edge off of this
+when we see that he winds up not sleeping that night because
+of regretting how he automatically reacted.)
+
+MOTHER
+Father!
+Father, please stop!
+
+YAEKO
+A button came off...
+
+
+(1982: Main farmhouse's tomato patch)
+
+TAEKO
+Going out was postponed, of course.  My cheek was swollen and
+smarted for a long time, even though I tried cooling it with
+a towel.
+
+It was difficult falling asleep that night, thinking things
+like, "why do these things always happen only to me?  I must
+be an adopted child.  Yes, that must be why."
+
+And so I sobbed in my futon bed.
+
+NAOKO
+Was that the first time you were slapped by your dad?
+
+TAEKO
+Uh-huh.  The first and last time.  Only once.
+
+NAOKO
+Hmmm....in my case though, sometimes, but not TOO often, it
+happens a lot.
+
+TAEKO
+"Sometimes" might be better than once, I think.  If its only
+the one time, then you'll wonder why that time in particular.
+
+NAOKO
+But I can't believe Taeko 'ne-chan [Taeko] was so selfish as
+a kid.
+
+TAEKO
+Oh, I was selfish.
+So onion wasn't the only thing I didn't like.
+
+NAOKO
+Oh---what's with me, I feel over-privileged now.
+
+TAEKO
+Oh--what a fix, what a fix!
+
+How can I ask your mother to forgive me if I made you feel
+over-privileged by telling you such a story?  I couldn't!
+
+NAOKO
+I'm going to give up the Puma shoes.
+
+TAEKO
+Way to go!  Then...you might expect a handsome allowance from
+me.
+
+NAOKO
+I getcha.
+
+{The finger-touch an obvious, popular reference to the hit
+1982 box-office record breaker, E.T., just out in America at
+that time--the film, while advertised, would not be
+released until December 4th, yet already it was gaining a
+following.}
+
+NAOKO
+Hey....!
+
+TOSHIO
+What's up?
+
+NAOKO
+100 yen each!  <About 60 cents in 1982.>
+
+
+TOSHIO
+Taeko-san [Taeko]--
+Tomorrow, why don't we drive to Zaoh, for a break?
+
+TAEKO
+Zaoh?
+
+TOSHIO
+Uh-huh.  'Cause I heard you went up to Yamadera {*} last
+year.
+
+{* Yamadera means "Mountain Temple".  The place's namesake is
+the temple Taeko visited, which is where master poet Basho
+(referred to earlier) wrote his most famous haiku.}
+
+Oh, I already got the family to okay it before I came.
+
+TAEKO
+Sheesh.
+
+
+(1982: Zaoh)
+
+NARRATOR
+Zaoh was fantastic.  But Zaoh is Zaoh, after all, and the
+site is now just another holiday resort.
+
+{The music in the background here is by the famous New Age
+composer Kitaro, from his popular soundtrack to the NHK "Silk
+Road" documentary series.}
+
+TOSHIO
+Taeko-san [Taeko], I'm curious why you're not married yet.
+
+TAEKO
+Huh...um, is it so strange to be unmarried?
+
+TOSHIO
+Well, nah, I wasn't saying that, but...
+
+TAEKO
+The number of women who hold jobs has increased these days,
+you know that, and even most of my friends aren't married
+yet.
+
+TOSHIO
+Hmm...is that right?
+
+TAEKO
+Uh-huh, sure it is.
+
+TOSHIO
+Ain't it?
+
+TAEKO
+Sure enough.
+
+TOSHIO
+I see.
+
+TAEKO
+Right, it's common.
+
+TOSHIO
+Hmm...
+
+TAEKO
+Oh, Toshio-san [Toshio]?
+
+TOSHIO
+Hm?
+
+TAEKO
+When you were in elementary school, was it easy for you to
+understand dividing fractions?
+
+TOSHIO
+Huh...?
+
+TAEKO
+You have to switch the numerator with the denominator first,
+and then multiply it together.  Could you do it like you were
+taught?
+
+TOSHIO
+Hmm, I don't really remember, but I wasn't very weak in
+arithmetic.
+
+TAEKO
+Oh, I see...
+
+TOSHIO
+Yep.
+
+TAEKO
+That's good.  You probably don't remember because you could
+do them with little trouble, I suspect.
+
+TOSHIO
+Uh-huh.  But why do you ask?
+
+TAEKO
+It seems like people who could divide fractions easily would
+have little trouble with their life after that, too.
+
+TOSHIO
+Huh?
+
+TAEKO
+There was a modest girl named "Rie-chan" [Rie].  Though she
+wasn't really good at arithmetic, she switched the numerator
+and denominator as told and then got 100%!  Since then, she
+grew up doing what she was told, and had no troubles.
+
+Now she's a mother, with two kids.
+
+TOSHIO
+Hmmm.
+
+TAEKO
+I wasn't very good, actually.  Though I am weak-minded, I get
+picky about things.
+
+
+(1966: Okajima residence)
+
+TAEKO
+Uh...um, you know...be-before this test, you know?  We had
+art class...and, you know...we did "blow pictures."
+
+MOTHER
+"Blow pictures?"
+
+TAEKO
+R...right.  You drop paint on drawing paper, blow like this:
+"phooooo", and you make patterns that way.
+
+MOTHER
+And so?
+
+TAEKO
+You keep blowing "phoooo", you know, "phoooo."
+
+MOTHER
+So?
+
+TAEKO
+My head...started hurting, from going "phoooo" so many
+times, and...
+
+MOTHER
+And that's what is responsible for this score?
+
+TAEKO
+Th...that's right.
+
+MOTHER
+Uh--huh...  So did you get a copy of the right answers for
+the problems you missed?
+
+TAEKO
+Huh?
+
+MOTHER
+The right answers, did you get them?
+
+TAEKO
+Um...uh-huh.
+
+MOTHER
+Ask Yaeko 'ne-chan [your sister Yaeko] about them, okay?
+
+TAEKO
+Yaeko 'ne-chan [Yaeko]?
+
+MOTHER
+Of course.  Nanako 'ne-chan [Nanako] is fine, too.
+
+TAEKO
+O..oh...
+I'll try Nanako 'ne-chan [Nanako], then.
+
+
+(1966: later)
+
+TAEKO
+Nanako 'ne-chan [Nanako] isn't back yet, so is it okay if I
+wait until after dinner?
+
+I guess I'll ask Yaeko 'ne-chan [Yaeko], then...
+
+
+YAEKO
+....Mommm!
+Mom!  Mom!  What the heck is THIS?
+
+Ho...how could this happen?!
+
+MOTHER
+Please explain it to her.  It seems she can't make head or
+tail of it.
+
+YAEKO
+B-b-b-but, but this many...how could she..?!
+
+MOTHER
+So work with her and find out.
+
+YAEKO
+Does Taeko have something wrong with her head?
+
+MOTHER
+I'm asking you to explain it to her, okay?
+
+YAEKO
+But it's impossible, if you do the problem normally, to get
+this kind of score!
+
+MOTHER
+So then Taeko isn't normal, is she?!
+
+Taeko....why don't you go over it with Yae-chan [Yae]?
+You had a headache from "blow pictures", right...right,
+Taeko?
+
+YAEKO
+SIT.
+Recite the drills from the beginning.
+
+TAEKO
+Recite the drills...?  I'm in the fifth grade now, I know
+them.
+
+YAEKO
+If you know the drills, then why did you make those mistakes?
+
+TAEKO
+Because it's dividing fractions, you know that.
+
+YAEKO
+All you need to do is switch the numerator with the
+denominator, and multiply the fractions.  Didn't they teach
+you this in school?
+
+TAEKO
+Um..uh-huh.
+
+YAEKO
+So, then why all the mistakes?!
+
+MOTHER
+Yae-chan, could you try it step-by-step?
+
+TAEKO
+...how does "dividing a fraction BY a fraction" work, anyway?
+
+YAEKO
+Huh?
+
+TAEKO
+Okay, dividing two-thirds of an apple by one fourth--that
+could mean you divide two thirds of an apple among four
+people. {*}
+
+How many parts of the apple does a person get, right?
+
+{* Yes, there is a fatal flaw in this analogy of dividing
+fractions: you are dividing the two thirds not among 4
+people, but among ONE FOURTH of a person!  If this were
+explained properly to Taeko, she might have done well after
+all--in fact she seems to have quite a clear head for logical
+problems and applications, and cares beyond the rote of
+drills.  (Thanks to mathematician Bill Wilkinson for
+explaining how to adjust the same analogy to properly fit the
+problem!--ed.)}
+
+YAEKO
+Huh....?  Um...uh-huh.
+
+TAEKO
+So then, one, two, three, four, five, and six--so one sixth
+of an apple for a single person.
+
+YAEKO
+...wrong, wrong, wrong, wrong.  That's MULTIPLYING fractions.
+
+TAEKO
+Huh...?  How come?  Does a number become smaller when you
+multiply it?!
+
+YAEKO
+Two thirds of an apple divided by a quarter means, uh...it's
+totally off-track!
+
+You can't understand this because you're fussing about
+apples.  You'll have no trouble if you'd just simply memorize
+that you leave multiplication as is and switch in division.
+
+
+(1966: later)
+
+TAEKO
+Isn't her sister a member of Takarazuka?
+
+GRANDMOTHER
+"S.K.D." {*}
+
+{* They are listening to "Sayonara wa Dance no Ato ni" ("Say
+Farewell After the Dance"), a hit song from the prior year,
+which was sung by Chieko Baisho from the Takarazuka theater.
+Her sister was a member of S.K.D., another group of
+performers.  The main lyric heard in this song is "Please
+don't say anything," because this song was chosen to echo
+Taeko's feelings.}
+
+YAEKO
+Taeko got a "D" {a "2"} in math class.
+
+NANAKO
+Huh, a "D"?!
+
+YAEKO
+Right, it's finally gone down to a "D".
+
+NANAKO
+Hmmmm.
+
+MOTHER
+If her score were 50 or 60%, I could simply reprimand her.
+
+YAEKO
+That's true...
+
+NANAKO
+Do you think Taeko ought to have an I.Q. test?
+
+MOTHER
+But when she entered school, she was diagnosed as "normal."
+
+YAEKO
+Maybe she's turned stupid.
+
+NANAKO
+When Taeko was a baby, she fell downstairs from the second
+floor, remember?
+
+YAEKO
+Right, right, in her walker.  I thought she'd killed herself
+that time.
+
+MOTHER
+She only got a bump, though.
+
+NANAKO
+Well, that's what is affecting her now.
+
+YAEKO
+Right, that's got to be it.
+
+MOTHER (OFF)
+Not at all--she's just incredibly weak at arithmetic.
+
+NANAKO (OFF)
+She must be talking in class.
+
+YAEKO (OFF)
+Dividing fractions is quite easy if you pay attention, of
+course.  Even a complete idiot can do it.
+
+NANAKO
+I'm worried about her future.  She is going to be in the
+sixth grade, after all.
+
+
+TAEKO (simultaneously)        YAEKO
+But...I'm right, aren't I?    Does she even study at all at
+                              home?
+
+                              MOTHER
+                              You're right, aren't you?
+
+
+TAEKO (simultaneously)        YAEKO
+How can I imagine dividing    Certainly--you should lecture
+two-thirds of an apple by     her more strongly, Mom.
+a quarter?  I can't do it
+at all.
+
+
+TAEKO (simultaneously)        NANAKO
+But it's got to be right--    Arithmetic in elementary school
+dividing two thirds of an     is very basic.  She's
+apple means you...            been goofing off, so...
+
+
+{It could be pointed out here that in the original manga,
+Taeko went on to get a 5% score on her next test, to her
+worst fears.  However, on the way home, she spitefully tears
+it up and throws it in the gutter, bidding it a happy
+farewell...in the manga, Taeko would have difficulty with
+other kinds of math problems as well in other stories.}
+
+(1982: Zaoh--Okama)
+
+{Okama is the crater lake that is a main attraction in the
+Zaoh mountain range.  1570 meters above sea level, it is also
+known as the "5-color pool" as the small lake's color changes
+as the sun moves across the sky.}
+
+TAEKO
+Even now, it's still tough when I think about it, you know.
+Dividing fractions.
+
+TOSHIO
+Hmm...
+
+It's true.  We farmers should've been more picky, too.
+
+We've always gone with the larger flow, and just followed the
+big cities--we've lost our identities.
+
+So we need to re-think what we consider "real wealth" and
+become more fussy about traditional farming again!
+
+TAEKO
+...you caught me off-guard.  I guess you meant "organic
+farming" by that, right?
+
+TOSHIO
+Uh-huh.
+
+Actually, it's what my "Sempai" [older colleague] told me,
+but it's the way I feel, too.
+
+I think it's great you're keeping your memory of being picky
+about dividing fractions as an important one.
+
+TAEKO
+Oh, no, I didn't mean it to sound like that.  Besides, now
+some people tell me I have an enviable job, but my job is not
+the kind I could be absorbed in anyway, so...
+
+I can't help but admire you being so absorbed in your own
+job, Toshio-san [Toshio]--farming, that is.
+
+TOSHIO
+So, you mean it's ironic, right?
+
+TAEKO
+Huh?  No way!  No, such people are difficult to find now, in
+fact.
+
+TOSHIO
+Now farming's totally declining, as you know.  I wish that I
+could be completely absorbed by my job, and not worry about
+outside problems.  But this isn't the case, and I
+can't help but think about all these things.
+
+I suppose we farmers can't survive without encouragement and
+support that comes from working with our fellows, for
+instance...
+
+
+(1982: Zaoh--ski lift)
+
+TOSHIO
+Taeko-san [Taeko], you go skiing, don't you?
+
+TAEKO
+Oh, a couple of times, with my co-workers.
+
+TOSHIO
+Well, then why don't we go skiing this Winter, then.  I'll
+help you learn.
+
+TAEKO
+Are you a good skier, Toshio-san [Toshio]?
+
+TOSHIO
+Nah, not so great, but I work here each Winter as an
+instructor, so...
+
+TAEKO
+Oh, an instructor?  Then you must be a good skier.
+
+TOSHIO
+Actually a whole bunch of my friends are such instructors!
+
+
+(1982: Mountain road from Zaoh)
+
+TAEKO
+Oh, now this is the country I was expecting. It's the real
+thing.  Not like Zaoh.
+
+TOSHIO
+Well....
+
+The "country".....
+
+TAEKO
+Oh, I'm sorry. I keep saying the "country".
+
+TOSHIO
+No, it's an important point, y'know.
+
+TAEKO
+Oh?
+
+TOSHIO
+Uh-huh.  You see, when people from big cities see the
+forests, the woods, or the flowing water, they quickly accept
+such things as natural.  However, except in the highest
+reaches of the mountains, all the sites that are called the
+"country" are actually made by people.
+
+TAEKO
+People?
+
+TOSHIO
+Yes, farmers.
+
+TAEKO
+That forest too?
+
+TOSHIO
+Yep.
+
+TAEKO
+That wood, too?
+
+TOSHIO
+Yep.
+
+TAEKO
+This stream, too?
+
+TOSHIO
+Yep.
+
+It's not only rice paddies or fields.  Every place has its
+own history--say, from someone's great grandfather who had
+been planting or cultivating, or had been gathering kindling
+or mushrooms, since long ago.
+
+TAEKO
+Oh, I see.
+
+TOSHIO
+While people've been either fighting with nature or
+gaining its benefits, some good had come from what they did;
+the way the countryside has come to look now, all of this.
+
+TAEKO
+Hasn't the appearance itself come without people's help?
+
+TOSHIO
+Well...
+Farmers couldn't live without getting continuous benefits
+from nature, could they?
+
+And that's why the farmers, for a long, long time, have also
+been doing many things for nature themselves.
+
+One might say this is the interdependence between nature and
+people.
+
+Maybe this is what "the country" is.
+
+TAEKO
+I see.  I think that's why it's nostalgic.  I've been
+thinking for a long time about why I feel like this is my
+home, even though I wasn't born or raised here.
+
+Oh, so that was it.
+
+
+(1982: Toshio's farm)
+
+TAEKO
+Ah, my back is starting to hurt.
+
+Organic farming...it's not so cool after all!
+
+TOSHIO
+What's cool is the concept.  I told you before, helping
+living things is quite difficult.
+
+TAEKO
+But it's no different from a hundred years ago, is it?
+
+TOSHIO
+And that's why even organically grown rice is often
+processed with herbicides instead of by hand-weeding like
+back then.  There's just not enough labor.
+
+TOSHIO'S MOTHER
+You sure have been working hard, Taeko-san [Taeko].  Why
+don't we break for tea?
+
+TAEKO
+Whew, you're a life-saver!
+I was just thinking of taking a break.
+
+NARRATOR
+Toshio-san [Toshio] helped me experience many things step by
+step.
+
+I was taking pride in pretending I had already known
+everything about the country.
+
+
+(1982: A sunset...)
+
+TAEKO
+How nice!
+
+"Oh, the crows are returning home.  First one..."
+
+Oh my, at last I could say that in a real village!
+
+It was my dialogue in a school play when I was in the fifth
+grade.
+
+My role was "village child #1" in "Kobutori Jii-san" {*}.
+
+{* Kobutori Jii-san is a folk story common worldwide in many
+variations.  This one is about two old men who had lumps on
+the sides of their faces.  One man, a kind person,
+accidentally encountered "Oni" (man-eating devil-ogres)
+engaged in a dance.  To save his life, he dances with them,
+impressing them with his grace.  In return, they remove the
+lump and let him leave.  The other man, a bad one, heard
+this story, and tried the same, but his disruption and
+vulgar dancing angered the oni, who added the first man's
+lump to the second one's face, doubling his problem.
+Versions of this story abound elsewhere, including an Irish
+Celtic tale of two hunchbacks and singing fairy folk.}
+
+TOSHIO
+Oh, is that it?  I get it--I only got parts as an extra, too.
+
+TAEKO
+How about you, Naoko-chan [Naoko]?
+
+NAOKO
+Umm, well, I usually only got important parts because there
+were only a few people involved.
+
+TOSHIO
+I guess that when our generation was born, the amount of
+immigration to the city for jobs had boomed.  In other words,
+the population drifted from the country to the city and the
+amount of younger people has dwindled here.
+
+TAEKO
+I see.  So then you must have had many interesting
+experiences, haven't you?
+
+NAOKO
+Not really.  I prefer sports meets.  I may not look it, but
+I'm a fast runner.
+
+TAEKO
+That's good.  In my case, I was always in the middle, like I
+was "village child #1" in the school play, for example.
+
+But the dialogue I said was something I will never forget,
+not for the rest of my life.  Because of that dialogue, I
+could have become a star.
+
+NAOKO
+A star?
+
+TAEKO
+Yes.
+
+TOSHIO
+A star, how...?
+
+NAOKO
+Because of "village child #1"?
+
+TAEKO
+Yes.
+
+TOSHIO
+Not because of "Ojii-san" or "Oni"?
+
+TAEKO
+Right.  Due to my great enthusiasm.
+
+TOSHIO
+Were you so pretty?
+
+TAEKO
+No, not like that.
+
+I practiced excessively in front of a mirror in my house.
+
+TOSHIO
+But you were "village child #1," so...
+
+TAEKO
+Right. The dialogue was so short I couldn't be satisfied with
+it even after practicing it a hundred times. You can imagine
+that because the whole thing was "Oh, the crows are
+returning home.  First one!"...
+
+NAOKO
+I know! You added extra lines!
+
+TAEKO
+You got it!
+
+
+(1966: school)
+
+TAEKO
+Oh, look at that!  The crows are returning home.
+
+First one...
+
+BOY 1
+...second one...
+
+TSUNEKO
+...third one...
+
+BOY 2
+...fourth one.
+
+TAEKO
+Farewell, crows!  Take care!
+
+ALL FOUR (unison)
+Yay...!
+
+TOSHIO (OFF/VO)
+Then your teacher praised you?
+
+TAEKO (OFF/VO)
+The exact opposite.
+
+TEACHER
+Okay, you all did very well.
+
+But let's stick with what's in the script.
+
+
+(1966: a little later)
+
+TEACHER/ONI ACTORS (instrument sounds)
+Torerere, torere, tohyarara, tohyra...
+...suto-suto-sutoton, stuton-ton.
+
+NAOKO (OFF/VO)
+In spite of you working hard to come up with those extra
+lines...
+
+TAEKO (OFF/VO)
+In fact, they weren't so good, so I gave them up easily...
+but that didn't mean I had lost my will.  I realized that I
+could still express myself with actions in the parts with no
+dialogue.
+
+
+(1966: Play night)
+
+ANNOUNCEMENT
+Next is "KOBUTORI JII-SAN" by the fifth grade class.
+
+ALL 4 (unison)
+Yaaaay!
+
+CROWS (OFF)
+Caw caw caw!
+
+TAEKO
+Oh, the crows are returning home.
+
+TAEKO
+First one...
+
+BOY 1
+...second one...
+
+TSUNEKO
+...third one...
+
+BOY 2
+...fourth one.
+
+ALL 4 (unison)
+Yaaaaay!
+
+
+(1982: the sunset)
+
+TAEKO
+That was it.  But it was worth making the effort, and my
+acting actually got a good reputation anyway, believe it or
+not.
+
+My mom was asked if I belonged to a child actor's troupe,
+teachers from other classes praised me, things like that.
+
+However, something even far more fantastic happened...
+
+
+(1966: Okajima Residence)
+
+STUDENT
+Excuse me..?
+
+MOTHER (OFF)
+Yes?
+
+DON GABACHO (TV--OFF)
+...oodles of dynamite exploded with a "KER-POW!!" right in
+front of me, don'tcha know?
+
+TAEKO (with cast on TV, unison)
+Don'tcha know?
+
+{This program is Hyokkori Hyohtan Island (Popped-up Gourd
+Island), a televised puppet show very similar to a cross
+between "Beany and Cecil", "Mr. Rodgers Neighborhood", and
+the "Muppets" set on a floating island.  It ran an impressive
+1224 episodes over a span of five years, between 1964 and
+1969.  It attracted many viewers with its modern-day
+storyline and songs, as well as with its fresh wide cast
+of characters.  The character "Don Gabacho" seen here is the
+self-proclaimed President (only recognized by himself as
+such) of the island.  He also loves chickens, and it is part
+of his daily schedule to behave like one. He also makes the
+sound of the endangered Toki crane. He is played by Arihiro
+Fujimura.}
+
+{Taeko is eating "Meiji Marble Chocolate", at that time
+including a free "Tetsuwan Atom" ("Astro Boy") decal inside
+its package.}
+
+MOTHER (OFF)
+What?  You mean Taeko?
+
+DON GABACHO (TV--OFF)
+The three of us--myself, President Kid, and Granny Dokonjo--
+were digging for potatoes, and what a surprise, the pototoes
+were actually dynamite!
+
+MOTHER (OFF)
+Well...but....
+
+STUDENT (OFF)
+In fact, a child actress is necessary for the play we will
+perform at our school festival...and....as a student-
+community collaborative production {*}....I mean...
+
+Whatever the cost, we want Okajima Taeko-chan [Miss Taeko
+Okajima] to perform...
+
+{* If this sounds a little contrived, that's because it
+probably is--he sounds like he's trying to make his student
+production sound a lot more important than it really is,
+and is probably desperate.}
+
+MOTHER
+I...see...
+
+TAEKO
+A child actress!
+
+STUDENT (OFF)
+In her case, we will practice early like in the daytime on
+Saturdays, so...
+
+MOTHER (OFF)
+Well....But.....
+
+STUDENT
+Ah...I will escort her back home every time, so..
+
+DON GABACHO (OFF, TV), SINGING
+
+{Koke Kokko no Uta ("Cock-a-doodle Song")}
+
+"Ko-ke kokko ko-ke kokko ko-ke-ko-ke-ko-ke-ko-ke ko-ke
+kokko" <Rooster sounds>, I crow in a loud voice,
+Announcing the hour, my day begins.
+
+"Au-an-an-aah," how invigorating---my day will be!
+
+Then I--"splish, splash"--wash my face,
+Then--"rub-a-dub"--with a dry towel,
+Then I "gobble, gobble" breakfast down--
+This is the beginning of my day...!
+
+"Au-an-an-aah," how invigorating---my day will be!
+
+Ko-ke-ko-ke-ko-ke-ko-ke, ko-ke kokko!
+(Repeats this line several times, ending with the line Taeko
+joins in on.)
+
+TAEKO
+Am I going to perform in a grown-up's play!?
+
+Not with amateurs like those guys.
+
+I can perform with grown-ups!
+
+...A star!
+
+{Taeko appears on covers of Margaret weekly girl's comic
+magazine (published by Shueisha as the self-proclaimed "Queen
+of Girls' Weekly Magazines") with celebrities Yuzo Kayama and
+Yoko Naito (taken from a REAL Margaret cover), Margaret Mode,
+another magazine with the Hyokkori Hyohtan Island puppet
+cast, inside a celebrity magazine, and a cover feature with
+"A look at Taeko-chan's room".}
+
+TAEKO & GABACHO (singing in unison)
+Ko-ke-ko-ke-ko-ke-ko-ke, ko-ke-kekko!
+
+{Music changes to ending credit music.}
+
+TAEKO
+M..Mom...!
+
+So, so...?
+
+MOTHER
+That gentleman from NICHIDAI <Nippon University> said he
+wants you to perform for their play.
+
+You really shined at the school play.
+
+TAEKO
+And...and...?
+
+MOTHER
+He was quite insistent, and begged for my approval {*}.
+
+{* More literally: "I was bowed to by his head many times and
+he begged for my approval." In other words, she was
+flattered.}
+
+(1966: at dinner)
+
+NANAKO
+Wow, it's great, isn't it?
+
+YAEKO
+I guess everyone has at least one strong point.
+
+MOTHER
+Wait, she's also good at compositions.
+
+GRANDMOTHER
+Taeko may have a talent in those areas rather than for
+arithmetic.
+
+TAEKO
+That's right, that's right!
+
+NANAKO
+In my case, I played an old man for "Shitakirisuzume"
+{another similar folk story}, but nobody paid that kind of
+attention.
+
+TAEKO
+I see, I see...
+
+YAEKO
+So will you...?
+
+
+NANAKO
+Maybe it could be a chance for you to become a professional
+child actress.
+
+TAEKO
+Ah...
+
+YAEKO
+Why don't you join Takarazuka?
+
+NANAKO
+Sure, you might be able to join it if you begin preparing
+now.
+
+FATHER
+Acting is no good.
+
+FAMILY
+Huh...?
+
+FATHER
+Show business is no good.
+
+NANAKO
+Come on, now, "show business" is going a bit too far...
+
+MOTHER
+That's true, isn't it?
+
+FATHER
+No way.  Now, serve.
+
+MOTHER
+...Right.
+
+(1966: after dinner)
+
+NANAKO
+Father is real stubborn, isn't he?
+
+TAEKO
+Hey, why did you have to say "professional child actress"?
+
+NANAKO
+Can I take my bath first?
+
+MOTHER
+Sure, that's okay.
+
+TAEKO
+You said "Takarazuka"
+and "show business", so Father...
+
+Hey, why did you have to say all that?  Nanako `ne-chan
+[Nanako], jeez!
+
+NANAKO
+Lay off, would you?
+
+(1966: the next day)
+
+TORAHIGE (TV--singing)
+{"Poor Boy", re-enacted by Ichiro Nagai*}
+
+"Po--or boy," "po--or boy,"
+Poor me, Torahige.
+
+"Po--or boy," "po--or boy,"
+So far away from me home.
+
+Oh I...,
+When sailin' the seven seas,
+Wuz workin' real hard too.
+
+And now...
+Hyokkori Hyohtan Island's where I've come.
+
+Hey, look--must I work on 'n on?
+
+Or if not, will I be shippin' off somewhere again?  Hmm?
+
+Waaaah--ahhh-aaah--ah.
+
+"Po--or boy," "po--or boy,"
+Poor me, Torahige.
+
+"Po--or boy," "po--or boy,"
+Far away from me home.
+
+"Pooo--oooor boyyyyyy--y!"
+
+{* "Torahige" is another Hyokkori Hyohtan Island character,
+originally voiced by the late Kazuo Kumakura, and re-enacted
+by the talented Ichiro Nagai (a voice in many Hayao Miyazaki
+works, particularly Captain Dyce in Future Boy Conan, and
+best known by anime fans as being the voice of Cherry in
+Urusei Yatsura).  Formerly a pirate, he makes the minor
+change to being Treasurer/Secretary of Finance of the island
+as delegated by Don Gabacho.  In the meantime he also runs a
+department store.  Both characters often collaborate on
+elaborate schemes and scams to make money which always
+inevitably backfire on them.}
+
+
+STUDENT (OFF)
+We're not asking for much of your time, so...
+
+MOTHER
+Um...well, but...
+
+STUDENT
+Please grant this small favor.
+
+MOTHER
+...she's embarrassed, herself...she's shy, so...
+
+I'm terribly sorry you've had to come here so often.
+
+
+(1966: shopping)
+
+TAEKO
+Um...Aoki-san [Aoki] from room 1 was chosen instead of me,
+after all.
+
+MOTHER
+Mm-hmm.
+
+TAEKO
+Aoki-san [Aoki] is bragging to everyone about it, now.
+
+MOTHER
+Uh-huh.
+
+TAEKO
+Like today, her mother came to our school.  She changed to
+formal clothes, and her mom took her to Nichidai.
+
+Her dress had frills that fluttered alllll over the place!
+
+MOTHER
+Taeko.
+
+TAEKO
+Huh?
+
+MOTHER
+You can't tell anyone at school that the young gentleman came
+to us first.
+
+TAEKO
+What...?
+
+MOTHER
+If Aoki-san [Aoki] heard that, she would feel bad.
+
+Understood?
+
+Do you UNDERSTAND?
+
+TAEKO
+Uh-huh...
+
+TV (OFF) (Hyokkori Hyohtan [Popped-up Gourd] Island Theme
+Song)
+
+Waves splash, splash, splash, splash as they are parted.
+Splash, splash, splash!
+
+Clouds zip, zip, zip, zip, as they speed past.
+Zip, zip, zip!
+
+Where is Hyohtan Island going?
+Where is it headed, as it brings us along?
+
+Where the sea meets the horizon of the earth,
+
+TAEKO and TV (unison, singing)
+Something must be waiting.
+
+You may have hard times,
+You may have sad experiences,
+But we will never be discouraged:
+We don't want to cry, so let's laugh--
+Go ahead!
+Hyokkori Hyohtan Island, Hyokkori Hyohtan Island,
+Hyokkori Hyohtan Island...
+
+(1982: the sunset)
+
+NAOKO
+I feel sorry for you, Taeko-chan [Taeko].
+
+TAEKO
+I joined the drama club as soon as I entered high school.  I
+guess I couldn't be expected to forget that experience.
+
+NAOKO
+And?
+
+TAEKO
+It was really fun. I actually got to perform as an actress,
+too.
+
+TAEKO
+But I wasn't fit for acting.  So, it's not really true that I
+missed the chance to become a star, unfortunately.
+
+NAOKO
+But...
+
+TOSHIO
+Dads--either in Tokyo or the country--used to be very
+similar, I believe... When I was in high school, I wanted to
+go to Tokyo at any cost, and, well...
+
+I had sent a letter to Mitsuo-san [Mitsuo] for advice about
+my course of action, in fact.
+
+TAEKO
+Oh, really...?
+
+TOSHIO
+Even after I gave up, when I saw my former classmates, who
+hadn't been as good at school as me, coming back from Tokyo
+and putting on airs, I was really quite humiliated.
+
+Oh, I've changed since then.  Now I have a little bit of
+respect for Dad, at least.  As my senior in farming.
+
+Anyway, I can really understand Taeko-chan's [Taeko's]
+feelings.
+
+TAEKO
+Oh, no--I wasn't serious about that.
+
+TOSHIO
+No--it's the same thing. I can understand.
+
+"But, we will never be discouraged."
+
+"We don't want to cry, so let's laugh," right?  It's
+interesting--I also used to watch "Hyokkori Hyohtan Island".
+
+TAEKO
+Oh, really?!
+
+TOSHIO
+Yeah...Machine-Gun Dandy--he was cool, wasn't he?
+
+TAEKO
+Wow, he was my idol!
+
+{Machine-Gun Dandy, on the police blacklist, came to Hyokkori
+Hyohtan Island seeking refuge, and wound up becoming an
+unlikely hero there.  A chain smoker, he preferred "King
+Yomogi" brand cigars, if he could afford them, and if not,
+then "Saisei" ("Revive") brand cigars.  He was Taeko's #1
+favorite famous guy in 1966, followed by anime characters
+"Super Jetter," "Meteor Boy Pappy," and "Eightman" as #2, #3,
+and #4, respectively, and Akira Mita as #5, while her
+classmates were more interested in popular singers, including
+the new foreign ones like the Beatles or the Monkees (who
+went over quite well in Japan).  Yes, Taeko might be
+considered part of one of the earliest generations of
+"otaku"...)
+
+TOSHIO
+I can imagine.  Oh, it reminds me that we used to have so
+many encouraging songs back in those days--don't you think
+so?  Ummm, there was the another one in "Hyokkori Hyohtan
+Island"....Oh!
+
+TOSHIO
+"If today is not good,
+There will be tomorrow."
+
+"If tomorrow is not good,
+There will be the next day."
+
+BOTH (unison)
+"If the next day is not good,
+There will be the day after that."
+
+"There will be tomorrow,
+No matter how much time passes.
+Don, Don Gabacho, Don Gabacho."
+
+NAOKO
+Weird song...!
+
+NARRATOR
+Toshio-san [Toshio] has been keeping the memory of the song
+in his mind as a positive song, even though it was really a
+song about procrastination which meant, "If today is not
+good, why not put it off until tomorrow?"  From this, I could
+get a nice picture of his way of thinking.
+
+
+(1982: the farmhouse)
+
+BANCHA
+I'm afraid you're headed back tomorrow.
+
+TAEKO
+Yes.
+I really must thank you for having me for so long.  Please
+take care of yourself too, Obaa-chan [Auntie].
+
+BANCHA
+Thank you so much.
+
+Taeko-san [Taeko], do you like it here?
+
+TAEKO
+Yeah, a great deal. I feel completely at home, here.
+
+BANCHA
+Really...I've only lived here since I was born and the
+wedding of Mitsuo to your sister was the only opportunity for
+me to go to Tokyo...but do you really like it here more than
+Tokyo?
+
+TAEKO
+Sure, why not?
+
+Tokyo is messy...only buildings and cars everywhere you can
+see...
+
+It doesn't seem like a place for people to live at anymore.
+For me, being from Tokyo, this is like a whole different
+world here.
+
+BANCHA
+Honestly...?  You really like this place so much?
+
+TAEKO
+Sure, because of the rich nature here...
+And also the very kind people here...
+
+BANCHA
+Then, Taeko-san [Taeko], would you mind if I asked you to
+become...Toshio's wife?
+
+TAEKO
+Huh?
+
+BANCHA
+Mitsuo's living in Tokyo, you love this place, so naturally
+you could live here in his place.  What do you think?
+
+KIYOKO
+Ban-chan [Ban]!
+
+KAZUO
+Mom! You shouldn't blurt things out like that...
+
+Can't you tell Taeko-san [Taeko] is upset?
+
+BANCHA
+Please think about it, Taeko-san [Taeko].
+
+KAZUO
+Sorry, never mind her, she's just kidding.
+Right, you're just kidding, aren't you, Ban-chan [Ban].
+
+BANCHA
+No, I'm very serious. And I know both of you would like what
+I asked her, wouldn't y'all?
+
+KAZUO
+Listen here...it doesn't matter at all if we want her to
+change or...
+
+KIYOKO
+Of course we'd like to do that.  But y'know, Taeko-san
+[Taeko] is clearly a Tokyo woman, so...
+
+KAZUO
+And that's it.
+
+KIYOKO
+But y'know, Taeko-san [Taeko] likes it here, an' works hard
+in the fields, so it's fine with us.  In fact, of course it'd
+be great if she became Toshio-san's [Toshio's] wife.
+
+KAZUO
+What, you too--what're you saying?  Don't you think this is
+rude to Taeko-san [Taeko]?  Think: Taeko-san's [Taeko's] got
+a job already in Tokyo, and Toshio is younger than her, to
+boot.
+
+KIYOKO
+Oh, but she could find a job in Yamagata, too, couldn't she?
+
+Taeko-san [Taeko], please don't get angry, just hear me out.
+All young wives of farmers have other jobs on the side, these
+days, so...
+
+KAZUO
+Why did you have to bring all this up?  Besides, Taeko-san's
+[Taeko's] only visited here twice to enjoy her vacation.
+You're only embarrassing her by saying this kind of thing out
+of the blue.
+
+KIYOKO
+So you're against us, then.
+
+KAZUO
+That's beside the point.  I'm trying to say you should face
+this kind of thing realistically.  We haven't even asked
+Toshio about his feelings, anyway, so I wonder how Ban-chan
+[Ban] can come off and say...
+
+BANCHA
+I can tell right away just by looking at Toshio.
+
+KIYOKO
+Right. Instead of assuming its impossible from the start,
+like you, why don't we ask how Taeko-san [Taeko] feels...
+
+Taeko-san [Taeko]!
+
+KAZUO
+Leave her alone.  See what I've been saying?  You should know
+better and build up to that kind of question more slowly.
+
+BANCHA
+I don't think I was wrong.
+
+
+(1982: the road to the main farmhouse)
+
+NARRATOR
+Becoming a farmer's wife.  I never imagined that before...
+
+Yet the fact its possible for me to live in such a manner was
+enough to give a strange impression.
+
+"If you don't mind..."  Just like in some movie I'd seen
+before.  How wonderful it would be if I could speak with such
+an open heart.   But I couldn't.
+
+My vague belief that I love the country, and my playing
+at work in the fields made me have a guilty conscience all at
+once.  I was ashamed of myself, always saying "what a nice
+place" without knowing hard winters or the reality of
+farming.
+
+I wasn't prepared for anything.  And everyone knew this from
+the start.
+
+I felt too awkward to stay.
+
+
+ABE (OFF)
+I'm not gonna shake hands with you.
+
+TSUNEKO (OFF)
+Hey, hey, the shirt Abe-kun's wearing today--
+
+PIGTAILED GIRL (OFF)
+What, what?
+
+TSUNEKO (OFF)
+It's the exact same one Tanaka-kun [Tanaka] wore when he was
+in the fourth grade.
+
+BOB-HAIRED GIRL (OFF)
+Wha....?
+
+TSUNEKO (OFF)
+Keep it secret.
+
+PIGTAILS (OFF)
+You know what?  When its Abe-kun's [Abe's] turn to feed the
+ducks, he takes the bread crumbs home for food.
+
+BOBBED HAIR (OFF)
+Say what?
+Have you seen Abe-kun's [Abe's] palms?  Incredible!
+
+PIGTAILS (OFF)
+I'm sure glad my seat's not near him.
+
+BOBBED HAIR (OFF)
+I feel sorry for you, Taeko-chan [Taeko].
+
+TSUNEKO (OFF)
+Why don't you ask the teacher to have your seat changed?
+
+PIGTAILS (OFF)
+Right, Right.  Boys ought to sit with boys... right, Taeko-
+chan [Taeko]?
+
+TAEKO
+I...I don't mind.  It's rude to Abe-kun [Abe] to act like
+that.
+
+BOBBED HAIR
+You really don't mind?!
+
+PIGTAILS
+Say what?  Aren't you the goody-goody?
+
+TSUNEKO
+You better keep this conversation a secret, all right?
+
+ABE
+You want to get beat up?
+
+TAEKO
+Abe-kun! [Abe!]
+
+TOSHIO
+What're you doing out here?
+
+TAEKO
+Nothing.  I needed to walk around a little.
+
+TOSHIO
+You're all soaked.  But c'mon, hop in.
+
+It's a present, I just...  Its pickled vegetables my mom
+made.
+
+TAEKO
+Um, don't go back to the farmhouse.
+
+TOSHIO
+Huh?  How come?
+
+TAEKO
+Please.  Anywhere but there.
+
+TOSHIO
+Is something the matter?
+
+TAEKO
+I had a friend, a boy named "Abe-kun" ["Abe"].
+
+He transferred to my school.  He got the seat next to me.
+
+Abe-kun [Abe] once said, "I'm not gonna shake hands with
+you."
+
+
+Abe-kun was, you see...
+
+I guess his family was quite poor, so he didn't even have a
+P.E.  uniform.  He was filthy, and wiped his nose noisily on
+his sleeve or picked it.
+
+And if you tried to keep from looking shocked by him, he
+threatened you by saying "You want to get beat up?"  I hated
+it and could hardly bear it, so I was looking forward to the
+Summer vacation--we wouldn't be able to change our seats
+until then.
+
+When we danced the "Oklahoma Mixer" {yes, the American square
+dance}, I hated to hold his hand, and I also hated how he
+forced me to lend him my notebook when he didn't bring his
+homework.
+
+The girls gossiped about Abe-kun [Abe], whispering things
+like anti-contagion hexes <"engacho", like against
+"cooties">.
+
+However, at least I didn't join that group.  Because I felt
+it was the worst thing to hate someone by talking about them
+behind their back.  However...
+
+Before the summer vacation, it was time for Abe-kun [Abe] to
+move to another school again, and our teacher decided that
+all his classmates should shake his hand, one by one, to say
+good-bye.
+
+The feeling that no one really wanted to do this spread out
+immediately.
+
+Some lines of dirt were visible on Abe-kun's [Abe's] palm.
+He walked around shaking everyone's hand, but it was obvious
+that Abe-kun [Abe] was being teased a lot.
+
+He was supposed to shake hands with me at the end.  But when
+I reached out, Abe-kun [Abe] said, "I'm not gonna shake hands
+with you."
+
+"I'm not gonna shake hands with you..."
+
+The one who was thinking the most... that Abe-kun [Abe] was
+dirty, was me.
+
+Abe-kun [Abe] must have known this, in fact.  So that's why
+he didn't let me shake his hand...
+
+TOSHIO
+May I ask what happened at the farmhouse?
+
+TAEKO
+I have been such a person since I was a child, and I still
+am.
+
+TOSHIO
+Ah-ha.
+
+You seem strange today. It's not like the Taeko-san [Taeko]
+that I know.
+
+Anyway, its not my business what you've been saying at the
+farmhouse.
+
+TAEKO
+Um,
+Don't misunderstand--its not related to the farmhouse at all.
+
+I'm sorry. I remembered my time in elementary school, and
+immediately was ashamed of myself.
+
+TOSHIO
+This "Abe-kun" ["Abe"] guy was a fool if it's true.  It could
+have been that he liked you and didn't want to leave, so he
+didn't shake your hand, couldn't it?
+
+TAEKO
+Huh?  No way!  The one Abe-kun [Abe] liked was Kobayashi-san
+[Kobayashi], the girl class president {see the homeroom
+debate part of this film}.  He was always bullying me.
+
+He'd put his hands in his pockets and say things like,
+"Grown-ups are people who can spit or tear leaves off bushes
+if they feel like it, tsk!" when I met him.
+
+And then he'd saunter off.
+
+TOSHIO
+See, I thought so--I can understand Abe-kun's [Abe's]
+feelings. I also have made a girl whom I liked cry by teasing
+her on purpose.
+
+TAEKO
+It wasn't like that!  He shook hands with all the other
+classmates.  I was the only one he didn't shake hands with.
+
+TOSHIO
+Well, that's the trouble with you girls. You just don't
+understand the way boys feel at all.
+
+TAEKO
+...jeez, don't act so presumptuous.
+
+TOSHIO
+Well, can't I say the truth?
+
+Abe-kun [Abe] wasn't so strong, was he?  He couldn't bully
+boys around.  And as a transfer student, he didn't have any
+friends.
+
+Taeko-san [Taeko], you sat next to him, so it was much easier
+for him to bully you.  He was dependent on you, Taeko-san
+[Taeko], as someone he could tease.
+
+Essentially, he must not have wanted to shake hands with
+everyone, right?  But with you, Taeko-san [Taeko], he could
+express himself honestly, like, "I'm not gonna shake hands
+with you."
+
+
+(1966: Street marketplace)
+
+ABE'S FATHER
+Don't act so foul!
+
+{Taeko is carrying a 1966 February 20th issue of Margaret
+magazine, featuring singer Kazuo Funaki on the cover.}
+
+TAEKO (OFF)
+I...
+
+
+(1982: Toshio's car)
+
+TAEKO
+I felt guilty about Abe-kun [Abe], and tried behaving like
+him.
+
+But it was too late, in spite of my actions.
+
+Because I can't amend the fact I hurt him by avoiding him.
+
+
+TOSHIO
+Oh, its stopped raining.
+
+TAEKO
+Hey, you're right.
+
+TOSHIO
+The moon's come out.
+
+Quite often you can see tanuki <raccoon dog> or martens <ten>
+if you drive around here.
+
+TAEKO
+Wow...
+
+TOSHIO
+Should we head back, now?
+
+TAEKO
+Oh!  This is terrible, they must be all worried about me.
+
+TOSHIO
+Whoops.  I wonder if there'll be wild rumors flying around
+now?
+
+TAEKO
+I'm sorry.  I needed your help to recover, Toshio-san
+[Toshio].
+
+TOSHIO
+I wonder what really did happen at the farmhouse, anyway...
+
+TAEKO
+Oh, uh, please, don't ask a single thing about it when we
+get back, okay?
+
+TOSHIO
+Then...shall I play some folk music?
+
+{The music is "Stornelli" a traditional Italian folk song
+performed by "Italie Eternelle."  The accompanying image is
+thus of a hayride in Tuscany.}
+
+NARRATION
+For the first time, I was trying to think about what my
+feelings about Toshio-san [Toshio] were, and Toshio-san's
+[Toshio's] feelings about me.
+
+Even if it was accidental, what a surprise it was that my
+closed-off heart was fixed by Toshio-san [Toshio].
+
+It was a kind of mystery to me how I could rely on Toshio-san
+[Toshio] so much.
+
+I felt as if Toshio-san [Toshio] was older than me.  The one
+whom I wanted to shake hands with...was Toshio-san [Toshio].
+
+Merely "shake hands"...?
+
+
+What could this feeling be...?  Feeling Toshio-san [Toshio]
+near me, I was absorbed by this question.
+
+
+(1982: Takase train station)
+
+{Takase Station, in the Yamagata Prefecture, is one of the
+stations along Sendai's (of the Miyagi Prefecture) Takase
+Line.  It is 10 minutes from the Yamagata station Taeko
+arrived at. }
+
+BANCHA
+Have you forgotten anything?
+
+TAEKO
+No, it's all right.
+
+TOSHIO
+Okay, I'll be waiting for you this Winter.
+
+TAEKO
+Sure, I'll study a bit more on farming until then.
+
+TOSHIO
+Huh?  Wasn't it supposed to be skiing?  In any case, you
+can't learn more about skiing without doing it.
+
+BANCHA
+Consider what I said, okay, Taeko-san [Taeko]?
+
+TOSHIO
+Huh?  What, Ban-chan [Ban]?
+
+NAOKO
+What's this?
+
+BANCHA
+Oh, nothing.
+
+It's Taeko-san's [Taeko's] and my secret.
+
+TOSHIO
+Well, you seemed different yesterday, so...
+
+TAEKO
+I'm sorry. I'll be okay next time. I won't bring my fifth-
+grade self along anymore.
+
+OLD MAN
+Wait up!
+
+{His cassette player is playing an old popular song, "Suki ni
+Natta Hito" (One Whom I Loved) which made its singer, Harumi
+Miyako, quite famous long before this 1982 setting (a little
+temporal confusion..?)  She also will be singing the brand
+new ending credit song, a translation of "The Rose", of this
+film!}
+
+TAEKO
+Take care, Naoko-chan [Naoko].
+
+NAOKO
+Goodbye...!
+
+{This song is also sung by the 1991 Harumi Miyako, and is a
+Japanese-language version of "The Rose" called "Ai wa Hana,
+Kimi wa Sono Tane" (Love is a Flower, You are the Seed).
+"The Rose" is the title song of the movie by the same title,
+performed by Bette Midler, who starred in the role of Janis
+Joplin in this pseudo-biography of her life.}
+
+Washing away tenderness,
+ love, it's a river.
+Cutting the soul to pieces,
+ love, it's a knife.
+An incessant thirst,
+ love is, they say, but
+ love is a flower, the flower of life;
+ you are the seed.
+
+Afraid of being discouraged,
+ your heart never dances.
+Afraid of waking up,
+ your dream never takes chances.
+Hating to be taken away
+ your heart won't give.
+Afraid of dying,
+ you cannot live.
+
+Long night, all alone,
+ long road, all alone.
+Love doesn't come
+ when you think it will;
+ please remember, though
+ it's buried under the snow in winter,
+ in spring, with the sun's love,
+ the seed blossoms into a flower.
+
+{The station Taeko transfers at is at Yamadera (see the part
+of this film before she went to Zaoh).}
+
+(ending credits)
+
+The End
