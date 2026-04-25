@@ -1,0 +1,939 @@
+SOURCE: Parsed subtitle file provided by user (ponyo_en_v2_parsed.json).
+NOTE: Speaker labels assigned from film knowledge. 20 minor background lines
+      marked UNKNOWN (bystanders, unnamed young mother, background crew).
+      ELDERLY_RESIDENT = unnamed care home residents as a group.
+      Timestamps [MM:SS] retained as position anchors for text analysis.
+      Significant silences (>30 s) are marked as scene breaks.
+
+SPEAKER KEY:
+  SOSUKE           - 5-year-old boy, main character
+  PONYO            - Goldfish princess / Brunhilde, main character
+  LISA             - Sosuke's mother
+  FUJIMOTO         - Ponyo's father, the undersea sorcerer
+  GRAN_MAMARE      - Ponyo's mother, the sea goddess
+  KOICHI           - Sosuke's father, ship captain (mostly via signal lamp)
+  TOKI             - Grumpy-but-lovable elderly care home resident
+  YOSHIE           - Care home nurse/worker
+  KUMIKO           - Girl at Sosuke's school/care home
+  ELDERLY_RESIDENT - Unnamed care home residents
+  SAILOR           - Crew of Koichi's ship, the Koganei Maru
+  UNKNOWN          - Unnamed bystanders and minor background characters
+
+================================================================================
+PONYO ON THE CLIFF BY THE SEA (崖の上のポニョ)
+Complete English Dialogue Transcript with Speaker Attribution
+Written and Directed by Hayao Miyazaki | Studio Ghibli (2008)
+================================================================================
+
+
+[06:49]  LISA: Sousuke, come right back!
+[06:51]  SOSUKE: Okay.
+
+────────────────────────────────────────────────────────────
+  [scene break — 101s silence at 08:33]
+────────────────────────────────────────────────────────────
+
+[08:33]  SOSUKE: A goldfish...
+[08:47]  SOSUKE: It's stuck.
+[09:06]  SOSUKE: That was weird.
+[09:18]  SOSUKE: Ow!
+[09:22]  SOSUKE: Is it dead?
+[09:28]  SOSUKE: It licked me... It's alive.
+[09:33]  LISA: Sousuke, we're leaving!
+[09:36]  SOSUKE: Lisa, I caught a goldfish!
+[09:49]  FUJIMOTO: This wind feels strange...
+[09:51]  LISA: Sousuke, I'm starting the car!
+[10:03]  FUJIMOTO: Did you find her?
+[10:09]  FUJIMOTO: What? Captured by a human?
+[10:16]  FUJIMOTO: This is bad... Very bad.
+[10:44]  SOSUKE: Are you dead?
+[10:54]  SOSUKE: You're alive!
+[11:05]  LISA: Sousuke! I'm going to be late!
+[11:09]  SOSUKE: Lisa! I caught a goldfish.
+[11:13]  LISA: A goldfish?
+[11:14]  SOSUKE: Down by the rocks.
+[11:42]  LISA: I'm sorry, but you can't use weed killer here.
+[11:48]  FUJIMOTO: Heavens, no! This is pure sea water. It keeps me humidified.
+[11:54]  LISA: As long as it's not weed killer.
+[11:57]  FUJIMOTO: Good day!
+[12:07]  LISA: This is very
+[12:12]  LISA: What a creepy guy.
+[12:13]  LISA: But don't youout strangers, Sousuke.
+[12:17]  SOSUKE: I won't.
+[12:18]  LISA: Are you taking that to school?
+[12:22]  LISA: Won't your teacher complain?
+[12:24]  SOSUKE: Don't worry, I'll take care of you.
+[12:28]  LISA: She's cute!
+[12:36]  LISA: They're using the dry dock.
+[12:39]  LISA: Here, eat this before we get there.
+[12:43]  SOSUKE: Maybe she's hungry.
+[12:46]  SOSUKE: Want some?
+[12:49]  SOSUKE: Hey, my cut is gone!
+[12:54]  SOSUKE: Lisa, I'm going to call her Ponyo.
+[12:58]  SOSUKE: She's really special! She can do magic.
+[13:01]  SOSUKE: She fixed my cut.
+[13:14]  SOSUKE: Want some ham?
+[13:31]  SOSUKE: Lisa, Ponyo likes ham!
+[13:34]  LISA: That makes two of us.
+[13:59]  FUJIMOTO: Oh, no...
+[14:03]  FUJIMOTO: Disgusting!
+[14:05]  YOSHIE: Hurry, Lisa-san!
+[14:15]  FUJIMOTO: Such filth! Intolerable!
+[14:20]  LISA: Good morning!
+[14:28]  SOSUKE: Look, Ponyo. There's our house.
+[14:41]  LISA: Morning.
+[14:53]  LISA: I'll drop you here.
+[14:54]  SOSUKE: Okay.
+[14:55]  LISA: Have fun.
+[14:56]  SOSUKE: See you.
+[14:59]  LISA: Morning. Sorry I'm late.
+[15:00]  LISA: Could you get Noriko-san's wheelchair?
+[15:02]  YOSHIE: Yes.
+[15:18]  YOSHIE: Good morning, Sou-chan.
+[15:20]  SOSUKE: I'm busy, Yoshie-san. Talk to you later.
+[15:22]  YOSHIE: My!
+[15:24]  TOKI: Hello, Sousuke-chan.
+[15:25]  SOSUKE: Can't talk now, Toki-san.
+[15:27]  TOKI: Oh, my.
+[15:35]  SOSUKE: Maybe the teacher will get mad.
+[15:39]  SOSUKE: I know!
+[15:44]  SOSUKE: Wait here. I'll be back soon.
+[15:50]  SOSUKE: What if a cat comes?
+[16:03]  SOSUKE: Stay here. I'll be right back.
+[16:14]  LISA: See you later. Oh, hi, Toshi-chan.
+[16:18]  LISA: It's all right. She'll be just fine.
+[16:22]  LISA: Okay, thanks. Bye-bye.
+[16:24]  SOSUKE: Good morning, Sensei.
+[16:26]  UNKNOWN: Hello, Sou-chan.
+[16:27]  UNKNOWN: How are you?
+[16:34]  KUMIKO: Sousuke!
+[16:36]  SOSUKE: Kumiko-chan...
+[16:36]  KUMIKO: Like my dress? Mommy got it for me.
+[16:40]  SOSUKE: Oh...
+[16:41]  KUMIKO: Let's play, Sousuke!
+[16:43]  SOSUKE: Not now. I'm busy.
+[16:45]  KUMIKO: How come?
+[16:47]  SOSUKE: I told you, I'm busy.
+[16:49]  KUMIKO: You're no fun.
+[16:51]  SOSUKE: Yeah!
+[17:13]  SOSUKE: Ponyo!
+[17:22]  KUMIKO: Sousuke!
+[17:24]  SOSUKE: Kumiko-chan...
+[17:25]  KUMIKO: What's that?
+[17:26]  KUMIKO: You're not supposed to bring stuff.
+[17:29]  SOSUKE: But these trees aren't on school grounds, so that should be fine.
+[17:33]  KUMIKO: Show me.
+[17:36]  KUMIKO: Oh, a goldfish.
+[17:37]  SOSUKE: It's not a goldfish. It's Ponyo.
+[17:40]  KUMIKO: Ponyo? I want to see!
+[17:42]  SOSUKE: Promise not to tell?
+[17:44]  KUMIKO: I promise.
+[17:48]  SOSUKE: Isn't she cute?
+[17:56]  KUMIKO: It looks weird and fat. My goldfish is much cuter.
+[18:22]  SOSUKE: It's Kumiko-chan's fault. She was mean to you.
+[18:30]  SOSUKE: I'll give you some more water.
+[18:55]  SOSUKE: Ponyo!
+[19:03]  SOSUKE: You scared me.
+[19:09]  YOSHIE: Why, how odd. That was Sousuke-chan's voice.
+[19:16]  YOSHIE: But he's supposed to be in school.
+[19:20]  YOSHIE: I must be hearing things.
+[19:22]  SOSUKE: I'm here, Yoshie-san.
+[19:26]  YOSHIE: I knew I heard your voice.
+[19:31]  SOSUKE: Do I have a secret?
+[19:33]  ELDERLY_RESIDENT: Yes!
+[19:34]  SOSUKE: Bingo!
+[19:36]  SOSUKE: Okay, what color is my secret?
+[19:41]  ELDERLY_RESIDENT: Red!
+[19:44]  SOSUKE: Good guess.
+[19:46]  SOSUKE: How'd you know?
+[19:48]  ELDERLY_RESIDENT: Show us.
+[19:50]  SOSUKE: All right.
+[19:53]  ELDERLY_RESIDENT: Oh, how pretty!
+[19:55]  ELDERLY_RESIDENT: Very cute!
+[19:57]  SOSUKE: Her name is Ponyo.
+[19:58]  SOSUKE: She loves ham and she can do magic.
+[20:02]  SOSUKE: I cut my thumb, but she fixed it.
+[20:08]  ELDERLY_RESIDENT: I wonder if she'd fix our legs.
+[20:12]  ELDERLY_RESIDENT: We could run around just like you.
+[20:17]  SOSUKE: Well, I'd have to ask Ponyo first.
+[20:20]  TOKI: Can I take a look?
+[20:23]  SOSUKE: Sure, Toki-san.
+[20:26]  TOKI: Heavens, it has a face!
+[20:30]  TOKI: Put it back before it brings a tsunami!
+[20:35]  YOSHIE: You're so superstitious, Toki-san.
+[20:38]  TOKI: That's what the old stories say.
+[20:41]  TOKI: Fish like that are bad luck.
+[20:46]  TOKI: The tsunami! It's here!
+[20:50]  TOKI: The tsunami is here!
+[20:53]  ELDERLY_RESIDENT: Tsunami...
+[20:58]  YOSHIE: What's wrong, Toki-san?
+[20:59]  TOKI: Just look at my clothes!
+[21:09]  LISA: Sousuke!
+[21:16]  LISA: Sousuke!
+[21:20]  LISA: Sousuke!
+[21:26]  LISA: Come back here and apologize to Toki-san!
+[21:38]  SOSUKE: Don't worry. I'll protect you.
+[21:44]  FUJIMOTO: Sousuke.
+[21:48]  FUJIMOTO: Sousuke.
+[21:54]  SOSUKE: Ponyo!
+[21:58]  PONYO: Ponyo. Sousuke.
+[22:01]  PONYO: Ponyo... loves...
+[22:04]  PONYO: ...Sousuke!
+[22:10]  SOSUKE: I love you too.
+[22:12]  PONYO: Ponyo loves Sousuke!
+
+────────────────────────────────────────────────────────────
+  [scene break — 41s silence at 22:56]
+────────────────────────────────────────────────────────────
+
+[22:56]  SOSUKE: Ponyo!
+[23:02]  SOSUKE: Ponyo!
+[23:06]  SOSUKE: Ponyo!
+[23:09]  PONYO: Sousuke!
+[23:13]  SOSUKE: Ponyo!
+[23:18]  SOSUKE: Ponyo!
+
+────────────────────────────────────────────────────────────
+  [scene break — 57s silence at 24:16]
+────────────────────────────────────────────────────────────
+
+[24:16]  LISA: Listen, Sousuke. Maybe it was fate.
+[24:20]  LISA: It just can't be helped.
+[24:23]  LISA: Ponyo was born in the sea.
+[24:25]  LISA: She went back home. That's all.
+[24:27]  LISA: Anyway, let's hope that creepy guy is gone.
+[24:32]  SOSUKE: One lick?
+[24:34]  LISA: Hurry, it's melting!
+[24:39]  SOSUKE: Not bad!
+[24:46]  LISA: Cheer up. Koichi will be home tonight.
+[24:50]  LISA: He'll be disappointed if you're feeling down.
+[25:19]  LISA: No more ocean today, okay?
+[25:49]  LISA: Sousuke?
+[25:51]  LISA: Time to come inside.
+[25:53]  SOSUKE: Do you think this bucket will help Ponyo find us?
+[25:58]  LISA: There's only one way to find out.
+[26:16]  LISA: Can you get that, Sousuke? It must be Koichi.
+[26:21]  SOSUKE: Hello?
+[26:23]  KOICHI: Yes, it's me.
+[26:25]  KOICHI: Yes, I'm fine.
+[26:27]  KOICHI: I can't get back tonight. I'll signal when I'm offshore.
+[26:32]  SOSUKE: Okay. Here's Lisa.
+[26:36]  LISA: Koichi? Yes... What?!
+[26:39]  LISA: Can't you get out of it?
+[26:42]  LISA: Fine... Leave your wife and son up on the cliff!
+[26:46]  LISA: I give up!
+[26:51]  LISA: Why bother?
+[26:53]  LISA: C'mon, Sousuke. Let's eat out!
+[26:56]  SOSUKE: I want to eat here.
+[27:27]  SOSUKE: There he is!
+[27:28]  SOSUKE: Turn off the lights, Lisa.
+[27:54]  KOICHI: It's Sousuke! He's a genius. Only five years old.
+[27:59]  SAILOR: Your wife must be upset.
+[28:05]  SOSUKE: He says he's sorry.
+[28:11]  LISA: JERK
+[28:19]  LISA: JERK!!!!!!!!!!
+[28:24]  SOSUKE: He says he loves you!
+[28:27]  SOSUKE: Lots and lots!
+[28:36]  LISA: JERK JERK JERK JERK JERK JERK JERK
+[28:42]  SOSUKE: Wow, that's pretty!
+[28:53]  KOICHI: GOOD LUCK
+[28:55]  KOICHI: THANKS
+[28:58]  KOICHI: LOVE AND KISSES
+[29:19]  SOSUKE: Don't cry, Lisa.
+[29:22]  LISA: I won't cry.
+[29:25]  SOSUKE: I promised Ponyo, I'd take care of her.
+[29:34]  SOSUKE: I hope she isn't crying.
+[29:39]  LISA: Okay, let's cheer up!
+[29:44]  LISA: "I'm happy as can be..."
+[29:47]  LISA: Ow!
+[29:49]  LISA: Don't worry, Sousuke.
+[29:51]  LISA: I'm sure Ponyo is fine too.
+[29:57]  LISA: Now, let's eat. We'll eat Koichi's dinner too!
+[30:10]  FUJIMOTO: This is all my fault.
+[30:12]  FUJIMOTO: Bringing you along to watch me was a mistake.
+[30:17]  FUJIMOTO: How often have I warned you about humans?
+[30:21]  FUJIMOTO: Their very breath is polluted.
+[30:23]  FUJIMOTO: Come, you must eat.
+[30:26]  FUJIMOTO: Can't you hear me, Brunhilde?
+[30:29]  PONYO: I want ham!
+[30:33]  FUJIMOTO: H-Ham?! What on earth have you been doing?
+[30:37]  FUJIMOTO: Answer me, Brunhilde!
+[30:39]  PONYO: My name's not Brunhilde. It's Ponyo.
+[30:43]  FUJIMOTO: P- Po- Ponyo?
+[30:45]  PONYO: Ponyo loves Sousuke.
+[30:47]  PONYO: I want to be human!
+[30:51]  FUJIMOTO: Human?
+[30:52]  FUJIMOTO: How could you love such disgusting creatures?
+[30:56]  FUJIMOTO: They rob the sea of life.
+[31:00]  FUJIMOTO: I was human myself... once.
+[31:03]  FUJIMOTO: I finally escaped that awful heritage...
+[31:05]  PONYO: I want hands!
+[31:08]  PONYO: I don't like this!
+[31:12]  PONYO: I want legs like Sousuke!
+[31:15]  FUJIMOTO: Of all the nonsense!
+[31:35]  PONYO: Look at me! Hands and feet!
+[31:40]  PONYO: Look at me!
+[31:40]  FUJIMOTO: No... Don't tell me you tasted human blood?!
+[31:44]  PONYO: Wanna see Sousuke!
+[31:46]  FUJIMOTO: No! His blood has deranged your DNA!
+[31:50]  FUJIMOTO: Revert... Revert...
+[31:58]  FUJIMOTO: Go back... Go back!
+[32:05]  FUJIMOTO: It's not working. I need more power.
+[32:21]  PONYO: Let me out!
+[32:22]  FUJIMOTO: Be still, you evil blood.
+[32:26]  FUJIMOTO: Revert, revert!
+[32:38]  FUJIMOTO: Just like her mother... So strong.
+[32:47]  FUJIMOTO: She should remain innocent and pure forever.
+[33:11]  FUJIMOTO: I can't hold her for long.
+[33:14]  FUJIMOTO: I need her mother's help.
+[33:26]  FUJIMOTO: No! My elixir is too strong for you!
+[33:29]  FUJIMOTO: Shoo! Go away!
+[33:31]  FUJIMOTO: My crab shields were weakening.
+[33:35]  FUJIMOTO: I nearly upset Nature's balance.
+[33:37]  FUJIMOTO: I must stay calm.
+[33:38]  FUJIMOTO: When I think of meeting her again, I'm starting to get nervous.
+[33:42]  FUJIMOTO: This batch should be ready.
+[33:55]  FUJIMOTO: No leaks down here.
+[34:01]  FUJIMOTO: This door is loose.
+[34:08]  FUJIMOTO: I'll fix it later.
+[34:17]  FUJIMOTO: If even one creature got in here...
+[34:43]  FUJIMOTO: Superb!
+[34:45]  FUJIMOTO: I feel the ocean's power in my very DNA.
+[34:50]  FUJIMOTO: When this well is full, the Era of the Ocean will begin.
+[34:54]  FUJIMOTO: An explosion of life to match the Cambrian Era!
+[34:58]  FUJIMOTO: This revolting era of Man will be over.
+[35:05]  FUJIMOTO: Better fix this door.
+
+────────────────────────────────────────────────────────────
+  [scene break — 84s silence at 36:31]
+────────────────────────────────────────────────────────────
+
+[36:31]  PONYO: Teeth!
+[36:41]  PONYO: I'm going back to Sousuke!
+
+────────────────────────────────────────────────────────────
+  [scene break — 151s silence at 39:14]
+────────────────────────────────────────────────────────────
+
+[39:14]  SAILOR: A waterspout?
+[39:15]  SAILOR: Captain, look there!
+[39:21]  SAILOR: Tsunami!
+[39:22]  KOICHI: Turn her into the waves!
+[39:26]  SAILOR: What's that?
+[39:32]  SAILOR: Captain! Radio's out, the radar too!
+[39:39]  KOICHI: A little girl? She must be Sousuke's age!
+[39:52]  SOSUKE: Bye-bye. See you tomorrow.
+[39:56]  UNKNOWN: Thanks. Take care.
+[40:00]  YOSHIE: Sou-chan, do you want to wait here together?
+[40:04]  SOSUKE: It's okay. I'll take the shortcut.
+[40:05]  SOSUKE: Goodbye, Sensei.
+[40:07]  UNKNOWN: Goodbye.
+[40:09]  YOSHIE: Be careful out there.
+
+────────────────────────────────────────────────────────────
+  [scene break — 43s silence at 40:53]
+────────────────────────────────────────────────────────────
+
+[40:53]  LISA: Sorry, Sousuke. The door wouldn't open, would it?
+[40:56]  LISA: The power's out.
+[40:58]  YOSHIE: Was the school okay?
+[41:00]  YOSHIE: Lisa-san, we'll be fine. Go home.
+[41:03]  LISA: Are you sure?
+[41:05]  YOSHIE: Don't worry. We'll be just fine.
+[41:08]  YOSHIE: We're spending the night anyway. You should go while you can.
+[41:14]  LISA: Wait for me, Sousuke.
+[41:28]  SOSUKE: Yoshie-san.
+[41:30]  YOSHIE: Why, Sou-chan... It's so dark, I didn't see you.
+[41:35]  SOSUKE: This is for you.
+[41:40]  ELDERLY_RESIDENT: My, what is it?
+[41:43]  SOSUKE: One for you, Noriko-san.
+[41:45]  ELDERLY_RESIDENT: Thank you.
+[41:47]  ELDERLY_RESIDENT: Can't see a thing.
+[41:49]  TOKI: This is such foolishness!
+[41:52]  TOKI: I don't want to spend the night.
+[41:58]  YOSHIE: The power's on.
+[42:00]  ELDERLY_RESIDENT: Oh, good.
+[42:00]  ELDERLY_RESIDENT: Certainly is.
+[42:02]  ELDERLY_RESIDENT: It's a goldfish!
+[42:04]  YOSHIE: Maybe Sou-chan's magic made the lights go on?
+[42:08]  UNKNOWN: Extremely powerful... Micro typhoon...
+[42:11]  UNKNOWN: Ships should exercise extreme caution...
+[42:15]  TOKI: This TV is useless.
+[42:17]  LISA: Those idiots couldn't forecast their way out of a paper bag.
+[42:22]  YOSHIE: You should go home, Sou-chan.
+[42:25]  YOSHIE: Your goldfish will bring us luck.
+[42:27]  ELDERLY_RESIDENT: We're not afraid now.
+[42:38]  SOSUKE: Here's yours, Toki-san.
+[42:44]  TOKI: It's all wrinkled. What is it?
+[42:47]  SOSUKE: Like this.
+[42:51]  TOKI: I know! It's a grasshopper.
+[42:53]  SOSUKE: No, the Koganei Maru.
+[42:55]  YOSHIE: That's your father's ship, right?
+[42:59]  TOKI: Still looks like a grasshopper.
+[43:02]  LISA: We're leaving, Sousuke. Say goodbye to everyone.
+[43:08]  SOSUKE: Goodbye, everybody.
+[43:10]  ELDERLY_RESIDENT: Goodbye.
+[43:13]  TOKI: Don't let the wind blow you away!
+[43:16]  LISA: Climb over.
+[43:23]  LISA: The phones are out too.
+[43:48]  SOSUKE: The sea is puffed up!
+[43:54]  SOSUKE: Will the ships sink?
+[43:57]  LISA: They're safe out at sea. I'm sure that's where Koichi is.
+[44:13]  SOSUKE: - I see fish, Lisa. - Your seatbelt!
+[44:27]  UNKNOWN: You've got to turn back!
+[44:30]  UNKNOWN: People are going to the shelters.
+[44:33]  LISA: But there are people at the senior center!
+[44:37]  UNKNOWN: They'll be all right. They're on the leeward side.
+[44:42]  LISA: I've just got to get home.
+[44:45]  UNKNOWN: You'd better go around the mountain.
+[44:51]  LISA: Here we go, Sousuke.
+[44:54]  SOSUKE: No! Stop!
+[44:55]  LISA: Look out for that wave!
+[45:03]  LISA: Here it comes!
+[45:04]  UNKNOWN: Run for it, Lisa-san!
+
+────────────────────────────────────────────────────────────
+  [scene break — 40s silence at 45:46]
+────────────────────────────────────────────────────────────
+
+[45:46]  SOSUKE: The fish are following us.
+[45:48]  LISA: Seatbelt, Sousuke!
+[46:03]  LISA: Hold on tight!
+
+────────────────────────────────────────────────────────────
+  [scene break — 52s silence at 46:57]
+────────────────────────────────────────────────────────────
+
+[46:57]  LISA: That wave won't quit!
+[47:09]  SAILOR: A little girl fell in. She was riding a fish.
+[47:18]  KOICHI: Where?
+[47:28]  SAILOR: The sea keeps rising.
+[47:30]  KOICHI: Where did you see her?
+[47:32]  SAILOR: Running on top of a fish.
+[47:35]  KOICHI: A fish?!
+[47:41]  LISA: Come on, Sousuke.
+[47:58]  LISA: Hang on, Sousuke! We're almost home.
+
+────────────────────────────────────────────────────────────
+  [scene break — 54s silence at 48:56]
+────────────────────────────────────────────────────────────
+
+[48:56]  LISA: A little girl!
+[48:58]  LISA: It's dangerous out here. You'd better come with us.
+[49:01]  LISA: Stay there, Sousuke.
+[49:29]  LISA: Sousuke, do you know her?
+[49:52]  SOSUKE: Ponyo?
+[49:54]  PONYO: Yes, it's me!
+[49:57]  SOSUKE: It's you!
+[50:00]  SOSUKE: Ponyo's a little girl now, Lisa!
+[50:15]  PONYO: I made it!
+[50:36]  LISA: Now listen, children.
+[50:39]  LISA: No matter how strange everything seems...
+[50:43]  LISA: ...we have to stay calm, all right?
+[50:46]  LISA: Now be good.
+[50:51]  LISA: Take off your rain coat, Sousuke.
+[50:53]  LISA: Here, Ponyo, you hold the light.
+[51:01]  LISA: I'll bring you a towel.
+[51:20]  SOSUKE: C'mon, Ponyo!
+[51:24]  PONYO: It smells just like you!
+[51:29]  SOSUKE: Ouch!
+[51:29]  SOSUKE: Ponyo!
+[51:35]  LISA: Gotcha! Let's get you dried off.
+[51:43]  LISA: Such pretty red hair!
+[51:48]  LISA: But your clothes are dry...
+[51:50]  SOSUKE: Ponyo was a fish. Water doesn't make her wet.
+[51:58]  PONYO: I like this!
+[52:00]  LISA: All right! Who wants a hot drink?
+[52:03]  LISA: Help me with the light, Ponyo.
+[52:06]  PONYO: Coming!
+[52:08]  SOSUKE: Think we'll have water?
+[52:10]  PONYO: Sure!
+[52:15]  PONYO: Water!
+[52:18]  LISA: We have a tank outside.
+[52:23]  SOSUKE: What about the gas?
+[52:25]  PONYO: Presto!
+[52:27]  SOSUKE: All right!
+[52:29]  LISA: It's propane.
+[52:33]  LISA: Okay, take your seats.
+[52:36]  PONYO: Okay!
+[52:37]  SOSUKE: Over here, Ponyo.
+[52:45]  SOSUKE: Sit down, like this.
+[52:50]  LISA: Put your stuff down.
+[52:54]  LISA: You need your hands.
+[52:56]  PONYO: I have feet!
+[53:00]  SOSUKE: Wow!
+[53:05]  LISA: What are you two doing?
+[53:07]  SOSUKE: Her feet are like hands.
+[53:29]  LISA: There you go.
+[53:32]  LISA: Here.
+[53:38]  PONYO: This is the best!
+
+────────────────────────────────────────────────────────────
+  [scene break — 48s silence at 54:28]
+────────────────────────────────────────────────────────────
+
+[54:28]  LISA: That hit the spot.
+[54:31]  LISA: What shall we do now?
+[54:34]  PONYO: I want ham!
+[54:36]  SOSUKE: She's crazy about ham.
+[54:40]  LISA: Then let's eat.
+[54:42]  LISA: But first let's start the generator.
+[54:46]  LISA: We need electricity to talk to Koichi.
+[54:51]  SOSUKE: Koichi is my father.
+[54:53]  PONYO: Is he a bad sorcerer?
+[54:55]  SOSUKE: No, silly. He's a ship captain.
+[54:59]  LISA: What about your father, Ponyo?
+[55:01]  PONYO: Fujimoto! He keeps me prisoner.
+[55:05]  PONYO: I ran away.
+[55:09]  LISA: What about your mother?
+[55:11]  PONYO: I love my mother!
+[55:15]  PONYO: She's really scary.
+[55:17]  SOSUKE: Sounds like Lisa.
+[55:24]  SOSUKE: Can you help me, Ponyo?
+[55:43]  SOSUKE: Maybe the fuel's too old?
+[55:45]  LISA: Is it clogged?
+[55:46]  SOSUKE: Clogged.
+[55:47]  PONYO: It's clogged there.
+[56:05]  LISA: Success!
+[56:07]  PONYO: All bright!
+[56:10]  SOSUKE: Wow, Ponyo!
+[56:30]  PONYO: Antenna! Antenna!
+[56:32]  SOSUKE: Did all the ships sink, Lisa?
+[56:36]  LISA: I can't see a single light.
+[56:56]  PONYO: So loud!
+[56:58]  SOSUKE: What's wrong?
+[57:00]  LISA: Even the radio is out of whack.
+[57:04]  LISA: This is JA4LL... JA4LL.
+[57:08]  LISA: Come in, Koichi.
+[57:11]  LISA: It's Lisa, Sousuke and Ponyo. We're all doing fine.
+[57:16]  LISA: We're going to have dinner.
+[57:19]  PONYO: Ham!
+[57:29]  LISA: Ready? Careful, it's hot.
+[57:48]  PONYO: It's not ready yet.
+[57:50]  SOSUKE: It takes three minutes.
+[58:07]  SOSUKE: Close your eyes!
+[58:10]  PONYO: Not yet!
+[58:13]  SOSUKE: No peeking, Ponyo.
+[58:19]  SOSUKE: Okay, you can look now.
+[58:22]  LISA: And... presto!
+[58:30]  PONYO: Ham!
+[58:32]  SOSUKE: Good for you, Ponyo.
+[58:55]  SOSUKE: Lisa, Ponyo fell asleep.
+[59:04]  SOSUKE: Is her home far away?
+[59:06]  LISA: I think it must be.
+[59:24]  LISA: Look, Sousuke. The sea is calmer.
+[59:28]  SOSUKE: Because Ponyo's asleep?
+[59:30]  LISA: Look over there!
+[59:39]  SOSUKE: It's moving. Someone's up there.
+[59:42]  LISA: People from the senior center?
+[59:51]  SOSUKE: It's gone.
+[59:52]  LISA: That's the peak road.
+[59:57]  LISA: Sousuke, stay there with Ponyo.
+[60:11]  LISA: Maybe I could get through on the mountain road.
+[60:18]  LISA: I'm going to the senior center.
+[60:20]  SOSUKE: I'll go too.
+[60:23]  LISA: Stay here with Ponyo.
+[60:25]  SOSUKE: I'm going too. Let's take Ponyo with us.
+[60:29]  SOSUKE: I'm going with you!
+[60:33]  LISA: Sousuke, our house is a lighthouse in the storm.
+[60:36]  LISA: Everyone out there is depending on us.
+[60:41]  LISA: Someone has to stay here.
+[60:44]  LISA: Lots of things are happening that I don't understand.
+[60:48]  LISA: But right now I'm worried about the people at the senior center.
+[60:54]  LISA: Just knowing you're here will help me.
+[60:58]  LISA: Don't worry. I promise to come back.
+[61:02]  SOSUKE: Promise?
+[61:05]  LISA: I promise.
+[61:06]  SOSUKE: You promised!
+[61:09]  LISA: I love you, Sousuke.
+
+────────────────────────────────────────────────────────────
+  [scene break — 55s silence at 62:05]
+────────────────────────────────────────────────────────────
+
+[62:05]  SAILOR: I see the lights of the town!
+[62:09]  KOICHI: Finally...
+[62:10]  KOICHI: Now we can navigate.
+[62:12]  KOICHI: I've never seen that town before.
+[62:20]  SAILOR: Did the storm blow us to America?
+[62:41]  KOICHI: That's not a mountain. And that's no harbor...
+[62:44]  SAILOR: Those are ships!
+[62:56]  KOICHI: The sea is piled up into a mountain!
+[63:00]  SAILOR: It's a ship graveyard.
+[63:02]  KOICHI: What's going on?
+[63:09]  SAILOR: We lost power!
+[63:10]  KOICHI: Heave to! Drop the sea anchor!
+[63:14]  SAILOR: Aye-aye!
+[63:28]  SAILOR: Something is coming!
+[63:58]  KOICHI: A sea goddess?!
+[64:10]  SAILOR: The engine!
+[64:11]  SAILOR: We're saved!
+[64:12]  KOICHI: The engine started again. It was Her!
+[64:16]  KOICHI: Protect us from harm...
+[64:47]  FUJIMOTO: Come on, come on.
+[65:02]  FUJIMOTO: A barrier spell! Where did she learn this?
+[65:24]  FUJIMOTO: Good heavens... she's human!
+[65:28]  FUJIMOTO: Hey, watch out! What are you doing?
+[65:39]  FUJIMOTO: Stop! This is unsafe!
+[65:45]  FUJIMOTO: Stop that at once!
+[65:54]  FUJIMOTO: I'm simply trying to save your sister.
+[66:03]  FUJIMOTO: She's here. She answered my call!
+
+────────────────────────────────────────────────────────────
+  [scene break — 37s silence at 66:43]
+────────────────────────────────────────────────────────────
+
+[66:43]  GRAN_MAMARE: Fujimoto...
+[66:44]  FUJIMOTO: You came, my beloved.
+[66:47]  GRAN_MAMARE: Such a beautiful ocean.
+[66:53]  GRAN_MAMARE: So full of magic, like my ancient Devonian sea.
+[66:58]  FUJIMOTO: It's Ponyo! She tasted human blood...
+[67:01]  FUJIMOTO: ...and plundered all of my elixir.
+[67:05]  GRAN_MAMARE: Ponyo...
+[67:06]  GRAN_MAMARE: What a lovely name.
+[67:14]  FUJIMOTO: It's all my fault.
+[67:17]  FUJIMOTO: She's totally beyond my control. It's a complete chaos.
+[67:21]  FUJIMOTO: She doesn't understand what she's done.
+[67:24]  FUJIMOTO: Now she's human, and she's up there with her boyfriend!
+[67:30]  FUJIMOTO: If we don't stop her, the planet is doomed!
+[67:43]  FUJIMOTO: No! The satellites are falling.
+[67:46]  FUJIMOTO: Earth's gravitational field...
+[67:49]  GRAN_MAMARE: Be still...
+[67:58]  GRAN_MAMARE: Sousuke... that is his name, yes?
+[68:06]  GRAN_MAMARE: You love your sister, don't you?
+[68:13]  GRAN_MAMARE: Listen, dear... What if Ponyo really became human?
+[68:18]  GRAN_MAMARE: Use the old magic.
+[68:20]  GRAN_MAMARE: If Sousuke's love is real, she'll lose her powers forever.
+[68:25]  GRAN_MAMARE: But if it's not, she'll turn to sea foam!
+[68:30]  GRAN_MAMARE: That's where we all came from, dear.
+[68:33]  FUJIMOTO: But he's only five. That's impossible!
+[68:42]  GRAN_MAMARE: Sleep well, little children.
+[68:58]  PONYO: Sousuke!
+[69:04]  SOSUKE: Ow!
+[69:08]  SOSUKE: Good morning, Ponyo.
+[69:10]  PONYO: Morning, Sousuke.
+[69:18]  SOSUKE: We almost got flooded.
+[69:44]  SOSUKE: Where's Lisa?
+[69:46]  PONYO: She must be stuck someplace.
+[69:49]  SOSUKE: I wish we had a boat.
+[69:54]  PONYO: There's a boat!
+[69:58]  SOSUKE: We can't fit.
+[70:00]  PONYO: Can so.
+[70:17]  SOSUKE: Awesome!
+[70:21]  SOSUKE: The candle's bigger too.
+[70:23]  SOSUKE: We can fit.
+[70:24]  SOSUKE: This is cool.
+[70:26]  PONYO: Cool!
+[70:28]  SOSUKE: Grab that end.
+[70:32]  SOSUKE: Ready?
+[70:34]  PONYO: Ready!
+[70:48]  SOSUKE: She's seaworthy!
+[70:52]  SOSUKE: Awesome. No leaks!
+[70:55]  SOSUKE: Now we fill the boiler.
+[70:58]  SOSUKE: The water goes in here.
+[71:01]  PONYO: It goes in the boiler.
+[71:31]  PONYO: It's like a rocket!
+[71:40]  SOSUKE: Everything's shipshape.
+[71:41]  PONYO: Shipshape...
+[71:44]  PONYO: Shipshape?
+[71:46]  PONYO: Shipshape! Shipshape!
+[72:12]  PONYO: Is it hot?
+[72:13]  SOSUKE: Hot!
+[72:18]  PONYO: Hot!
+[72:19]  SOSUKE: It's hot.
+[72:24]  SOSUKE: The candle's burning.
+[72:25]  PONYO: It's burning!
+[72:26]  PONYO: Hot! Hot! Hot!
+[72:37]  SOSUKE: It's hot.
+[72:50]  SOSUKE: Awesome!
+[72:53]  PONYO: We're shipshape, Sousuke!
+[72:56]  SOSUKE: This is great.
+[73:06]  PONYO: This is so much fun.
+[73:09]  PONYO: It's burning, Sousuke.
+[73:12]  PONYO: It's really hot.
+[73:15]  SOSUKE: Keep a lookout in front.
+[73:17]  SOSUKE: I'll steer the boat.
+[73:19]  PONYO: Okay, I'm the lookout.
+[73:48]  PONYO: There's a road.
+[73:50]  SOSUKE: That's the road Lisa took.
+[73:54]  PONYO: I don't see her.
+[73:56]  SOSUKE: You will. She gave me her promise.
+[74:04]  SOSUKE: Ancient fish... from the Devonian age!
+[74:08]  SOSUKE: There's Bothriolepis.
+[74:15]  SOSUKE: That one is...
+[74:16]  SOSUKE: Dipnorhynchus.
+[74:18]  PONYO: Dipnorhynchus!
+[74:20]  SOSUKE: That one's really huge.
+[74:22]  SOSUKE: That's Devonynchus.
+[74:24]  PONYO: Devonynchus!
+[74:32]  SOSUKE: Ahoy!
+[74:38]  PONYO: A boat!
+[74:40]  SOSUKE: Ahoy!
+[74:43]  ELDERLY_RESIDENT: They're calling us.
+[74:45]  SOSUKE: Ahoy!
+[74:49]  PONYO: Ow!
+[74:58]  SOSUKE: Pretty good, huh?
+[75:03]  SOSUKE: Now, Ponyo.
+[75:11]  PONYO: Hello.
+[75:13]  ELDERLY_RESIDENT: That's a wonderful boat you have.
+[75:16]  ELDERLY_RESIDENT: Why, it's Lisa's little boy, Sou-chan.
+[75:19]  SOSUKE: It's Sousuke, not Sou-chan!
+[75:22]  SOSUKE: This is Ponyo.
+[75:24]  PONYO: I was a fish before.
+[75:27]  ELDERLY_RESIDENT: A fish?
+[75:29]  ELDERLY_RESIDENT: Ponyo... that's a nice name.
+[75:33]  SOSUKE: Mister, have you seen Lisa?
+[75:35]  ELDERLY_RESIDENT: Lisa-san?
+[75:38]  ELDERLY_RESIDENT: She's not with you?
+[75:39]  SOSUKE: She's at the center.
+[75:41]  ELDERLY_RESIDENT: The senior center?
+[75:42]  UNKNOWN: This is my baby.
+[76:14]  ELDERLY_RESIDENT: Oh, my. What happened?
+[76:22]  ELDERLY_RESIDENT: Is that for us?
+[76:38]  ELDERLY_RESIDENT: Give me the cup, dear.
+[76:45]  ELDERLY_RESIDENT: Thank you.
+[76:46]  ELDERLY_RESIDENT: Let's try it.
+[76:52]  ELDERLY_RESIDENT: Delicious soup!
+[76:54]  SOSUKE: Lisa made it.
+[76:56]  SOSUKE: It's for the baby.
+[76:59]  UNKNOWN: Oh, I'm sorry. He can't handle soup yet.
+[77:04]  UNKNOWN: But this will help me make milk for him.
+[77:10]  UNKNOWN: Lisa gave me her milk too.
+[77:13]  ELDERLY_RESIDENT: Ponyo, may I have this soup?
+[77:16]  PONYO: Sure.
+[77:19]  ELDERLY_RESIDENT: Thank you.
+[77:37]  SOSUKE: People from the town.
+[77:39]  PONYO: It's like a festival.
+[77:41]  ELDERLY_RESIDENT: You there! Do you need assistance?
+[77:46]  UNKNOWN: Thanks, we're okay right now!
+[77:52]  ELDERLY_RESIDENT: Then please follow us.
+[77:54]  ELDERLY_RESIDENT: We're going to the hotel on the peak.
+[77:57]  UNKNOWN: Okay! Will do.
+[78:02]  SOSUKE: The whole town's here.
+[78:04]  SOSUKE: I hope everyone's all right.
+[78:06]  SOSUKE: Let's go, Ponyo.
+[78:08]  PONYO: Hold on a second.
+[78:16]  PONYO: Milk!
+[78:17]  UNKNOWN: Oh, my...
+[78:20]  PONYO: Milk!
+[78:21]  SOSUKE: She ate up all the ham.
+[78:24]  UNKNOWN: Thank you. This will help me make good milk.
+[78:27]  ELDERLY_RESIDENT: Can you use another candle for your boat, Sousuke-kun?
+[78:31]  SOSUKE: Yeah. Ponyo will make it bigger.
+[78:34]  SOSUKE: Thanks.
+[78:36]  ELDERLY_RESIDENT: Be careful!
+[78:37]  UNKNOWN: Thank you both!
+[78:44]  ELDERLY_RESIDENT: What is it, dear?
+[78:50]  ELDERLY_RESIDENT: Don't cry.
+[79:11]  TOKI: Ponyo!
+[79:25]  ELDERLY_RESIDENT: Sou-chan!
+[79:27]  ELDERLY_RESIDENT: It's Sou-chan!
+[79:28]  ELDERLY_RESIDENT: Amazing!
+[79:28]  ELDERLY_RESIDENT: Looks cool!
+[79:29]  YOSHIE: Where's Lisa-san? Isn't she with you?
+[79:32]  SOSUKE: I'm going to pick her up.
+[79:35]  YOSHIE: So she survived that wave?
+[79:39]  KUMIKO: Sousuke, take me with you!
+[79:42]  SOSUKE: Later, Kumiko-chan. I'm busy right now.
+[79:45]  YOSHIE: Everyone from the center evacuated to the park.
+[79:49]  YOSHIE: Take care!
+[79:50]  ELDERLY_RESIDENT: You can do it!
+[79:52]  YOSHIE: We'll send a boat for them later.
+[79:55]  TOKI: Good luck, captain!
+
+────────────────────────────────────────────────────────────
+  [scene break — 49s silence at 80:47]
+────────────────────────────────────────────────────────────
+
+[80:47]  SOSUKE: Time for a new candle, Ponyo.
+[80:53]  SOSUKE: We're okay. I have another one.
+[80:57]  SOSUKE: Ow!
+[80:59]  SOSUKE: It's still pretty hot.
+[81:05]  PONYO: Bye-bye.
+[81:09]  SOSUKE: Can you make this candle bigger?
+[81:13]  PONYO: All right.
+[81:20]  SOSUKE: Are you sleepy, Ponyo?
+[81:30]  SOSUKE: Ponyo!
+[81:47]  SOSUKE: Ponyo! Ponyo!
+
+────────────────────────────────────────────────────────────
+  [scene break — 58s silence at 82:46]
+────────────────────────────────────────────────────────────
+
+[82:46]  SOSUKE: Good... It's shallow enough to walk.
+[83:15]  PONYO: A road!
+[83:29]  SOSUKE: It's shrinking!
+[83:32]  SOSUKE: Ponyo!
+[83:53]  SOSUKE: Ponyo!
+[83:56]  SOSUKE: Ponyo, wake up!
+[84:00]  PONYO: Sousuke...
+[84:08]  SOSUKE: I'm relieved.
+[84:10]  SOSUKE: I thought you were turning into a fish.
+[84:25]  SOSUKE: Lisa's car!
+[84:26]  SOSUKE: Ponyo, that's her car!
+[84:32]  SOSUKE: Lisa!
+[84:38]  SOSUKE: Lisa!
+[84:43]  SOSUKE: Lisa!
+[84:47]  SOSUKE: Lisa!
+[84:53]  SOSUKE: Lisa!
+[84:57]  SOSUKE: Lisa!
+[85:02]  SOSUKE: Lisa!
+[85:32]  FUJIMOTO: Here's your boat.
+[85:34]  PONYO: Your eyes are wet.
+[85:44]  SOSUKE: Let's find Lisa.
+
+────────────────────────────────────────────────────────────
+  [scene break — 47s silence at 86:33]
+────────────────────────────────────────────────────────────
+
+[86:33]  YOSHIE: You forgot your wrap!
+[86:34]  TOKI: Who needs it?
+[86:36]  TOKI: Hurry up!
+[86:37]  ELDERLY_RESIDENT: Look, it's a whale!
+[86:42]  TOKI: My knees don't hurt anymore!
+[86:43]  ELDERLY_RESIDENT: What were we so afraid of?
+[86:45]  ELDERLY_RESIDENT: Is this the Other Side?
+[86:46]  ELDERLY_RESIDENT: Who cares? It's wonderful.
+[86:51]  FUJIMOTO: Attention, please! Gather round.
+[86:54]  ELDERLY_RESIDENT: Coming!
+[86:56]  ELDERLY_RESIDENT: Shall we?
+[86:59]  TOKI: It's so nice to run.
+[87:02]  ELDERLY_RESIDENT: Meet you there!
+[87:07]  TOKI: The winner!
+[87:11]  YOSHIE: You're so fast, Kayo-san.
+[87:14]  FUJIMOTO: Quiet, everyone!
+[87:17]  FUJIMOTO: The moment of truth is at hand.
+[87:19]  FUJIMOTO: Sousuke-kun and Ponyo are almost here.
+[87:22]  ELDERLY_RESIDENT: It's so romantic.
+[87:23]  ELDERLY_RESIDENT: Will love triumph?
+[87:25]  ELDERLY_RESIDENT: I'm so excited!
+[87:29]  FUJIMOTO: Quiet!
+[87:30]  FUJIMOTO: Very soon, you will bear witness to a sacred trial of love.
+[87:33]  FUJIMOTO: I'm asking you to wait patiently.
+[87:37]  YOSHIE: Fujimoto-san, you're not up to something, are you?
+[87:41]  ELDERLY_RESIDENT: I hope not!
+[87:43]  ELDERLY_RESIDENT: Nonsense, he's her father.
+[87:45]  ELDERLY_RESIDENT: They'll be fine...
+[87:47]  FUJIMOTO: ...if she doesn't wake up.
+[87:49]  FUJIMOTO: Now excuse me!
+[87:59]  YOSHIE: I'd like to believe him...
+[88:02]  ELDERLY_RESIDENT: Where's Lisa-san gone to?
+[88:04]  YOSHIE: She's been talking with Ponyo's mother for ages.
+[88:17]  ELDERLY_RESIDENT: I hope she's okay.
+[88:20]  ELDERLY_RESIDENT: What are they talking about?
+[88:22]  ELDERLY_RESIDENT: Let's find out. Lisa-san!
+[88:25]  ELDERLY_RESIDENT: Lisa-san!
+[88:34]  TOKI: We're all rooting for Sousuke and Ponyo!
+[88:54]  ELDERLY_RESIDENT: Lisa-san!
+[88:56]  GRAN_MAMARE: You must be worried.
+[88:57]  GRAN_MAMARE: Sou-chan will be just fine.
+[88:59]  GRAN_MAMARE: He's a strong little boy.
+[89:03]  LISA: Thanks, everyone. He'll need your support.
+[89:15]  SOSUKE: Ponyo, it's a tunnel.
+[89:21]  FUJIMOTO: STOP
+[89:33]  SOSUKE: I've been here before.
+[89:36]  SOSUKE: Ponyo?
+[89:38]  PONYO: I don't like this place.
+[89:44]  SOSUKE: Don't let go of my hand.
+
+────────────────────────────────────────────────────────────
+  [scene break — 38s silence at 90:24]
+────────────────────────────────────────────────────────────
+
+[90:24]  SOSUKE: Ponyo!
+[90:44]  SOSUKE: Ponyo!
+[90:53]  SOSUKE: Ponyo!
+[91:16]  SOSUKE: Please don't die!
+[91:19]  SOSUKE: Ponyo!
+[91:22]  SOSUKE: Wake up, Ponyo!
+[91:25]  FUJIMOTO: Let her sleep.
+[91:28]  FUJIMOTO: I've been waiting for you, Sousuke-kun.
+[91:30]  FUJIMOTO: Lisa-san and the old ladies are waiting too.
+[91:34]  SOSUKE: Lisa?!
+[91:35]  FUJIMOTO: Won't you come with me? You and Ponyo.
+[91:42]  FUJIMOTO: Let's not wake her up.
+[91:45]  TOKI: Sousuke!
+[91:47]  TOKI: Don't listen to him!
+[91:51]  TOKI: He tricked everyone into going with him.
+[91:54]  SOSUKE: Toki-san!
+[91:55]  TOKI: But he couldn't fool me!
+[91:58]  TOKI: There's no time, I tell you.
+[92:01]  TOKI: Don't you see what's happening?
+[92:03]  TOKI: If the Moon comes any closer, we're finished!
+[92:07]  TOKI: Liar! Is that the best you can do?
+[92:11]  TOKI: Sousuke, come here!
+[92:13]  FUJIMOTO: Listen to me, Sousuke-kun. You're the planet's last hope.
+[92:17]  FUJIMOTO: Don't make me use force.
+[92:20]  SOSUKE: Ponyo!
+[92:24]  FUJIMOTO: Is this how you treat your father?
+[92:32]  SOSUKE: Ponyo!
+[92:34]  TOKI: Run, Sousuke!
+[92:37]  FUJIMOTO: You don't understand!
+[92:44]  TOKI: You can make it!
+[92:48]  TOKI: Jump!
+
+────────────────────────────────────────────────────────────
+  [scene break — 40s silence at 93:29]
+────────────────────────────────────────────────────────────
+
+[93:29]  FUJIMOTO: Now what?
+
+────────────────────────────────────────────────────────────
+  [scene break — 55s silence at 94:25]
+────────────────────────────────────────────────────────────
+
+[94:25]  SOSUKE: Lisa!
+[94:26]  LISA: Sousuke!
+[94:27]  LISA: Ponyo!
+[94:33]  SOSUKE: Look over there.
+[94:35]  LISA: Where are we?
+[94:47]  GRAN_MAMARE: So you are Sousuke-san.
+[94:50]  SOSUKE: Hello.
+[94:51]  SOSUKE: Are you Ponyo's mother?
+[94:53]  GRAN_MAMARE: Yes.
+[94:55]  GRAN_MAMARE: I want to thank you for bringing my daughter back to me.
+[95:00]  GRAN_MAMARE: Sousuke-san...
+[95:01]  GRAN_MAMARE: Ponyo wanted to be like you, but she unleashed a terrible power.
+[95:06]  GRAN_MAMARE: To become human, she must be loved...
+[95:10]  GRAN_MAMARE: ...for who she really is.
+[95:14]  GRAN_MAMARE: Do you know that Ponyo was a fish?
+[95:18]  SOSUKE: Yes.
+[95:19]  GRAN_MAMARE: Your blood made her almost human.
+[95:23]  SOSUKE: That's right!
+[95:24]  SOSUKE: Ponyo licked my cut and made it better.
+[95:28]  SOSUKE: So that's why she changed!
+[95:32]  GRAN_MAMARE: Can you accept her as she is?
+[95:36]  SOSUKE: I'll always love Ponyo...
+[95:38]  SOSUKE: ...whether she's a fish, a human...
+[95:40]  SOSUKE: ...or in between.
+[95:56]  GRAN_MAMARE: Come, Ponyo.
+[96:13]  GRAN_MAMARE: Ponyo, Sousuke-san has promised to accept you as you are.
+[96:20]  GRAN_MAMARE: But first, you must give up your powers.
+[96:25]  GRAN_MAMARE: Can you do that?
+[96:37]  GRAN_MAMARE: Kiss this bubble when you return to land...
+[96:40]  GRAN_MAMARE: ...and Ponyo will be a little girl.
+[96:48]  SOSUKE: Way to go, Ponyo!
+[96:51]  SOSUKE: Thank you, Ponyo's mother!
+[96:59]  GRAN_MAMARE: Now the planet is safe again.
+[97:06]  TOKI: Splendid, Sou-chan!
+[97:08]  LISA: Sousuke!
+[97:14]  LISA: Sousuke!
+[97:40]  GRAN_MAMARE: I'm grateful, Lisa.
+[97:42]  LISA: Thank you, Gran Mamare.
+[97:56]  LISA: Is everyone all right?
+[98:04]  YOSHIE: Wait, I'll get the wheelchairs.
+[98:06]  TOKI: Don't bother. We'll walk.
+[98:09]  ELDERLY_RESIDENT: It's all so exciting.
+[98:14]  FUJIMOTO: I believe this is yours.
+[98:19]  SOSUKE: Thanks.
+[98:20]  FUJIMOTO: I hope you'll forgive me...
+[98:22]  FUJIMOTO: Um... May I?
+[98:30]  FUJIMOTO: Take good care of her.
+[98:34]  LISA: It's Koichi!
+[98:40]  LISA: Koichi!
+[98:47]  KOICHI: It's Lisa! And there's Sousuke!
+[98:52]  SOSUKE: Look, Ponyo. It's Koichi!
+
+================================================================================
+END OF TRANSCRIPT
+================================================================================

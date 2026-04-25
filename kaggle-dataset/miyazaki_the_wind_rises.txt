@@ -1,0 +1,1209 @@
+SOURCE: Parsed subtitle file provided by user (the_wind_rises_en_v2_parsed.json).
+NOTE: Speaker labels assigned from film knowledge. 87 minor/background lines
+      marked UNKNOWN (bystanders, test officials, factory workers, etc.).
+      CAPTION marks the opening epigraph and one title card.
+      Timestamps [MM:SS] retained as position anchors for text analysis.
+      Significant silences (>30 s) are marked as scene breaks.
+
+SPEAKER KEY:
+  JIRO           - Jiro Horikoshi, aeronautical engineer (main character)
+  CAPRONI        - Count Giovanni Battista Caproni (dream sequences)
+  NAHOKO         - Nahoko Satomi, Jiro's fiancée and wife
+  HONJO          - Jiro's best friend and colleague at Mitsubishi
+  KAYO           - Jiro's younger sister, becomes a doctor
+  KUROKAWA       - Jiro's supervisor/boss at Mitsubishi
+  HATTORI        - Chief engineer at Mitsubishi
+  CASTORP        - Mysterious German guest at the mountain resort
+  NAHOKO_FATHER  - Mr. Satomi, Nahoko's father
+  MRS_KUROKAWA   - Kurokawa's wife, hosts Jiro and Nahoko
+  KINU           - Nahoko's maid/companion (earthquake scene)
+  HIRAYAMA       - Production engineer at Mitsubishi
+  CAPTION        - Opening epigraph and title cards
+  UNKNOWN        - Minor unnamed characters
+
+================================================================================
+THE WIND RISES (風立ちぬ)
+Complete English Dialogue Transcript with Speaker Attribution
+Written and Directed by Hayao Miyazaki | Studio Ghibli (2013)
+================================================================================
+
+[00:23]  CAPTION: The wind is rising. We must try to live.
+
+────────────────────────────────────────────────────────────
+  [scene break — 269s silence at 04:59]
+────────────────────────────────────────────────────────────
+
+[04:59]  UNKNOWN: Here it is.
+[05:06]  JIRO: May I borrow it?
+[05:08]  JIRO: It's in English. I have a dictionary.
+[05:10]  UNKNOWN: Very good. Give it a go. Thank you.
+[05:31]  UNKNOWN: Knock it off. Butt out!
+[05:34]  JIRO: Better get going.
+[05:35]  KAYO: Jiro...
+[05:38]  JIRO: No more bullying, okay?
+[05:57]  KAYO: You look quite the hero.
+[06:00]  JIRO: I slipped and fell.
+[06:03]  UNKNOWN: Fighting is never justified. I know.
+[06:07]  UNKNOWN: Go have your snack.
+[06:10]  JIRO: Thank you.
+[06:13]  KAYO: Big brother, you are back.
+[06:17]  KAYO: I was waiting for you. Let's pick bamboo grass.
+[06:22]  KAYO: Big brother!
+[06:26]  KAYO: I want to pick bamboo grass.
+[06:34]  KAYO: You promised to go with me.
+[06:36]  JIRO: I've got homework.
+[06:44]  KAYO: That's not homework.
+[06:46]  KAYO: It's an English magazine.
+[06:51]  KAYO: What a stupid moustache.
+[06:53]  JIRO: He is a famous Italian aircraft designer.
+[06:56]  JIRO: His name is Caproni. It says he is a count.
+[07:00]  UNKNOWN: Your face is scratched. Leave it alone.
+[07:04]  UNKNOWN: I better put some iodine on it.
+[07:06]  JIRO: Would you be quiet?
+[07:19]  KAYO: Big brother, what are you doing?
+[07:22]  KAYO: You're not allowed up here.
+[07:23]  KAYO: You're not wearing glasses.
+[07:25]  JIRO: Focusing on the stars should improve my eyesight.
+[07:31]  KAYO: Mother will scold you. A shooting star!
+[07:36]  JIRO: There is another one.
+[07:39]  JIRO: They're pretty. See? Like that.
+[07:43]  KAYO: There is so many of them.
+
+────────────────────────────────────────────────────────────
+  [scene break — 37s silence at 08:23]
+────────────────────────────────────────────────────────────
+
+[08:23]  JIRO: I'm a Japanese boy.
+[08:30]  JIRO: I think this is my dream.
+[08:49]  CAPRONI: This is my dream, you know.
+[08:52]  JIRO: It's mine too.
+[08:54]  CAPRONI: Your dream?
+[08:56]  CAPRONI: Listen, Japanese boy. You think we are sharing this dream?
+[09:00]  JIRO: It's strange.
+[09:02]  JIRO: You're Count Caproni, aren't you? I'm very glad to meet you.
+[09:07]  CAPRONI: Interesting. Yes, this is a dream. This world is a dream.
+[09:12]  CAPRONI: Welcome to my kingdom.
+[09:14]  JIRO: I'm honored.
+[09:17]  CAPRONI: Look at them.
+[09:24]  CAPRONI: They will bomb the enemy city. Most of them won't return.
+[09:34]  CAPRONI: But the war will soon be over.
+[09:45]  CAPRONI: Climb up, Japanese boy.
+[09:50]  CAPRONI: This is my dream. When the war is over, I will build this.
+[09:56]  CAPRONI: Magnificent, isn't she?
+[09:59]  CAPRONI: Let's fly.
+[10:04]  CAPRONI: Instead of bombs, she'll carry passengers.
+[10:17]  CAPRONI: Of course we can't climb up here...
+[10:19]  CAPRONI: but dreams are convenient. One can go anywhere.
+[10:30]  CAPRONI: Come, join me. You can walk along the spar.
+[10:38]  CAPRONI: Take a look.
+
+────────────────────────────────────────────────────────────
+  [scene break — 35s silence at 11:15]
+────────────────────────────────────────────────────────────
+
+[11:15]  CAPRONI: She is beautiful, no? Yes, incredible.
+[11:23]  CAPRONI: She'll carry a hundred people across the Atlantic.
+[11:29]  JIRO: Mr. Caproni? I have a question.
+[11:33]  JIRO: Do you think I could design airplanes?
+[11:38]  JIRO: I'll never be a pilot. I'm too nearsighted.
+[11:43]  CAPRONI: Listen, Japanese boy.
+[11:45]  CAPRONI: I'm not a pilot. I don't even know how to fly.
+[11:50]  CAPRONI: To fly airplanes is simple.
+[11:53]  CAPRONI: But I am a creator of airplanes. An aeronautical engineer.
+[11:58]  JIRO: Yes!
+[11:59]  CAPRONI: Listen to me, Japanese boy.
+[12:01]  CAPRONI: Airplanes are not tools for war. They are not for making money.
+[12:06]  CAPRONI: Airplanes are beautiful dreams.
+[12:08]  CAPRONI: Engineers turn dreams into reality.
+[12:12]  JIRO: Yes.
+[12:13]  CAPRONI: Arrivederci. We'll meet again.
+[12:30]  UNKNOWN: Jiro, you should go to bed.
+[12:35]  UNKNOWN: You startled me. I heard you talking to someone.
+[12:40]  JIRO: Mother, I'm going to be an aeronautical engineer.
+[12:43]  UNKNOWN: Really? That's a wonderful dream.
+[12:46]  JIRO: Airplanes are beautiful dreams. That's what he told me.
+[12:50]  JIRO: I want to design beautiful airplanes.
+[13:21]  UNKNOWN: You, there. Come, take my seat.
+[13:24]  JIRO: Pardon me.
+[13:25]  UNKNOWN: Please.
+
+────────────────────────────────────────────────────────────
+  [scene break — 36s silence at 14:02]
+────────────────────────────────────────────────────────────
+
+[14:02]  NAHOKO: The wind feels wonderful.
+[14:05]  KINU: Miss, you'll lose your hat.
+[14:07]  NAHOKO: Don't worry, Kinu.
+[14:17]  JIRO: Watch out!
+[14:22]  JIRO: Are you all right?
+[14:23]  JIRO: Safe!
+[14:25]  UNKNOWN: Nice play.
+[14:27]  NAHOKO: Thank you.
+[14:29]  JIRO: "Le vent se lève."
+[14:33]  NAHOKO: "Il faut tenter de vivre."
+[14:59]  JIRO: "Le vent se lève. Il faut tenter de vivre."
+[15:04]  JIRO: "The wind is rising. We must try to live."
+
+────────────────────────────────────────────────────────────
+  [scene break — 53s silence at 16:01]
+────────────────────────────────────────────────────────────
+
+[16:01]  JIRO: Earthquake.
+
+────────────────────────────────────────────────────────────
+  [scene break — 52s silence at 16:54]
+────────────────────────────────────────────────────────────
+
+[16:54]  UNKNOWN: The boiler is going to blow!
+[17:06]  JIRO: What's wrong? Her leg.
+[17:08]  JIRO: Show me.
+[17:11]  KINU: It hurts.
+[17:13]  NAHOKO: Kinu, be brave.
+[17:14]  JIRO: It's broken. She can't walk like this.
+[17:17]  KINU: Miss, the boiler. Please save yourself.
+[17:20]  NAHOKO: That's nonsense.
+[17:23]  JIRO: Nothing is going to explode.
+[17:28]  NAHOKO: My suitcase.
+[17:36]  JIRO: Now, try to relax.
+[17:43]  JIRO: She can't walk. Where do you live?
+[17:46]  JIRO: In Ueno. I'll get you there.
+[18:01]  JIRO: Fire. Let's go.
+[18:18]  NAHOKO: What about your luggage? It's not important.
+[18:44]  NAHOKO: I'm so sorry.
+[18:46]  JIRO: Hang on!
+[18:58]  JIRO: We'd better hurry.
+
+────────────────────────────────────────────────────────────
+  [scene break — 44s silence at 19:43]
+────────────────────────────────────────────────────────────
+
+[19:43]  JIRO: One of my shirts. It's brand new.
+[19:46]  JIRO: You must be thirsty.
+[19:52]  UNKNOWN: The well is almost dry. What about you?
+[19:55]  JIRO: Thank you.
+[20:02]  JIRO: The fire hasn't reached Ueno.
+[20:04]  JIRO: I'm heading for the university. What about you?
+[20:07]  NAHOKO: I'll bring someone from home.
+[20:10]  JIRO: I'll go with you.
+[20:12]  NAHOKO: Look after this, Kinu. I will.
+[20:14]  JIRO: We'll be back soon. Don't worry.
+[20:17]  NAHOKO: Watch my suitcase.
+
+────────────────────────────────────────────────────────────
+  [scene break — 81s silence at 21:40]
+────────────────────────────────────────────────────────────
+
+[21:40]  JIRO: Thank you. I'll leave her to you.
+[21:43]  UNKNOWN: But what's your name?
+[21:50]  NAHOKO: That was some guy. Don't you think, Kinu?
+[22:11]  HONJO: Jiro! You picked a great day to come back.
+[22:13]  JIRO: How bad is it, Honjo?
+[22:15]  HONJO: The whole east side is burning.
+[22:20]  UNKNOWN: That's everything we could carry.
+[22:22]  HONJO: Got a smoke?
+[22:29]  HONJO: A flying door? That's just great. They'll never stop the fire now.
+[22:33]  HONJO: Tokyo is finished.
+[22:49]  JIRO: He really built it. Caproni has giant dreams.
+
+────────────────────────────────────────────────────────────
+  [scene break — 61s silence at 23:54]
+────────────────────────────────────────────────────────────
+
+[23:54]  UNKNOWN: Stop the camera!
+[24:04]  CAPRONI: The wind is shifting. It's coming this way.
+[24:10]  CAPRONI: Is the wind still rising, Japanese boy?
+[24:14]  JIRO: Yes, it's a gale.
+[24:18]  CAPRONI: Then you must live. "Le vent se lève."
+[24:21]  CAPRONI: "II faut tenter de vivre."
+
+────────────────────────────────────────────────────────────
+  [scene break — 60s silence at 25:23]
+────────────────────────────────────────────────────────────
+
+[25:23]  HONJO: Hey Jiro. Ready?
+[25:28]  JIRO: All the new buildings are old-fashioned.
+[25:31]  HONJO: The streets are wider.
+[25:33]  JIRO: Even the airplanes haven't changed.
+[25:37]  UNKNOWN: Welcome!
+[25:44]  HONJO: Mackerel again?
+[25:46]  JIRO: It's great.
+[25:47]  HONJO: Every day is the same. Same lunch, same lectures.
+[25:50]  HONJO: Can I get an egg?
+[25:53]  JIRO: The Western powers are building all-metal aircraft.
+[25:57]  HONJO: Try the pork sometime.
+[25:59]  JIRO: We're more than ten years behind.
+[26:02]  HONJO: What?
+[26:04]  JIRO: Beautiful, isn't it?
+[26:06]  JIRO: Look at that wonderful curve.
+[26:08]  HONJO: You eat mackerel to look at the bones?
+[26:12]  HONJO: Come on, finish up. We're going for coffee.
+[26:27]  UNKNOWN: Jiro sure is working hard.
+[26:29]  HONJO: Fish bones.
+[26:31]  UNKNOWN: Is Mr. Horikoshi back from lunch?
+[26:34]  HONJO: Jiro!
+[26:35]  JIRO: Honjo, listen to this.
+[26:37]  JIRO: The NACA has a standard curve just like this bone.
+[26:42]  HONJO: Do Americans eat mackerel too?
+[26:43]  UNKNOWN: Jiro, package for you.
+[26:47]  UNKNOWN: A lady brought this for you, sir.
+[26:51]  UNKNOWN: You were out, so she left it with me.
+[26:53]  JIRO: I see. Thank you.
+[26:57]  HONJO: Present from your sweetheart?
+[27:00]  HONJO: Got a smoke? Gimme one.
+[27:19]  HONJO: Jiro! Let him go.
+[27:46]  UNKNOWN: Hello, Mr. Horikoshi. Back from school.
+[27:48]  UNKNOWN: Your guest is waiting. A young lady.
+[27:52]  JIRO: Oh, right.
+[28:03]  KAYO: Honestly, where were you?
+[28:06]  JIRO: Kayo, I'm sorry.
+[28:08]  JIRO: I completely forgot.
+[28:10]  KAYO: Really!
+[28:12]  JIRO: Where is Mother? At Uncle's.
+[28:14]  JIRO: Is she staying there? Just for one night.
+[28:17]  JIRO: You've grown, Kayo. And gotten very pretty too.
+[28:21]  KAYO: You're so mean. You never ever come home.
+[28:29]  KAYO: It's almost sunset already.
+[28:32]  JIRO: I'll tell them I kept you. Let's take the penny steamer.
+[28:39]  KAYO: She must really like you.
+[28:42]  KAYO: Come on, it's been two years.
+[28:44]  KAYO: Didn't you try to see her again?
+[28:47]  JIRO: Of course. I went back once.
+[29:02]  JIRO: The fire stopped at her street.
+[29:05]  KAYO: See? There is the dock.
+[29:19]  JIRO: Are you cold?
+[29:21]  KAYO: I'm fine. I never dreamed Tokyo would recover so quickly.
+[29:29]  KAYO: Can I stay with you, Jiro?
+[29:32]  KAYO: Father won't let me live here by myself.
+[29:35]  JIRO: I'll probably be in Nagoya by the time you come.
+[29:39]  KAYO: With an airplane company? Yes.
+[29:42]  KAYO: Men have it so good.
+[29:44]  KAYO: I want to study medicine in Tokyo.
+[29:48]  JIRO: A doctor? I think you might be a good one.
+[29:51]  KAYO: I think so too.
+[29:53]  JIRO: I'll talk to Father next time I'm home.
+[29:56]  KAYO: Thanks. I'm counting on you.
+
+────────────────────────────────────────────────────────────
+  [scene break — 66s silence at 31:04]
+────────────────────────────────────────────────────────────
+
+[31:04]  HONJO: Jiro!
+[31:08]  HONJO: There you are.
+[31:09]  HONJO: You made it. Finally.
+[31:11]  JIRO: We are on our way. Yes, we are.
+[31:32]  HONJO: They must've been heading for the city.
+[31:35]  JIRO: There were hundreds of them.
+[31:37]  HONJO: There is no work in the countryside.
+[31:43]  HONJO: Another bank failure. Which one is it this time?
+[31:52]  JIRO: Are those the customers? Looks like it.
+[31:54]  HONJO: There were rumors.
+[31:57]  HONJO: The economy is in the tank. So is our new employer.
+[32:15]  CAPTION: MITSUBISHI INTERNAL COMBUSTION ENGINE CO.
+[32:20]  KUROKAWA: We've been waiting for you. What took you so long?
+[32:25]  JIRO: I was told to come anytime in April.
+[32:27]  KUROKAWA: Then you should've come in March.
+[32:30]  KUROKAWA: I've got an assignment for you.
+[32:34]  KUROKAWA: It's the design for the wing strut fitting.
+[32:37]  KUROKAWA: I need it right away. We're behind schedule already.
+[32:45]  UNKNOWN: In here.
+[32:48]  UNKNOWN: The data is ready. This way.
+[32:59]  UNKNOWN: This is your desk.
+[33:01]  UNKNOWN: It's imported, but no one likes it.
+[33:04]  UNKNOWN: Data here, hat goes there.
+[33:07]  KUROKAWA: Listen up! The Falcon Project has a new engineer.
+[33:11]  KUROKAWA: He is the genius we've all been hearing about.
+[33:15]  KUROKAWA: Introduce yourself.
+[33:16]  JIRO: Jiro Horikoshi.
+[33:18]  KUROKAWA: Now get to work.
+
+────────────────────────────────────────────────────────────
+  [scene break — 97s silence at 34:57]
+────────────────────────────────────────────────────────────
+
+[34:57]  HONJO: Jiro, come on.
+[35:00]  HONJO: It's lunchtime. Let's go.
+[35:04]  JIRO: The assembly plant? Yes, I'd like to take a look.
+[35:08]  HONJO: Asking a green engineer to design that fitting is practically hazing.
+[35:13]  UNKNOWN: Two.
+[35:15]  JIRO: Excuse me. Could we ask a favor?
+[35:19]  JIRO: Look, it's really coming along.
+[35:21]  JIRO: Sorry to bother you on your break.
+[35:25]  UNKNOWN: Not at all. You young engineers should visit us more often.
+[35:29]  JIRO: Honjo, the strut is already installed.
+[35:32]  HONJO: I knew it.
+[35:34]  HONJO: Kurokawa is just hazing you. Is his fitting better than yours?
+[35:38]  JIRO: Mr. Kurokawa is always hard on new employees.
+[35:41]  JIRO: Honjo, get up here and take a look.
+[35:44]  JIRO: I need your opinion.
+[35:52]  HONJO: What do you think? Looks strong enough.
+[35:54]  JIRO: This is no good. It's just like my design.
+[35:58]  HONJO: Then it must be bad.
+[36:00]  UNKNOWN: Foreman, lunch break is over.
+[36:02]  HATTORI: Quiet.
+[36:04]  JIRO: Fascinating! Aircraft are fascinating!
+[36:07]  HONJO: Maybe they are, but we're late.
+[36:18]  HATTORI: I'm Hattori.
+[36:23]  UNKNOWN: Mr. Hattori is our chief engineer.
+[36:26]  HATTORI: Is this his first assignment?
+[36:28]  KUROKAWA: The strut fitting for the Falcon.
+[36:30]  HATTORI: That's no fitting. Explain yourself, young man.
+[36:33]  JIRO: Yes sir. This leaf spring will absorb stress from the wing.
+[36:38]  JIRO: The wire expands and contracts automatically.
+[36:41]  JIRO: It runs through the strut to an anchor on the fuselage.
+[36:45]  HATTORI: But we'd have to redesign the wing.
+[36:49]  JIRO: You're right. I haven't done the calculations yet.
+[36:52]  KUROKAWA: You're wasting your time. Where is the assignment I gave you?
+[36:56]  JIRO: It's finished.
+[37:02]  HATTORI: That looks like a very clean design to me.
+[37:07]  HATTORI: It is perfect.
+[37:09]  KUROKAWA: Submit your work as soon as you finish!
+[37:14]  HONJO: I'm heading out. Me too.
+[37:18]  HONJO: What about Kurokawa's homework?
+[37:21]  JIRO: Just finishing up.
+[37:27]  JIRO: Oxen!
+[37:28]  HONJO: They haul prototypes to the airfield.
+[37:31]  JIRO: The latest aircraft, hauled by oxen. That's how backward we are.
+[37:35]  JIRO: But they're wonderful creatures.
+
+────────────────────────────────────────────────────────────
+  [scene break — 65s silence at 38:42]
+────────────────────────────────────────────────────────────
+
+[38:42]  UNKNOWN: Here she comes.
+[38:44]  UNKNOWN: Get ready!
+[38:48]  UNKNOWN: Approaching the mark.
+[38:58]  KUROKAWA: Damn it!
+[39:09]  UNKNOWN: Did you get it? 13.3 seconds. 145 knots.
+[39:13]  KUROKAWA: Too slow. We need ten more knots.
+[39:16]  JIRO: She is too low. The engine is not performing.
+[39:21]  UNKNOWN: Kurokawa!
+[39:23]  UNKNOWN: Representatives from the Army.
+[39:25]  UNKNOWN: An audacious design.
+[39:27]  UNKNOWN: Another coup for Mitsubishi. Your Falcon is quite impressive.
+[39:48]  UNKNOWN: Power dive. She is trying to break 200.
+[40:15]  UNKNOWN: Parachute is open. Go get him!
+[40:33]  UNKNOWN: Mr. Kurokawa, we'll investigate the cause when the weather clears.
+[40:38]  UNKNOWN: What about the pilot? He is okay.
+[40:40]  UNKNOWN: That's good.
+[40:42]  KUROKAWA: Mr. Kurokawa, let's go. We'll build Falcon Two.
+[40:46]  HONJO: Do you think the strut fitting failed?
+[40:50]  JIRO: No. I think the problem is deeper and more complicated.
+[40:55]  JIRO: I'll never forget what I saw today.
+[40:59]  JIRO: It's like an endless road is opening up before my eyes.
+[41:03]  KUROKAWA: There won't be a Falcon Two.
+[41:06]  KUROKAWA: The Army has decided to go with a competing design.
+[41:11]  KUROKAWA: Today was our last chance to change their minds.
+[41:15]  KUROKAWA: We're going to build a bomber with help from Junkers.
+[41:19]  KUROKAWA: No more fighters for now.
+[41:23]  KUROKAWA: This is your chance to see Germany. I've already approved it.
+
+────────────────────────────────────────────────────────────
+  [scene break — 36s silence at 42:03]
+────────────────────────────────────────────────────────────
+
+[42:03]  UNKNOWN: Still open? Welcome back.
+[42:05]  UNKNOWN: You're later than usual.
+[42:08]  UNKNOWN: Two slices of the usual. Coming up.
+[42:18]  HONJO: There you are.
+[42:20]  JIRO: Isn't anyone looking after them?
+[42:22]  UNKNOWN: Their parents work late. They wait there every night.
+[42:27]  UNKNOWN: I feel bad closing the place up.
+[42:29]  JIRO: I see. Well, thanks.
+[42:31]  UNKNOWN: Come again.
+[42:40]  JIRO: You must be hungry. Here is something to eat.
+[42:44]  JIRO: It's sponge cake. I just bought it.
+[42:58]  JIRO: Go ahead, take it.
+[43:01]  JIRO: Come on!
+[43:18]  HONJO: You here, Jiro?
+[43:22]  HONJO: Too bad about the Falcon. I heard they axed it.
+[43:27]  HONJO: Sponge cake? You have some strange eating habits.
+[43:41]  HONJO: What did you expect?
+[43:43]  HONJO: Did you think she was going to smile and say thank you?
+[43:48]  JIRO: Of course not.
+[43:50]  JIRO: Well, maybe I did.
+[43:53]  HONJO: There are dozens of hungry kids right here in this neighborhood.
+[43:59]  HONJO: The cost of one fitting would feed that kid's family for a month.
+[44:05]  JIRO: Why is Japan so poor?
+[44:08]  HONJO: Jiro, do you know what we're paying the Germans for their technology?
+[44:13]  HONJO: Enough to feed every kid in Japan, with sponge cake for dessert.
+[44:19]  JIRO: Still, I plan to make the most of this opportunity.
+[44:23]  HONJO: They're sending you too? They told me today.
+[44:26]  JIRO: Really? That's great news.
+[44:28]  HONJO: Poor countries want airplanes.
+[44:31]  HONJO: So they pay us a lot to design them. It's ironic.
+[44:36]  HONJO: I'm leaving for Tokyo tomorrow. Getting married.
+[44:39]  JIRO: Married?
+[44:40]  HONJO: To work hard at the office, you need a family at home.
+[44:45]  JIRO: More irony.
+
+────────────────────────────────────────────────────────────
+  [scene break — 35s silence at 45:22]
+────────────────────────────────────────────────────────────
+
+[45:22]  HONJO: Tight-fisted Germans. They are hardly showing us anything.
+[45:28]  JIRO: I don't see any oxen.
+[45:29]  HONJO: The airstrip is next to the plant.
+[45:32]  JIRO: Everything is so big.
+[45:56]  JIRO: It's the G-38. Is this what we are buying?
+[45:59]  HONJO: For conversion to a bomber. It's top secret.
+[46:03]  JIRO: Who is the Army planning to bomb with this thing?
+[46:06]  HONJO: America, probably. Not that they could.
+[46:11]  JIRO: Still, it's quite something.
+[46:13]  JIRO: Amazing.
+[46:15]  JIRO: Passengers can sit in the wings. This would be wasted as a bomber.
+[46:19]  HONJO: Who cares? We need their all-metal airframe technology.
+[46:28]  JIRO: You're kidding. We can't go inside?
+[46:59]  JIRO: Beautiful.
+[47:07]  HONJO: Stop it. Take your hands off him.
+[47:10]  HONJO: Is this how Germans treat their guests?
+[47:13]  UNKNOWN: You Japanese copy everything. This technology belongs to Germany.
+[47:17]  HONJO: Come on. Japan has lots of planes like this.
+[47:21]  JIRO: Honjo, let it go.
+[47:23]  JIRO: We have a license to your technology.
+[47:27]  JIRO: We signed an agreement. We have the right to be here.
+[47:32]  JIRO: Your bosses never said we couldn't inspect this airplane.
+[47:38]  JIRO: I'm sure you're only trying to do your job,
+[47:41]  JIRO: but we won't tolerate this treatment. The agreement is between equals.
+[47:47]  UNKNOWN: Our orders were not to let you Japanese wander around.
+[48:09]  JIRO: That's Dr. Junkers.
+[48:11]  JIRO: What an engineer.
+[48:15]  UNKNOWN: You can go inside. Dr. Junkers has agreed.
+[48:31]  HONJO: I'm surprised we got a demonstration.
+[48:33]  JIRO: There's more vibration than I expected.
+[48:36]  HONJO: Our bosses are getting giddy.
+[48:39]  UNKNOWN: Let the Army officers sit here.
+[48:46]  UNKNOWN: Just a moment.
+[48:48]  JIRO: This is truly a stupendous aircraft.
+[48:52]  JIRO: Look, a corridor through the wing.
+[48:57]  HONJO: This is amazing.
+[49:01]  JIRO: It's like being inside a power plant.
+[49:07]  JIRO: Guten tag. Dr. Junkers gave us permission.
+[49:11]  JIRO: Please show us your work station.
+[49:13]  UNKNOWN: This is the flight engineer's station.
+[49:16]  JIRO: This aircraft is marvelous.
+[49:19]  UNKNOWN: Japanese, do not go further.
+[49:24]  JIRO: Of course, my friend.
+[49:26]  JIRO: This is incredible. Yes, it's fantastic.
+[49:30]  JIRO: A triumph of German industrial technology.
+
+────────────────────────────────────────────────────────────
+  [scene break — 32s silence at 50:04]
+────────────────────────────────────────────────────────────
+
+[50:04]  HONJO: Dr. Junkers is my hero, but his company is sneaky.
+[50:10]  HONJO: Got a cigarette, Jiro?
+[50:13]  HONJO: Jiro!
+[50:16]  HONJO: A cigarette.
+[50:18]  JIRO: No. We're out.
+[50:37]  JIRO: It looks cold outside, but this room is cozy.
+[50:41]  HONJO: I thought Germans used fireplaces.
+[50:44]  JIRO: Junkers makes radiators too. This almost looks like that plane.
+[50:49]  JIRO: It's beautiful.
+[50:50]  HONJO: And our technology is primitive. That's what you mean, right?
+[50:55]  HONJO: You think we'll never figure out all-metal construction on our own?
+[51:01]  HONJO: We can't learn anything from this.
+[51:04]  HONJO: These are just pretty equations.
+[51:08]  HONJO: "This technology belongs to Germany."
+[51:12]  HONJO: Maybe we don't even need their technology.
+[51:15]  HONJO: Wood and canvas could be as good as metal.
+[51:18]  JIRO: Then we'll never make it. We're already 20 years behind.
+[51:28]  JIRO: Let's take a walk.
+[51:30]  JIRO: My brain is boiling.
+[51:41]  JIRO: We're Achilles, chasing a tortoise with a twenty-year lead.
+[51:46]  JIRO: If we close the gap in five years,
+[51:50]  JIRO: he'll be five more years down the road.
+[51:53]  JIRO: We'll always be chasing him.
+[51:56]  HONJO: Someday we'll overtake him and move ahead.
+[52:02]  JIRO: I wonder if we can be the tortoise.
+[52:11]  HONJO: What?
+[52:16]  JIRO: Listen to that.
+[52:23]  JIRO: Schubert's "Winter Journey". It's perfect for us.
+[52:50]  HONJO: What was that about? We saw him in the hangar.
+
+────────────────────────────────────────────────────────────
+  [scene break — 60s silence at 53:53]
+────────────────────────────────────────────────────────────
+
+[53:53]  HONJO: Jiro?
+[53:55]  JIRO: I'm done. Go have a bath.
+[54:03]  HONJO: Dead to the world...
+[54:04]  HONJO: with a face like he is carrying the future of Japanese aviation.
+[54:12]  UNKNOWN: There is a telegram from headquarters.
+[54:14]  HONJO: Come in. Not necessary.
+[54:16]  HONJO: Some of us are returning immediately. You're staying behind.
+[54:21]  HONJO: Jiro will continue west and return to Japan.
+[54:24]  HONJO: West? They want him to see the world.
+[54:27]  UNKNOWN: All by himself?
+[54:55]  JIRO: Mr. Caproni.
+[54:56]  CAPRONI: Is the wind still rising?
+[54:59]  JIRO: Yes, it is.
+[55:02]  CAPRONI: Then I invite you to join me on my final flight. Come.
+[55:06]  JIRO: You're retiring?
+[55:10]  CAPRONI: It's a big jump.
+[55:16]  CAPRONI: Jump!
+[55:26]  CAPRONI: Hurry. We're taking off.
+[55:29]  CAPRONI: There is a hatch under the fuselage.
+[55:33]  UNKNOWN: Hurry!
+[55:35]  JIRO: Let me through.
+[55:36]  UNKNOWN: Up here!
+[55:46]  CAPRONI: Full power! Fly! Fly!
+[55:56]  CAPRONI: My workmen's families and relatives. Practically the whole village.
+[56:01]  CAPRONI: We're taking a private jaunt
+[56:03]  CAPRONI: before we deliver this bomber to the Air Force.
+[56:13]  JIRO: What do you think? It's incredible.
+[56:17]  JIRO: It's like a building out of ancient Rome.
+[56:20]  CAPRONI: This plane is too large to be used for war,
+[56:23]  CAPRONI: but the Air Force likes everything big.
+[56:26]  JIRO: Japan is poor and backward.
+[56:29]  JIRO: We could never build something like this.
+[56:33]  CAPRONI: The important thing for an engineer is inspiration.
+[56:36]  CAPRONI: Inspiration unlocks the future. Technology will catch up.
+[56:43]  CAPRONI: My wife and family.
+[56:45]  CAPRONI: We Italians are also poor. Too many mouths to feed.
+[56:55]  CAPRONI: Hey, settle down. The bottom will fall out.
+[57:00]  CAPRONI: Come.
+[57:05]  CAPRONI: Be careful. This may be a dream, but you can still lose your head.
+[57:19]  CAPRONI: Which would you choose, a world with pyramids or one without them?
+[57:24]  JIRO: Pyramids?
+[57:26]  CAPRONI: Humanity dreams of flight, but the dream is cursed.
+[57:31]  CAPRONI: Aircraft are destined to become tools for slaughter and destruction.
+[57:36]  JIRO: I know.
+[57:37]  CAPRONI: But still, I chose a world with pyramids in it.
+[57:42]  CAPRONI: Which world will you choose?
+[57:44]  JIRO: I want to create beautiful airplanes.
+[57:48]  CAPRONI: Like that?
+[58:04]  CAPRONI: Very graceful.
+[58:07]  JIRO: I have a long way to go. I don't even have the engine yet.
+[58:20]  CAPRONI: Bravo! A beautiful dream.
+[58:32]  CAPRONI: I'm retiring. This is my last design.
+[58:36]  CAPRONI: Artists are only creative for ten years.
+[58:39]  CAPRONI: We engineers are no different.
+[58:43]  CAPRONI: Live your ten years to the full.
+[59:04]  KUROKAWA: Jiro, we need to talk.
+[59:06]  KUROKAWA: I've got a meeting. Cancel it.
+[59:25]  JIRO: This is a tall order. They're always tall.
+[59:28]  KUROKAWA: How long have you been with us, Jiro?
+[59:32]  KUROKAWA: Jiro?
+[59:34]  JIRO: How long? Five years.
+[59:36]  KUROKAWA: You should be ready, then. We want you to lead the project.
+[59:40]  KUROKAWA: It's the Navy's design competition for 1932. A carrier-based fighter.
+[59:44]  KUROKAWA: A plum assignment.
+[59:48]  KUROKAWA: Well, Jiro?
+[60:01]  KUROKAWA: What do you think?
+[60:03]  JIRO: Leave it to me.
+[60:04]  KUROKAWA: Good.
+[60:06]  JIRO: I'd like Honjo on the team.
+[60:08]  KUROKAWA: Bad idea.
+[60:10]  KUROKAWA: You'd end up competing. Friendship is more important.
+[60:14]  KUROKAWA: Relax and finish your coffee.
+[60:16]  JIRO: Check, please.
+[60:18]  KUROKAWA: We've got other plans for Honjo.
+
+────────────────────────────────────────────────────────────
+  [scene break — 46s silence at 61:08]
+────────────────────────────────────────────────────────────
+
+[61:08]  KUROKAWA: Damn these Japanese engines!
+[61:20]  KUROKAWA: And damn this short flight deck.
+[61:27]  UNKNOWN: Fresh uniforms.
+[61:29]  UNKNOWN: Oh, thanks.
+[61:43]  JIRO: Thanks for your help.
+[61:44]  JIRO: Those jerseys suit you.
+[62:13]  UNKNOWN: Close the flight deck!
+
+────────────────────────────────────────────────────────────
+  [scene break — 52s silence at 63:07]
+────────────────────────────────────────────────────────────
+
+[63:07]  UNKNOWN: Stop!
+
+────────────────────────────────────────────────────────────
+  [scene break — 62s silence at 64:11]
+────────────────────────────────────────────────────────────
+
+[64:11]  JIRO: We did it!
+[64:13]  JIRO: She is airborne.
+
+────────────────────────────────────────────────────────────
+  [scene break — 65s silence at 65:19]
+────────────────────────────────────────────────────────────
+
+[65:19]  NAHOKO: Father!
+
+────────────────────────────────────────────────────────────
+  [scene break — 46s silence at 66:08]
+────────────────────────────────────────────────────────────
+
+[66:08]  UNKNOWN: Bravo! Nice catch.
+[66:15]  NAHOKO_FATHER: That was kind of you. Are you all right?
+[66:18]  JIRO: I'm fine. Here you are.
+[66:20]  NAHOKO_FATHER: Thank you. It belongs to the hotel.
+[66:23]  JIRO: Well, goodbye.
+[66:37]  NAHOKO: Father, I'm afraid I was rude to that man.
+[66:41]  NAHOKO_FATHER: Don't worry. He is staying at our hotel.
+[66:43]  NAHOKO_FATHER: You'll have a chance to say thank you.
+
+────────────────────────────────────────────────────────────
+  [scene break — 165s silence at 69:31]
+────────────────────────────────────────────────────────────
+
+[69:31]  JIRO: What is it?
+[69:33]  NAHOKO: Nothing. Just that man who caught the parasol.
+[69:36]  NAHOKO: He seems to be here by himself.
+
+────────────────────────────────────────────────────────────
+  [scene break — 71s silence at 70:51]
+────────────────────────────────────────────────────────────
+
+[70:51]  NAHOKO: I'm sorry. I'd better go.
+[70:54]  JIRO: No, please stay. I was giving thanks to the spring.
+[70:59]  JIRO: I asked it to bring you here to me.
+[71:06]  NAHOKO: You haven't changed at all. You're just like you were then.
+[71:12]  NAHOKO: We were so grateful for your help after the earthquake.
+[71:16]  NAHOKO: I wanted to see you again and thank you.
+[71:19]  JIRO: Oh, now I remember.
+[71:22]  NAHOKO: My name is Nahoko Satomi.
+[71:25]  JIRO: Jiro Horikoshi.
+[71:49]  JIRO: Are you all right?
+[71:51]  NAHOKO: I'm fine.
+[71:53]  NAHOKO: Kinu got married two days after she dropped off your shirt.
+[71:59]  NAHOKO: She cried for joy when we found you.
+[72:02]  NAHOKO: You were our knight in shining armor.
+[72:06]  JIRO: Your knight?
+[72:07]  NAHOKO: You were like a knight on a white horse that day.
+[72:11]  JIRO: This umbrella sure does leak.
+[72:13]  NAHOKO: It's all right.
+[72:15]  NAHOKO: I've got to tell Kinu.
+[72:17]  NAHOKO: She just had her second child.
+[72:21]  NAHOKO: It's such a cute baby.
+[72:26]  JIRO: Your painting is all wet.
+[72:28]  NAHOKO: Yes. I'll keep it this way in honor of today.
+[72:31]  JIRO: Look, it's clearing up.
+[72:41]  JIRO: The rain stopped here.
+[72:44]  NAHOKO: Oh, look at that.
+[72:54]  JIRO: I'd almost forgotten what rainbows look like.
+[72:57]  JIRO: Life is wonderful, isn't it?
+[73:01]  NAHOKO: We'd better go. Father is probably worried sick.
+[73:08]  NAHOKO: There is my father.
+[73:10]  NAHOKO: Father.
+[73:13]  NAHOKO: Come, I'll introduce you.
+[73:18]  NAHOKO_FATHER: You're soaking wet.
+[73:20]  NAHOKO: Don't worry, Father. I'm fine. Mr. Horikoshi saved me again.
+[73:25]  JIRO: Jiro Horikoshi.
+[73:27]  NAHOKO_FATHER: Satomi. I'm afraid my daughter has caused you trouble again.
+
+────────────────────────────────────────────────────────────
+  [scene break — 45s silence at 74:16]
+────────────────────────────────────────────────────────────
+
+[74:16]  CASTORP: May I sit here?
+[74:20]  JIRO: Certainly.
+[74:38]  CASTORP: German tobacco. Last one. Too bad.
+[74:43]  JIRO: I know how you feel. The same thing happened to me.
+[74:48]  CASTORP: You visit Germany, yes? To Dessau.
+[74:53]  JIRO: You must be Sherlock Holmes.
+[74:56]  CASTORP: You are an engineer.
+[74:59]  CASTORP: You read German magazines. Magazines about airplanes.
+[75:03]  CASTORP: All Japanese engineers visit Dessau.
+[75:09]  JIRO: You're exactly right.
+[75:12]  JIRO: Dr. Junkers is in trouble. What kind of trouble?
+[75:18]  CASTORP: He fights the government. He will blow up.
+[75:22]  JIRO: Mr. Hitler's government?
+[75:25]  CASTORP: The Nazis are a gang of hoodlums.
+[75:28]  CASTORP: This is a good place.
+[75:31]  CASTORP: No mosquitoes. Not hot. Good watercress.
+[75:35]  CASTORP: A good place to forget bad things.
+[75:39]  JIRO: Cigarette? I'm afraid they're Japanese.
+[75:41]  CASTORP: Thank you.
+[75:48]  CASTORP: It is a nice night. Hier ist der Zauberberg.
+[75:52]  JIRO: "The Magic Mountain" by Thomas Mann?
+[75:54]  CASTORP: A good place for forgetting.
+[75:57]  CASTORP: Make a war in China. Forget it.
+[76:01]  CASTORP: Make a puppet state in Manchuria. Forget it.
+[76:04]  CASTORP: Quit the League of Nations. Forget it.
+[76:07]  CASTORP: Make the world your enemy. Forget it.
+[76:10]  CASTORP: Japan will blow up.
+[76:13]  CASTORP: Germany will blow up too.
+[76:16]  JIRO: Will Germany go to war again? Yes. They must be stopped.
+[76:21]  NAHOKO_FATHER: I'm sorry to keep you waiting so long.
+[76:25]  NAHOKO_FATHER: Nahoko has a fever.
+[76:27]  NAHOKO_FATHER: I'm afraid we'll have to cancel our dinner plans.
+[76:30]  JIRO: I'm sorry. Please tell her I hope she feels better.
+[76:35]  NAHOKO_FATHER: I must go. The doctor will be here soon.
+
+────────────────────────────────────────────────────────────
+  [scene break — 116s silence at 78:34]
+────────────────────────────────────────────────────────────
+
+[78:34]  JIRO: "Who has seen the wind?"
+[78:37]  NAHOKO: "Neither I nor you."
+[78:40]  JIRO: "But when the leaves hang trembling, the wind is passing through."
+[78:50]  JIRO: Let the wind carry...
+[78:53]  JIRO: these wings to you.
+
+────────────────────────────────────────────────────────────
+  [scene break — 36s silence at 79:32]
+────────────────────────────────────────────────────────────
+
+[79:32]  NAHOKO: Jiro?
+[79:33]  JIRO: Nahoko!
+[79:55]  JIRO: Be careful!
+
+────────────────────────────────────────────────────────────
+  [scene break — 120s silence at 81:56]
+────────────────────────────────────────────────────────────
+
+[81:56]  UNKNOWN: Nice catch.
+
+────────────────────────────────────────────────────────────
+  [scene break — 76s silence at 83:13]
+────────────────────────────────────────────────────────────
+
+[83:13]  UNKNOWN: Bravo!
+[83:14]  CASTORP: Is the young lady feeling better?
+[83:17]  JIRO: Yes, she is much better.
+[83:19]  CASTORP: Congratulations.
+[83:22]  CASTORP: This is the magic mountain. It cures everyone.
+[83:25]  JIRO: I think you're right.
+[83:28]  CASTORP: At first, this young man was very gloomy.
+[83:32]  CASTORP: Now he is very happy.
+[83:35]  CASTORP: He has fallen in love.
+[83:37]  JIRO: That's true.
+[83:39]  CASTORP: Summer love is soon forgotten.
+[83:42]  CASTORP: You will go down the mountain. You will forget what happened here.
+[83:47]  JIRO: Not me.
+[83:49]  NAHOKO_FATHER: This person you're talking about wouldn't be my daughter, would it?
+[83:53]  JIRO: Yes, it's Nahoko.
+[83:57]  JIRO: Please give us your permission.
+[84:01]  NAHOKO_FATHER: But...
+[84:02]  NAHOKO: Father!
+[84:05]  NAHOKO_FATHER: I would like to accept.
+[84:08]  CASTORP: What a beauty.
+[84:13]  NAHOKO: But first, there is something I have to tell you.
+[84:16]  JIRO: Yes?
+[84:18]  NAHOKO: Two years ago, my mother died of tuberculosis.
+[84:22]  NAHOKO: I contracted it too.
+[84:25]  NAHOKO: I've loved you since that day you rescued my hat.
+[84:30]  NAHOKO: I've loved you since the wind brought you to me.
+[84:35]  JIRO: Please marry me.
+[84:36]  NAHOKO: I will.
+[84:38]  NAHOKO: But I want to get well first. Can you wait for me?
+[84:42]  JIRO: Even if it takes a hundred years.
+[84:45]  CASTORP: Congratulations.
+[84:47]  CASTORP: He is a nice young man. Your daughter is wonderful.
+[84:53]  CASTORP: This is a good summer.
+[85:18]  HONJO: Jiro, over here! Honjo!
+[85:21]  JIRO: When did you get back? Two days ago.
+[85:23]  HONJO: Hot, isn't it?
+[85:28]  HONJO: Come take a look.
+[85:34]  JIRO: She's beautiful.
+[85:36]  JIRO: Good clean lines.
+[85:41]  HONJO: It's a radical design. They gave me free rein.
+[85:46]  HONJO: But we won't know until she flies.
+[85:49]  JIRO: She'll fly. I feel the wind rising.
+[86:14]  HONJO: You're the Japanese Achilles. You've closed the gap.
+[86:19]  HONJO: My plane was just a tin duckling.
+[86:21]  JIRO: I have an idea for you.
+[86:23]  JIRO: I haven't tried it yet.
+[86:28]  JIRO: Use flathead screws on the access hatches.
+[86:31]  JIRO: They'll reduce drag.
+[86:32]  JIRO: Maintenance will be easy with a hinge on one side.
+[86:42]  JIRO: A spring about this stiff should be fine.
+[86:45]  HONJO: That's a great idea, like Columbus and his egg.
+[86:49]  HONJO: You should use it.
+[86:51]  JIRO: Thanks, but not this time.
+[86:55]  JIRO: I'll keep the plans.
+[86:56]  JIRO: After you use it, I'll use it too.
+[87:01]  HONJO: Okay.
+[87:02]  HONJO: Hurry up, I'll be waiting.
+[87:05]  KUROKAWA: Jiro! Are you here?
+[87:08]  HONJO: Jiro, it's Mr. Kurokawa.
+[87:11]  KUROKAWA: It's an emergency.
+[87:12]  JIRO: See you.
+[87:13]  HONJO: Visit the house next time.
+[87:15]  KUROKAWA: Jiro, you pedal.
+[87:22]  KUROKAWA: The Special Police are looking for you.
+[87:25]  KUROKAWA: The thought crime boys.
+[87:28]  JIRO: Why me?
+[87:30]  KUROKAWA: I told them you were away on business.
+[87:43]  UNKNOWN: Pretending to leave? We won't fall for that.
+[87:46]  KUROKAWA: You'd better work here. We'll bring your things.
+[87:49]  JIRO: What's going on? Why are they after me?
+[87:52]  JIRO: They arrested some of my friends. None of them understood why.
+[87:59]  KUROKAWA: Come in.
+[88:00]  UNKNOWN: Here's your stuff.
+[88:04]  JIRO: Sorry for the bother.
+[88:06]  UNKNOWN: Need anything else?
+[88:07]  KUROKAWA: Just leave it and go. Jiro, it's here!
+[88:10]  JIRO: The prototype flange.
+[88:22]  JIRO: It looks great.
+[88:24]  JIRO: Wish we'd had it last year.
+[88:26]  KUROKAWA: Jiro, what do you think?
+[88:28]  JIRO: Our next plane will be a full-grown duck, not a duckling.
+[88:33]  JIRO: A full metal duck.
+[88:35]  JIRO: How about it, Mr. Kurokawa?
+[88:38]  KUROKAWA: Extruded aluminum alloy. Very light. What a luxury.
+[88:42]  KUROKAWA: All right, back to work.
+[88:55]  KUROKAWA: The coast looks clear. Okay, Jiro.
+[89:00]  KUROKAWA: Better lie low for a few days.
+[89:03]  KUROKAWA: We'll smooth things over.
+[89:05]  KUROKAWA: I'll put you up.
+[89:07]  JIRO: Let me stop by my apartment. I'm expecting a letter.
+[89:11]  KUROKAWA: Is it something sensitive?
+[89:12]  JIRO: Yes, very sensitive.
+[89:14]  KUROKAWA: The police will be opening your mail.
+[89:16]  JIRO: It's from my fiancée.
+[89:18]  JIRO: Such things shouldn't happen in a modern country.
+[89:23]  KUROKAWA: You're engaged?
+[89:26]  KUROKAWA: Jiro is human after all. Splendid.
+[89:28]  KUROKAWA: You think Japan is a modern country?
+[89:30]  JIRO: It's not funny.
+[89:32]  KUROKAWA: Of course it's not funny. The police are waiting for you.
+[89:36]  KUROKAWA: Let them read your love letters.
+[89:38]  KUROKAWA: The Navy's next design competition is in your hands.
+[89:42]  KUROKAWA: The company will protect you. That is, as long as you're useful.
+[89:47]  KUROKAWA: Just keep your mind on work.
+[89:50]  NAHOKO: I miss you terribly. And "Mr. Castorp" left so suddenly.
+[89:54]  NAHOKO: Why are they looking for him?
+[90:09]  NAHOKO: I pray that he managed to leave Japan safely.
+[90:32]  MRS_KUROKAWA: Jiro, telephone for you.
+[90:34]  JIRO: Coming.
+[90:36]  MRS_KUROKAWA: The telephone is there. Thank you.
+[90:41]  KAYO: Hello? Jiro? You have a telegram.
+[90:44]  JIRO: What?
+[90:45]  KAYO: Your landlord brought it. It came two days ago.
+[90:50]  JIRO: Please read it.
+[90:52]  KAYO: Are you sure?
+[90:55]  KAYO: "Nahoko... has had a lung... hemorrhage."
+[91:00]  KAYO: "Please come at once. Satomi"
+[91:09]  KAYO: Hello? Are you there?
+[91:12]  JIRO: I understand. Thank you.
+[91:14]  KAYO: Wait, hold on!
+[91:18]  KUROKAWA: What is it?
+[91:21]  JIRO: What's the fastest way to get to Tokyo?
+[91:24]  KUROKAWA: To Tokyo?
+[91:25]  JIRO: I have to be there as soon as possible.
+[91:28]  KUROKAWA: Let me see.
+[91:30]  KUROKAWA: If you take the noon bus, you can catch the express.
+[91:34]  KUROKAWA: I'll send someone to hold the bus for you.
+[91:38]  KUROKAWA: Jiya!
+
+────────────────────────────────────────────────────────────
+  [scene break — 108s silence at 93:26]
+────────────────────────────────────────────────────────────
+
+[93:26]  NAHOKO: Darling!
+[93:37]  JIRO: I wish I could've come sooner.
+[93:45]  NAHOKO: You'll catch it.
+[93:47]  JIRO: You're beautiful.
+[93:49]  JIRO: I love you.
+[93:53]  NAHOKO_FATHER: Jiro? Through the garden?
+[94:04]  NAHOKO_FATHER: Come in.
+[94:08]  NAHOKO: Father, Jiro came to see me.
+[94:11]  NAHOKO: But he has to leave right away.
+[94:14]  JIRO: Next time I'll use the front door. Use the garden, it's more fun.
+[94:18]  JIRO: All right, I will.
+[94:20]  NAHOKO: Take care, darling.
+[94:23]  JIRO: You too.
+[94:25]  JIRO: Goodbye.
+[94:27]  NAHOKO_FATHER: I'll see you out.
+[94:33]  NAHOKO_FATHER: The last train? You'd better hurry.
+[94:38]  JIRO: Is it that serious? I wish I could look after her.
+[94:42]  NAHOKO_FATHER: The way to do that is to focus on your work.
+[94:46]  NAHOKO_FATHER: Now you'd better go.
+[94:55]  NAHOKO: He is gone.
+[94:57]  NAHOKO_FATHER: Are you crying, dear?
+[95:02]  NAHOKO: I'm going to the sanatorium the doctor recommended.
+[95:07]  NAHOKO_FATHER: But it's so lonely. You'll be all by yourself.
+[95:11]  NAHOKO: I want to get better.
+[95:13]  NAHOKO: I want a life with Jiro.
+[95:21]  KUROKAWA: You're just in time. The board is waiting.
+[95:31]  KUROKAWA: So, are you ready?
+[95:34]  JIRO: I'll do my best.
+[95:35]  KUROKAWA: Now the Navy. They're the client.
+[95:49]  JIRO: I'll do my best.
+[95:51]  KUROKAWA: You weren't even listening. Right.
+[95:56]  JIRO: So I gave up on that idea.
+[96:00]  HATTORI: Everyone is here rather late. Jiro is holding a design seminar.
+[96:07]  JIRO: The next design uses all the latest technology.
+[96:10]  JIRO: Take a look. Retractable undercarriage.
+[96:13]  JIRO: We'll need it for 270 knots.
+[96:16]  UNKNOWN: 270 knots? That's 500 kilometers an hour.
+[96:19]  UNKNOWN: I thought the Navy requested 220 knots.
+[96:22]  JIRO: We're designing for the future.
+[96:25]  JIRO: Wing loading is 120 kilos per square meter.
+[96:28]  JIRO: We'll minimize drag and push the limits of technology.
+[96:33]  JIRO: She'll have split flaps and leading edge slats.
+[96:53]  UNKNOWN: We can do it!
+[96:55]  UNKNOWN: When do we start?
+[96:58]  JIRO: But then weight becomes a problem.
+[97:03]  JIRO: If we leave out the guns, we should be okay.
+[97:12]  JIRO: I decided to set this idea aside for now.
+[97:17]  HATTORI: This is delightful. Lucid and logical.
+[97:19]  JIRO: Almost had it.
+[97:21]  JIRO: Our engines are underpowered.
+[97:23]  JIRO: To compensate, we need a light, strong structure.
+[97:26]  JIRO: We'll cut excess weight and minimize drag with a smooth skin.
+[97:31]  JIRO: We're going to build an all-metal fighter
+[97:33]  JIRO: like nothing the world has ever seen.
+[97:36]  HIRAYAMA: I have a question.
+[97:38]  JIRO: Mr. Hirayama, please.
+[97:41]  HATTORI: Mr. Hirayama is our production engineer.
+[97:44]  HIRAYAMA: Thank you.
+[97:47]  HATTORI: He is going to tell us about the new rivets.
+[97:51]  HIRAYAMA: It's technically possible to build strong structures with flush rivets.
+[97:57]  UNKNOWN: What's he talking about?
+[97:59]  UNKNOWN: A way to cut drag.
+[98:00]  JIRO: We're going to skin the whole aircraft with flush rivets.
+[98:06]  UNKNOWN: Question! I have a question.
+[98:11]  HATTORI: I must say that was interesting.
+[98:13]  HATTORI: It was inspiring.
+[98:35]  UNKNOWN: Today's letter, Miss Satomi.
+[98:37]  NAHOKO: Thank you.
+
+────────────────────────────────────────────────────────────
+  [scene break — 80s silence at 99:59]
+────────────────────────────────────────────────────────────
+
+[99:59]  UNKNOWN: Phone call, Chief.
+[100:00]  UNKNOWN: I'll call back. I think it's an emergency.
+[100:04]  JIRO: Hello? Mr. Satomi?
+[100:07]  JIRO: What?!
+
+────────────────────────────────────────────────────────────
+  [scene break — 73s silence at 101:22]
+────────────────────────────────────────────────────────────
+
+[101:22]  NAHOKO: Jiro! Jiro!
+[101:24]  NAHOKO: Thank goodness. I worried I wouldn't find you.
+[101:29]  JIRO: I'm here now. Can you walk?
+[101:33]  JIRO: Let's go.
+[101:42]  NAHOKO: I just had to see you. I should go right back.
+[101:45]  JIRO: Don't go.
+[101:50]  JIRO: We should be together.
+[102:04]  NAHOKO: What a charming companion. My name is Nahoko.
+[102:07]  KUROKAWA: So you're Nahoko. Jiro, is that you?
+[102:10]  JIRO: We've come to you with a request.
+[102:13]  MRS_KUROKAWA: Why not, dear? It'll be fine.
+[102:15]  MRS_KUROKAWA: We've got plenty of room...
+[102:17]  KUROKAWA: but I can hardly approve of an unmarried couple living together.
+[102:23]  JIRO: We'll get married right away.
+[102:24]  JIRO: Mr. Kurokawa, Mrs. Kurokawa, please be our witnesses.
+[102:28]  MRS_KUROKAWA: Here? Tonight?
+[102:29]  MRS_KUROKAWA: It sounds lovely, dear.
+[102:31]  JIRO: Nahoko was very brave to leave the sanatorium.
+[102:35]  NAHOKO: My father's given his permission. I've already told the doctor.
+[102:39]  JIRO: Please help us.
+[102:43]  MRS_KUROKAWA: The bride and I have preparations to make.
+[102:47]  MRS_KUROKAWA: Come with me, Nahoko.
+[102:54]  MRS_KUROKAWA: Don't worry, he is always like that.
+[103:01]  KUROKAWA: If you care about her, you'll send her back immediately.
+[103:07]  JIRO: I can't do that. I'd have to give up my work.
+[103:11]  KUROKAWA: Is that your heart or your ego talking?
+[103:16]  JIRO: We don't have much time. We've made our decision.
+[103:20]  KUROKAWA: I see.
+[103:22]  KUROKAWA: All right. We'll have a real ceremony.
+[103:49]  MRS_KUROKAWA: Here they come.
+[103:52]  MRS_KUROKAWA: She is coming!
+[104:12]  KUROKAWA: Hear me! This lovely maiden has traveled far to join her beloved.
+[104:18]  KUROKAWA: She's given up everything in the world for him. What say you?
+[104:24]  KUROKAWA: Hear me! This man is an insensitive simpleton
+[104:27]  KUROKAWA: without a home of his own.
+[104:29]  KUROKAWA: If that's..., okay with you, please come in.
+[104:33]  KUROKAWA: Then they will exchange the marriage vows.
+[104:59]  JIRO: You look beautiful.
+
+────────────────────────────────────────────────────────────
+  [scene break — 37s silence at 105:37]
+────────────────────────────────────────────────────────────
+
+[105:37]  JIRO: Mr. and Mrs. Kurokawa.
+[105:40]  JIRO: No words can express our gratitude for your kindness.
+[105:45]  JIRO: We will never forget our debt to you.
+[105:50]  KUROKAWA: Come now, we're delighted that Jiro's found such a wonderful partner.
+[105:55]  KUROKAWA: Aren't we, dear?
+[105:56]  MRS_KUROKAWA: Of course. This is wonderful. You're both very courageous.
+[106:16]  JIRO: You must be tired.
+[106:18]  NAHOKO: I feel like I'm dreaming. The room is spinning.
+[106:22]  JIRO: Better get some rest.
+[106:26]  JIRO: Come here.
+[106:27]  JIRO: But your condition...
+[106:31]  NAHOKO: Come.
+
+────────────────────────────────────────────────────────────
+  [scene break — 42s silence at 107:14]
+────────────────────────────────────────────────────────────
+
+[107:14]  KAYO: Do you always get home this late?
+[107:16]  JIRO: Kayo, I completely forgot.
+[107:18]  KAYO: You're so insensitive.
+[107:22]  JIRO: Congratulations on becoming a doctor.
+[107:25]  KAYO: Congratulations on your marriage.
+[107:28]  KAYO: I came on behalf of the family to thank the Kurokawas.
+[107:32]  KAYO: Are they still up?
+[107:33]  JIRO: They've gone to bed.
+[107:35]  JIRO: Did you meet Nahoko? Yes.
+[107:41]  KAYO: What are you going to do? She is alone in that room all day.
+[107:46]  KAYO: Her condition is much worse than you think.
+[107:50]  KAYO: I'm an intern. I know something about this.
+[107:53]  KAYO: Did you notice she uses rouge every morning so you won't worry?
+[108:00]  JIRO: I really like Nahoko. She is such a good person.
+[108:04]  KAYO: How can you do this to her?
+[108:10]  JIRO: Does she really have to stay here?
+[108:13]  KAYO: Yes.
+[108:15]  JIRO: Each day is very precious to us now.
+[108:22]  JIRO: Get some rest. I'm glad you came to visit.
+[108:40]  JIRO: I'm home.
+[108:41]  NAHOKO: I was waiting. You should sleep.
+[108:50]  JIRO: Should you be up? Kayo came today.
+[108:54]  NAHOKO: We are already best friends.
+[108:57]  NAHOKO: She is like the sun, with such a bright future.
+[109:01]  NAHOKO: She said next time, she'll come as my doctor.
+[109:07]  NAHOKO: And your mother made me a chemise and a nightgown.
+[109:12]  NAHOKO: Look, they're so warm.
+[109:15]  JIRO: Too bright?
+[109:17]  NAHOKO: It's all right.
+[109:21]  JIRO: I have to finish the design by tomorrow.
+[109:23]  NAHOKO: For your mackerel bones?
+[109:25]  JIRO: You remembered.
+[109:27]  JIRO: I think it could be a little lighter.
+[109:32]  NAHOKO: Come a little closer.
+[109:43]  NAHOKO: Give me your hand.
+[109:48]  NAHOKO: I like to look at you while you work.
+[109:53]  NAHOKO: In a one-handed slide rule contest, I'd win first prize for sure.
+[109:59]  JIRO: I think I can make each rib half an ounce lighter.
+[110:02]  NAHOKO: Really? That's good.
+[110:04]  JIRO: Thirty ribs makes about a pound.
+[110:07]  NAHOKO: That's too much.
+[110:08]  NAHOKO: Half a pound is enough for two.
+[110:11]  JIRO: I could eat a pound of mackerel by myself.
+[110:21]  NAHOKO: I'll keep holding your hand. You should sleep.
+[110:24]  JIRO: You won't let go? No, I won't.
+[110:30]  JIRO: I need a cigarette. Can I let go for a minute?
+[110:33]  NAHOKO: No. Smoke it here.
+[110:36]  JIRO: It's not good for you. I don't care.
+[110:58]  JIRO: Hey, Honjo.
+[110:59]  JIRO: Can I take a look?
+[111:01]  HONJO: Sure. How is your bomber? Coming along fine.
+[111:04]  HONJO: This is avant garde. You went all the way.
+[111:12]  HONJO: So this is flush riveting.
+[111:15]  HONJO: Feels pretty rough.
+[111:18]  JIRO: We're still learning the technique.
+[111:20]  HONJO: You've left the Germans behind. I'm still stuck with them.
+[111:27]  HONJO: This design is you, right down to the mackerel bones.
+[111:34]  HONJO: Jiro, let me use flush rivets too. And your spring-loaded hatches.
+[111:39]  JIRO: Sure. Why not?
+[111:41]  JIRO: A redesign?
+[111:42]  HONJO: Yeah, but they're only letting me modify the fuselage.
+[111:47]  JIRO: And leave the wings alone?
+[111:49]  HONJO: That's where the fuel tanks are. One hit, and boom.
+[111:52]  HONJO: To save weight, we are not even shielding the fuel tanks.
+[111:56]  HONJO: It's Japan's first advanced bomber. The Navy is over the moon.
+[112:02]  HONJO: She's got to fly 3,000 kilometers with a big payload.
+[112:07]  HONJO: More horsepower alone won't be enough.
+[112:22]  JIRO: Who are they going to fight?
+[112:24]  HONJO: China. Russia. Britain. The Netherlands. America.
+[112:28]  HONJO: Japan will blow up.
+[112:31]  JIRO: We're not arms merchants. We just want to build good aircraft.
+[112:35]  HONJO: You're right.
+[112:36]  HONJO: See you. Get some sleep.
+[112:38]  JIRO: Sure. You too.
+[112:41]  JIRO: I'm leaving now.
+[112:43]  HONJO: Good night.
+[112:44]  JIRO: Night.
+[113:11]  NAHOKO: Welcome home.
+[113:13]  JIRO: It's finished. Now we'll see how she flies.
+[113:16]  NAHOKO: Congratulations. You worked so hard.
+[113:20]  JIRO: She is on her way to the field.
+[113:23]  JIRO: I'll probably spend a few nights there.
+[113:26]  NAHOKO: You must be tired.
+[113:30]  JIRO: A little.
+[113:32]  NAHOKO: I'm sure it will fly beautifully.
+[113:34]  JIRO: Yes, she'll fly.
+[113:38]  JIRO: I couldn't have done it without you.
+[113:41]  NAHOKO: I love you, Jiro.
+[113:44]  JIRO: Nahoko...
+
+────────────────────────────────────────────────────────────
+  [scene break — 53s silence at 114:38]
+────────────────────────────────────────────────────────────
+
+[114:38]  JIRO: I'm off.
+[114:39]  NAHOKO: Good luck.
+[115:07]  MRS_KUROKAWA: Why, Nahoko. You are up.
+[115:10]  NAHOKO: I'm feeling much better today. I'm going for a walk.
+[115:15]  MRS_KUROKAWA: Just be careful not to tire yourself.
+[115:19]  NAHOKO: The room is still a mess. I'll straighten up when I get back.
+[115:23]  MRS_KUROKAWA: All right. Enjoy yourself.
+[115:26]  NAHOKO: Kayo is coming today. That will be nice.
+[115:29]  NAHOKO: Yes. I'll be back soon.
+
+────────────────────────────────────────────────────────────
+  [scene break — 41s silence at 116:12]
+────────────────────────────────────────────────────────────
+
+[116:12]  MRS_KUROKAWA: Please come in.
+[116:20]  KAYO: Oh, no.
+[116:31]  KAYO: Look, she left letters. One of them is for me.
+[116:40]  MRS_KUROKAWA: She is going to the sanatorium. I'll bring her back.
+[116:44]  KAYO: No! Let her go.
+[116:49]  KAYO: We shouldn't do anything until her train leaves.
+[116:54]  KAYO: She wants him to remember her as she was.
+
+────────────────────────────────────────────────────────────
+  [scene break — 47s silence at 117:44]
+────────────────────────────────────────────────────────────
+
+[117:44]  JIRO: This is wonderful. Just think, that's one of ours.
+[117:48]  JIRO: How is her speed?
+[117:51]  UNKNOWN: Sorry, the numbers are too high. We're checking them again.
+[117:54]  JIRO: How fast?
+[117:56]  UNKNOWN: 240 knots. Two forty.
+
+────────────────────────────────────────────────────────────
+  [scene break — 35s silence at 118:34]
+────────────────────────────────────────────────────────────
+
+[118:34]  JIRO: Fantastic! What a fighter.
+[118:38]  HONJO: Hey, Jiro.
+[118:40]  HONJO: Jiro!
+[118:49]  JIRO: She flies like a dream. Thank you.
+
+────────────────────────────────────────────────────────────
+  [scene break — 73s silence at 120:05]
+────────────────────────────────────────────────────────────
+
+[120:05]  CAPRONI: We meet again, Japanese boy.
+[120:09]  JIRO: Mr. Caproni...
+[120:14]  CAPRONI: This is where we first met.
+[120:18]  CAPRONI: Our kingdom of dreams.
+[120:21]  JIRO: Or the land of the dead.
+[120:22]  CAPRONI: Not quite. In some ways, yes.
+[120:26]  CAPRONI: Those ten years in the sun, did you live them to the full?
+[120:30]  JIRO: Yes. Things fell apart toward the end, though.
+[120:33]  CAPRONI: That's what it means to lose a war.
+[120:36]  CAPRONI: There is your Zero fighter.
+
+────────────────────────────────────────────────────────────
+  [scene break — 37s silence at 121:16]
+────────────────────────────────────────────────────────────
+
+[121:16]  CAPRONI: Beautiful. A masterful design.
+[121:19]  JIRO: Not a single plane returned.
+[121:21]  JIRO: There was nothing to come back to.
+[121:24]  CAPRONI: Airplanes are beautiful dreams. Cursed dreams...
+[121:27]  CAPRONI: waiting for the sky to swallow them up.
+[121:31]  CAPRONI: Someone is waiting for you.
+[121:48]  JIRO: Nahoko...
+[121:49]  CAPRONI: She's been waiting here for a long time.
+[121:53]  NAHOKO: Darling, you must live.
+[122:00]  NAHOKO: You must live...
+[122:23]  CAPRONI: She is gone.
+[122:27]  CAPRONI: She was beautiful, like the wind.
+[122:30]  JIRO: Thank you.
+[122:36]  CAPRONI: You must live.
+[122:38]  CAPRONI: First, shall we drop by my house? I have some excellent wine.
+
+================================================================================
+END OF TRANSCRIPT
+================================================================================

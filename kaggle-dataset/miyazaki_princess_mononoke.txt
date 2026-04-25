@@ -1,0 +1,3781 @@
+SOURCE: "Mononoke Hime: Annotated English Script" by Tom Wilkes.
+Part 1 archived via: https://opinionscanbewrong.tumblr.com/post/41686854981/princess-mononoke-script-part-one
+  (mirroring original at http://www.mv.com/users/ctwilkes/MH-text-j/mononoke1.html)
+Parts 2-5 archived via: https://kimisikita.org/scripts/mono/mono2.html through mono5.html
+  (mirroring originals at http://www.mv.com/users/ctwilkes/MH-text-j/mononoke2.html through mononoke5.html)
+
+All Japanese characters and romanizations have been removed. Only speaker names and
+English translations of dialogue are retained, along with stage directions.
+
+================================================================================
+PRINCESS MONONOKE (MONONOKE HIME)
+Complete Annotated English Script
+================================================================================
+
+
+--------------------------------------------------------------------------------
+1. HIDDEN VILLAGE OF THE EMISHI, NORTHEAST JAPAN, IN THE MUROMACHI ERA
+--------------------------------------------------------------------------------
+
+[Ashitaka rides his mount, Yakkuru, along a forest path towards the village.]
+
+ASHITAKA:
+  Yakkuru!
+
+[He meets three village girls in a field.]
+
+KAYA:
+  Ani-sama!
+
+ASHITAKA:
+  Hii-sama is calling for everyone to return to the village.
+
+KAYA:
+  Jii-ji also says so.
+
+ASHITAKA:
+  Jii-ji?!
+
+KAYA:
+  He said that the mountains are strange......
+
+GIRL B:
+  The birds have all disappeared.
+
+GIRL A:
+  And all the creatures......
+
+ASHITAKA:
+  I see.
+  I'm going to check on Jii-ji.
+  Everyone hurry back to the village!
+
+THE THREE GIRLS:
+  Yes sir!
+
+[Ashitaka climbs a lookout tower near the village, where Jii-ji is keeping watch.]
+
+ASHITAKA:
+  Something's coming......
+  Jii-ji, what can it be?
+
+YAMA-OJI (AKA JII-JI):
+  I don't know. It's not human.
+
+ASHITAKA:
+  Back at the village, Hii-sama is calling for everyone to return.
+
+YAMA-OJI:
+  It comes......
+  It's a Tatari-gami!
+
+ASHITAKA:
+  Tatari-gami?!
+  Yakkuru, run!!
+
+[The Tatari-gami ("Curse God") knocks down the watchtower. Ashitaka grabs Jii-ji
+and leaps with him into the nearest treetop.]
+
+ASHITAKA:
+  It's headed towards the village!!
+  It's going to attack!
+
+YAMA-OJI:
+  Ashitaka,
+  Don't touch the Tatari-gami.
+  You'll be cursed if you do!!
+
+ASHITAKA:
+  Yakkuru!
+
+[Ashitaka rides Yakkuru in front of the Tatari-gami.]
+
+ASHITAKA:
+  Calm! Calm down!
+  Surely you are to all appearances a mountain god of name,
+  but why do you rampage like this?
+
+[The Tatari-gami sees the three girls, and turns towards them.]
+
+GIRL B:
+  Monster!
+
+KAYA:
+  To the village!
+
+ASHITAKA:
+  Stop! Why do you attack our village?!
+  Stop it! Calm down!
+
+[Girl B slips and falls; Kaya draws her sword and prepares to defend them.]
+
+KAYA:
+  Hold on!!
+
+[Seeing that the girls are in danger, Ashitaka shoots an arrow through one of the
+Tatari-gami's red "eyes." The monster stops; Ashitaka attempts to keep himself
+and Yakkuru between the monster and the village while the girls flee.]
+
+ASHITAKA:
+  [To the girls]
+  Hurry!
+
+[Suddenly the Tatari-gami's tentacles explode into action. Although Yakkuru
+gallops away from the Tatari-gami, Ashitaka's right arm gets caught by the
+Tatari-gami's black feelers/snakes. Despite this, Ashitaka manages to shoot an
+arrow through the Tatari-gami's forehead. The Tatari-gami collapses, and its black
+"snakes" gradually disappear, revealing a huge Boar God underneath.]
+
+MAN A:
+  He beat it!!
+
+KAYA:
+  Ani-sama!
+
+MAN C:
+  Get Hii-sama, hurry!
+
+MAN B:
+  Don't let the fire go out!
+
+[Ashitaka falls off Yakkuru in pain.]
+
+KAYA:
+  Ani-sama!
+
+ASHITAKA:
+  Kaya, don't touch.
+  It's not an ordinary wound.
+
+MAN A:
+  Ashitaka is wounded! Where's Hii-sama?
+
+HII:
+  Everyone, you mustn't get any closer!
+
+KAYA:
+  Hii-sama!
+
+HII:
+  Pour this water slowly onto the wound.
+
+KAYA:
+  Yes ma'am.
+
+HII:
+  [To the boar]
+  Though I know not from whence thou came, rampaging god,
+  I would humbly and respectfully speak to thee.
+  We will build a mound on this place, and observe a festival in honor of thy
+  departed spirit.
+  Forget thine anger, and be calmed.
+
+BOAR:
+  You damned filthy humans.
+  You will know well my suffering and hatred......
+
+[The boar's flesh dissolves.]
+
+[That night in the village shrine, Hii, Ashitaka, and several of the village elders
+are sitting. One wall of the shrine is a cliffside which bulges into the room; this
+has become a shintai or "god-body" -- an object of worship in a Shinto shrine in
+which the ghost of a deity is believed to dwell. Beneath the shintai is a small
+altar flanked by flickering lamps. Hii and Ashitaka sit facing each other on either
+side of the altar. Hii is fortune-telling by casting small pebbles on a cloth mat
+in front of her; Ashitaka sits upright, hiding his resignation.]
+
+HII:
+  Well, this has become a worrisome situation.
+  That boar turned up from a land in the far west.
+  Driven mad by the poison of his mortal wounds,
+  his flesh rotting away,
+  he ran and ran towards here, accumulating curses,
+  until finally he became a Tatari-gami.
+  My dear Ashitaka-hiko...
+
+ASHITAKA:
+  Yes ma'am.
+
+HII:
+  Show everyone your right arm.
+
+JII-JI:
+  Hii-sama!
+
+HII:
+  My dear Ashitaka-hiko,
+  are you prepared to gaze at your own destiny?
+
+ASHITAKA:
+  Yes ma'am.
+  I decided the moment I shot my arrow at the Tatari-gami.
+
+HII:
+  Hmm...... that wound will eventually reach your bone,
+  and probably will kill you.
+
+YAMA-OJI:
+  ...... Hii-sama, isn't there anything that we can do?
+
+MAN A:
+  Ashitaka saved our village and protected our girls!!
+
+MAN B:
+  To only sit and wait for death......
+
+HII:
+  No one can change destiny.
+  However, it is up to him to decide whether to just wait, or to proceed for himself.
+  Look...
+  This is the thing that ate into that boar's body.
+  It smashed his bones, tore up his guts, giving him cruel pain and suffering.
+  Otherwise, would the boar have become the likes of a Tatari-gami?......
+  There is something ominous happening in the western lands.
+  Going there, to ascertain everything with unclouded eyes,
+  you may possibly discover a way to sever that curse.
+
+ASHITAKA:
+  Yes ma'am.
+
+OLD MAN:
+  Defeated in the war against the Yamato regime,
+  we have been hidden away in this place for more than 500 years.
+  Now we've heard that the power of the Yamato king has withered, and that even the
+  fangs of the Shoguns were broken.
+  Yet, the bloodline of our clan also weakens.
+  It may be unchangeable fate that, at this time, the young man who should have become
+  our leader departs to the west.
+
+[Ashitaka cuts off his mage -- the topknot of his hair -- and places it on the
+shrine's altar.]
+
+HII:
+  According to our rules, we may not see you off.
+  I wish you well.
+
+[Ashitaka leaves the shrine, alone. Ashitaka prepares to leave the village, with
+Yakkuru as his only companion.]
+
+KAYA:
+  Ani-sama!
+
+ASHITAKA:
+  Kaya, they forbid any farewells......
+
+KAYA:
+  I shall accept punishment.
+  I beg you, please accept this gift as a substitute for my presence!
+
+ASHITAKA:
+  Isn't this your precious crystal knife?
+
+KAYA:
+  I blew a breath upon it to make a good-luck charm.
+  I will always be thinking about you, always.
+  Surely...... surely......
+
+ASHITAKA:
+  I will, also.
+  I will always think of you, Kaya.
+
+[Ashitaka rides quickly out of the village; Kaya stares after him.]
+
+
+--------------------------------------------------------------------------------
+2. NEAR A MOUNTAIN VILLAGE AND A TOWN MARKET (CENTRAL JAPAN?)
+--------------------------------------------------------------------------------
+
+[Ashitaka continues his lonely journey. One day, he comes down from a mountain and
+sees a group of villagers, including a strange-looking Buddhist priest or monk, being
+attacked by a group of Samurai and soldiers.]
+
+ASHITAKA:
+  (A war......?)
+
+ORDINARY SOLDIER A:
+  You wretches!
+
+ORDINARY SOLDIER C:
+  Encircle them!
+
+SOLDIER:
+  [noticing Ashitaka]
+  You bastard, it's a helmeted head!
+
+[Archers on foot attack Ashitaka. Ashitaka and Yakkuru start to make a run for it.]
+
+ORDINARY SOLDIERS:
+  [Come back!]
+  Fight! A contest!
+
+[Ashitaka sees Ordinary Soldier B about to slaughter a woman.]
+
+ASHITAKA:
+  STOP IT!
+
+[Ashitaka shoots an arrow through the hilt of the soldier's sword in order to knock
+it out of the soldier's hands. In the instant Ashitaka shoots, the mark on his right
+arm aches violently, as if the Tatari-gami's "snakes" are still on his arm. He
+shoots the arrow with such strength that it rips the arms of the soldier off,
+pinning them to a tree.]
+
+ORDINARY SOLDIER B:
+  Huh......?!
+  Ugh!
+
+ASHITAKA:
+  (What the hell is up with this arm?!)
+
+MOUNTED ARCHER:
+  He won't get away, I see him!
+
+ASHITAKA:
+  I'm coming through, don't hinder me!!
+
+[Another of Ashitaka's arrows decapitates the Mounted Archer. Ashitaka and Yakkuru
+disappear into the forest.]
+
+SAMURAI:
+  It's a demon......
+
+[After the incident, Ashitaka washes his right arm at a waterfall.]
+
+ASHITAKA:
+  The wound's becoming darker......
+
+[Later, at a town market, the strange monk from the village battle is eating at a
+market booth.]
+
+JIKO-BOU:
+  Oh damn, this tastes like hot water......
+
+[He sees Ashitaka dealing with a rice merchant.]
+
+  Oh, there he is!
+
+ASHITAKA:
+  Will this do?
+
+RICE VENDOR WOMAN:
+  What the hell is this?
+  This isn't money.
+  If you don't have money, then give back the rice.
+
+JIKO-BOU:
+  Wait, wait, let this monk take a look.
+  Hmm......?! Oh!! This is......
+  Woman, this is a sizable gold nugget!
+  So, if you'd prefer cash, I'd pay the bill.
+  [In return,] please hand over this.
+
+CROWD:
+  He said it was gold!
+  Gold?!
+
+JIKO-BOU:
+  Everyone, is there a money house around here? Or not?
+  As far as I can see, it's worth a bag of rice, no, three bags......
+
+CROWD:
+  Three bags?!
+  Eh, enviable...
+
+[In the confusion, Ashitaka disappears into the crowd.]
+
+JIKO-BOU:
+  Hey, wait a minute!
+
+[Jiko-Bou makes to follow Ashitaka.]
+
+RICE VENDOR WOMAN:
+  Give that back to me, it's mine!
+
+[Jiko-Bou catches up with Ashitaka outside the town.]
+
+JIKO-BOU:
+  Hey! So, not so fast!
+  No need to thank me.
+  I'm the one who wants to thank you.
+  When I was dragged into that backwater samurai skirmish, I was rescued due to your
+  assistance.
+  My, you surely were just like a fierce god.
+
+[Ashitaka gives Jiko-Bou a sharp look, then out of the corner of his eye sees three
+suspicious-looking people from the town following them at a distance.]
+
+JIKO-BOU:
+  Hmm, so you noticed?
+  It's what happens when you wave the likes of a gold nugget in people's faces.
+  Indeed, people's hearts harden and become rough like hemp.
+  It'd be rather boring if we're attacked in our sleep.
+  Shall we run?...... Eh?
+
+[That night, near the ruins of a village, Jiko-Bou is cooking Ashitaka's rice.]
+
+JIKO-BOU:
+  Hmm...... so a boar became a Tatari-gami......
+
+ASHITAKA:
+  I followed his footprints,
+  but just as I descended to the village, I lost him.
+
+JIKO-BOU:
+  That's to be expected.
+  Look over there.
+  There used to be a village the last time I visited.
+  Floods, mudslides...... no doubt, many people must have died.
+  War, poverty, sickness, starvation;
+  the human world is crowded with the dead, who died swallowing their resentment.
+  If you're talking about a curse, then this world is a curse in itself.
+
+  [Tastes his cooking]
+  Ummm, yeah, delicious.
+
+ASHITAKA:
+  I made a mistake going down to the village.
+  I murdered two people in the process.
+
+JIKO-BOU:
+  No, because of you I was saved.
+  Bring out your bowl.
+  You must eat first.
+  People die anyhow.
+  It just comes sooner or later.
+  Hmm, what an elegant bowl.
+  Looking at you, it reminds me of a people of ancient times, as passed down in old
+  writings.
+  The heroic Emishi clan said to exist in the far Eastern lands, sitting astride
+  Akashishi, using arrowheads of stone......
+
+[Ashitaka gives Jiko-Bou a searching look, then looks away.]
+
+JIKO-BOU:
+  The essential thing is to not be consumed by death.
+  Well, that was something I learned from my teacher.
+  Go on, it's your rice.
+  Eat up.
+
+ASHITAKA:
+  Have you ever seen anything like this?
+
+JIKO-BOU:
+  ...... This is...?
+
+ASHITAKA:
+  It came from within the boar's body.
+  It is what gave the gigantic boar the deadly wound.
+
+JIKO-BOU:
+  As you advance further and further west from here,
+  within the mountain recesses, there is a deep forest that bars humans.
+  It is the forest of the Shishi-gami.
+
+ASHITAKA:
+  The forest of the Shishi-gami......
+
+JIKO-BOU:
+  I've heard that the animals that inhabit the forest are all enormous, and exist as
+  they were in ancient times.
+
+[Early the next morning, Ashitaka leaves for the West, alone again.]
+
+JIKO-BOU:
+  Just as I expected, he's going......
+
+
+--------------------------------------------------------------------------------
+3. MOUNTAINS NEAR TATARA BA, WESTERN JAPAN (IZUMO?)
+--------------------------------------------------------------------------------
+
+[In the rain, Lady Eboshi and her men are transporting food to Tatara Ba. A long
+train of cows carrying heavy burdens is slowly proceeding a narrow mountain road
+above a ravine.]
+
+MEN:
+  Go, go!
+  Move!
+
+EBOSHI:
+  Everyone, it's only a little further.
+  Don't let your guard down!
+
+WATCHMAN:
+  Here they come!
+  It's the Wolf Gods!
+
+[Two large wolves -- Yama-inu, or "Mountain Dogs" -- attack the train. A masked
+human is riding one of the wolves.]
+
+EBOSHI:
+  Calm down the cattle.
+  Keep cool, put the formations together.
+
+GONZA:
+  Don't let the gun powder get wet by being in a hurry.
+  Draw them in close!
+
+EBOSHI:
+  Number one, fire!
+
+[Ashitaka, riding Yakkuru through the forest near the ravine, hears sounds like
+thunder coming from the mountain. Meanwhile, on the mountain path, the wolves come
+around for another attack.]
+
+EBOSHI:
+  Number two, fire!
+
+[The wolves retreat.]
+
+GONZA:
+  Damned monsters, their bark is worse than their bite.
+
+EBOSHI:
+  Those are just the pups.
+  Why does the mother not come......
+
+[A huge wolf with a forked tail attacks. Several cattle and men fall into the
+ravine.]
+
+EBOSHI:
+  It's Moro!!
+  Come, Moro!!
+
+[Eboshi shoots Moro with an Ishibiya ("stone fire arrow," or hand cannon of Chinese
+origin). Moro falls into the ravine.]
+
+GONZA:
+  We killed her!!
+
+EBOSHI:
+  She is immortal.
+  She won't die from something like this.
+
+GONZA:
+  We also took a pretty bad beating.
+
+EBOSHI:
+  We leave immediately.
+
+GONZA:
+  What shall we do about those that fell into the ravine?
+
+EBOSHI:
+  Re-form the ranks!!
+
+
+--------------------------------------------------------------------------------
+4. A RIVER NEAR THE FOREST OF THE SHISHI-GAMI
+--------------------------------------------------------------------------------
+
+[Ashitaka is crossing a river in the bottom of the ravine when he finds two wounded
+men.]
+
+ASHITAKA:
+  He's breathing!!
+  Hold on!!
+
+[Yakkuru and Ashitaka sense that someone else is nearby. Peering through the woods,
+he spots a huge white wolf and a girl on the other side of the river. The girl is
+attending to the wolf's wound by sucking out the blood. Ashitaka shouts across the
+river to them.]
+
+ASHITAKA:
+  My name is Ashitaka.
+  I came here from the faraway lands to the east.
+  Are you the old gods I have heard inhabit the forest of the Shishi-gami?!
+
+[The girl gives him back only a cold stare, and disappears into the forest with
+the wolves.]
+
+SAN:
+  [looking at Ashitaka]
+  Leave!!
+
+
+--------------------------------------------------------------------------------
+5. IN THE FOREST OF THE SHISHI-GAMI
+--------------------------------------------------------------------------------
+
+[One of the two wounded men screams. Ashitaka hurries back to find him staring in
+fright at a small, white-green, semi-transparent being that is sitting nearby.]
+
+ASHITAKA:
+  Kodama......? There are Kodama here, too?
+  Quiet. If you move you'll worsen your wounds!
+  If you let it do as it likes, no harm will come to you.
+  It's a sign that the forest is plentiful.
+
+KOUROKU:
+  These things call the Shishi-gami.
+
+ASHITAKA:
+  Shishi-gami? A large mountain dog?
+
+KOUROKU:
+  No. Something even more frightening, the chief of the monsters!
+  Aa, it vanished!
+
+ASHITAKA:
+  Yakkuru is unconcerned.
+  There is no danger nearby.
+
+  [to a Kodama ("tree spirit") sitting on Yakkuru's back]
+  I'm sorry, but with your permission we will pass through your forest.
+
+[Yakkuru carries Kouroku, while Ashitaka carries the other man on his back.]
+
+KOUROKU:
+  ...... I beg of you, let's go back!
+  There's a path on the other side of the river.
+  It's impossible to escape this forest!
+
+ASHITAKA:
+  The river's current is too strong for us to cross.
+  Besides, if we don't hurry, it will be too late for this wounded man.
+
+[As they walk through the forest, many Kodama appear in front of them.]
+
+ASHITAKA:
+  Huh. Are you guiding us?
+  Or trying to make us lose our way?......
+
+KOUROKU:
+  Sir, these things don't want us to return home!
+  More and more keep appearing.
+
+ASHITAKA:
+  [to the Kodama]
+  So that's your mother?
+  What a splendid tree!
+
+[They come to a pond in the middle of the forest.]
+
+ASHITAKA:
+  That girl's footprints, and the mountain dogs' as well.
+  Can this be their domain?......
+
+KOUROKU:
+  Sir, now for sure it's dangerous!
+  The entrance to the other world is here.
+
+ASHITAKA:
+  It looks like it, doesn't it? Let's rest a while.
+
+[Ashitaka puts down the wounded man he was carrying, and goes to get some water from
+the pond. He sees a number of butterflies hovering over some marks in the grass.]
+
+ASHITAKA:
+  A footprint......?
+  Three hoof marks......
+  Still fresh...
+
+[On the other side of the pond, Ashitaka sees a herd of deer. At the moment he sees
+a strange beast which looks like a buck with many antlers, his right arm starts
+shaking violently, causing him great pain.]
+
+KOUROKU:
+  S-sir, what's the matter?!
+
+[As the mysterious beast disappears into the forest, Ashitaka's pain recedes.]
+
+KOUROKU:
+  Sir, are you all right?
+  Your face is as white as a sheet!
+  That's why I told you it's dangerous.
+
+ASHITAKA:
+  Did you see anything?
+
+KOUROKU:
+  Huh......?
+
+ASHITAKA:
+  No, never mind......
+
+[Ashitaka gives some water to the other wounded man, Yashichi.]
+
+ASHITAKA:
+  Only a little more to endure. Hang in there.
+
+YASHICHI:
+  ......thanks......
+
+ASHITAKA:
+  [to himself, looking towards the spot where the mysterious beast appeared]
+  (...... He's gone.)
+
+[They resume their journey through the forest.]
+
+ASHITAKA:
+  (How is it...... Since leaving that place, suddenly this man's body became
+  lighter.)
+
+KOUROKU:
+  [tries his broken arm]
+  Huh? It doesn't hurt!
+  It's healed!!
+  Ouch ouch ouch, like I thought, it's broken...
+
+
+--------------------------------------------------------------------------------
+6. TATARA BA
+--------------------------------------------------------------------------------
+
+[Ashitaka and the two wounded men emerge from the forest in sight of Tatara Ba,
+which is a huge island fortress on the other side of a lake. Smoke is rising from
+the center of it, and the mountains around it are totally devoid of trees.]
+
+KOUROKU:
+  Ahhh. Sir, wonderful, you're right!
+  We've arrived at the Tatara!
+
+ASHITAKA:
+  Seems almost like a castle.
+
+KOUROKU:
+  It's Eboshi-sama's huge tatara.
+  It heats iron sand and produces iron.
+
+[Ashitaka pulls the mask of his hood over his face. Two men of Tatara Ba, carriers
+waiting by their ferry boat on Ashitaka's side of the lake, see Ashitaka's party
+approach.]
+
+COOLIE I:
+  People are coming from the forest.
+
+COOLIE II:
+  Mononoke......?!
+
+KOUROKU:
+  Hey, it's me, Kouroku, the cattle herdsman!
+
+[Within Tatara Ba, Kouroku's co-workers receive the news of his return.]
+
+CATTLE HERDSMEN:
+  What, Kouroku...
+  You're sure it's not a ghost?
+  You're kidding......
+  Phenomenal!!
+  Notify his wife!
+
+[A number of Ishibiya troops are lounging about and eating when the news about the
+arrival of their comrade arrives.]
+
+ISHIBIYA TROOPER:
+  No lie.
+  They're heading this way by boat right now!
+
+ISHIBIYA TROOPS:
+  Did you see his face for certain?
+
+GONZA:
+  Eh, what is it?!
+  I'm writing, be quiet now!
+
+CATTLE HERDSMAN:
+  Kouroku, who we thought had died, just left the opposite shore!
+
+GONZA:
+  What?!
+
+[The boat reaches the shore.]
+
+CATTLE HERDSMAN I:
+  You're not a ghost, are you?
+
+CATTLE HERDSMAN II:
+  What about the others?
+
+CATTLE HERDSMAN III:
+  There were two other men that fell!
+
+KOUROKU:
+  ......We were the only ones who were saved.
+
+[A number of people watch the spectacle from the gate of Tatara Ba, which is at
+the top of a bluff facing the lake shore.]
+
+WOMAN:
+  The ones that die are always the cattle herdsmen...
+
+[Gonza comes out of the gate and pauses momentarily, observing the situation
+below.]
+
+GONZA:
+  Clear the way!
+
+MAN:
+  Lord Gonza, who might that hooded one be?
+
+GONZA:
+  I haven't seen the likes of him before...
+
+[At the shore, Ishibiya troops lift their wounded comrade out of the boat, while
+the cattle herdsmen handle Kouroku.]
+
+KOUROKU:
+  Ishibiya troops! This man carried your comrade all the way here.
+  Thank him!
+  ......Aa, ow ow!
+  ......Don't hold me there!
+  ......Aa ow, aa!
+
+[One of the Ishibiya troops bows to Ashitaka. This infuriates Gonza, who stomps
+down to face Ashitaka.]
+
+GONZA:
+  Sheesh.......!! You there, wait!!
+  Firstly, I thank you for bringing us our wounded.
+  But I'm not satisfied with the situation.
+  You came within an hour after we arrived here.
+  Furthermore, they say you carried a large man from the bottom of the valley,
+  and came out of the Shishi-gami's forest......
+
+[A woman comes running from the gate of Tatara Ba down to face Kouroku at the lake
+shore.]
+
+TOKI:
+  Kouroku, you're alive?!
+
+KOUROKU:
+  Toki!
+
+TOKI:
+  A-a-a, you slouch!!
+  A cattle herdsman breaking a leg, how are we supposed to eat?!
+
+KOUROKU:
+  But I couldn't help it......
+
+TOKI:
+  You make me worry all the time.
+  You might as well have been eaten by the mountain dogs.
+  Then I could find a better man!
+
+KOUROKU:
+  Toki, please forgive me!
+
+GONZA:
+  Toki, can't you have your domestic quarrels somewhere else?
+
+TOKI:
+  What makes you so great?
+  Abandoning the wounded like that.
+  What good are you as a guard?
+  You haven't even pushed a tatara once in your life.
+  You've got to risk your life in a crucial moment like that......
+
+GONZA:
+  It couldn't be helped...... Ah......
+
+TOKI:
+  [to Ashitaka]
+  Thank you. I'm glad you saved even that sort of husband!
+
+ASHITAKA:
+  That's good. I was starting to get worried that maybe I shouldn't have brought
+  him with me.
+
+TOKI:
+  Eh?!...... Hahahaha...
+  Hey, you must be a good-looking man.
+  Please let me see your face!
+
+[Lady Eboshi appears with a group of people near the gate above them.]
+
+EBOSHI:
+  Gonza...
+  I'd like to thank him later on; guide our guest.
+  Kouroku...
+
+KOUROKU:
+  Y-yes...
+
+EBOSHI:
+  It's good you came back safely. I'm sorry.
+
+KOUROKU:
+  Y-yes...
+
+TOKI:
+  That's absurd, Eboshi-sama.
+  The fool is just spoiled!
+
+EBOSHI:
+  Toki, please forgive me as well.
+  It was shameful since I was with him when this thing happened.
+
+TOKI:
+  Oh no, if it were just the men, about this time they'd all be settling down in
+  peace and harmony inside a mountain dog's belly!
+
+WOMEN WITH EBOSHI:
+  Hahaha......
+
+WOMAN I:
+  Really!
+
+WOMAN II:
+  No mistake there!
+
+EBOSHI:
+  Traveling gentleman, be at ease and rest well!
+
+[Ashitaka lowers his mask and bows his head towards the departing Lady Eboshi.]
+
+TOKI:
+  Oh!! I knew it, you are a good-looking man!
+
+[That evening, after the gates of Tatara Ba are closed, the rice brought by Lady
+Eboshi's caravan is being distributed to the townspeople.]
+
+MAN:
+  This is the rice we defeated Moro to bring here, eat it gratefully!
+
+WOMAN:
+  Hurry up!
+
+[Ashitaka is eating with the cattle herdsmen. A number of women are gathered outside
+the door of the dining hall, peering within.]
+
+WOMEN:
+  Hahaha,
+  Where, where?
+  Eh, that man?
+
+WOMAN I:
+  Really, just like Toki said!
+
+WOMAN II:
+  A good-looking man, isn't he?
+
+WOMAN III:
+  Isn't he a little young?
+
+WOMAN I:
+  Even though you don't care about stuff like a man's age...
+
+CATTLE HERDSMAN A:
+  Be quiet, won't you?
+  We're holding a wake for the dead here!
+
+CATTLE HERDSMAN B:
+  As for good-looking men, here are some, too!
+
+WOMAN I:
+  Not me. What, cattle herdsmen?!
+
+WOMAN III:
+  Hey, traveling gentleman. Why don't you come to our place?
+  Don't stay in a stinking animal pen like this.
+
+CATTLE HERDSMAN C:
+  What are you talking about?
+  We put our lives on the line to bring you the rice you're eating!
+  I hope your mouth rots off.
+
+WOMAN II:
+  Huh, who makes the iron that buys that rice?!
+
+WOMAN III:
+  We tread the tatara all night long!
+
+ASHITAKA:
+  If you like, please show me your workplace.
+
+WOMAN I:
+  Really?!
+
+WOMAN III:
+  Well, we should push the tatara with white makeup on!
+
+WOMAN I:
+  And put on rouge? Hahahaha
+
+WOMEN:
+  It's a sure thing!
+  We'll be waiting for you!
+
+[The women depart, laughing.]
+
+CATTLE HERDSMAN C:
+  Sir, please don't take offense.
+  In general, Eboshi-sama pampers them too much.
+
+ASHITAKA:
+  I hear that in a good village the women are high-spirited.
+
+CATTLE HERDSMAN D:
+  Still, I can't believe there are women in Tatara Ba.
+
+CATTLE HERDSMAN A:
+  Generally, we should dislike having women here because they defile the iron.
+  As far as Eboshi-sama is concerned, she sees the women that were sold off and
+  takes charge of all of them.
+
+CATTLE HERDSMAN E:
+  She's a kind person.
+
+CATTLE HERDSMAN C:
+  Old man, rice is coming out of your mouth!
+
+CATTLE HERDSMAN F:
+  Although she's kind, she's a tough woman who doesn't care about laws or curses!
+
+CATTLE HERDSMAN B:
+  That's right, that stuff with the mountain dogs was nothing.
+  We wanted to show you about the time she defeated Nago-no-kami, didn't we?
+
+ASHITAKA:
+  Nago-no-kami?
+
+CATTLE HERDSMAN B:
+  He was an amazingly huge boar!
+  He was the master of this vicinity.
+  And then, no one could get close to the mountains.
+  Humans could only bite their thumbs and look on enviously while seeing the
+  mountains full of treasure!
+
+CATTLE HERDSMAN A:
+  [nods in agreement]
+  Yeah, yeah. Since we had used up all the iron sand from these lower reaches......
+
+CATTLE HERDSMAN B:
+  All of the skilled tatara people aimed to get there.
+  Everyone was defeated.
+
+CATTLE HERDSMAN C:
+  Our job is to strip the mountains and cut the trees down.
+  The lord of the mountain became enraged.
+
+[Flashback to Nago-no-kami's attack on the Tatara men. Then drunken revelry breaks
+out in another part of the dining hall; one of the men there starts dancing around.]
+
+CATTLE HERDSMAN A:
+  Oh, he's gotten started, hasn't he!!
+
+CATTLE HERDSMAN B:
+  [laughing with the other men]
+  That's why Eboshi-sama appeared there, leading the Ishibiya troops.
+
+[Flashback to Nago-no-kami being shot by Ishibiya, resulting in a forest fire.
+Ashitaka holds his right arm tightly, as if it is beginning to bulge again.]
+
+CATTLE HERDSMAN C:
+  Sir...... is something the matter?
+  Does your arm hurt?
+
+ASHITAKA:
+  No, I was thinking about that boar......
+  Where did he meet his end? No doubt his resentment must have been deep.
+
+[Later, in Lady Eboshi's hall.]
+
+EBOSHI:
+  Ashitaka or whatever your name is, sorry for keeping you waiting.
+
+  [to Gonza and a waiting woman]
+  It's good steel.
+  The preparation for the morning shipment takes time...
+  Let's take a break. Please tell everyone so.
+
+WOMAN:
+  Yes ma'am.
+
+EBOSHI:
+  [to Ashitaka]
+  There are people who suspect you as an agent of the samurai or the Mononoke.
+  There are many people who have set their sights on this Tatara Ba.
+  Could you please tell me the reason for your journey?
+
+ASHITAKA:
+  You should remember this throwing stone.
+  It is the throwing stone which smashed the bones of a gigantic Boar God and caused
+  its flesh to rot, turning it into a Tatari-gami.
+  I received this scar when I dealt the final blow to that boar.
+  It is a curse leading to death.
+
+EBOSHI:
+  What about your country? You ride a strange beast...
+
+ASHITAKA:
+  From between the North and the East...... beyond that I cannot say.
+
+GONZA:
+  Bastard!!
+  If you don't answer straightforwardly, I'll cut you down!!
+
+EBOSHI:
+  And what would you do, knowing the secret of that throwing stone?
+
+ASHITAKA:
+  I will ascertain everything with unclouded eyes, and decide.
+
+EBOSHI:
+  ......?! Unclouded eyes....... Hahahahaha......
+  Ahahaha...... I understand. I will show you my secret. Come!
+
+GONZA:
+  Eboshi-sama!!
+
+EBOSHI:
+  Gonza, I entrust the rest to you!
+
+[Ashitaka follows Lady Eboshi past a large building containing a steel-making
+furnace; many women are working a large foot-powered bellows ("tatara"), among
+them Toki and the others who had joked with Ashitaka at the dining hall. Ashitaka
+pauses briefly outside the door to watch, then follows Eboshi into a fenced garden.]
+
+EBOSHI:
+  Here is my garden, which everyone fears and does not approach.
+  If you wish to know the secret, come.
+
+[She approaches the door of a building on the far side of the garden; a bandaged
+person is sitting outside the door.]
+
+  [Sorry for] disturbing you!
+
+[She enters the building; Ashitaka pauses just inside the door. Inside, many
+bandaged people are working on Ishibiya.]
+
+SICK PERSON 1 (WOMAN):
+  We just finished making one.
+
+EBOSHI:
+  It's still a bit too heavy.
+
+SICK PERSON 1:
+  And you say that while holding it so effortlessly.
+
+SICK PERSON 2 (MAN):
+  When we pare it down too much, the metal clasps spring off.
+
+EBOSHI:
+  I am not the only one who will use these.
+  I intend to have the women here carry them.
+
+SICK PERSON 1:
+  Hohoho, that would certainly be a sight...
+
+EBOSHI:
+  [to Ashitaka]
+  This is the new Ishibiya that these people designed.
+  The ones from China are heavy, and hard to use.
+  With this Ishibiya, we can crush both monster and armor-clad samurai.
+
+SICK PERSON 2:
+  Scary, scary! Eboshi-sama is trying to destroy a country......
+
+EBOSHI:
+  [to the lepers]
+  I'm sorry for making you hurry. I'll have sake and the like delivered later on.
+
+SICK PERSON 2:
+  That'll be splendid!
+
+ASHITAKA:
+  You say that, not satisfied with plundering the forest of the mountain god and
+  turning it into a Tatari-gami,
+  you would bring forth more and more new hatred and curses with that Ishibiya?
+
+EBOSHI:
+  I feel pity for you. That throwing stone certainly is a thing I have fired.
+  Damned foolish boar; if he would put a curse on someone, he should have cursed
+  me...
+
+[Hearing her condescending tone, Ashitaka is consumed by rage. His right arm moves
+on its own as if it had its own life, reaching for his sword. But Ashitaka restrains
+his right arm with all his strength.]
+
+EBOSHI:
+  Is that right arm trying to kill me?
+
+ASHITAKA:
+  If the curse would vanish, I would do so.
+  But this right arm would not stop at that alone.
+
+EBOSHI:
+  Will it not subside until it has killed everyone here?
+
+SICK PERSON:
+  Eboshi-sama...... the chief has something to say.
+
+CHIEF LEPER:
+  Eboshi-sama...... do not make light of that young man's strength......
+  Young gentleman...... Since I am also a cursed person, I understand your anger and
+  sorrow very well.
+  I understand, but I beg you, please do not kill that person.
+  She is the only person who treated us as human beings.
+  She did not fear our illness; she washed my rotting flesh, and bound it up with
+  cloth......
+
+  [coughs]
+
+SICK PERSON:
+  Chief......
+
+CHIEF LEPER:
+  To live is extremely difficult and painful......
+  I curse the world, I curse people, and yet I want to live......
+  I beg you, for my foolish sake......
+
+[Later, Ashitaka and Lady Eboshi stand together on a wall outside the lepers'
+smithy. Eboshi shoots the new-model Ishibiya towards some shadowy, ape-like figures
+on a far-off hillside.]
+
+EBOSHI:
+  They've come again?......
+  When night falls, they come back like that.
+  They come planting trees to take back the mountain......
+  Ashitaka, won't you stay here and serve us with your strength?
+
+ASHITAKA:
+  Is it your intention to plunder even the forest of the Shishi-gami?
+
+EBOSHI:
+  If the old gods are no more, then even the Mononoke will become mere beasts.
+  If light enters the forest and the mountain dogs are calmed, this will become a
+  bountiful land.
+  [If we do so,] the Mononoke-hime may return to being human as well.
+
+ASHITAKA:
+  Mononoke-hime......
+
+EBOSHI:
+  She's a pitiful girl whose heart was stolen by the mountain dogs.
+  She continues to watch, trying to kill me.
+  I have heard that the blood of the Shishi-gami can cure any illness.
+  It may have the power to cure those who are afflicted with incurable disease, and
+  to erase the mark of your curse!
+
+SICK PERSON 2:
+  Eboshi-sama...
+  What might the result be?
+
+EBOSHI:
+  It's good work. Surely just right to destroy a country.
+  But, just as I thought, it's a little heavy...
+
+SICK PERSON 2:
+  Hahahaha. Scary, scary!
+
+[Ashitaka leaves Lady Eboshi's garden in a pensive mood. He passes the door of the
+furnace building, where the women are singing while working the foot-bellows.]
+
+SONG (THE TATARA WOMEN'S WORKING SONG):
+  One, two,
+  Even babies can push --
+  Three, four,
+  Even an ogre would cry --
+  The golden love
+  Of a Tatara woman
+  Melts and flows,
+  And changes into a blade.
+
+[Ashitaka enters, and approaches the women. Toki is taking a rest break.]
+
+TOKI:
+  Oh...... you...
+
+ASHITAKA:
+  Toki-san, please let me push as well.
+
+TOKI:
+  Eh......? Wait, you...
+
+ASHITAKA:
+  [to one of the women pushing the bellows]
+  Won't you please let me take your place?
+
+WOMAN I:
+  Eh......?
+
+TOKI:
+  Since he went to the trouble, let him take your place...
+
+WOMEN:
+  Hahahaha, what amazing strength!!
+  Hahaha...... You really came, didn't you?
+
+TOKI:
+  See? He is a good-looking guy...
+
+EVERYONE:
+  Hahahahahaha...
+
+WOMAN I:
+  [noticing Woman II pulling down the hem of her kimono]
+  Ahhh, this person, she cares about her hem!
+
+WOMAN II:
+  But......
+
+WOMEN:
+  Hahahaha...
+
+TOKI:
+  If you strain yourself so much, you won't be able to continue, Mr. Traveler...
+
+ASHITAKA:
+  This is really hard work...
+
+TOKI:
+  Yeah. We tread it for four days and five nights.
+
+ASHITAKA:
+  Is it a hard life here?
+
+TOKI:
+  Yeah...... but compared to the place we were before, it's a lot better. Isn't it?
+
+WOMAN III:
+  Yeah!
+
+WOMAN IV:
+  We get to eat our fill, and the men don't lord it over us...
+
+ASHITAKA:
+  Is that so......
+
+[On a hilltop outside Tatara Ba, San (Mononoke-hime) and her two wolf brothers look
+down upon the fortress. San pets her brothers, then pulls on her mask. Meanwhile,
+Ashitaka takes his leave of the women at the foot-bellows.]
+
+WOMEN:
+  Eeeh?
+  You're leaving tomorrow?
+  It'd be nice if you stayed longer.
+  You could work here!
+
+ASHITAKA:
+  Thank you. [But] there is someone I must meet at any cost.
+
+[He senses something in the distance.]
+
+ASHITAKA:
+  (She's coming!!)
+
+WOMEN:
+  Eh?!
+
+[San, riding one of the wolves, rushes the walls of Tatara Ba.]
+
+WATCHMAN:
+  It's the Mononoke-hime!
+
+[San is catapulted over the wall into Tatara Ba by the wolf. She evades several
+shots by the Ishibiya troops. Ashitaka rushes to the spot, followed by Tatara men
+carrying torches.]
+
+PINE-TORCH MAN A:
+  It's the princess!!
+
+[San attacks Ashitaka with her wolf's-claw dagger.]
+
+ASHITAKA:
+  Stop it!
+  I don't want to fight you!!
+
+[San leaps onto the roof of a nearby building.]
+
+PINE-TORCH MAN A:
+  She's going towards the palace!
+
+ISHIBIYA TROOPER:
+  The only one that got in was the princess!
+
+[Ashitaka jumps onto the roof, and attempts to follow San.]
+
+GONZA:
+  Reinforce the beacon fire! Ishibiya troops, fortify the wall and don't let her
+  escape outside!
+
+CATTLE HERDSMAN C:
+  Don't stray from your posts. Don't get flustered!
+
+[Inside the furnace building.]
+
+WOMAN I:
+  It seems she's up on the roof.
+
+TOKI:
+  Don't make a fuss! Keep on pushing without rest!
+  If we let the fire go down, we won't be able to recover it!
+
+[Outside in the courtyard, Lady Eboshi emerges from her hall.]
+
+EBOSHI:
+  She's alone?
+
+GONZA:
+  Yes, it seems that she's completely cornered.
+  I guess she's aiming for you, Lady Eboshi.
+
+EBOSHI:
+  There's no other way. Come.
+
+[Two women carrying new-model Ishibiya follow Lady Eboshi into the fortress
+courtyard.]
+
+EBOSHI:
+  Mononoke-hime, can you hear me? I am right here.
+  If you wish to avenge the harm we inflicted upon your clan,
+  there are people here as well who are resolved to revenge themselves upon you for
+  the deaths of their husbands by the wolves!
+
+ISHIBIYA WOMAN KIYO:
+  Come out, we'll settle it this very night!
+
+[San appears atop the roof of the furnace building.]
+
+ASHITAKA:
+  ......!! (This is crazy!) ......!!
+
+PEOPLE:
+  She's appeared!
+  (There) she is!!
+
+GONZA:
+  Clear the way in front, or you'll be hit by a stray bullet!
+
+ASHITAKA:
+  (It's a trap!)
+  Stop it!
+  Princess of the Mountain Dogs, go back to the forest! Don't die for nothing!
+  To retreat is also courage. Go back to the forest!
+
+GONZA:
+  That guy! Just as I expected.
+
+EBOSHI:
+  Let him do as he likes.
+
+[San rushes down the roof. Ashitaka runs towards her, but Ishibiya fire knocks San
+from her feet and sends her tumbling down the roof.]
+
+GONZA:
+  We did it, she's falling!!
+
+EBOSHI:
+  Don't move. A mountain dog can still bite you even if it's only a head.
+  Aim when she's fallen.
+
+WOMAN:
+  Yes, ma'am.
+
+EBOSHI:
+  Fire!
+
+[San is hit in the face; her clay mask shatters, and she falls to the ground. Gonza
+and his men rush towards her with drawn blades.]
+
+ASHITAKA:
+  Don't move!
+
+[Ashitaka hurls a roof beam to stop the onrushing men.]
+
+GONZA:
+  Ouch-ouch-ouch-ouch....
+
+[Ashitaka jumps down from the roof, and grabs the dazed San by the shoulders.]
+
+ASHITAKA:
+  Get a grip on yourself!!
+
+[San comes to, and attacks Ashitaka with her wolf's-claw dagger, cutting him below
+his left eye.]
+
+ASHITAKA:
+  Stop it!!
+
+[San evades the armed men by trampling on Gonza's head. She rushes towards Lady
+Eboshi, and begins a fierce duel with her, encircled by the armed townspeople.]
+
+MAN:
+  Kill her!!
+
+WOMAN:
+  She's a mouse in a bag!
+
+WOMAN:
+  Don't let her escape!
+
+BLACKSMITH PEOPLE:
+  Kill her!!
+  What's wrong with you, mountain dog?
+  She went there!
+  Don't shoot!
+
+MAN:
+  Lord Gonza, please wake up...
+
+GONZA:
+  Don't worry about me, go!
+
+MAN:
+  Y-yes...
+
+[As Ashitaka watches the duel, he marshals his anger at the entrapment of San;
+phantom "snakes" appear on his right arm. He starts walking towards San and Eboshi.]
+
+GONZA:
+  You rascal...... I knew it, you must be a kind of Mononoke!!
+  Halt!
+
+[Ashitaka easily bends Gonza's long sword with only the fingers of his right hand,
+as if the sword were made of paper.]
+
+ASHITAKA:
+  Please get out of the way.
+
+GONZA:
+  Awawawawa......
+
+[Ashitaka walks past the stunned Gonza, and pushes the crowd aside.]
+
+PEOPLE:
+  Oww...
+  (scream)
+  Hey you, what are you doing...
+
+[Ashitaka cuts in between San and Eboshi. With superhuman power, he separates them
+to stop the fight.]
+
+EBOSHI:
+  What sort of behavior is this, Ashitaka?
+
+ASHITAKA:
+  I shall take this girl's life into my own hands.
+
+EBOSHI:
+  You intend to take that mountain dog as your bride?
+
+ASHITAKA:
+  There is a demon within you.
+  Within this girl as well.
+
+[The phantom "snakes" on Ashitaka's right arm are now running wild.]
+
+ASHITAKA:
+  Everyone, look!
+  This is the manifestation of the hatred and resentment that haunts my body.
+  It is a curse that rots the flesh, and summons death.
+  Don't yield yourselves to this hatred anymore!
+
+EBOSHI:
+  Don't impertinently flaunt your little misfortune at me.
+  I'll lop off that right arm for you!!
+
+[Lady Eboshi attacks Ashitaka with a knife. Ashitaka knocks her unconscious with
+the hilt of his sword, then does the same to San. He holds the two women on his
+shoulders.]
+
+WOMEN:
+  Lady Eboshi!!
+
+ASHITAKA:
+  Someone, please lend me a hand.
+
+[Some of the women lay down their weapons, and take Lady Eboshi's unconscious body
+from Ashitaka.]
+
+WOMEN:
+  Eboshi-sama... Eboshi-sama...
+
+ASHITAKA:
+  Don't worry. She'll regain consciousness soon.
+  I shall take this girl!
+
+WOMEN:
+  Eboshi-sama!!
+  Quick, fetch water!
+  Chafe her hands and feet!
+  Please wake up...
+
+[Ashitaka drapes the unconscious San over his shoulders, and begins walking towards
+the fortress gate. Kiyo, one of the Ishibiya women whose husband had been killed by
+the wolves, aims her gun at Ashitaka.]
+
+KIYO:
+  Wait!! You won't get away. How could you have done that to Eboshi-sama......
+
+[Ashitaka stops and gives Kiyo a long and searching look, but then resumes walking
+towards the gate. Kiyo trembles, but raises her gun again.]
+
+KIYO:
+  D-don't move!
+
+MIDDLE-AGED WOMAN:
+  Kiyo, stop it!!
+
+KIYO:
+  Aa......
+
+[The trembling Kiyo, startled, accidentally fires her gun, hitting Ashitaka in the
+back; the bullet exits from his chest. Blood gushes out from the wound, and drips
+onto the ground.]
+
+MIDDLE-AGED WOMAN:
+  Although he was hit, he's still walking......
+
+GONZA:
+  How is Lady Eboshi?!
+
+MAN:
+  S-she's fine...
+
+GONZA:
+  Bring my Ishibiya!
+  Gather the Ishibiya troops here.
+  I won't let them get away like this!
+
+[Ashitaka, still carrying San on his shoulders, approaches the furnace building.]
+
+WOMAN:
+  Toki, hurry!!
+
+[Toki rushes out and stares at Ashitaka, then at the trail of blood he leaves
+behind him. Ashitaka gives her a smile as he passes.]
+
+TOKI:
+  ......!! Y...... you ......!!
+
+[Ashitaka reaches the fortress gate, Yakkuru following behind. A cattle herdsman
+stands in Ashitaka's way.]
+
+CATTLE HERDSMAN C:
+  Sir, you can't pass through here;
+  without permission, the gate can't be opened.
+
+[However, the man stands aside, and Ashitaka walks between two Ishibiya troops
+guarding the gate.]
+
+ISHIBIYA TROOPER I:
+  We beg you, go back.
+
+ISHIBIYA TROOPER II:
+  You rescued our comrade. We do not wish you as a foe.
+
+ISHIBIYA TROOPER I:
+  We beg you......
+
+ASHITAKA:
+  I came here of my own accord. I shall leave here on my own two feet.
+
+GUARD I:
+  It's impossible. It takes ten men to open the door.
+
+[Ashitaka begins pushing at the gate with his right arm, attempting to raise it.
+Blood from the wounds in his chest and back rushes down his legs, and his feet begin
+to slip in the puddle forming beneath them.]
+
+CATTLE HERDSMAN C:
+  Sir, please don't. You'll die!!
+
+CROWD:
+  Ohh, it moved......
+
+[As Ashitaka lifts the gate above his head, Gonza rushes up with some Ishibiya
+troops.]
+
+GONZA:
+  Get out of the way!
+
+[The two wolves have been waiting outside for San, and rush at the gate.]
+
+GONZA:
+  It's the mountain dogs!
+
+[Gonza looks for a match to fire his Ishibiya.]
+
+GONZA:
+  Fire... fire... fire...?
+
+ASHITAKA:
+  [to the wolves]
+  Stop it!! Your princess is safe!!
+  I'm coming over there now. Yakkuru, let's go.
+
+[Ashitaka looks politely back at the stunned townspeople.]
+
+ASHITAKA:
+  I'm much obliged to you.
+
+[Ashitaka, still carrying the unconscious San, disappears into the darkness with
+Yakkuru and the two wolves. The gate slams shut behind him.]
+
+CATTLE HERDSMAN C:
+  He's gone......
+
+
+--------------------------------------------------------------------------------
+7. A ROCKY MOUNTAINSIDE
+--------------------------------------------------------------------------------
+
+[Ashitaka rides Yakkuru through the hills outside Tatara Ba, holding the
+still-unconscious San in front of him. But as San awakes, Ashitaka has lost all his
+strength and falls off from Yakkuru. Immediately, the two wolves attack Ashitaka.]
+
+SAN:
+  Wait!!
+  He's my prey.
+
+[Yakkuru bucks wildly until San dismounts. San goes to where Ashitaka is lying on
+his face in the dirt.]
+
+SAN:
+  You were attacked, weren't you. ...... You're dying, aren't you?......
+  Why did you interfere with me?! Answer me before you die!
+
+ASHITAKA:
+  [extremely weakly]
+  ...... I didn't want to let you die......
+
+SAN:
+  I'm not afraid to die! If I could drive away the humans, I don't mind losing
+  my life!
+
+ASHITAKA:
+  I've known. Since the time we first met......
+
+[San turns Ashitaka onto his back, and pulls his sword, pointing it at his throat.]
+
+SAN:
+  For your uncalled-for interference, you're the one who's going to die a useless
+  death!
+  I'll cut that throat apart for you, and you'll never babble again!!
+
+ASHITAKA:
+  Survive......
+
+SAN:
+  You still say such things?! I don't accept a human's orders!
+
+[Ashitaka opens his eyes, and looks up at San.]
+
+ASHITAKA:
+  You're beautiful......
+
+[San backs away from Ashitaka in surprise.]
+
+MOUNTAIN DOG:
+  What's the matter, San? Shall I chomp him for you?
+
+[Ashitaka loses consciousness. Rocks and sticks start hitting the ground near him.
+Large, shadowy, ape-like creatures are throwing them from a nearby hilltop.]
+
+SAN:
+  The Shoujou......
+
+MOUNTAIN DOG A:
+  You Shoujou, such insolence -- knowing us, the clan of Moro?
+
+SHOUJOU I:
+  This is our forest.
+
+SHOUJOU II:
+  Give us that human.
+
+SHOUJOU III:
+  Give us human, and go quickly.
+
+MOUNTAIN DOG A:
+  Begone. Lest my fangs reach you......
+
+THE SHOUJOU:
+  Go, go...
+
+SHOUJOU I:
+  We eat human.
+
+SHOUJOU II:
+  We eat that human.
+
+THE SHOUJOU:
+  Let us eat that human.
+
+SAN:
+  Shoujou, why do you, admired as the wise ones of the forest, want to eat the
+  likes of a human?
+
+SHOUJOU I:
+  We eat human. We receive human's power.
+  We want power to defeat humans. So we eat.
+
+SAN:
+  You mustn't do it. You won't obtain the power of the human even if you eat the
+  human.
+  Your blood will just become tainted. The Shoujou will be no more!
+
+SHOUJOU I:
+  We planted trees. Plant trees, planted trees.
+  Humans uproot everything. Forest not return. We want to kill humans!
+
+SAN:
+  We have Lord Shishi-gami on our side.
+  Don't give up planting trees, for the clan of Moro will fight to the end.
+
+SHOUJOU II:
+  Shishi-gami-sama does not fight. We all die.
+  Princess of Mountain Dogs is unconcerned. Because she is human.
+
+MOUNTAIN DOG A:
+  You damned insolent monkey. I'll chomp that neck for you!!
+
+[The wolves rush towards the Shoujou, who scatter.]
+
+SHOUJOU CROWD:
+  Got angry...
+
+SAN:
+  Stop it!!
+
+[The wolves return to San's side.]
+
+SAN:
+  I'm fine, don't worry about me.......
+  You two go home ahead of me. I'll deal with this human.
+
+MOUNTAIN DOG A:
+  [looking at Yakkuru]
+  How about him?
+  May we eat him?
+
+SAN:
+  ......You mustn't eat him. Well, go on...
+
+[The wolves depart.]
+
+SAN:
+  [to Yakkuru]
+  Come here, let's make peace.
+  Please help me by transporting your master.
+
+
+--------------------------------------------------------------------------------
+8. SHISHI-GAMI'S POND
+--------------------------------------------------------------------------------
+
+[San puts the unconscious Ashitaka on Yakkuru, and leads them to the pond where
+Ashitaka once took a rest. San cuts a sapling of sakaki (sacred Shinto tree). As
+San walks in the pond, many white bones break underneath her feet. She takes
+Ashitaka to an island in the middle of the pond, and lays him on the grass with his
+lower body immersed in the water. San plants the sakaki sapling at Ashitaka's head.
+Yakkuru remains standing in the pond.]
+
+SAN:
+  [to Yakkuru]
+  You're smart, aren't you. It's better not to come up on this island.
+
+  [sniffing her arm where she held Ashitaka]
+  Stinks of human...
+
+  [removing Yakkuru's harness]
+  Go where you like, and live as you please...
+
+[Yakkuru just stands still as if to watch Ashitaka, as San swims away. Countless
+Kodama appear on the treetops. They all face the west, as if they are expecting
+something. A half-transparent giant appears in the western sky, and slowly moves
+around the forest. The Kodama rattle their necks as if to greet it. Jiko-Bou and
+two Jibashiri hunters are hiding in the forest near the pond.]
+
+JIKO-BOU:
+  ......!! Oh!! It's out!
+  The Didarabotchi!! We've finally located it. What are you doing, hurry up and
+  look!
+  Why are you wearing these stinking pelts if you don't follow through?!
+
+CHIEF HUNTER:
+  If you look at Shishi-gami-sama, your eyes will be destroyed!
+
+JIKO-BOU:
+  And yet you consider yourselves the best hunters of the western lands?
+  What do you know of this imperial court document?
+  The Emperor has approved the extermination of the Shishi-gami, so hurry up!!
+
+[The Didarabotchi approaches an opening in the forest canopy.]
+
+JIKO-BOU:
+  The Didarabotchi is the Shishi-gami's nighttime form.
+  Before long, it will transform from its nighttime to its daytime form.
+  There's the Shishi-gami's den.
+  Oh, it's vanishing, over there!!
+
+[As Yakkuru looks on, the Didarabotchi approaches the pond, and then transforms into
+the Shishi-gami, a strange beast with many antlers and a semi-human face. As it
+walks, grass and flowers sprout and die instantly underneath its hooves. It
+approaches the spot where Ashitaka is lying, and looks down at him as if considering
+what to do with him. As it does so, it lowers its face to the sakaki sapling San
+planted at Ashitaka's head; the sapling withers and dies, its leaves falling on
+Ashitaka's face. Meanwhile, Jiko-Bou and the two hunters descend a narrow mountain
+path and enter a hunters' blind, where another hunter (Kichi) is keeping watch.]
+
+KICHI:
+  Jiko-Bou-sama...
+
+JIKO-BOU:
+  I know.
+
+KICHI:
+  Over there......
+
+JIKO-BOU:
+  Such a countless number...
+
+KICHI:
+  Those aren't the boars of this forest; each one is a renowned lord of a mountain
+  somewhere.
+
+[A huge, blind, white boar appears on a mountaintop.]
+
+KICHI:
+  It's Okkotonushi of Chinzei!!
+
+JIKO-BOU:
+  Chinzei?! You mean he crossed the sea?
+
+KICHI:
+  There's no doubt about it -- those four tusks.
+  He came here leading his clan, damn him!
+
+JIKO-BOU:
+  We've been discovered! Pull out, hurry!
+  Hurry up. Jump, jump!
+
+[In his deep sleep, Ashitaka is floating in the water. He sees the Shishi-gami
+approach. As its muzzle touches Ashitaka's chest wound, the blood flowing out of
+the wound stops. When Ashitaka wakes up, the Shishi-gami is gone. He is lying on
+the shore of the pond, with Yakkuru standing nearby. With great effort, Ashitaka
+moves his hand to the bullet hole on the front of his tunic.]
+
+ASHITAKA:
+  No wound!!
+
+[He falls back in exhaustion. Yakkuru nuzzles him.]
+
+ASHITAKA:
+  Yakkuru......
+
+[As Ashitaka strokes Yakkuru, he notices that his right hand and arm still bear the
+mark of his curse, and he is driven into deep despair. San appears, carrying
+Ashitaka's sword.]
+
+SAN:
+  When you wake up, say your thanks to Yakkuru. He was guarding you the whole time.
+
+ASHITAKA:
+  [weakly]
+  ...... How do you know Yakkuru's name...
+
+SAN:
+  He told me various things about himself. And about you, and the forests of your
+  homeland.
+  Shishi-gami-sama revived you. That is why I help you.
+
+ASHITAKA:
+  I saw a strange dream. There was a golden-colored deer...
+
+[San puts a piece of dried meat into Ashitaka's mouth.]
+
+SAN:
+  Eat.
+  Chew.
+
+[Ashitaka is too weak to chew it. Watching him struggle, San puts the meat in her
+mouth, chews it, and gives it to Ashitaka, mouth to mouth. As San continues to feed
+him, she is startled to see tears in Ashitaka's eyes. Moro and her two wolf sons
+approach, and watch as a number of large boars come into view. San places herself
+between the boars and Ashitaka's prone body.]
+
+LARGE BOAR:
+  We came in order to kill humans and protect the forest.
+
+  [looking at San]
+  Why are there humans here?
+
+MORO:
+  She is my daughter. There are humans everywhere.
+  You should go back to your own mountains and kill them there.
+
+LARGE BOAR:
+  We kill in order to protect the Shishi-gami's forest. Why are there humans here?
+
+SAN:
+  Shishi-gami-sama healed this human's wound. Therefore we must send him back
+  without killing him.
+
+LARGE BOAR:
+  The Shishi-gami saved a human?! You say the Shishi-gami healed a human!!
+  Why did he not save Nago-no-kami?!
+  Is the Shishi-gami not the guardian god of the forest?!
+
+MORO:
+  The Shishi-gami both gives and takes life.
+  Have you forgotten even such a thing, you boars?
+
+LARGE BOAR:
+  No, it is because the mountain dogs are monopolizing the Shishi-gami.
+  It is because you betrayed us by not saving Nago!
+
+MORO:
+  It is because he feared death. As I do now......
+
+SAN:
+  [staring at Moro]
+  ......!?
+
+MORO:
+  The humans' poison throwing stone has lodged itself in my body as well.
+  Nago ran away, but I am gazing upon my own death without fleeing.
+
+SAN:
+  Moro, therefore you must go to Shishi-gami-sama...
+
+MORO:
+  San, I have already lived long enough.
+  The Shishi-gami will probably absorb my life rather than heal my wound.
+
+SAN:
+  That can't be!! Mother, you came here to protect the Shishi-gami!
+
+LARGE BOAR:
+  We will not be deceived! Nago was our handsome and mighty brother.
+  He would not have run.
+  You mountain dogs ate him. You must have eaten him!!
+
+SAN:
+  Silence!! I will not forgive you if you trifle with Mother!
+
+ASHITAKA:
+  Rampaging gods of the mountains! Please listen to me.
+  It is I who dealt the final blow to Nago-no-kami.
+  Out of necessity I killed a Tatari-gami that attacked my village.
+  It was a large Boar God. This is my proof.
+
+[Ashitaka displays his right hand, bearing the mark of the Tatari-gami's curse.
+San stares in amazement; behind her, Moro's eye narrows.]
+
+SAN:
+  ......!!
+
+ASHITAKA:
+  I came to this land on the chance that the Shishi-gami might do me the favor of
+  lifting this curse.
+  However, the Shishi-gami healed my wound, but did not erase the mark of my curse.
+  ...... Until the curse consumes my body, he told me to live on in pain......
+
+[A huge white Boar God with four tusks approaches through the trees.]
+
+MORO:
+  It's Okkotonushi. At last someone has come who might understand a little.
+
+[Okkotonushi goes up to the spot where Ashitaka is lying on the ground.]
+
+SAN:
+  Wait, Lord Okkotonushi!
+  You must not eat this person.
+
+OKKOTONUSHI:
+  Ah, you're the daughter of Moro, aren't you. I've heard the rumors.
+
+SAN:
+  Your eyes......
+
+OKKOTONUSHI:
+  Please step back, I will not eat him.
+
+ASHITAKA:
+  Princess of the Mountain Dogs, don't be concerned. For I want to impart the
+  final moments of Nago-no-kami......
+
+[Ashitaka holds up his hand for Okkotonushi to sniff.]
+
+OKKOTONUSHI:
+  Thank you, young one.......
+  It is a sad thing that a Tatari-gami emerged from our clan.
+
+ASHITAKA:
+  Lord Okkotonushi, is there any way to erase this curse?......
+
+OKKOTONUSHI:
+  [Young one,] leave the forest. The next time we meet, I will have to kill you
+  as well.
+
+MORO:
+  Okkotonushi, we cannot prevail against the humans' Ishibiya by numbers alone.
+
+OKKOTONUSHI:
+  Moro, look at my clan. They are all becoming smaller and more stupid.
+  If this continues, we will probably become hunted by the humans as mere meat.
+
+MORO:
+  I don't like it. To want to settle it all at once would be doing exactly as the
+  humans would have us act.
+
+OKKOTONUSHI:
+  I would not think to ask for the help of the Mountain Dogs.
+  Even if our clan is completely annihilated, we will have our vengeance on the
+  humans.
+
+[As Okkotonushi disappears into the forest, followed by the other boars, Ashitaka
+again loses consciousness. After the boars have gone, San sees the Shishi-gami
+standing on top of the water across the pond. It looks at her briefly, then walks
+quickly on the water until it is out of sight.]
+
+SAN:
+  ......!! Shishi-gami-sama...
+
+
+--------------------------------------------------------------------------------
+9. TATARA BA
+--------------------------------------------------------------------------------
+
+[On the road leading to Tatara Ba, Lady Eboshi and her men are fighting against an
+army of samurai while protecting their supply train.]
+
+CATTLE HERDSMAN C:
+  Don't get disordered and scatter the cattle!
+
+EBOSHI:
+  Don't shoot yet. Draw them in closer!
+  Fire!
+
+GONZA:
+  Reload, hurry!
+
+[Eboshi shoots a pair of samurai off their horses.]
+
+HELMETED WARRIOR:
+  Turn back!
+
+SAMURAI:
+  You bitc...
+
+[Jiko-Bou observes the battle from a nearby hilltop with the men of the Karakasa
+Ren.]
+
+JIKO-BOU:
+  Well well, Eboshi's people. They're probably the wrong foe......
+
+  [to one of his men]
+  You men, go on ahead of me and hide yourselves.
+
+[At the gate of Tatara Ba, Toki and some of the women are standing watch with
+new-model Ishibiya. Lady Eboshi's supply train appears in the distance.]
+
+WOMAN:
+  I saw them!! They've come back!
+
+[An Ishibiya trooper from the supply train approaches Jiko-Bou.]
+
+ISHIBIYA TROOPER:
+  Boss...
+
+JIKO-BOU:
+  Oh, thanks for your trouble.
+  We're going to move slowly; tell everyone so as well.
+
+ISHIBIYA TROOPER:
+  Yessir.
+
+[Jiko-Bou falls in with the train beside Lady Eboshi.]
+
+EBOSHI:
+  Jiko-Bou?
+
+JIKO-BOU:
+  We've an urgent request from the Shishou-ren. This is no time to be playing
+  around with backwoods samurai.
+
+EBOSHI:
+  Chief warlord Asano is instigating the ordinary samurai against us.
+
+JIKO-BOU:
+  Asano, eh...... A powerful samurai, isn't he.
+
+EBOSHI:
+  He came demanding that we give him half our iron.
+
+JIKO-BOU:
+  That's greedy!
+  But this is not the time to be quarreling with humans.
+  The boar gods are gathering in the forest. They'll come soon.
+  This time, give Asano all the iron and the like.
+  After you fulfill your promise to the Shishou-ren, you can do battle or whatever
+  you want.
+
+[As they reach the gate of Tatara Ba, some horsemen appear in the distance.]
+
+WOMEN:
+  Eboshi-sama! Hurry!
+  Samurai are coming. Hurry!
+
+JIKO-BOU:
+  Speak of the devil. That's Asano's messenger, isn't it...
+
+EBOSHI:
+  [to the women]
+  It's a messenger. Entertain him hospitably.
+
+WOMEN:
+  Yes ma'am!
+
+[Lady Eboshi and Jiko-Bou enter Tatara Ba, and the gate slams shut behind them.]
+
+WOMEN:
+  Welcome back!
+
+JIKO-BOU:
+  Hey, you're not going to meet them?!
+
+[The horsemen pull up outside the gate.]
+
+MESSENGER:
+  Tatara woman called Eboshi, your battle a little while ago against the local
+  samurai was magnificent.
+  We came as messengers from the Chief Warlord. Obey respectfully and open the
+  gates!
+
+WOMAN I:
+  Hmph, if you have business here, then you should state it from there!
+
+WOMAN II:
+  Eboshi-sama grabbed these mountains away from the Mononoke.
+
+WOMAN III:
+  You're reaching your hand out because you think it'll be profitable, damn you!
+  Leave this place at once!!
+
+MESSENGER:
+  You women, I will not tolerate insolence towards Lord Asano's messenger!
+
+WOMAN II:
+  He says we're insolent?
+
+WOMAN I:
+  We've been insolent the whole time since we were born!
+
+ALL WOMEN:
+  [sticking out their tongues]
+  Phhht!
+
+WOMAN IV:
+  If you want iron, I'll give you some!
+
+[She fires a shot near the messenger's horse; the messengers retreat. Inside
+Tatara Ba, Jiko-Bou shows Lady Eboshi a document.]
+
+JIKO-BOU:
+  Oh, man! Neither the Mononoke nor the samurai are any match for you.
+  It truly shows the feisty side of you!
+
+EBOSHI:
+  You really think this piece of paper holds any value?
+
+JIKO-BOU:
+  Well, it helps in a lot of bureaucratic situations.
+  After all, we are going to kill a god.
+
+[Lady Eboshi beckons to some women standing nearby.]
+
+WOMAN:
+  Yes, Eboshi-sama?
+
+EBOSHI:
+  Do you understand what is written on this paper?
+  It is from the Emperor.
+
+WOMAN:
+  The Emperor?
+
+WOMAN II:
+  Who's the Emperor?
+
+EBOSHI:
+  The Mikado.
+
+WOMEN:
+  Mikado...
+
+JIKO-BOU:
+  OK, you got me there.
+
+EBOSHI:
+  [to the women]
+  You may go.
+
+  [to Jiko-Bou]
+  If we continue to make steel here, the power of the forest will weaken.
+  There will be fewer casualties that way.
+
+JIKO-BOU:
+  We gave you plenty of money and raw steel.
+  The reason you were lent the Ishibiya troops was not to make steel.
+  But, then again, you probably know that already.
+
+EBOSHI:
+  Don't tell me even you have come to believe the legend that the head of the
+  Shishi-gami brings eternal youth.
+
+JIKO-BOU:
+  I don't know what the people up above are thinking about...
+  and I don't want to know.
+
+EBOSHI:
+  I will keep my promise.
+  It will probably be easier to take care of the Boar clan than the Moro clan.
+  And bring out those suspicious looking ones from behind the ravine.
+
+JIKO-BOU:
+  You saw right through it!
+  Oh, yeah, one more thing...
+  Did a young man come through your village recently?
+  Riding an Akashishi?
+
+EBOSHI:
+  Beats me.
+
+[The Jibashiri and Karakasa Ren enter Tatara Ba.]
+
+WOMAN:
+  Something about them makes my skin crawl.
+
+KOUROKU:
+  They're not ordinary hunters.
+  They're Jibashiri.
+
+MAN:
+  Jibashiri?
+
+[Later, in the fortress meeting hall.]
+
+WOMAN:
+  Please let us help!
+
+WOMAN II:
+  We can't trust strangers!
+
+WOMAN III:
+  If something happens to Eboshi-sama, there'll be nothing we can do!
+
+WOMAN IV:
+  And you just taught us how to use the Ishibiya...
+
+EBOSHI:
+  I want everyone to protect this place.
+  The thing to be feared most are humans, not Mononoke.
+  After the Shishi-gami is dead, you will understand.
+  You think that those ragged, umbrella-toting monks will stop with just the
+  Shishi-gami's head?
+  It's not just the samurai; the Ishibiya troops may turn to become our foes as well.
+  We can't rely on the men. Do your best.
+
+GONZA:
+  Don't worry about Eboshi-sama.
+  I, Gonza, will protect her with my life!
+
+TOKI:
+  If that were only true.
+
+GONZA:
+  What?!
+
+TOKI:
+  It might have been better if you were a woman after all!
+
+
+--------------------------------------------------------------------------------
+10. MORO'S CAVE
+--------------------------------------------------------------------------------
+
+[Ashitaka is awakened by the pain of his cursed arm to find himself lying in a
+cave. San is sleeping beside him.]
+
+SONG (BACKGROUND MUSIC):
+  The trembling string of a taut bow --
+  Your heart is unsettled by the moonlight --
+  The beauty of a sharpened blade --
+  Your silhouette, like its keen point --
+  The sorrow and anguish
+  that your naked heart hides behind --
+  Only the spirits of the forest know --
+  Only the Mononoke.
+
+[The pain of his curse returns; Ashitaka walks out onto a ledge in front of the
+cave entrance, and looks down at the forest under the moonlight. Moro is lying atop
+the cave entrance.]
+
+MORO:
+  Do you suffer?
+  If you jump now, from here, you could end it all.
+  As you regain your strength, so will your wound spread.
+
+ASHITAKA:
+  It seems I was asleep for many days.
+  All I remember was being in the care of that young girl.
+
+MORO:
+  If you had raised even a single cry, I would have ripped your throat apart. It
+  seems I missed my chance.
+  What is it you stare at?
+
+ASHITAKA:
+  It's such a beautiful forest.
+  Has Okkotonushi moved yet?
+
+MORO:
+  Go back inside the cave, young one.
+  How can you hear the sorrowful cries of the forest as the boars move among the
+  trees?
+  I sit here listening to the forest's desperate cries with my dying body while
+  waiting for that woman to appear!
+  How I dream of the moment when I can sink my fangs into her head!
+
+ASHITAKA:
+  Moro, is there any way that the forest and humans can coexist without conflict?
+  Is it really true that there is no other way?!
+
+MORO:
+  The humans but grow and grow in numbers.
+  In time they will reach even here.
+
+ASHITAKA:
+  What do you intend to do with San?
+  Do you intend to abandon her as well?
+
+MORO:
+  Just like a human. Such an irrational, selfish thought.
+  San is one of us. She lives with the forest, and shall die when it dies.
+
+ASHITAKA:
+  Release the girl! She is human!
+
+MORO:
+  Quiet, young one!
+  How can you pretend to understand that girl's misfortune?
+  She was but a child who was thrown to us so that the humans could escape our
+  teeth!
+  Unable to become completely human or Mountain Dog...
+  she is my dear, ugly, furless child!
+  And you say that you can save San?!
+
+ASHITAKA:
+  I don't know.
+  However, I know we can live together.
+
+MORO:
+  How would you live together?
+  Would you fight the humans with San at your side?
+
+ASHITAKA:
+  No! That would only increase the hatred and grief!
+
+MORO:
+  Young one, there is nothing that you can do.
+  You will eventually be consumed by the curse and die. Leave by the dawning of
+  the sun!
+
+[Ashitaka reenters the cave to find San awake.]
+
+SAN:
+  Were you able to walk?
+
+ASHITAKA:
+  Thank you. It is due to you and the Shishi-gami.
+
+[San smiles, and goes back to sleep. Ashitaka watches her for a while, and goes
+to sleep. The next morning, when Ashitaka wakes up, San and the wolves are already
+gone. His belongings are neatly laid near him, together with some wrapped food.
+Ashitaka understands that this is a message from San for him to leave the mountain.
+Yakkuru is waiting for him outside the cave.]
+
+ASHITAKA:
+  Yakkuru! Sorry to have worried you!
+
+[He attempts to jump down to Yakkuru, but falls.]
+
+  My leg's become so weak...
+
+[When Ashitaka mounts Yakkuru, one of Moro's two sons appears, and leads them down
+the mountain through the forest.]
+
+  It's too quiet. All the Kodama have disappeared.
+
+[They reach a streambed filled with huge boulders.]
+
+  The air smells of the village of Tatara Ba, we're close.
+
+[The wolf stops leading them. Ashitaka considers a moment, then pulls out the
+crystal dagger given him by Kaya when he left the Emishi village.]
+
+  Thank you for your guidance! I have one favor to ask you!
+  Please give this to San!
+
+[Ashitaka throws the dagger to the wolf, which catches it in its teeth and
+disappears.]
+
+
+--------------------------------------------------------------------------------
+11. ON TOP OF A MOUNTAIN
+--------------------------------------------------------------------------------
+
+[San and Moro look down from a ridge, where Eboshi's and Jiko-Bou's men are busy
+working.]
+
+SAN:
+  What a terrible smell... it makes me sick.
+
+MORO:
+  It is not normal smoke. They're trying to confuse our sense of smell.
+
+SAN:
+  That woman is there.
+  She knows we're here.
+
+MORO:
+  Such an obvious trap.
+
+SAN:
+  Trap?!
+
+MORO:
+  She's trying to draw us from the forest.
+  She must indeed have something big planned.
+
+SAN:
+  We must warn the boars! They've already started to move.
+
+MORO:
+  Okkotonushi is no fool.
+  Even though he knows it's futile, he intends to attack from the front.
+  That is the pride of the boars.
+  They will try and break through until the last boar falls.
+
+SAN:
+  They've started to cut the trees.
+
+MORO:
+  That is but bait.
+
+SAN:
+  Mother, I bid you farewell.
+  I'm going to help Okkotonushi.
+  They're probably in trouble because of the smoke.
+
+MORO:
+  That is also fine.
+  However, you could also follow another path, and live with that young man.
+
+SAN:
+  [still embracing Moro's neck]
+  I hate humans!
+
+[The young wolf returns and gives Ashitaka's knife to San.]
+
+SAN:
+  From Ashitaka... for me?
+  Beautiful...
+
+[San ties the cord of the dagger around her neck.]
+
+MORO:
+  [to the two wolves]
+  You go with San; I will stay by the Shishi-gami's side.
+
+SAN:
+  Let's go!
+
+[With the two young wolves, San joins the rampaging boars.]
+
+SAN:
+  The Moro clan will fight beside you!
+  Where is Okkotonushi-sama?
+  Thank you!
+
+
+--------------------------------------------------------------------------------
+12. TATARA BA
+--------------------------------------------------------------------------------
+
+[In a somber mood, Ashitaka rides Yakkuru slowly down the mountain in the rain. He
+hears a sound like distant thunder. Suddenly, the rain stops and the mist over the
+lake clears up. The sound of gunfire comes from across the lake.]
+
+ASHITAKA:
+  It's coming from Tatara Ba!
+  Let's go!
+
+[A group of samurai are guarding the lake shore.]
+
+SAMURAI:
+  Who goes there?
+
+ASHITAKA:
+  (Samurai!)
+
+SAMURAI:
+  Stop!
+
+ASHITAKA:
+  I'm coming through!
+
+SAMURAI:
+  Come on!
+
+[Yakkuru leaps over the samurai into the lake.]
+
+SAMURAI II:
+  He's good!
+
+[As Ashitaka and Yakkuru swim across the lake, archers shoot at them, but Ashitaka
+blocks the arrows with his sword.]
+
+ARCHER:
+  He blocked them!
+
+SAMURAI II:
+  He's pretty skilled!
+  Stop it! It's a waste of arrows!
+
+[As Ashitaka approaches Tatara Ba, he sees that the main gate is already broken,
+and the bodies of Tatara people are scattered all over. He nears the bottom of the
+fortress wall, on top of which the women are standing guard.]
+
+WOMAN:
+  Hurry, hurry!
+
+WOMAN II:
+  It's true, it really is him!
+
+WOMAN III:
+  That's not a ghost, is it?
+
+TOKI:
+  Ashitaka-sama!
+
+ASHITAKA:
+  Toki-san! Is that you?
+  Is everyone all right?
+
+TOKI:
+  Just as you see.
+  The samurai have started to attack because the men are gone.
+  The lower side is already beaten!
+  They think they have it easy because it's only women.
+
+ASHITAKA:
+  Where is Eboshi-sama?
+
+TOKI:
+  She took all the able men and the Ishibiya troops to hunt the Shishi-gami.
+  There's no way to tell them of our predicament!
+
+ASHITAKA:
+  Hunt the Shishi-gami! So the sound before was...
+
+KOUROKU:
+  Sir! I kept this for you!
+
+[Kouroku throws down Ashitaka's bow and arrows.]
+
+TOKI:
+  [to Kouroku]
+  Why didn't you bring something more useful, like an Ishibiya?
+  You good-for-nothing!
+
+ASHITAKA:
+  Thanks, Kouroku!
+  I'll go and ask Eboshi-sama for help.
+  You think you can stand until then?
+
+TOKI:
+  If worse comes to worse, we'll pour molten steel on them!
+
+WOMAN:
+  Ashitaka-sama, we're counting on you!
+
+WOMAN II:
+  Quickly, go get Eboshi-sama!
+
+LEPER:
+  [shooting an Ishibiya at approaching boats]
+  Oh, damn, I missed.
+
+LEPER II:
+  [to Ashitaka]
+  The ships are coming, hurry!
+
+LEPER:
+  We leave Eboshi-sama in your hands!
+
+LEPER II:
+  We shall also fight!
+
+ASHITAKA:
+  I will be back!
+  Keep fighting!
+
+TOKI:
+  Good luck!
+
+WOMAN:
+  Take care!
+
+[Ashitaka and Yakkuru leave under a hail of arrows from the samurai boats. However,
+another group of samurai atop a nearby hill see them.]
+
+SAMURAI:
+  There he is! Signal flare!
+
+[Four horsemen pursue Ashitaka and Yakkuru.]
+
+ASHITAKA:
+  They're after us!
+  I'm counting on you, Yakkuru!
+
+[Yakkuru outruns the horses until they come to a ridge overlooking a rocky mountain
+from which black smoke is pouring.]
+
+  It smells of burned flesh.
+
+[Suddenly Yakkuru and Ashitaka are tumbling down the ridge; Yakkuru has been hit
+by an arrow.]
+
+  Yakkuru!
+
+[Ashitaka pulls out the arrow, but the horsemen come into sight and attack.]
+
+SAMURAI:
+  Come on!!
+
+ASHITAKA:
+  Don't come any closer!
+
+[Ashitaka uses arrows and sword to dismember three of the horsemen; the fourth
+beats a hasty retreat.]
+
+ASHITAKA:
+  [to Yakkuru]
+  Show me your wound!
+  I'm sorry, wait for me here! I'll be back.
+
+[Ashitaka starts running towards the blackened hill, but Yakkuru tries to follow
+him.]
+
+  I said wait!
+
+[As Yakkuru continues to hobble after him, Ashitaka finally gives in, and leads
+Yakkuru by its reins.]
+
+  Keep going, it's only a little more.
+
+
+--------------------------------------------------------------------------------
+13. EBOSHI'S CAMP AT THE FOOT OF A ROCKY MOUNTAIN
+--------------------------------------------------------------------------------
+
+[Ashitaka reaches Eboshi's camp to find that it is covered with a sea of bodies --
+of men and boars. Ashitaka looks for San, but she seems not to be among the dead.]
+
+KARAKASA-REN:
+  Who are you?
+  This is a place for the dead; you don't belong here. Leave!
+
+ASHITAKA:
+  I must keep a promise I made to the people at Tatara Ba.
+  There's something urgent I must tell the people here.
+  I wish to speak with Eboshi-sama.
+
+KARAKASA-REN:
+  Eboshi-sama is not here. Tell me what you wish to speak of.
+
+ASHITAKA:
+  I will speak to her only. Where is Eboshi-sama?
+
+[The gatekeeper and other men from Tatara Ba approach, carrying shovels.]
+
+GATEKEEPER:
+  Sir! You're alive?
+
+ASHITAKA:
+  Old one, what a dreadful thing this has become.
+
+GATEKEEPER:
+  There's still more people buried out there.
+
+MAN II:
+  Dreadful doesn't even begin to describe it.
+
+ASHITAKA:
+  Tatara Ba is under siege by samurai.
+  The women are holed up in the upper towers!
+  If you go now, you might make it.
+
+GATEKEEPER:
+  What a mess this has become.
+
+MAN II:
+  Damn Lord Asano! What a cowardly act, attacking at this time!
+
+ASHITAKA:
+  Is Eboshi-sama not here?
+
+GATEKEEPER:
+  She went to the forest to kill the Shishi-gami.
+
+ASHITAKA:
+  You must call her back immediately, otherwise it will be too late!
+
+KARAKASA-REN:
+  If you're done babbling, then leave!
+  Everyone, back to work!
+
+GATEKEEPER:
+  What? You intend to leave those at Tatara Ba to their deaths?
+  If we don't leave now, everyone will die!
+
+MAN II:
+  You can't be serious!
+
+KARAKASA-REN:
+  The forest is vast and deep; there's no way we could find her in time.
+
+GATEKEEPER:
+  Liar! You're all skilled trackers known far and wide! You could find anyone
+  you wanted!
+
+MAN II:
+  [to Ashitaka]
+  Eboshi-sama's being controlled by those bastards.
+
+ASHITAKA:
+  Did you see a Mountain Dog among the flood of attacking boars?
+  San... no, the Mononoke-hime, did you see her?
+
+MAN II:
+  I have no idea. They came in a big black wave, so...
+
+MAN III:
+  I did. We were at the front of the lines...
+
+ASHITAKA:
+  And?
+
+MAN III:
+  I don't know. All of a sudden I became so confused...
+
+MAN II:
+  Those ragged bamboo people used us as bait to draw in the wild boars, then blew
+  up the ground in front of us!
+
+[Flashback to the attack of San and the boars. Then, Ashitaka hears one of the
+young wolves attempting to free itself from beneath a pile of dead boars. He rushes
+to attempt to free the wolf.]
+
+ASHITAKA:
+  [to the wolf]
+  San... what happened to San?
+  Calm down, I want to help you!
+
+MAN IV:
+  My god, it's a Mountain Dog!
+  There's a Mountain Dog alive!
+  Sir, sir... what are you doing...
+
+MAN II:
+  Sir...
+
+KARAKASA-REN:
+  You! What do you think you're doing?
+
+ASHITAKA:
+  I need this one to guide me.
+  If you will not go and get Eboshi-sama, I will.
+
+KARAKASA-REN:
+  You would go that far?!
+
+KARAKASA-REN II:
+  Move!
+
+[The Karakasa-ren shoot darts at Ashitaka, but he dodges them.]
+
+ASHITAKA:
+  Which is more important, the Shishi-gami's head, or Tatara Ba?
+
+GATEKEEPER:
+  Poison darts?!
+  Stop it!
+
+MAN II:
+  You bastard!
+
+[The Karakasa-ren prepare to shoot again, but the gatekeeper and the other Tatara
+men knock them out with their shovels. The gatekeeper leads the Tatara men down to
+help Ashitaka free the wolf.]
+
+GATEKEEPER:
+  Everyone, together at once!
+  It's free!
+
+[Yakkuru approaches the freed wolf, and they stare at each other as if to
+communicate.]
+
+ASHITAKA:
+  Everyone go down the hill and hide in the lake.
+
+GATEKEEPER:
+  Please be careful. The Ishibiya troops are also their allies now.
+
+ASHITAKA:
+  [handing over his bow]
+  Please keep this for me; my last arrow broke.
+
+  [to Yakkuru]
+  You stay here with everyone else...
+
+  [to the Tatara men]
+  Take care of Yakkuru!
+
+  [to the wolf]
+  Quickly, to San! Eboshi will be there as well!
+
+[Ashitaka and the wolf run into the forest.]
+
+
+--------------------------------------------------------------------------------
+14. IN THE FOREST
+--------------------------------------------------------------------------------
+
+[Jiko-Bou and Lady Eboshi continue the hunt for the Shishi-gami.]
+
+JIKO-BOU:
+  Don't lag behind the Jibashiri!
+  We're going to settle this once and for all today!
+
+HUNTER:
+  Jiko-Bou-sama.
+
+JIKO-BOU:
+  Oh, you're back! How does it look?
+
+HUNTER:
+  The fatally wounded Okkotonushi is heading deeper into the forest, alongside
+  the Mononoke Hime.
+
+JIKO-BOU:
+  Just like I thought. They seek help from the Shishi-gami.
+  Follow them well!
+  If they figure out that you're human, the Shishi-gami will not come out.
+
+HUNTER:
+  Heh, you don't have to tell me twice.
+
+EBOSHI:
+  What was that on his face? Boar blood?
+
+JIKO-BOU:
+  It's the Jibashiri way.
+
+[In another part of the forest, San, Okkotonushi, and another son of Moro are
+hurrying to the Shishi-gami's pond. Okkotonushi is badly hurt.]
+
+SAN:
+  [to Okkotonushi]
+  Hang in there, we're almost at the Shishi-gami's pond.
+
+  [to the wolf]
+  Something's coming.
+  Something's wrong with Okkotonushi-sama.
+
+  [to Okkotonushi]
+  We're almost there, so please hang on.
+
+WOLF:
+  Something dark is coming.
+
+SAN:
+  What is it? I can't smell anything with all this blood.
+
+[Twigs and branches start raining down on them from the treetops.]
+
+SAN:
+  Shoujou!
+
+SHOUJOU:
+  This forest is done for! It's your fault!
+
+SHOUJOU II:
+  This forest is no more!
+
+SAN:
+  Is this the thanks the Shoujou give to those who fight for the forest??
+
+SHOUJOU:
+  You've brought something unspeakable into this forest!
+
+SHOUJOU II:
+  Something neither human nor beast.
+
+SAN:
+  Neither human nor beast...
+
+SHOUJOU:
+  They come!
+
+SHOUJOU II:
+  The forest is done for!
+
+[A spooky-looking, eyeless boar appears between the trees. Others start appearing
+beside it.]
+
+SAN:
+  The warriors...
+
+OKKOTONUSHI:
+  They're back... they've come back.
+  My warriors have come back for me!
+  Come, let us go forth to the Shishi-gami!
+
+[Okkotonushi starts charging towards the Shishi-gami's pond, the "ghost" boars in
+pursuit; San attempts to restrain him.]
+
+SAN:
+  Okkotonushi-sama, calm yourself! Those who die can never come back!
+  They're covering their scent with the skins of the boars... humans.
+  Stop! You mustn't show them the way to the Shishi-gami!
+
+OKKOTONUSHI:
+  Shishi-gami-sama! Come forth!
+  Bring back my warriors so that we may overthrow the humans!
+
+SAN:
+  Okkotonushi-sama, please, calm yourself!
+
+WOLF:
+  He's done for! Leave him behind.
+
+SAN:
+  No, we can't leave him like this! He'll become a Tatari-gami!
+  You must go back and tell mother about the humans' trap!
+  If mother comes, she will lend us her strength!
+  Hurry, go, you must not let the Moro clan die!
+  Go.
+
+[The wolf leaps over the boarhide-covered humans and disappears. Okkotonushi
+collapses, and the "ghost" boars surround him. San forces them back with her spear.]
+
+SAN:
+  I will kill the first one who comes forth.
+  I will expose your true form for all the forest to see!
+
+[San hears a wolf's call in the distance.]
+
+  Ashitaka?
+
+[The "ghost" boars approach Okkotonushi again.]
+
+  Back! Go back!
+
+[Red and black "snakes" begin erupting from Okkotonushi's hide.]
+
+OKKOTONUSHI:
+  Hot, so hot.
+  My body burns like fire.
+
+SAN:
+  No! Okkotonushi-sama, you mustn't become a Tatari-gami!
+
+[San desperately attempts to clear the "snakes" from Okkotonushi, but they keep
+growing.]
+
+SAN:
+  Okkotonushi-sama...
+
+[One of the men in the boar hides slings a stone at San, knocking her unconscious.
+On a clifftop, Ashitaka hears the answering howling from the forest.]
+
+ASHITAKA:
+  He answered!
+  Did you get that?
+
+WOLF:
+  San is in danger.
+
+ASHITAKA:
+  Let's go!
+
+[They hurry down the cliff to the forest. San regains consciousness to find herself
+caught in the black feelers of Okkotonushi. She sees that the black feelers are also
+coming out of herself.]
+
+SAN:
+  It burns...
+  No! I don't want to become a Tatari-gami! Okkotonushi-sama!
+
+[Ashitaka and the wolf approach a sheer cliff face.]
+
+WOLF:
+  Too slow, get on!
+
+[Ashitaka jumps onto the wolf's back, and they fly down the cliff. At the bottom,
+they come across the party of Lady Eboshi and Jiko-Bou advancing in the forest.]
+
+ASHITAKA:
+  Eboshi...
+
+[Jiko-Bou's men fire Ishibiya at the wolf.]
+
+ASHITAKA:
+  [to the wolf]
+  Shit! You go on ahead!
+
+  [jumps off the wolf's back at a distance from Lady Eboshi]
+  Eboshi! Listen to me!
+
+JIKO-BOU:
+  [to the Ishibiya troops]
+  Stop, stop!
+
+EBOSHI:
+  Ashitaka, is that you?
+
+ASHITAKA:
+  Tatara Ba is being attacked by Lord Asano!
+  Stop this futile fight against the Shishi-gami and return at once!
+  The women are fighting.
+  The men are hiding down from the lake.
+  Everyone is waiting for your return!
+
+EBOSHI:
+  What proof do you have?
+
+ASHITAKA:
+  None!
+  If I could, I would have stayed and fought for Tatara Ba.
+
+EBOSHI:
+  Are you telling me to not kill the Shishi-gami, and instead kill samurai?
+
+ASHITAKA:
+  No! Is there no way the forest and Tatara Ba can coexist?
+
+[Ashitaka disappears into the forest.]
+
+JIKO-BOU:
+  Which side is he on?
+
+GONZA:
+  Eboshi-sama, let's go back.
+
+EBOSHI:
+  I gave the women enough arms to hold out for a while yet.
+  And as I told them, "One's life is but for one to protect."
+  It's a pond, the Shishi-gami is close.
+
+[Lady Eboshi goes on ahead.]
+
+JIKO-BOU:
+  [to the Karakasa-ren]
+  We're almost there. Don't let your guard down.
+
+KARAKASA-REN:
+  Why don't we just get rid of her now?
+
+JIKO-BOU:
+  Killing gods is pretty scary. Let her do it.
+
+
+--------------------------------------------------------------------------------
+15. SHISHI-GAMI'S POND
+--------------------------------------------------------------------------------
+
+[Ashitaka arrives at the Shishi-gami's pond and finds Moro lying on the shore.]
+
+ASHITAKA:
+  Moro, are you dead?
+  San! Where are you?
+  San!
+
+[Swallowed up by the black feelers of the Tatari-gami, San faintly hears Ashitaka.]
+
+SAN:
+  Ashitaka!
+
+[The Tatari/Okkotonushi comes out of the forest towards the pond, followed by the
+hunters wearing boar hides.]
+
+ASHITAKA:
+  Okkotonushi...
+
+HUNTER:
+  Move aside.
+
+ASHITAKA:
+  If you fight here, the Shishi-gami will not come out.
+  Okkotonushi, please calm down!
+  Okkotonushi, please give back the Princess of the Mountain Dogs.
+  Where is San?
+  San, can you hear me? It's Ashitaka!
+
+[Ashitaka sees San's leg sticking out of the black feelers.]
+
+  San...
+
+[Ashitaka dashes towards Okkotonushi to save her, breaking through the encircling
+"ghost" boars.]
+
+HUNTER:
+  Get rid of him.
+  Kill him, kill him!
+
+[The Karakasa-ren hunters shoot darts at Ashitaka, but Moro's two wolf sons attack
+the hunters. Ashitaka jumps into the black mass of Tatari/Okkotonushi.]
+
+ASHITAKA:
+  San!
+  San...
+
+[Ashitaka and San try to reach for each other.]
+
+SAN:
+  Ashitaka...
+
+[Ashitaka is thrown into the air as San is swallowed more deeply into
+Tatari/Okkotonushi. Ashitaka bounces off the prone Moro's head, and falls into the
+pond, unconscious.]
+
+SAN:
+  Ashitaka!
+
+[Moro opens her eyes slowly.]
+
+MORO:
+  And I thought I was saving the last of my strength for that woman...
+
+[Moro raises herself slowly on her front legs, the rear part of her body still
+immersed in the Shishi-gami's pond.]
+
+HUNTER:
+  Set up a defensive line!
+
+MORO:
+  [to her two wolf sons]
+  Do not interfere.
+  The Tatari-gami's curse is not yours to bear.
+
+[As the young wolves back away, Tatari/Okkotonushi approaches Moro.]
+
+  Huh, you've even lost your power of speech?
+
+[Jiko-Bou, Lady Eboshi, and their party are hiding behind trees near the pond.]
+
+JIKO-BOU:
+  [to the hunters]
+  You did well.
+  Help the wounded. Go.
+  My, my, what a scary sight indeed.
+
+[The Shishi-gami appears on the distant island in the middle of the pond.]
+
+  There it is.
+
+[Tatari/Okkotonushi butts Moro with his snout.]
+
+MORO:
+  Give me back my daughter.
+
+[Moro uses her jaws to extract San from the black snakes/feelers.]
+
+  Ashitaka, can you save San?
+
+[At the bottom of the pond, half-unconscious, Ashitaka hears Moro. Ashitaka opens
+his eyes, and swims to the surface of the pond. When he surfaces, Ashitaka and
+Tatari/Okkotonushi see the Shishi-gami slowly walking on the water towards them.
+Tatari/Okkotonushi becomes still as it stares at the Shishi-gami.]
+
+ASHITAKA:
+  Shishi-gami...
+
+[As the Shishi-gami reaches Ashitaka, Eboshi, hiding behind the trees, shoots the
+Shishi-gami. The bullet passes through the Shishi-gami's head. The Shishi-gami's
+hooves start to sink into the water.]
+
+ASHITAKA:
+  Eboshi! Don't shoot!
+
+[The Shishi-gami regains its balance, and continues walking on the water past
+Ashitaka as if nothing had happened.]
+
+  Eboshi, you have other enemies you must fight!
+
+[The Shishi-gami reaches the shore, and approaches Okkotonushi.]
+
+JIKO-BOU:
+  The Ishibiya didn't work.
+
+EBOSHI:
+  We'll have to go for the head.
+
+[Ashitaka jumps out of the pond, receives San from Moro, and jumps back into the
+pond with San in his arms.]
+
+ASHITAKA:
+  San!
+  You mustn't die.
+
+[Ashitaka pulls San under the surface of the pond with him; the water of the pond
+cleans the black feelers from them. On the shore of the pond, the Shishi-gami
+kisses Okkotonushi's muzzle. Okkotonushi collapses and dies. Moro, standing next
+to him, collapses at the same time.]
+
+JIKO-BOU:
+  The Shishi-gami absorbs life?!
+  My god!
+
+[As Ashitaka returns to the surface with San, the Shishi-gami looks up at the moon
+in the sky, and begins transforming.]
+
+JIKO-BOU:
+  Oh, no, he's turning into the Didarabotchi!
+
+EBOSHI:
+  Everyone, watch closely.
+  This is how you kill a god.
+  The Shishi-gami is one who also beckons death.
+
+ASHITAKA:
+  Don't!
+  Eboshi...
+
+[As Lady Eboshi tries to shoot again, Ashitaka throws his sword, which hits Eboshi's
+Ishibiya and forces it to misfire. Eboshi prepares another shot, but the Shishi-gami
+turns and looks at Eboshi with its strange eyes. Plants sprout out of her Ishibiya.]
+
+EBOSHI:
+  Shit... you monster!
+
+[Eboshi shoots the Ishibiya again. The bullet hits the half-transformed Shishi-gami
+in its neck. The head of the Shishi-gami falls onto the ground. The headless body
+of the Shishi-gami turns into black, tar-like slime and explodes. Everything the
+slime touches dies. Great trees fall down, and dead Kodama fall like snow.]
+
+JIKO-BOU:
+  We did it! Hurry up and get the head!
+
+EBOSHI:
+  Jiko-Bou, bring the container for the head.
+
+JIKO-BOU:
+  The carriers were all killed. Hurry, hurry!
+
+EBOSHI:
+  Don't let the Shishi-gami's body touch you.
+  It will take your life.
+  Catch! The promised head.
+
+[Jiko-Bou puts the Shishi-gami's head into a container. Suddenly, Moro's head,
+detached from her body, flies and bites Lady Eboshi's right arm off. Moro's head
+dives straight into the slime, and dies.]
+
+GONZA:
+  Eboshi-sama!
+
+EBOSHI:
+  Moro, you bitch. You were able to move, even though you were only a head.
+
+JIKO-BOU:
+  [to his men carrying the container]
+  Hurry!
+  I said hurry!
+  Run! Run away!
+
+[Ashitaka swims over to Lady Eboshi and Gonza, and pulls Eboshi into the pond with
+him.]
+
+ASHITAKA:
+  Hurry up, get in the water!
+
+GONZA:
+  But I can't swim!
+
+ASHITAKA:
+  You can walk on the bottom.
+
+[They reach the other shore, where San is standing. San rips the crystal dagger
+that Ashitaka had given her from the cord around her neck, and wields the dagger.]
+
+SAN:
+  Give her to me, I'll make her sleep a lot easier!
+
+ASHITAKA:
+  [using his tunic to bind Lady Eboshi's wound]
+  Moro has already exacted vengeance on her.
+  This is her punishment.
+
+GONZA:
+  Eboshi-sama!
+
+ASHITAKA:
+  Give me a hand.
+
+EBOSHI:
+  I don't need your help.
+
+ASHITAKA:
+  I promised Toki and the others that I would bring you back.
+
+[The black slime begins to form into a headless version of the Didarabotchi.]
+
+ASHITAKA:
+  It's looking for its head.
+  This place isn't safe.
+  San, give me your help.
+
+SAN:
+  No!
+  You're one of the humans!
+  Now take that human and get out of here!
+  Don't get any closer, I hate humans! All of them!
+
+ASHITAKA:
+  [approaching San with extended arms]
+  I am human.
+  You are also... human.
+
+SAN:
+  Silence!
+  I am a Mountain Dog!
+  Stay away from me!
+
+[San stabs Ashitaka in the chest with the crystal dagger, then recoils in shock at
+what she has done. Ashitaka takes her into his arms, and holds her tightly.]
+
+ASHITAKA:
+  I'm sorry. I tried to stop them.
+
+SAN:
+  This is the end of everything. The forest is dying.
+
+ASHITAKA:
+  This is not the end. We are still alive.
+  Please, lend me your strength.
+
+[Meanwhile, Jiko-Bou and the container carriers attempt to escape the black slime.]
+
+JIKO-BOU:
+  Hey, where are you going?
+  There's no way we're gonna make it...
+  No, no, no, no, that way!
+
+HUNTER:
+  The head's moving!
+
+JIKO-BOU:
+  Run!
+
+
+--------------------------------------------------------------------------------
+16. TATARA BA
+--------------------------------------------------------------------------------
+
+[The siege has temporarily quieted as the Samurai take a night rest. Inside the
+hold of Tatara Ba, the survivors are also asleep, exhausted. Toki is awake, and
+next to her is a leper woman, who is fixing Toki's Ishibiya.]
+
+LEPER WOMAN:
+  I got it, Toki.
+
+TOKI:
+  Thank you.
+
+LEPER WOMAN:
+  It's quiet.
+
+TOKI:
+  I intend to wait for dawn.
+
+LEPER WOMAN:
+  I wonder if that young man ever reached Eboshi-sama.
+
+TOKI:
+  Of course he did! I'm sure of it.
+  He may be right over there...
+
+[Kouroku, sleeping beside them, begins to snore.]
+
+TOKI:
+  Oh, man, Kouroku, you're such a slob. Hey, Kouroku!
+
+LEPER WOMAN:
+  Let him sleep. It will be his only chance.
+
+[As the eastern sky begins to light up, they hear a strange sound coming from the
+direction of the forest.]
+
+TOKI:
+  What is it? I feel sick...
+  The Didarabotchi!
+
+[They see a headless giant rising over the hill, and Samurai running away for their
+lives as it approaches Tatara Ba.]
+
+MAN:
+  Go, go, go, go!
+
+MAN II:
+  It's a Tatari-gami!
+
+WOMAN:
+  Don't leave your posts!
+
+WOMAN II:
+  Toki, what do we do? It's coming this way!
+
+KOUROKU:
+  It's no use, let's run!
+
+TOKI:
+  No, we will protect Tatara Ba!
+  We promised Eboshi-sama!
+
+[Ashitaka and San appear, riding the wolves on the shore of the lake.]
+
+TOKI:
+  It's him!
+
+WOMAN:
+  Ashitaka-sama!
+
+ASHITAKA:
+  Everyone, run!
+  The Shishi-gami has come to take back its head!
+  If you touch this black ooze, you'll die!
+  Run for the lake, the water will slow it down...
+  Eboshi and the men are on the other side, heading this way.
+  We're going to go and try to get the Shishi-gami's head.
+
+[The black slime nears Ashitaka and San.]
+
+SAN:
+  Ashitaka!
+
+ASHITAKA:
+  Hurry!
+
+[Ashitaka and San leave with the wolves.]
+
+WOMAN:
+  It's coming this way!
+
+TOKI:
+  Don't panic! Get everyone to the lake!
+  Keep calm. Lend a hand to the wounded.
+  No, not that way!
+
+KOUROKU:
+  Oh, the great hall...
+  It's no use, Tatara Ba is lost.
+
+TOKI:
+  As long as we're alive, we still have hope.
+  Hurry to deeper water!
+
+[Ashitaka and San, riding the wolves, reach a mountaintop and catch sight of
+Jiko-Bou and his container carriers.]
+
+SAN:
+  There they are, over there!
+  Go!
+
+[They jump from the wolves in front of Jiko-Bou and his men.]
+
+ASHITAKA:
+  Hold!
+
+JIKO-BOU:
+  Oh, you're alive! I'm so glad!
+
+ASHITAKA:
+  I'm going to give the Shishi-gami its head back.
+  Leave it and get out of here!
+
+JIKO-BOU:
+  Don't say something so foolish!
+  There's nothing you can do about it now. Look!
+  The Shishi-gami's sucked up so much life, it's bloated and slow...
+  When the sun's rays hit it, it will disintegrate into nothingness.
+
+MAN:
+  Jiko-Bou-sama, it's almost upon us! Hurry!
+
+JIKO-BOU:
+  A human's folly causes him to be hung between heaven and hell.
+
+ASHITAKA:
+  I do not wish to kill you.
+
+JIKO-BOU:
+  You got me there...
+  Don't make such a scary face!
+
+[Jiko-Bou attacks Ashitaka with his high wooden shoes.]
+
+JIKO-BOU:
+  [to the container carriers]
+  Run!
+
+[The container carriers reach the top of the hill, with San in pursuit, but part of
+the black slime descends like a giant hand in front of them. They drop the container
+and run.]
+
+MAN:
+  I'm outta here!
+
+[The container rolls down the hill past San.]
+
+SAN:
+  Ashitaka!
+
+JIKO-BOU:
+  Oh, no!
+
+[The container rolls over Jiko-Bou and carries him down the hill until they hit a
+boulder. The black slime surrounds them.]
+
+KARAKASA-REN:
+  We're surrounded!
+
+JIKO-BOU:
+  Sunlight, come forth!
+
+ASHITAKA:
+  Jiko, open it!
+
+JIKO-BOU:
+  You're a hardheaded one. Don't you understand?
+  It's already too late.
+
+SAN:
+  Ashitaka, it's useless to talk to a human.
+
+ASHITAKA:
+  I wish to return it with my own hands.
+
+JIKO-BOU:
+  I take no responsibility for what happens...
+
+[Jiko-Bou opens the container. The head of the Shishi-gami is surrounded by a
+glowing, golden liquid. As Ashitaka and San hold the head up, the liquid drips from
+the head onto them, and leaves red-black marks resembling those of Ashitaka's curse
+all over their bodies.]
+
+ASHITAKA:
+  Shishi-gami! I give back your head!
+  Please, calm down!
+
+JIKO-BOU:
+  It's coming, it's coming!
+
+[Didarabotchi stretches its neck towards its head. As Didarabotchi bends over them,
+Ashitaka holds San tightly. Ashitaka and San are enveloped in golden light. Back at
+Tatara Ba, the townspeople stand in the lake, observing Didarabotchi.]
+
+KOUROKU:
+  It stopped moving.
+
+[Rafts appear on the lake, bearing Lady Eboshi, Gonza, the Tatara men, and Yakkuru.]
+
+WOMAN:
+  It's the men!
+
+TOKI:
+  Eboshi-sama! Are you alright?
+
+GONZA:
+  Don't touch the wound!
+
+[They see the body of Didarabotchi change its color from dark gray to gold, then its
+usual blue. Having regained its head, Didarabotchi slowly stands up. Then, the
+first sunray of morning hits it.]
+
+MAN:
+  It's falling, it's falling!
+
+[Didarabotchi slowly falls down on the lake. It flashes with a bright blue-white
+light, and disappears instantly. As it disappears, a wind blows through. The wind
+blows out the fire at Tatara Ba, and blows away everything, including buildings,
+trees, horses, and Samurai.]
+
+MAN:
+  Don't let go!
+
+[After the wind ceases, plants start sprouting all over. The earth burned by
+Didarabotchi is now covered entirely with green. The Tatara people watch this from
+the lake, stupefied. A leper woman looks at her hand, and realizes that the mark of
+her disease has disappeared.]
+
+KOUROKU:
+  Wow. The Shishi-gami was the bearer of life...
+
+[Nudged gently by Yakkuru, Ashitaka wakes up to find himself and San lying on a
+grassy plain. San is still in his arms. Ashitaka wakes her up.]
+
+ASHITAKA:
+  San... San, look around you.
+
+SAN:
+  Even if it recovers, this place is no longer the forest of the Shishi-gami.
+  The Shishi-gami is dead.
+
+ASHITAKA:
+  The Shishi-gami will never die. He is both life and death itself.
+  He told me to survive.
+
+[Ashitaka looks at his right hand. The mark of his curse has almost disappeared;
+only a light scar is left. San mounts one of the wolves.]
+
+SAN:
+  Ashitaka, I love you, but I cannot forgive humans.
+
+ASHITAKA:
+  That's fine. You live in the forest; I will live in Tatara Ba.
+  I will come to see you from time to time, riding Yakkuru.
+
+[San smiles and nods, then leaves with the wolves. At the ruins of Tatara Ba, Lady
+Eboshi is surrounded by her people.]
+
+EBOSHI:
+  I'm so ashamed. Being saved on the back of a Mountain Dog.
+  Someone go get Ashitaka; I want to thank him.
+  Everyone, let's start over. We'll make this a good village.
+
+[Jiko-Bou observes this from his boulder.]
+
+JIKO-BOU:
+  Oh man, I can't win against fools.
+
+[At the shore of the Shishi-gami's pond, great dead trees look like white bones. On
+the foot of them are sprouts, and a little Kodama appears among them. As it clatters
+its head, the sound echoes through the forest...]
+
+
+================================================================================
+FIN
+================================================================================
+
+[Director's Note by Hayao Miyazaki, included in the original annotated script:]
+
+"There cannot be a happy ending to the fight between the raging gods and humans.
+However, even in the middle of hatred and killings, there are things worth living
+for. A wonderful meeting, or a beautiful thing can exist. We depict hatred, but it
+is to depict that there are more important things. We depict a curse, to depict
+the joy of liberation.
+
+What we should depict is, how the boy understands the girl, and the process in
+which the girl opens her heart to the boy.
+
+At the end, the girl will say to the boy, 'I love you, Ashitaka. But I cannot
+forgive humans.'
+
+Smiling, the boy should say, 'That is fine. Live with me.'"

@@ -1,0 +1,2336 @@
+From LISTSERV@BROWNVM.BROWN.EDU Sun Jan  1 23:02:32 1995
+Return-Path: <LISTSERV@BROWNVM.BROWN.EDU>
+Received: from mx4.u.washington.edu by redms.cac.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.32 ) id AA04169;
+	Sun, 1 Jan 95 23:02:31 -0800
+Received: from mx2.cac.washington.edu by mx4.u.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.31 ) id AA11681;
+	Sun, 1 Jan 95 23:02:30 -0800
+Received: from brownvm.brown.edu by mx2.cac.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.31 ) id AA13781;
+	Sun, 1 Jan 95 23:02:06 -0800
+Message-Id: <9501020702.AA13781@mx2.cac.washington.edu>
+Received: from BROWNVM.BROWN.EDU by BROWNVM.brown.edu (IBM VM SMTP V2R2)
+   with BSMTP id 2802; Mon, 02 Jan 95 02:01:04 EST
+Received: from BROWNVM.BROWN.EDU (NJE origin LISTSERV@BROWNVM) by BROWNVM.BROWN.EDU (LMail V1.2a/1.8a) with BSMTP id 3118; Mon, 2 Jan 1995 02:00:54 -0500
+Date:         Mon, 2 Jan 1995 02:00:52 -0500
+From: BITNET list server at BROWNVM (1.8a) <LISTSERV@BROWNVM.brown.edu>
+Subject:      File: "FIREFLY SCRIPT"
+To: "Michael S. Johnson" <michj@nausicaa.net>
+Status: O
+
+FIREFLY SCRIPT
+
+Subject:  1.) GRAVE OF THE FIREFLIES script (Miho Nishida, Mar. 28, 1992)
+L#01278   2.) ANGEL'S EGG synopsis (Bryan Wilkinson, December 22, 1991)
+L#01432   3.) ANGEL'S EGG script (Enrique Conty, October 8, 1992)
+L#01563   4.) ANGEL'S EGG timing file, in JACOsub (Fred Leggett, 1/5/93)
+L#01687   5.) ROBOT CARNIVAL script (Ron Azuma, January 17, 1990?)
+L#02231   6.) PLEASE BLINK, GRANDMA synopsis (JAPAN TIMES, July 30, 1992)
+
+[NOTE: there is no inherent connection between GRAVE OF THE FIREFLIES and
+ ANGEL'S EGG, but I had to store the ANGEL'S EGG material *somewhere* on
+ on the fileserver, and I figured graves and angels go together.  ROBOT
+ CARNIVAL is here because of the "Presence" segment.  And as for PLEASE
+ BLINK, GRANDMA . . . well, I had to put it *somewhere*.  (I haven't seen
+ ROUZIN Z yet.  Should a synopsis of *that* be stored here, too?)
+                                                       -- Steven Feldman]
+
+
+Subject:  1.) GRAVE OF THE FIREFLIES script (Miho Nishida, Mar. 28, 1992)
+
+
+=========================================================================
+SCRIPT: THE GRAVE OF THE FIREFLIES                      73 COLUMN VERSION
+=========================================================================
+
+This script is a fan-produced translation of the animation movie, "The
+Grave of the Fireflies," and is not meant in any way to infringe upon the
+rights held by the creators or those in connection with the movie.  The
+script is purely an instrument to aid fans better understand the movie
+when viewed legally.
+
+Reproduction of this material is permitted for Non-Profit purposes only.
+Any personal alterations made should not be included in the script when
+distributed.  In the use of this script for subtitling efforts, please
+read the section "SUBTITLING" attached at the end of the script.
+
+Maturity in the use of this script is expected.
+
+Original Edits by K Hindall & Sheng-Te Tsao (CJAS), March 28, 1992.
+Re-formatted to a 73-character line by Steven Feldman, August 11, 1992.
+
+Please keep these headlines intact.
+
+Griffin Script                                    Miho Nishida    3/28/92
+=========================================================================
+
+                             HOTARU NO HAKA
+                        -Grave of the Fireflies-
+                  Script and direction by Shun Takahata
+
+------------------------------------------------------------------------
+
+( ) = scenery notes
+[ ] = translational/cultural notes
+        Within translational notes:
+        LT  Literal tranlation of Japanese;
+        ET  Equivalent translation;
+        ALT Alternative phrasing of previous sentence or word;
+        =   Definition or clarification of a word;
+        ?   Uncertain translation due to unclear dialogue.
+< > = hidden reference of a dialogue
+
+------------------------------
+
+CHARACTERS:
+
+SEITA       Son of a marine officer [general?].
+SETSUKO     Younger sister of Seita.  ["Sett-chan" = Endearment of
+            "Setsuko"]
+R/SEITA     Rei [= Spirit] of Seita.
+MOTHER      Seita and Setsuko's mother.
+AUNT        A distant relative of Seita and Setsuko.  There seems to be
+            no direct blood ties to her and them (probably a wife of a
+            distant blood relative).  [Note: She may seem like an ogre or
+            at least an abusive woman, but I would stress that her
+            actions are just a result of the hard time they lived in.]
+
+------------------------------
+
+SPECIAL NOTE:  TRANSLATOR'S SPECULATIONS AND INTERPRETATION NOTES
+
+1) In this movie, the "rei"s of Seita and Setsuko travel through their
+flashbacks.  This "rei" is not really a ghost but more a spirit.
+
+2) In Japanese, like many other words, the word "hotaru" can be written
+in different ways.  "Hotaru" is usually written with one kanji character
+that has the sub-character "insect" incorporated in it or written with
+the hira-gana (kana) characters that sound out "Ho" "Ta" and "Ru".  In
+this movie, however, the author chose to use an archaic kanji formation
+to write "hotaru".  The characters "Fire" and "Leaking/Spilling" and the
+hiragana "RU" are used.  The use of the rather archaic formation leads
+this translator to speculate that the author perhaps intended to convey
+the meaning of "Life Leaking" or "Spilling of Life" to the audiences.  Or
+perhaps, in the 1940's, this particular "spelling" was still valid.  This
+is purely a speculation of this translator, but one that nonetheless was
+thought to be worth mentioning.  [So don't quote me!]
+
+3) Hotaru [= fireflies] do not live long.
+
+-----------------------------
+
+SPECIAL NOTE: TERMS, CONCEPTS & OTHER NOTES
+
+     In middle of the film, there is a song sang about frogs and heading
+home.  Song: "The frogs are croaking so let's go home".  The reason for
+the word "frog" in this song: "Kaeru" = frog; "kaeru" = to go home/back;
+"kaero^" = let's go home/back.  It should be noted that the kaeru from
+the frog has no accent and kaeru to go home has accent on the "ka".
+
+-----------------------------
+
+R/SEITA     In 1945, on the night of September 21, I died.  [ALT: On
+            the night of September 21, 1945, I died.  NOTE: Sho^wa year
+            20 = 1945]
+
+(_Train station_)
+
+VOICES      What a dirty guy.  Oi!  Watch out!  How dirty!  I wonder if
+            he's dead.  The American troops will be arriving soon.  It
+            would be an embarrassment if they find such a guy here at the
+            station.
+VOICE       Mommy!
+SEITA       What date is it?  (He slumps down.)  Setsuko...
+
+(Station workers arrive for clean-up.)
+
+WORKER 1    (prods Seita's body)  Again... (Searches Seita)  Hm?  What's
+            this?
+WORKER 2    Let it be, let it be.  [ALT: Forget it, forget it.]  <You
+            should> just throw it away.
+WORKER 1    (prods another body)  This one's gonna go soon, too.  When
+            they start staring into open air, they're goners.
+
+(The station worker throws the rusted candy can outside.  The cap opens
+ on impact and small white objects spill out.  As the fireflies take
+ flight, the rei of Setsuko rises up from the weed beds.  Seeing her
+ brother's form in the station, she starts to go there, but a hand
+ restrains her.  She looks up to see the rei of her older brother.  Seita
+ picks up the candy can and the can is no longer rusted.  Handing the can
+ to Setsuko, they head into the station together.)
+
+------------------------------
+
+Title:  Hotaru no Haka  (The Grave of the Fireflies)
+
+------------------------------
+
+(Riding on the train, light washes over the reis of Seita and Setsuko.
+ As they turn around, they see the fires of an air raid...)
+
+-----------------------------
+
+(Seita is putting food items into the hole he dug as the air raid sirens
+ sound.  His mother is trying to put a protective cap on Setsuko.)
+
+VOICE       Take shelter! Take shelter!  Please take shelter!
+VOICES      [?][?]  If it's a bombing raid then the shelter-hole behind
+            the fire house is the safest.  [?]
+SETUSKO     It's hot!
+MOTHER      You're a good girl, aren't you?  You must bear it.  [ALT: You
+            must endure it.]  (Setsuko squirms away.)  Well, I'll be
+            going to the air-raid shelter.  You two be careful and join
+            me soon.  Sett-chan [in reference to Setsuko], you listen to
+            your brother.
+SEITA       Mom, never mind.  You gotta go quickly!
+MOTHER      Yes, yes.
+SEITA       Mom, do you have the medicines with you?
+MOTHER      Yes, yes.  I have them.
+SETSUKO     I don't like the air-raid shelter...
+SEITA       Saying such a silly thing... [ALT (poor): What a silly thing
+            to say.]  You could be blown up by the bombs.  [ALT: Don't
+            blame me if you get blown up by a bomb.]  Hurry and get on!
+SETSUKO     The dolly!  [ALT: My dolly!]
+SEITA       Where?  Ah!
+
+(They hear the warning bells.  With a whooshing sound, the air raid
+ begins.)
+
+SETSUKO     Nii-chan!  [LT: Elder brother; ET: Brother]
+SEITA       Take cover!  (They try to flee outside.  As the fire bomb
+            proceeds,)  No!
+
+(They rush back into the house to avoid the fire, then return outside.)
+
+SETSUKO     (As they prepare to leave, fire bursts from windows.)
+            Nii-chan! Nii-chan! Nii-chan!!
+
+(The two manage to get away to a grove by the sea; various scenes
+ follow.)
+
+MAN         Emperor [ALT: Lord Emperor], Ban-zai!!  [ALT: Long live the
+            Lord Emperor!!]
+
+(The raid passes.)
+
+SEITA       No need to worry.  We should be safe here.
+SETSUKO     Where did Mommy go?
+SEITA       She's at the air-raid shelter.  The shelter behind the fire
+            station.  She said it could withstand the direct hit of a
+            250 kilo bomb.  There's no need to worry.  Mom's probably at
+            the Nihon Matsu Station.  We arranged to meet there.  Let's
+            go there after we rest a while.
+
+(Seita starts to wipe Setsuko's face.)
+
+SEITA       Are you all right?
+SETSUKO     I lost my sandal.
+SEITA       I'll buy you a new one, a much better one.
+SETSUKO     I have money too!  Open this.  (She upends the purse to show
+            the toys.)
+SEITA       My, you're rich.
+
+(Rain starts to fall.)
+
+SEITA       So this <rain> is what they say falls after air-raids...
+
+(Seita, carrying Setsuko on his back, climbs up to a road.)
+
+SEITA       My, it's become really...cleared...  Look, that's Kohkaido.
+            We went there to eat zo-sui, remember?  [zo-sui = soup-like
+            rice dish]
+SETSUKO     Did our home burn down?
+SEITA       Looks that way.
+SETSUKO     What will we do?
+SEITA       Dad will take revenge for us.
+
+------------------------------
+
+(_The Aftermath_)
+
+VOICES      Mom!  Mom!  [ALT: Mother!  Mother!]
+MAN         If your house was the only one that didn't burn, I guess
+            you'd feel uncomfortable.  I'm glad that ours just burned,
+            clean and simple.
+MAN         It's really a good thing that you're all right.
+WOMAN       [?]
+MAN         No, it's not Aunty.
+
+SETSUKO     Nii-chan, I need to go!
+SEITA       Okay.
+MAN         Everyone!  Please gather at the school!  [LT: People's
+            School, Citizen's School]
+SEITA       What's the matter?
+SETSUKO     My eyes hurt.
+SEITA       You mustn't rub them.  They'll be able to wash them at the
+            school.
+SETSUKO     Where's Mom?
+SEITA       She's at the school.
+SETSUKO     School?
+SEITA       Yeah.  Let's hurry over there.
+SETSUKO     Okay.
+
+(At the school, a make-shift hospital has been set up.)
+
+WOMAN       Seita-san.  (takes him aside)  Seita-san, have you seen your
+            mother?  She's hurt.  Hurry, go see her.  I'll watch her (in
+            reference to Setsuko).  (To Setsuko:) It was scary, wasn't
+            it, Sett-chan.  You didn't cry <did you>?
+SETSUKO     No.
+WOMAN       Your brother has some business.  It won't be so long.
+
+(Seita rushes down to the main hospital complex.)
+
+MAN         Ah, Seita-kun.  We were looking for you.  Are you all right?
+SEITA       My mom?
+MAN         This way.  (As he leads Seita out, he turns back and hands
+            Seita a ring.)  Oh... This is your mother's.
+SEITA       What?
+MAN         Over here.
+
+(Seita is shown into a room where his mother lies wrapped in bandages.
+ Her breathing is labored.)
+
+MAN         She's finally gone to sleep.  It would be better if she was
+            placed in a hospital.  I'm having people ask around.  I heard
+            that Kaisei hospital in Nishinomiya didn't burn.
+SEITA       Ahm...  Mom has a bad heart.  [ALT: heart trouble]  Is there
+            any way could you get her the medicine for that?
+MAN         I'll ask around.  Well, I'll come again.
+SEITA       Mom...
+
+(Seita comes back to the school playground where the woman and Setsuko
+ is playing in the sand box.)
+
+WOMAN       Did you see her?
+SEITA       Yes...
+WOMAN       It's really a pity.
+SETSUKO     I'm thirsty.  (Seita hands Setsuko his water bottle.)
+WOMAN       If there's anything I can do, tell me.  Oh, yes.  Did you get
+            the dried rations?  I'll get them for you.
+SEITA       Put this ring in your purse.  You mustn't lose it.  Mom's not
+            feeling great.  She'll get well soon, though.
+SETSUKO     Where is she?
+SEITA       In the hospital.  The one in Nishinomiya.  So we're going to
+            stay over at the school tonight.  And tomorrow... You
+            remember our Nishinomiya aunty, the one who lives near the
+            pond?  Let's go there.  Okay?
+WOMAN       We're at the second floor of the school.  Everyone's there;
+            won't you join us?
+SEITA       Thank you.  We'll be there later.
+WOMAN       Later, then.  Sett-chan.
+SEITA       Do you want to eat them?
+SETSUKO     I want to go to Mommy.
+SEITA       Tomorrow.  It's too late today.
+
+(Setsuko starts to cry.  After a while...)
+
+SETSUKO     Look!  Nii-chan's [ALT: Brother's, I'm] good at this.
+
+------------------------------
+
+(Another day.  The body of Seita and Setsuko's mother is being carried
+ out for cremation.)
+
+MAN1        We can't take off the bandage.  It's better not to look at
+            the body.
+MAN2        With this heat...
+MAN1        We have to use trucks starting today.
+MAN3        Your sister...  What did you do with her?
+SEITA       I left her with our distant relative in Nishinomiya.  We had
+            arrangements for us to stay there in case we got burned out
+            <of our home>.
+MAN3        Is that so?  That's good.  Well, I have duties, so I'll leave
+            you here.  Take care.  [LT: Be well.]
+
+------------------------------
+
+(Seita's rei looks on as his past self returns to Nishinomiya via train,
+ carrying the ashes of his mother.  Seita and Setsuko's rei get off at a
+ station and they walk down a hill.  It is night and they see Seita
+ opening the gate to his aunt's home.  Seita hesitates, and before
+ opening the door, he hides the wooden box of his mother's ashes.  [Note:
+ Sadly, since it was a mass cremation, the ashes that Seita obtained are
+ not, strictly speaking, "his mother's ashes".  Rather, they are what may
+ or may not contain some of her ashes.])
+
+SETSUKO     Mommy!  Where's Mommy?  Is Mommy still not well?
+SEITA       No.  She got hurt in the raid.
+AUNT        Welcome back.  How was your mother?  Is she in the Kaisei
+            Hospital?
+SETNA       Uh... yes...
+AUNT        Marines are lucky.  They get to use trucks for transport in
+            their pre-evacuation.  ["Sokai" = pre-evacuation of items or
+            persons to rural areas by those living in more metropolitan
+            areas]  Your spare futons are out in the room.
+SEITA       Thank you.  ["Sumimasen" LT: Sorry]
+SETSUKO     I wonder if Mommy doesn't need it anymore.  Did she give it
+            to me?
+SEITA       That's important, so put it away. Mom is...  When Mom gets a
+            little better, let's go pay her a visit, okay?  [ALT: Let's
+            go see her, okay?]
+SETSUKO     Okay.
+SEITA       It's late, so sleep now.  [ALT: So, go to sleep now.]
+SETSUKO     Okay.
+
+(Late that night, Seita sneaks out of the house to retrieve the urn.)
+
+------------------------------
+
+(The next day finds Seita going back to what is left of his house to
+ retrieve what he hid in the backyard.  On his way back to his aunt's
+ house, he drinks a water from a broken water pipe.  He tosses the
+ treasure  he found, the candy can, into the back of the cart.  He opens
+ a jar of umeboshi [= pickled plums; extremely acidy and sour, but good]
+ and suffers the consequences.)
+
+AUNT        <Dried> herring, dried fish flakes, dried sweet potatoes,
+            eggs, and pickled plums.  My!  Isn't this butter?  Even
+            during these hard times, some people have it all.  <Only> the
+            military people get to live in luxury.  [ALT: get to live in
+            excess.]  So Seita-san, have you visited the hospital?  I
+            want to discuss with your mother about what to do in the
+            future, so I was planning to visit her with Sett-chan.
+            (Noticing Seita's grim face,)  She didn't make it?
+SEITA       Mom died at the school.
+AUNT        What?  She died?  If that was the case, why didn't you tell
+            me sooner?  You're an unfrank child!  ["Mizukusai" = not
+            being frank out of reservation or from politeness]
+SEITA       I didn't want Setsuko to know.
+AUNT        So she died...  My goodness.  You must write to your father
+            immediately and let him know.
+SETSUKO     Nii-chan!  Sister bought me a new sandals!
+SEITA       That's good, Setsuko.  [ALT: Aren't you lucky, Setsuko.]
+GIRL        Welcome back.
+
+------------------------------
+
+(Seita and Setsuko are playing in a bath tub at their neighbor's house.
+ They come out refreshed and amused.)
+
+[Note: In those days, especially in the rural areas, not everyone had
+ bathing facilities.  Neighbors borrowed from those who did have them.]
+
+VOICE       Rough time for you kids...
+SEITA       Thank you very much.
+SETSUKO     What's that sound?
+SEITA       That's the <sound of an> edible frog.  There's nothing to
+            fear.
+SETSUKO     Ah!  A firefly!
+SEITA       (Seita catches one.)  Here, take this.  [ALT: catch it.]
+            (Setsuko accidentally crushes the firefly.)  Oh, you crushed
+            it!
+SETSUKO     What is this smell?
+SEITA       It's because you squished it!
+
+(They arrive at a field where there are plenty of fireflies both in and
+ out the air.)
+
+SEITA       My, there're so many of them; the fireflies.  Oh yes.
+            Setsuko, close your eyes and say "Ahhhn".
+SETSUKO     Why?
+SEITA       It doesn't matter why.  Just say "Ahhhn".
+SETSUKO     Ahhhn.
+
+(Seita pops in one of the drop candies into Setsuko's mouth.)
+
+SETSUKO     A drop!  Mmmmm!  Drop, drop, drop!  [ET: candy; "Dorop" which
+            comes from drop candy is synonymous to "Ame" = candy, in
+            Japanese.]
+
+(She runs around but suddenly comes to a halt.)
+
+SETSUKO     I almost swallowed it!
+
+------------------------------
+
+(Seita and Setsuko returns.  Their aunt is scraping the bottom of a pot
+ to get the burnt scraps.)
+
+SEITA       We're back.
+AUNT        That was long.  [ALT: You're back late.]  Did you thank the
+            lady?  [Note: In Japanese, "Oba-san" is not only "aunt" but
+            is also used in reference to any middle aged woman.]
+SEITA       Yes.
+(As the kids retire to their room, Seita peers back at the kitchen and
+ swallows.)
+
+SEITA       That looked good...
+
+------------------------------
+
+(_Rainy day_)
+
+AUNT        Seita-san.  What happened to school?  Don't you need to go?
+            [ALT: Shouldn't you attend?]
+SEITA       Well, the academy I used to go is a mess from the bombings,
+            and the school burned, so there's nothing I can do.
+AUNT        Really?  [ALT: Is that so?]  You did write that letter to
+            your father, <didn't you>?
+SEITA       I did <send it>.  As a certified mail.
+AUNT        When?
+SEITA       It was as soon as I got here, so it's been more than 10 days.
+AUNT        That's strange.  I haven't received any reply yet.  (As she
+            leaves the room,)  If you use the scissors you must put them
+            away, Sett-chan.
+
+-----------------------------
+
+(Somedays later, at dinner:)
+
+AUNT        How goes the war?
+BOY         It's getting worse, I heard.  Other factories have to cover
+            the load for those others burned in the air-raid.  All they
+            keep saying is for us to pour all efforts into increasing the
+            production in preparation for the battle on the mainland.
+            [ALT: They tell us to pour all efforts into increasing the
+            production in preparation for the final battle.]
+AUNT        That must be so...  Even the distribution of food items are
+            getting worse and worse.  [ALT: Food rations are getting
+            sparser as well.]  It's becoming tough for everyone, and not
+            just for the soldiers on the battle field.  Koi-san is also
+            part of the country's work force; you must eat alot and gain
+            strength as well. [ALT: keep up your energy/strength]
+            ["Koi-san" = Youngest sister in rural 'Kansai' tongue]
+
+(The siren starts.)
+
+AUNT        Again!
+
+(_In the shelter_)
+
+WOMEN       So at your place, two got burned out?  That must be hard.
+            They're so young.  Pity.
+SEITA       What's the matter?  Your rash itches?
+SETSUKO     I'm hot!  I hate shelters!
+SEITA       Bear it.  Nii-chan's here, so you're not afraid, are you?
+            [ALT: I'm here, so you're not afraid, are you?]
+
+-----------------------------
+
+(Some days later:)
+
+SEITA       Wanna go to the sea?
+SETSUKO     Yes, let's go.  Let's go to the sea!
+
+(On their way to the sea,)
+
+SEITA       My... They've turned everything into <farm> fields...
+
+(_At the sea_)
+
+SETSUKO     What are they doing?
+SEITA       They're taking the salt water.  The rationed salts and soy-
+            sauces aren't enough.  Let's go.  Hurry and get undressed.
+SETSUKO     Ohhh!
+SEITA       It might be a little cold.
+SETSUKO     Noo!  [ALT: Do--n't!]  It's co--ld!
+SEITA       Doesn't if feel good around the rash?
+SETSUKO     Yes!  It's a large bath tub!
+SEITA       Hey!  (Starts chasing Setsuko)  Stop!  [ALT: Wait]  I'll eat
+            you up!
+
+(Seita starts to playfully chase after Setsuko.  As they rest, Setsuko
+ comes across a crab and follows it.  She comes across a body hidden
+ under a mat.)
+
+SETSUKO     What's the matter?  [ALT: What's he doing?]  He's lying down.
+SEITA       You don't have to see that.  When it gets a little warmer, we
+            can swim; I'll teach you how.
+SETSUKO     If you swim, you'll grow hungry!  [ALT: If we swim, we'll
+            grow hungry]
+VOICE       "If you swim, you'll grow hungry!"  [ALT: *as above*]
+MOTHER      Seita-san,  Sett-chan.  Come over here.  You must be hungry.
+            The carupisu is chilled, too.  [Carupisu = a sweet milk-based
+            drink]
+
+(With the roar of the siren, Seita comes out from day-dreaming.  They
+ head back home.)
+
+GIRL        Oh, Mother!  Were you safe?  It's great you came.
+WOMAN       How are you?
+GIRL        I'm fine.  Everybody cared for me.
+
+(The girl and the woman continue their discussion in the backdrop.)
+
+SETSUKO     I'm hungry.
+SEITA       Bear it.  Hurry, or else the raid's  gonna come here soon.
+SETSUKO     I'm tired.   Nii-chan, piggy-back!  (Seita sighs.)
+VOICE       Take shelter!
+
+-----------------------------
+
+(_At the aunt's home_)
+
+AUNT        About your mother's kimono... I hate to say it, but since
+            there's no more use for them, why don't you exchange them
+            for rice?  I myself have been bartering [="item-item
+            exchange"] a little at a time for some time to supplement
+            <the rations>.  I think this would be about one- toh <of
+            rice>.  ["toh" = about 16 qt.]
+SEITA       One toh?!
+AUNT        You must get more nourishments.  You're going to grow strong
+            and be a soldier, right?
+SEITA       This would be one toh <of rice>?
+AUNT        I'm sure your mother would be pleased about it, rather than
+            have these just lie about.  Well, I'll be going.
+SETSUKO     You can't.
+AUNT        Why, Sett-chan, you were awake?
+SETSUKO     It's  Mom's <clothes>.  You can't!  It's Mom's.  You can't,
+            you can't!
+SEITA       Setsuko!
+SETSUKO     No, no, no!  No, no, no!
+
+(Seita's rei covers his ears, not wanting to hear  Setsuko's tormenting
+ cry.  The kimono their aunt took for item exchange was a formal kimono
+ their mother wore.  The fall of the cherry-blossom petals changes to the
+ fall of white rice into a container.)
+
+AUNT        Isn't it a good rice?  I'll be cooking this white rice for
+            dinner,  Sett-chan.  (tightens lid)  Here, you two hold on to
+            this.
+SEITA       It's white rice,  Setsuko!  [ET: A white meal, Setsuko!]
+
+(Seita pokes Setsuko.  Setsuko begins to cry, but at dinner...)
+
+AUNT        There you go.  It's a pity that both Koi-san and Nii-san are
+            working over-time and won't be able to eat this warm meal.
+SEITA       The white rice is sure delicious, isn't it?
+SETSUKO     (Nods.)  Seconds!
+AUNT        Yes, yes.  Sett-chan, you have an appetite when it's white
+            rice, don't you?
+SETSUKO     Yes!  <It's because> I like it!
+
+(_Next day, breakfast_)
+
+SEITA       What's the matter?
+SETSUKO     I don't like  zo^ sui.  ["zo^ sui"=watered barley/rice meal]
+SEITA       The pickled plums that I brought...  There're no more?
+AUNT        That thing...  You know that it ran out a long time ago.  (To
+            her son:)  Here, your lunch.
+BOY         Thanks.  [LT: Then, I'll be taking it.]
+AUNT        Gokuroh-sama  [LT: Thanks for the labor/toil; ALT: Have a
+            good day.]
+GIRL        Well, I'll be going!
+AUNT        Take care!
+SEITA       Look.  Lunch will be white rice, so bear it and eat it.
+AUNT        Cut it out!  For those that are here during the day, lunch
+            will also be zohsui!  Why should the lunch for those that
+            work for the country and those that just sit around all day
+            be the same?  Seita-san.  You're old enough; start thinking
+            about how you can be of help.  You two don't give us any rice
+            but expect to eat it.  It just doesn't go that way.  No way.
+            You let them eat white rice for a while and my, they become
+            so picky about taste.  [ALT: picky about food]
+SETSUKO     But that rice is our rice...  [ALT: But it's our rice.]
+AUNT        What was that?  Are you saying that I'm cheating you, then?
+            What a thing to say!  What's the use of taking in two
+            orphans, if they say such things to me?  [ALT: Why should I
+            bother to take in two orphans, if they...]  Fine!  Let's cook
+            separate meals from now on.  You won't have any complaint,
+            then.  And Seita-san.  You do have other relatives in Tokyo,
+            don't you?  There's that someone from your mother's family.
+            Why don't you send out a letter?  Nishinomiya [ALT: This
+            place] might be bombed any day <you know>.
+
+(On a train,)
+
+SEITA       But I don't know their addresses...
+
+------------------------
+
+(In front of a bank,)
+
+GIRL        Let's go home!
+WOMAN       Yes.  Dad's waiting at home, isn't he?
+BOTH        The frogs are croaking, so let's go home...
+
+[NOTED EARLIER: The reason for frog in this song: "Kaeru" = frog;
+ "kaeru"= to go home/back; "kaero^" = let's go home/back]
+
+SEITA       Sorry! [LT: Forgive me!] I had to wait a long time.  What's
+            the matter?
+SETSUKO     I'm hungry.  I'm thirsty.
+SEITA       All right. [ ALT: Understood] Here.  Lick these <candy>
+            drops.  Mom had seven thousand yen saved in the bank.  Seven
+            thousand yen!  If there's that much, we can manage plenty.
+            There's no need to worry anymore.
+
+(_At a post office_)
+
+SEITA       I'm writing to Dad, saying "Give us a reply,  Setsuko's
+            waiting."
+
+(_At a store_)
+
+OWNER       You guys are lucky.  In times like these, no matter how much
+            money you offer, you can't buy these items.  Nowadays,
+            there're no items to sell and the business is dry.
+            Especially metal products.  Can't find them anywhere.
+SEITA       I'll take that comb, and... do you have any umbrellas?
+OWNER       I don't have umbrellas... Oh yes.
+
+(_Outside, in the rain_)
+
+SEITA       (Song to the effect of) "Rain, rain, fall, fall, Nii-chan has
+            come with an umbrella.  Pitt-chi Pitt-chi Chap-pu Chap-pu
+            [the sounds of rain close to "splatter splatter droppity
+            drop"] Lan Lan Lan!"
+
+--------------------------
+
+(Home.  Seita is making a fire.)
+
+SEITA       Isn't Nii-chan good with this?
+SETSUKO     Yup.
+AUNT        Careful with the fire.
+SEITA       Okay.
+BOY         What happened to those two?
+AUNT        They say they're going to cook for themselves from now on.
+BOY         Really... That's admirable.  <May I have a> second, please.
+GIRL        Mother, didn't you say something harsh again?
+AUNT        Well, but, not a single word of apology and they went and
+            bought all those utensils.  It's as if they're insinuating
+            something!
+
+(In a different room,)
+
+SEITA       I'm filled!  [ALT: I'm full!]  ["Gosso-san" = short for
+            "Gochiso^ sama"; said after meals to indicate gratefulness
+            or contentment with the meal]
+SETSUKO     [?: That's not proper, Nii-chan.]
+SEITA       It's okay.  You don't have to sit so properly.
+
+-----------------------------
+
+(At the rationing station,)
+
+MAN         There.  That's the rationed portion for two.
+SEITA       Only this much?
+MAN         Yup.  The next ration will probably be in July.
+
+(Setsuko is crying in the street, expressing her hunger.  Her crying
+ ceases  temporarily when Seita hands over the candy can, but resumes
+ when she finds no candy drops.  Seita hits the can and several candy
+ pieces that were stuck to the bottom of the can are found.  Setsuko
+ looks at what she has left, and after some thought, eats the smallest
+ and puts the rest back into the can.  Seita gives the can to Setsuko for
+ her to keep.)
+
+-----------------------------
+
+(Having no more candies left, the two fill the empty can with water.
+ Seita begins to shake it, but gives it over to  Setsuko who is eager to
+ do it herself.  Seita pours the candy-water into a small cup and hands
+ it to Setsuko to drink.)
+
+SEITA       <Is it> sweet?
+SETSUKO     Ahhh!   There're lots of flavors!
+SEITA       Grapes, strawberries, melons, mints.  They're all in there,
+            aren't they?  Setsuko, you can drink 'em all.
+SETSUKO     Whew!  I drank 'em all!
+
+-----------------------------
+
+(_At the kitchen, another day_)
+
+AUNT        My, my!  They went to sleep without cleaning up <afterwards>!
+            They do as they like.  They really aren't cute at all!  [ALT:
+            They're not likable at all!]
+
+(Setsuko starts crying in another room.)
+
+AUNT        Again!!
+
+(Aunt opens the sho^ji door.)
+
+SETSUKO     Mommy!  Mommy!
+AUNT        Seita-san!  Koi-san [= younger sister] and Nii-san [= older
+            brother] are both working for our country, so why don't you
+            at least try not to make her cry?  [ALT: so why don't you at
+            least make an effort to stop her crying?]  We're already
+            losing sleep from the <air-raid> sirens every night.  We
+            can't sleep with this racket!
+SETSUKO     Mommy!  Mommy!
+
+(Seita takes  Setsuko outside, and having her on piggy-back, tries to
+ lull her to sleep.  Suddenly, the raid-sirens sound and he runs for
+ shelter.)
+
+VOICE       Emergency war status, emergency war status.  The enemy is
+            approaching from the northern direction...
+AUNT'S VC   Seita-san, you're going to the shelter-hole, again?  ["yoko
+            ana" = LT: Side Hole; A hole dug into the side of a mountain
+            for air-raid shelter]  At your age, shouldn't you be [ALT:
+            isn't it natural for you to be] helping the fire-prevention
+            program of the community group?
+
+(Seita comes to the shelter-hole.  As they wait out the raid in the
+ shelter,)
+
+SETSUKO     I want to go home.  I don't want to stay at aunt's anymore.
+SEITA       The house got burnt.  We can't go home anymore.
+
+(_Flashback -- Seita and Setsuko are playing the organ_)
+
+BOTH        (Singing:) Higher than the roof, the Koi-Nobori.  The large
+            koi is the father and...  [NOTE:  Koi-Nobori = a colorful
+            cone-like flag in the shape of carps that is displayed
+            outside on the national holiday, Children's Day]
+
+AUNT        Stop it!  What a thing to do in time of war?  I'm the one who
+            will be scorned!  How senseless!  [ALT: How irrational!]
+            Really, what burden have been tossed my way!  [LT: Really,
+            what god-of misfortune has wandered in!]   Even during the
+            air-raid, you're never of any use...  If you value your life
+            that much, you should live in the shelter-hole!
+
+(Recalling,)
+
+SEITA       Hey...  Do you want to make this our home?  No one would come
+            here and the structure is solid.  We can do as we please.
+SETSUKO     Is it okay to make it our home?
+SEITA       Yup.  [ALT would be a broken "yes": yeah, n-hmph, ah-huh]
+
+-----------------------------
+
+(Seita is packing their stuff onto a cart.  Setsuko notices the Aunt
+ coming.)
+
+SEITA       We've overstayed our welcome.  [LT: We've interrupted you for
+            a very long time.]  We'll be moving elsewhere.
+AUNT        <You say> elsewhere?  <But> where are you going?
+SEITA       I don't know for certain, yet.
+AUNT        Well, be careful...  Sett-chan, goodbye.
+
+(They come to the cave.  Setsuko is thoroughly enjoying herself.)
+
+SETSUKO     Here's the kitchen!  Here's the front door!  Where's the
+            toilet?
+SEITA       It doesn't matter where.  <Because> I'll be going with you.
+
+(At the farm, Seita is returning the cart.)
+
+SEITA       Thank you.
+MAN         Just leave it around there.
+SEITA       Ahm...  Can you sell me a little more hay and something that
+            can be a side-dish?  [ALT: part of dinner]
+MAN         Sure...  I only have what I have though...
+
+(They cook.  As they look at the fruit of their labor...)
+
+SETSUKO     Wow!  My mouth is watering!
+SEITA       I'm hungry!
+
+(They finish eating.  They hear the bellow of a frog.)
+
+SEITA       If it could be caught, we can eat that <as well>...  [ALT:
+            It's supposed to be edible if we only could catch it]
+SETSUKO     The frog?
+SEITA       I heard it's good.
+SETSUKO     (Makes a noise in her throat indicating amazed acceptance.)
+SEITA       Setsuko, forget the rest and get inside the net.  [ALT: I'll
+            do the rest so get inside the net.]
+
+(_Nightfall_)
+
+SEITA       What's the matter?
+SETSUKO     I forgot my toothbrush.
+SEITA       It doesn't matter if you don't do it for a day.
+SEITA       Hey, you'll be bitten by the mosquitos.  You should be in the
+            net.
+SETSUKO     It's so dark, I'm scared.  [ALT: It's all dark and I'm
+            scared.]
+SEITA       I'm going to go to the bathroom, but do you want to go too?
+SETSUKO     Yes.
+
+(_Outside, finishing their business_)
+
+SEITA       That's the "special attack" unit.  [ALT: suicide unit.  Men
+            in the "Tokkoh-tai" never returned alive.]
+SETSUKO     Really?  They look like fireflies.
+SEITA       I guess so.  Hey...  Do you want to capture fireflies?
+
+(Seita comes into the net holding several fireflies.  He releases them.)
+
+SETSUKO     Ah!  I see your face.
+SEITA       Your face, too.  (A firefly lands on Setsuko's hair.)  A hair
+            ornament!
+
+(Setsuko is delighted.)
+
+SEITA       All right!  Firefly's light, window's snow!  [Note: Part of a
+            poem/song describing the changing season]
+
+(Seita brings in a whole bucketful.  The fireflies slowly emerge and the
+ inside of the net is soon filled with small points of stars.)
+
+SEITA       Before you were born, I once saw a ship-naming ceremony
+            [?:  ship-opening?? "kankai ceremony"].
+SETSUKO     A ship-naming ceremony?
+SEITA       Yup.  Dad got on board the front of the ship [?].  The
+            combined fleets were all there.
+
+(Seita starts to sing the then-military anthem.)
+
+SEITA       Enemy ships attacking!  Bababababa!  Babababa!  [Noise
+            associated with firing machine guns]  (pause)  I wonder where
+            Dad's fighting the war...
+
+(Suddenly feeling lonely, Seita hugs Setsuko to him.)
+
+SETSUKO     You're suffocating me, Nii-chan!
+
+-----------------------------
+
+(The next morning finds Setsuko digging a hole.)
+
+SEITA       What are you doing?
+SETSUKO     I'm making a grave.  Mommy's in a grave, too, right?  I heard
+            it from Aunty.  < Aunty said> Mommy died, too, and she's in
+            a grave.
+
+(Hearing this, Seita begins to cry for the first time since the tragedy
+ befell him and his sister.)
+
+SEITA       (wiping his tears,) Let's someday visit her grave.  Maybe you
+            remember...  [LT: Setsuko, do you remember?]  You've been to
+            the graveyard near the Inofuki [?], right?  She's <resting>
+            there...  Mother is...  under the big camphor tree...
+SETSUKO     Why do the fireflies die so quickly?
+
+-----------------------------
+
+(Kids from nearby find the conditions Seita and Setsuko are living
+ under.)
+
+BOY1        What's this?  Someone's living in a place like this.
+BOY2        I wonder if they were burned out <of their home>?
+BOY         Do you think a scary-looking man might come out?
+BOY         When have they...?  It's a swing!
+BOY         There's a grave!  [?]
+BOY         What's this?
+BOY         May you rest in peace!  (picking up a make-believe sweet-rice
+            cake)  If only this was real!!
+BOY         (Pointing to the grass bed that Setsuko made,) Setsuko!  It
+            says Setsuko!
+BOY         Look at this!  It's a dried frog!
+BOY         What a thing to eat!  [ALT: What are they eating!]  I wonder
+            if Tatt-chan and Ken-chan who escaped to rural areas are
+            eating something like this, as well?
+BOY         Uggh!  All soybeans!  It's worse than our rice-soup!
+BOY         A ghost!  (They laughingly run away.)
+
+-----------------------------
+
+(_Seita at one of the farms_)
+
+SEITA       And...  we've traded all of  Mom's kimono for rice and don't
+            have anymore.  From your place, we've purchased many things
+            with money before...
+MAN         I'm not talking about kimono or money.  Though we're a farm,
+            we don't make enough to distribute it to others all the time.
+            (pause)  Never mind that; don't you have other kin?  [ET:
+            relatives]
+SEITA       Well... I can't get in touch with them.
+MAN         Then, it's better for you to go back to that house.  Besides,
+            everything's rationed now.  If you're not part of a community
+            group, you can't eat.  Apologize and ask them to let you
+            stay.
+SEITA       (pause)  Sorry <to have bothered you>.  I'll try other
+            places.
+MAN         You're the son of a marine, aren't you?  Don't lose heart.
+            [ALT: You got to be strong.]
+
+-----------------------------
+
+(Air raid.  Seita and Setsuko take cover in a tomato garden.  Finding
+ the tomatoes all ripe, Seita, unable to resist, takes some for himself
+ and Setsuko--a grave crime in times of war.)
+
+SETSUKO     Is it okay?  [ALT: Is it right?]
+SEITA       (makes a noise in his throat indicating "yes, yes")
+
+(Walking back to their shelter, they meet a military officer.  Fearing
+discovery of the crime they committed, they run away.)
+
+SEITA       Damn!  [LT: No good!]
+
+-----------------------------
+
+(Seita is combing Setsuko's hair.  Finding lice, he angrily kills one.)
+
+SEITA       Whether it's soy-bean or whatever, you mustn't be picky.  If
+            you don't eat well, you won't be able to grow up!
+SETSUKO     Nii-chan?  [ET: Brother?]
+SEITA       Yes?
+SETSUKO     I...  I have a bad stomach.  [ALT: My stomach is feeling
+            funny.]
+SEITA       Did you chill your stomach?  [ALT: Did you leave your stomach
+            exposed while sleeping?]
+SETSUKO     I've been having diarrhea for a long time now.
+
+-----------------------------
+
+(Seita is found stealing from a farm.)
+
+MAN         You bastard!!
+SEITA       Forgive me!  I'm sorry.  Please forgive me!  My sister's ill,
+            so I wanted to let her drink potato broth!
+MAN         What nonsense do you speak of?  Stealing from a farm during
+            times of war is a grave crime!
+
+(Seita tries to get away, but is captured again.)
+
+MAN         You little bastard.  Come on.  Stand up!  (he flashes his
+            light at Seita)  What's this?  You pulled up even the small
+            potatoes.  You must have been the one who has been stealing
+            from the farms around here!
+SETSUKO     Nii-chan!
+SEITA       I'm sorry!  I won't do it again!
+MAN         If sorry is all it took, we wouldn't need police!  Walk, why
+            don't you!
+SETSUKO     Nii-chan!  Nii-chan!
+SEITA       My sister's really sick!  I gotta be with her...!
+SETSUKO     Nii-chan!  Nii-chan!
+
+(At the local station,)
+
+POLICE      I understand what happened <very well>.  Regarding this case,
+            I'll consider the best solution after I talk to the offender
+            and prepare a report, so you may leave.
+MAN         But...!
+POLICE      You've hit him this much, you must be satisfied.  (Seeing the
+            man is still reluctant to leave,)  Violence against a minor,
+            causing injury [ALT: bodily harm].
+MAN         (panicking,) Then, I'll ask you to take care of the rest!
+            [ALT: Then, I trust you'll take care of the rest.]
+POLICE      I heard that today's air-raid was unexpected.  Well, why
+            don't you take a drink of water from the back?
+
+(Seita comes out from the station after some time.)
+
+SEITA       Setsuko...!
+SETSUKO     Nii-chan!
+
+(Seita begins to cry.)
+
+SETSUKO     Nii-chan...  (pause)  Where does it hurt?  That's not good.
+            We'll have to call the doctor and have him give you a shot.
+SEITA       Setsuko...!
+SETSUKO     Nii-chan, I want to go to the bathroom.
+SEITA       Can you hold it for a little distance?
+SETSUKO     Yes.
+SEITA       Get on my back.
+
+-----------------------------
+
+(Air-raid.  Setsuko awaits Seita's return but seems delirious.)
+
+SETSUKO     Brother went to the mountain for firewood.  Grandmother went
+            to...
+
+[Note: This is the famous beginning sentences to the children's story
+ "Momotaro".  She changed the phrases from "Grandfather went to the
+ mountain for firewood.  Grandmother went to the river to wash clothes".]
+
+(Seita, meanwhile, rummages through the home of those who fled.  Coming
+ back with his booty--food and other items--he presents them to Setsuko.)
+
+SEITA       Setsuko, let's have supper. Today's pumpkin is really tasty!
+            Look.  Isn't it like a bean jelly?
+SETSUKO     I don't like bean jelly.
+SEITA       What are you saying?  If you don't eat, I'll be scolded by
+            Dad!  Here, I'll help you eat, so get your spirits up and
+            eat!  Eat well, get well quickly, and we'll go to the sea
+            again together!
+
+-----------------------------
+
+(Sirens sound.  While the people flee, Seita plunders through homes.)
+
+SEITA       Do it, do it!  Yeahy!  [ALT: Go, go!  Yeahy!]
+
+(Seita returns from the rampage well stocked.  He drinks from the river.
+ He points his flashlight and says "Bang", then laughs.)
+
+SEITA       This time I'll really treat you to something good to eat,
+            Setsuko!
+
+SETSUKO     (Wandering around the shelter-hole,)  Nii-chan.  Nii-chan...
+
+(At a farm house, Seita is trying to barter his plunders for food.)
+
+WOMAN       You say this is your mother's keep-sake?  Fool!  Why would
+            something so cheap and thin be a keep-sake?  Don't fool with
+            me!  [ALT: Get real!]
+
+(Seita returns to the shelter-hole and finds Setsuko's doll.)
+
+SEITA       Setsuko...  Setsuko...!
+
+(He finds her collapsed nearby.)
+
+SEITA       Setsuko!  (Finding that she still breathes, he sighs.)
+SETSUKO     Nii-chan...  water...
+
+-----------------------------
+
+(_Doctor's office_)
+
+DOCTOR      Breathe in.  Breathe out.
+SEITA       And her  diarreah hasn't stopped for several days now.  Her
+            rashes don't seem to be heat-rashes either...  When I wash
+            her with salt water, all it does is give her pain.
+DOCTOR      It's a prostration due to malnutrition.  Her diarreah is the
+            result of that.  Okay, next person!
+SEITA       Some medicine or shots...?
+SETSUKO     I don't like shots.
+SEITA       Anyhow, please give her treatment of some kind.  Please.
+DOCTOR      <There's no> medicine or anything...  Well, I suggest that
+            she get some nourishment.  That's all that can be done.
+SEITA       You say nourishment, but...
+DOCTOR      (To the next patient,)  What seems to be the matter?
+SEITA       Where can you <possibly> find nourishment?!!
+
+-----------------------------
+
+(A farmer is cutting ice block for delivery.  Seita, standing by, picks
+ the ice scraps and feeds them to Setsuko after the man leaves.)
+
+SEITA       I'm so hungry...  [ALT: I'm so starved...]  What do you want
+            to eat?
+SETSUKO     Tempura, and Otsukuri, and Tokoro-ten...  [ET: Tempura, and
+            Sashimi, and Sour Jelly]
+SEITA       Anything more?
+SETSUKO     Ice cream...  And I want to eat drops again.
+
+[Note: During the war, food items were rare and the variety scarce.  The
+ fact that she knows about them and expresses that she wants to eat them
+ indicates that she has eaten them regularly and shows how well-off her
+ family actually was.]
+
+SEITA       Drops, huh?   Alright!  I'll go withdraw all the savings.
+            I'll <buy and> bring back all that you wanted to eat.
+SETSUKO     I don't want anything.  Just stay here,  Nii-chan.  Don't go.
+            Don't go.  Please don't go.
+SEITA       Don't worry,  Setsuko.  [ALT: There's no need to worry,
+            Setsuko]  After I withdraw the money and buy rice and things
+            with nutrients, I won't go anywhere anymore.  I'll stay by
+            your side for ever and ever.  [ALT: for always]  It's a
+            promise.
+
+-----------------------------
+
+(_At the bank_)
+
+TELLER      Here, 3000 yen.
+MAN1        I hear the typhoon's nearing?
+MAN2        No matter how much the Kami-kaze [ET: God-Wind] blows, if it
+            comes after we surrendered to the Americans, it's of no use
+            whatsoever.  How ridiculous!
+SEITA       Surrender?  You mean we lost the war?
+MAN1        You don't know anything?
+SEITA       Is it true that we lost?  Japan?  The Japanese Empire?!
+            [ALT: The Imperial Japan?]
+MAN2        Yup.  Unconditional surrender.
+SEITA       What happened to the combined fleet...
+MAN2        No good, no good.  That got sunk long time ago and there's
+            not one left anymore.
+SEITA       What!?  You mean Dad's <battle> cruiser got sunk as well?!
+            Is that why we never got any letter back?!
+MAN2        Why should I know <of such thing>!?  [ALT: How should I
+            know?]  What a strange kid!
+SEITA       Dad, you fool!  [grrrrr: doesn't translate well.  It's like
+            "Damn you, Dad", but not that strong]
+
+(He runs, but hunger slows him.)
+
+SEITA       I'm so hungry...  (pause) Dad...
+SEITA       Dad died, too.  Dad died, too.  Dad...!
+
+-----------------------------
+
+(Seita returns.)
+
+SEITA       Setsuko, I'm sorry I'm late.  I'll cook you a white rice
+            porridge.
+SETSUKO     It went down...  It went up...  Ah, it stopped...
+SEITA       Luckily, I was able to buy fish and eggs.  And...  (notices
+            that Setsuko has something in her mouth.  Picking up the drop
+            can,) Setsuko!  What are you licking!  These are marble
+            pieces.  <You know that> it's not drops!  Today, I've gotten
+            something much better <than that>.  It's something you like.
+SETSUKO     Here you go, Nii-chan...
+SEITA       What's this, Setsuko?
+SETSUKO     It's a meal.  I'll give you the the cooked okara.  [Note:
+            "Okara" is soybean milk crust that is a by-product of making
+            tofu.]
+SETSUKO     Go ahead, eat.  Aren't you going to eat?
+SEITA       Setsuko...!  Look, watermelon.  Isn't it great?  I didn't
+            steal it <either>.  Here, watermelon.
+SETSUKO     It's delicious...
+SEITA       Wait a moment.  I'll cook you a rice-porridge with eggs
+            immediately.  I'll leave the watermelon here.  Okay?
+SETSUKO     Nii-chan...  Thank you...
+
+R/ SEITA    After that, Setsuko never opened her eyes again.
+
+-----------------------------
+
+(_At the coal shop_)
+
+MAN         Here.  The one sack of coal, special delivery.  [ALT: one
+            bale]  If it's a child, you should borrow the burning ground
+            from the temple.  You take her clothes off and if you light
+            the fire with soybean skin, it'll burn nicely.  But... what
+            nice weather!
+
+[Note: Do not think this man to be insensitive.  Everyone has been
+ desensitized to some degree during the war.  It is truly sad that a
+ child's death is nothing new or anything sensational.]
+
+-----------------------------
+
+(People are returning to their homes from rural districts they had fled
+ to.  Two such girls enter their long deserted home.)
+
+GIRLS       My, it hasn't changed at all!  Home is definitely great!
+            [ALT: There's no place like home!]  It's been a while; the
+             record player!!  Familiar sights!
+
+(Song: "There's No Place Like Home".  Visions of Setsuko in all the
+ places she had been near the shelter-hole that was their home.)
+
+SETSUKO     Hurry home!
+
+-----------------------------
+
+(At an open field,  Seita is preparing Setsuko's cremation.  Setsuko is
+ placed in the empty container the coal came in.  Her few "treasures" are
+ placed lovingly along side of her.   Seita pauses on the drop can, and
+ sets it aside.  He lights the fire and grimly watches the cremation.
+ Morning turns to day, and day turns to evening.  With the last remaining
+ flames, the fireflies take flight from their resting spots among the
+ field...)
+
+R/ SEITA    The following morning, I placed the remnants of Setuko's
+            bones that were like a fragment of a jewel into the drop can
+            and left the mountain, never returning to the shelter-hole.
+
+(Seita's figure is slowly replaced by Seita's rei.  From the darkness,
+ Setsuko's rei appears and runs to Seita.)
+
+R/ SETSUKO  Nii-chan...
+R/ SEITA    It's late, so sleep now.  [ALT: It's late, so go to sleep
+            now.]
+R/ SETSUKO  Okay.  (She snuggles close and closes her eyes.)
+
+(The rei of Seita watches over Setsuko; then, as if to beseech to the
+ audience, he stares out towards the viewers.  He returns his attention
+ to the sleeping form of Setsuko...)
+
+THE END
+
+[If I may add my opinion here, the strongest message of this film comes
+ when Seita's rei stares out at us.  I heard "Look at what war does to
+ people.  Please don't ever repeat what happened again.  War is not
+ glorious nor honorable.  We just wanted to live more..."]
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+MESSAGE:
+
+Translating takes lots of time and money.  If you find this script
+useful, monetary contribution of any amount is greatly appreciated.
+
+Suggestions for improving this script are welcome.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+=========================================================================
+SUBTITLING
+=========================================================================
+
+In the event this script is used for a subtitling effort, it would be
+greatly appreciated if the subtitler followed these guidelines:
+
+1.  All names listed in the script heading be given their appropriate
+    credits (specifically, translator and editor(s)).
+2.  The dialogues may be shortened to fit the screen as the subtitler
+    deems, provided that the nuances and meanings are not changed
+    drastically.  (It would be even more appreciated if the subtitler
+    could send the altered dialogues to the translator for approval
+    beforehand. It would help prevent the translator from biting her
+    nails to pieces later.)
+3.  If there is more than one script for the same movie title, avoid
+    mixing the scripts (i.e., interchanging dialogues from different
+    scripts).  Different translators have different assumptions, and will
+    cause disharmony when scripts are mixed.  If there is a clear need,
+    please contact this translator.
+4.  The existence of the tape be made known to the translator.
+    (Preferably, contacted before the project is begun.)  An
+    inappropriate subtitling using any of the Griffin scripts may result
+    in either a less wide distribution of the script or a termination of
+    any future script translating effort.
+
+                                                     Thanks!   ---  Griff
+
+To contact Griffin (August 1992):
+
+        119 Bowbell Rd.; White Plains NY 10607 (will take half a year
+                for a reply at this address [August/December, 1992])
+        335 Warabi Chu^o^; Yayoi 212; Miho Nishida; Saitama Japan
+
+        e-mail contact: <editor> K_Hindall@qmrelay.mail.cornell.edu
+=========================================================================
+
+Currently Available Griffin Scripts:
+ * Nausicaa of the Valley of the Wind
+   (Script by another translator is also available on the ftp sites)
+ * Grave of the Fireflies
+ * Rig Veda #1
+ * Arslaan War Record #1
+
+To Come:
+ * Karura Mau (movie)
+ * Rig Veda #2
+
+========================================================================
+Subject:  2.) ANGEL'S EGG synopsis (Bryan Wilkinson, December 22, 1991)
+
+
+[this is the review as posted to the Miyazaki list; it was later printed
+ in the July 1992 issue of Anime Hasshin's THE ROSE (#33, page 26).]
+
+Subject:      Angel's Egg, a quick walk-thru.
+Date:         Sun, 22 Dec 1991 13:40:00 CST
+Source:       Hayao Miyazaki Discussion Group <NAUSICAA@BROWNVM.BITNET>
+From:         "Bryan C. Wilkinson" <mbaron@CHINET.CHI.IL.US>
+
+Pardon any errors, this is a direct-from-memory
+interpretation, and some of the order may be wrong. But the
+essential premise of the film should be clear enough.
+Snatches of this are remembered also from Miyako Graham's
+translation of a plot description released to Animage from
+the studio.
+
+
+Oshii Mamoru's Angel's Egg
+               ------- ---
+
+Prologue:
+A Boy watches the Sun set into the Sea.  The Sun is portrayed
+as mechanical-looking red orb-shaped piece of architecture
+emitting light from an eye-shaped window of stained glass.
+(This sun is metallic blue, yet the sky is red from its light.)
+The upper surface of the Sun is covered with statues. A great
+deal of steam, causing a siren-like pitch, vents off as it
+sinks below the water, and darkness begins to permeate the
+seascape.  The Boy appears to be on the edge of his twenties,
+which edge is not cleat (a Man, then?).  He bears a weapon
+on his shoulder in the shape of a crucifix, and sometimes
+bandages may be visible on his hands. Not a living soul does
+he see, nor does one see him.
+
+The Planetarium:
+A Girl awakens.  Her bed is in the ruin of a planetarium,
+in the center of a damaged model of the Solar System.  With
+her, under her blankets, is an Egg.  She envelops the egg in
+her skirt, and hides it under her blouse, giving her the look
+of being pregnant, and hurries from her abode.
+
+The City of Fish:
+The Girl sets about the task of filling flasks with water.
+She first does this at a lake.  The lake is fed by a stream,
+though, which leads her to an empty city. The city's
+architecture bears stone gargoyles in the image of Fish, as
+is the form of its fountains.  Inside one house we peer at
+her from, a wheel can be seen, the kind used to steer old
+ships.  She visits a house with many flasks, and inspects
+them carefully.
+
+The Arrival:
+A long, long line of organic (Fish-like?) looking tanks
+rumble into the city.  They stop, and the Boy, with his
+weapon, emerges from one.  They then continue and leave. The
+Girl is unsure of this new arrival, and runs away.  She hides
+in a ruin, and checks the Egg. But the Boy has followed her,
+and questions her what she thinks is in it.  The Girl doesn't
+trust him, and tries to leave.  But he persists in following
+her and questioning her. He seems to already know things she
+doesn't.  But all she responds with is "Who ARE you?"  This
+he does not answer.
+
+(the next is probably a little jumbled)
+
+The Fish:
+As the two wander the city, a horde of faceless fishermen run
+through the city.  We see--everywhere--the shadows of many
+great Fish (leviathans or the symbol of Christ?), on the
+streets, the buildings, everywhere.  The pursuers try to
+harpoon the shadows, and their spears merely bounce off stone
+or shatter windows and lamps.
+
+The Opera House:
+In the ruin of a great cathedral-like opera house, the two
+look at a damamged stain-glass window of a Fish.  The Girl
+speaks of a Dream she had, where the Egg was in a Tree and
+inside the Egg was an Angel--or was it a great Bird?  She's
+not sure.  The Boy has suggested that one must break an Egg
+to know what it hides, and this thought is what scares the
+Girl the most.  She knows where there is a picture of the
+Tree, and takes him to see.
+
+Fossil of an Angel:
+She takes him to a ruin, which seems to be a great skeleton.
+In the walls, the floor, and the stairs of the ruin are giant
+fossils of giant fish and birds.  Lining the walls are
+hundreds of flasks, all filled with water.  She takes him to
+a wall, and we see an old carving of a Tree.  He is shocked.
+He has seen such a Tree before, but it was very long ago. He
+then relates a story, one of a great flood that was to last
+forty days and nights.  She takes him up the stairs, and his
+surprise is even greater.  Imbedded in the wall, like the
+famous fossil of the prehistoric bird archeopterex, is the
+skeleton of a winged humanoid.
+
+The Impregnation:
+Back at the planetarium, the Girl sleeps, and the Boy stares
+at the Egg.  He reaches a decision, and raises his weapon
+above the Egg...
+
+The Girl awakens.  The Egg is not with her, and the Boy is
+gone.  She climbs out of bed and sees the floor.
+
+She screams.
+
+Before her, is a blasted open shell. As for INSIDE it...
+
+There was nothing inside the Egg.
+
+It is getting less dark.  The fishermen stand still--
+statues?--as the tide rises and the buildings begin to
+disappear beneath the water.
+
+The Girl flees from her home, and runs towards a large crack
+in the earth.  She plunges from the cliff, and slowly falls
+(flies? floats?) towards a reflection (?) of herself.  Then,
+she is drownning, and hundreds of bubbles erupt from her
+lungs.  The bubbles rise to the surface...
+
+Simultaneously, Trees bearing bubble-like Eggs erupt from the
+ground's surface.
+
+Epilogue:
+The Boy watches again, as the Sun rises from the water (an
+Egg as well?).  Among the statues, is one of the Girl.
+Feathers swirl around him in the air. He stands on the beach
+alone--never did he see a soul, nor did one see him.  We then
+slowly, slowly pull away into the sky (a Heaven?), until most
+of the island becomes visble--the island is a great Ark, and
+it is without motion.
+
+Sorry if I screwed the order and such up a little, it's been a while
+since I've seen it.  I remember bits of Miyako Graham's translated
+article, so that helped. Amendments and corrections are quite welcome,
+this was off the cuff.
+
+Brought to you by Bryan C. Wilkinson
+                                                      _
+     send e-mail to:                   /;/\|\|\|\|\|\/.|
+  mbaron@chinet.chi.il.us             |/            //||
+ _____________                        \               /:/
+|            /          __    _       \ /|\|\|\|\       /
+|   _   ,.__/___        \ \  / \      `.\-    -  /      /
+|_,- / |    /   :  ______\ \/  /       `|@)   @) | |)   /
+    /  |   / [] : [_____/ \   /         (  -      \    /
+   /   |   \___/          /  /   Long    \  --'  / \/V
+  /____|                 /__/  Live GASP! ~----.'  \-,--
+                                             / |\__/ /   \
+"An'ta dare?!"  "Niya wa To-y no aijin dayo!"  `----'     \
+
+========================================================================
+Subject:  3.) ANGEL'S EGG script (Enrique Conty, October 8, 1992)
+
+
+[Posted to the Hayao Miyazaki Discussion Group by Enrique Conty, 10/8/92]
+
+Subject:      Angel's Egg Script <SAVE THIS!!>
+Date:         Thu, 8 Oct 1992 23:36:00 CDT
+Source:       Hayao Miyazaki Discussion Group <NAUSICAA@BROWNVM.BITNET>
+From:         Enrique Conty <jester@IHLPL.ATT.COM>
+
+Here it is, Mitch.  Not that it will do you any good as far as
+understanding this film.  :-)
+
+Share and Enjoy!!!
+
+----------------------------------- cut here ---------------------------
+
+[WARRIOR watches the Eye sink into the waters.]
+ANGEL:  Who... who are you?
+
+TITLE:  Angel's Egg
+Directed by:  Mamoru Oshii
+Character Designs by:  Yoshitaka Amano
+Screenplay by:  Mamoru Oshii
+
+[we see a day in the strange life of ANGEL]
+[WARRIOR gives Egg to ANGEL]
+W:      Keep precious things inside you or you will lose them.
+W:      What do you think is inside that egg?
+A:      I can't tell you things like that...
+        besides, I don't even know who you are.
+W:      You have to break an egg if you are to know what's inside.
+A:      Who are you?!
+[ANGEL runs away]
+A:      Don't follow me!
+[later]
+A:      The fish have come out.
+W:      Fish?
+A:      Even though they aren't anywhere, they chase after them.
+        Even though there aren't any fish anywhere.
+[after the Fish hunt]
+A:      Please... my egg... don't do anything to it... promise.
+[ANGEL leads WARRIOR into a building]
+A:      This way.
+[In front of a stylized basrelief of a Tree.]
+W:      I've seen a tree like this somewhere... when was it?  So long
+        ago that I've forgotten... under a sky where the clouds made
+        sounds as they moved.  The black horizon swelled and from it
+        grew a huge tree.  It sucked the life from the ground and its
+        pulsing branches reached up, as if to grasp something... the
+        giant bird sleeping within an egg.
+A:      What happened to the bird?  Where is it?
+W:      He's still there, still dreaming.
+A:      Dreaming?  What kind of dream does the bird dream?
+W:      What's in the egg?  You still cannot tell me?
+[ANGEL leads WARRIOR up a staircase lined with Water bottles]
+W:      Since when have you been here?
+        As many days as there are bottles?
+W:      I too have forgotten where I'm from...
+        Maybe I didn't know from the beginning where I am going.
+A:      Will you be going away?
+[WARRIOR starts quoting]
+W:      "I will blot out man whom I have created from the face of the
+         ground, man and beast and creeping things and birds of the air,
+         for I am sorry that I have made them.  I will send rain upon
+         the earth forty days and forty nights, and every living thing
+         that I have made I will blot out from the face of the ground.
+         And after seven days the waters of the flood came upon the
+         earth.  On that day all the fountains of the great deep burst
+         forth, and the windows of the heavens were opened.  And rain
+         fell upon the earth forty days and forty nights.  The ark
+         floated on the face of the waters, and all flesh died that
+         moved upon the earth.  Birds, cattle, beasts, all swarming
+         creatures that swarm upon the earth, and every man.  Only Noah
+         was left, and those that were with him in the ark.  Then he
+         sent forth a dove from him, to see if the waters had subsided
+         from the face of the ground.  Then he waited another seven
+         days, and sent forth the dove, and she did not return to him
+         any more."
+W:      Where did the bird land?  Or maybe it weakened and was
+        swallowed by the waters, no one could know.  So the people
+        waited for her return, and waited and grew tired of waiting.
+        They forgot they had released the bird, even forgot there was a
+        bird and a world sunken under water.  They forgot where they had
+        come from, how long they had been there, and where they were
+        going so long ago that the animals have turned to stone.  The
+        bird I saw, I can't even remember where or when, it was so long
+        ago.  Perhaps it was a dream.  Maybe you and I and the fish
+        exist only in the memory of a person who is gone.  Maybe no one
+        really exists and it is only raining outside.  Maybe the bird
+        never existed at all.
+A:      It exists.  It's here.
+[ANGEL leads WARRIOR around]
+A:      It's here.  It's here.
+[WARRIOR encounters the fossilized Bird]
+A:      I found it, it's already turned to stone, it's in here.  I'm
+        going to hatch it and put it back.  It's the bird I found.
+W:      I know that.  I thought so.
+[ANGEL is listening to the Egg]
+W:      Can you hear something?
+A:      I can hear it.  The sound of soft breathing.
+W:      That's your breathing.
+A:      I can hear the sound of wings.  It must be dreaming of flying
+        in the sky.
+W:      That's just the sound of the wind outside.
+[ANGEL talks to the Egg]
+A:      Very soon... right now you're in here dreaming but soon I will
+        show you... very soon... so you must stay here now.  It doesn't
+        rain here... where it's warm.
+[WARRIOR puts ANGEL in Bed]
+A:      Who are you?
+W:      Who are you?
+[rest of movie, climax, and conclusion]
+
+                            E n r i q u e  C o n t y
+                              jester@ihlpl.att.com
+
+----------------------------------- cut here ----------------------------
+
+Subject: Angel's egg
+X-Topic: Entry #2351 of LISTS.NAUSICAA
+Date:         Fri, 9 Oct 1992 02:48:00 CDT
+Reply-To:     Hayao Miyazaki Discussion Group <NAUSICAA@BROWNVM.BITNET>
+From:         "(Bryan C. Wilkinson)" <mbaron@CHINET.CHI.IL.US>
+
+Uh, Conty, don't you think you should give credit to Sue and maybe the
+NSA, since that's who you owe this script to...?
+
+--bry
+
+========================================================================
+Subject:  4.) ANGEL'S EGG timing file, in JACOsub (Fred Leggett, 1/5/93)
+
+[NOTE: I don't know how to uncompress compressed files or how to convert
+a Z file to plain text, so I would *really* appreciate it if anyone who
+*does* know how to do these things e-mailed me with a copy of this timing
+file uncompressed, in plain text--so that I can store *that* here instead
+of the compressed Z file below.
+               -- Steven Feldman <ar402004@brownvm.brown.edu> (11/1/94)]
+
+
+From: bilver!vicstoy!fleggett@peora.sdc.ccur.com (Fred Leggett)
+Message-Id: <9301050658.AA09841@vicstoy>
+Subject: Timing script for "Egg of the Angel"
+To: ar402004@brownvm.brown.edu (Steven Feldman)
+Date: Tue, 5 Jan 93 1:58:00 EST
+X-Mailer: ELM [version 2.3 PL11]
+
+Steven,
+     Here's the timing script for "Egg of the Angel" in JACOsub (.js)
+format.  Hope you like it.  Enjoy!
+
+
+begin 400 a_egg.lzh
+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
+MJB:)4$_YL8=Z5:"2=2Y GM9D06Q>>.&7?KA')VTE.7%0-5PFD7]S$RYRY96
+M(8M#UL'B570P [#R#>,@>_D^6DGTN4BR9:F:30$ 3\WP&YS^7X_?CFBT\J./
+M"W,%!'XA08G3X_JZ'S@K@[4)BJ/V22OX)]AU&+?_:,2;D37FN"8(_)]$8)6?
+MJS]G4<V6!AL+-A^L%)YHIL?+TC<O\D<>\)]6_83.!DBHC Y;1@":8TPX,G[0
+M5'R7.NIYM!O6FI"O_G1K=WM(@X(,E2!,M8ZE,*ON>K@X-[!AJETHCQ=161 D
+M]<2D4*I(\)G+7M_BL+: LZ=06 [/&)?8C#QS_B]I+WN5@)U/"C24+27H_Q\I
+MOZF,'NI0,%P7 ]-Q/[,J>H331UWU,>4?7Z0O)) 7%X"[K6X^J,;LO"KJ_>:N
+M<=Y6(D"[!3)1]<Z,\8/ L3Z.!9>D0-OOS[%>?D )S8$3663:7M:+W<F[7AYC
+MKUBQV!HRX].D?<>+NYAIMIBF5113[;N<&H'KTGN<NM\^3TQ6YN(K\ZE86X5@
+MZ^60=7L*?'J_T/?(>8_+V)46O@IY.(5@Z51779,?;N9XG<H+"/0>;9UMBZ[U
+M]G75X34NR)H9T)D&7^A.P8^A1[77A/N*+N.H>\3QH\)V[370\/-PR+KS7<\4
+M0GHB\4"6KWGX?%9)@M/F,F"=NU,;>DJ"S4O7O5-D-Z-)$MR"VS?#//GQ$=,I
+H$8IM_" '&Z<1$[8!%;W7L4W:N#&A08\1&4.,*77LTQJ=<1+A,[LI /GQ
+
+end
+--
+Fred Leggett - fred.leggett@oau.org
+             - fleggett@vicstoy.oau.org : fleggett@vicstoy.UUCP
+             - ...!{peora,ge-dab,tous,tarpit}!bilver!vicstoy!fleggett
+               vicstoy Unix, Orlando, Florida
+
+========================================================================
+Subject:  5.) ROBOT CARNIVAL script (Ron Azuma, January 17, 1990?)
+
+
+ORIGINAL TRANSLATOR:  Anonymous
+TRANSCRIPTION & POLISHING:  Ron Azuma
+
+
+        Robot Carnival script v 1.00
+
+Robot Carnival is a collection of eight short animated films by
+different people.  About the only thing that links them together is
+that each film has at least one robot in it.  The films vary from
+comedy to fast-paced action to philosophical drama, so there's
+something for everyone.
+
+Also, all but two of the films lack a voice track, so Robot Carnival
+is a good film to introduce people to Japanese animation.  And in one
+of those films, half of the dialogue is in English!  This script
+includes detailed descriptions of the two segments with voice tracks.
+
+So without further ado, here are the descriptions of the films:
+
+============================
+Robot Carnival Opening Title
+============================
+
+A kid sees a poster fly by, which sends him into shock.  He warns
+the villagers, who hole themselves up in their homes or flee for
+their lives.  In the distance, something huge approaches...
+(Incidentally, the kid's speech is just gibberish.)
+
+
+======================
+Franken's New Creation
+======================
+
+A scientist tries to bring life to his creation, which this time
+is a robot instead of a green-skinned cadaver!
+
+
+=======
+Deprive
+=======
+
+Evil troops take girl from her robot/cyborg friend.  Robot fights to
+rescue girl.  There's nothing deep to this one - it's a fast paced
+action video!
+
+
+========
+Presence
+========
+
+Unlike Deprive, Presence tries to deliver a message.  Sometimes, robots
+can become too real...
+
+[In this world, human-appearing robots are commonplace.
+ The film opens with a bunch of schoolkids attacking a teacher
+ robot, knocking off his head and kicking it high into the sky...]
+
+[In a house, a man enjoys his soup and sees his daughter say goodbye.
+ As the man drives off to work, he thinks about his wife.]
+
+    Man:     "My wife is an aggressive career woman.  I sometimes
+         sense great ambition inside her."
+
+    Man:    "She is active, takes initiative, and is someone
+         you can rely on.  She almost works better than I do!"
+
+    Man:    "My collegues think I'm a feminist.  I admit it to
+         myself, but with others it's different." <1>
+
+[At a lake, the man picks up and throws a screw.  A clock flies by.]
+
+    Man:    "You scared me!"
+    Clock:    "It's 12:40.  Return to your work."
+    Man:    "Ok, ok."
+
+[The Man walks down a path.]
+
+    Man:     "I have a secret."
+
+[The Man goes into a workshop and sees a girl robot sitting on a desk.]
+
+    Man:    "Of course, this is a secret for my family."
+
+[He brings some tools.]
+
+    Man:    "I never had the love of a mother.  I understand
+         why I needed to get married so badly...  I
+         desperately wanted femininity in my wife (?)"
+
+[He touches the girl robot.  One gets the sense that he is not entirely
+ happy with being married to a wife who is an aggressive career woman.]
+
+[As the man walks down the street, he sees some people leaving a bar.
+ Various robot body parts are left dumped in a nearby trash can.]
+
+[Back in the workshop, the girl robot starts moving.]
+
+    Girl:    "I don't have a name."
+
+    Man:    "Meow." (?)
+
+    Girl:    "I think I want to fall in love."
+
+    Man:    "What are you saying?  I don't remember programming
+         such a word into you!"
+
+    Girl:    "You are lonely, aren't you?"
+
+    Man:    "What happened to you?"
+
+    Girl:    "I could hear and I could feel."
+        "You are still a little boy, aren't you?"
+
+[Man picks up flying saucer toy.]
+
+    Man:    "I'm surprised that you recognize your own consciousness."
+
+[Girl jumps on desk.]
+
+    Man:    "Huh?"
+
+    Girl:    "Don't be surprised."
+
+    Man:    "You shouldn't step into my life." (?)
+
+    Girl:    "Why do I exist?"
+        "I'd like to be closer to you."
+
+    Man:    "Does a machine feel pain?"
+        "There are no robot 'groupies'!"
+        "Does a machine have a personality?"
+
+    Girl:    "But I know myself very well."
+        "I want to experience lots of love, by my own choice!"
+
+    Girl:    "Hm.  You are wearing a cynical smile."
+
+[As the man walks away, the girl robot grabs him.  Surprised, he
+ throws her against a wall.  As she bleeds, he grabs a wrench...]
+
+[Now many years in the future, he sits in a chair outside a house.
+ His now grown-up daughter and grandaughter approach.]
+
+    Man:    "Are you leaving already?"
+
+    Daughter: "Yes, father.  Next time, three of us will come.
+           Please take care of my mother.  (To grandaughter)
+           Now say goodbye to grandpa."
+
+    Granddaughter:    "See you next time, grandpa!  Next time,
+             please make me a toy."
+
+    Man:    "Be careful on the way home."
+
+    Granddaughter:    "Bye bye!"
+
+[The wind starts to blow.  Suddenly, the man sees a vision of the girl robot.]
+
+    Girl:    "I was waiting for a prince..."
+
+    Man:    (Sadly) "I couldn't be your protector." <2>
+
+[The vision disappears.  The Man returns to the workshop to view
+ the long-decayed body...]
+
+[Now even further in the future, the man is again sitting outside the
+ house.  The wind starts blowing.]
+
+    Wife:    "Grandpa, grandpa, the wind is starting to blow [so
+         you should come inside]."
+
+    Wife:    "Ok grandpa, you're not a little boy anymore, so you
+         should listen to what I say!"
+
+    Wife:    "Grandpa?"
+
+[The girl and the man walk off together and vanish.  A toy angel hovers
+ in front of the camera.]
+
+Notes:
+
+<1> Apparently in Japanese, "feminist" can mean either a person who
+    promotes equal rights for women, or it can mean an effeminate man.
+
+<2> Literally, "I couldn't be your 'long-legged Uncle.'"  If anyone knows
+    the story that this comes from, please let me know!
+
+
+===============
+Starlight Angel
+===============
+
+In the future, Tokyo Disneyland is still "the Happiest place in the
+World!"  Especially for a "robot" who falls in love with one of the
+visitors...
+
+
+=====
+Cloud
+=====
+
+A lonely robot walks by as the sky fills with different types of clouds.
+Not much of a plot, but it is beautiful to watch...
+
+
+=======================================================================
+Extraordinary Meiji machine stories: A story of a Western man attacking <1>
+=======================================================================
+
+Set in the early Meiji period (around 1830 or 1840?), this film is a
+hilarious spoof of Japanese 'giant robot' films!  The villain speaks
+English, and the Japanese defenders speak Japanese.  Therefore, this
+script will only summarize the villain's lines...
+
+The cast of this film is:
+
+American
+-------
+John Jack Orkafin(?)     The evil scientist villain
+
+Japanese
+--------
+Sankichi    The leader with the headband
+Yayoi        The girl
+Fukuda        The kid with the glasses
+Daimaru        The big guy who works the engine
+Genjiro        The thin guy who steers the machine
+
+To make this easier to follow, I will label their parts as:
+Villain, Leader, Girl, Glasses, Big Guy and Thin Guy.
+
+
+[The film opens with the town's population running for their lives as
+ the Villain's robot smashes through the town.  The title appears, and
+ the Villain happily announces his plans for world domination.  Note
+ that he has Marco Polo's book describing the Far East!]
+
+    Leader:    "That damn thing!  I'm going to get even!"
+        "Are you ready?"
+
+    Girl:    "Yes, but can we move this without permission?"
+
+    Glasses: "Won't all those people in the neighborhood get mad
+          at us?"
+
+    Leader:    "You idiot!  This is a national crisis!"
+        "Daimaru, shove a lot of coals in the furnace!"
+
+    Big Guy: "Ok!"
+
+    Leader:    "Genjiro, wake up!" (?)
+
+    Thin Guy: "Ok."
+
+    Leader:    "Go!"
+
+[The Japanese robot rises up to challenge the invader...]
+
+    Villain: Eh?
+
+[The Leader begins a long speech from the top of his machine.]
+
+    Leader:    "Hey you big slob, stop right there!  You are the nasty
+         one disturbing the order in this peaceful time after
+         the opening of our country [to the West]!  For the
+         upcoming festival, all of the people in the neighborhood
+         built this machine.  It is not the most technologically
+         advanced, but I, Sankichi Komajo, will not let you
+         advance one more step from that spot!  I'm going to
+         destroy you, so get ready!" <2>
+
+[He disappears down a hatch]
+
+    Leader:    "Forward!"
+        "Genjiro, raise the right leg!"
+
+[The robot punts a nearby house]
+
+    Leader: "Move it more carefully!"
+
+[Meanwhile, the Villain starts getting furious]
+
+    Glasses: "Someone is coming out [of the Villain's machine]!"
+
+    Leader:    "What?  Genjiro, stop!"
+
+[He looks through a telescope]
+
+    Leader:    "Oh, let's see, ah..."
+
+[Sees the Villain and his cannon!]
+
+    Leader:    "It's a foreigner!  It's a foreigner!  What should I do?"
+
+    Glasses: "Calm down!  Calm down!"
+
+[The Villain begins a long speech through a megaphone, giving them 3
+ seconds to surrender before he blows them up.]
+
+    Leader:    "What is he saying?"
+
+    Glasses: [Thumbing through book] "I understand English, but
+         I'm not that familiar with American!"
+
+[Villain shoots a cannonball]
+
+    Villian: "Eh?"
+
+    Thin Guy: "Ah!"
+
+    Leader: "Daimaru, they are firing the big cannon, so come
+         upstairs!"
+
+    Big Guy: "All right!"
+
+[The Villain aims and shoots again, hitting the Japanese robot.
+ The girl screams.]
+
+    Girl:    "Wha?"
+
+    Leader:    "Damn, he hit us!"
+
+    Girl:    "What's going on?"
+
+    Leader: "Be quiet!  Just be patient!"
+
+    Girl:    "What do you mean, 'Be quiet'?"
+
+[Daimaru makes it up to the top of the machine]
+
+    Big Guy: "I'm here!  [Sees the tube]  Isn't that the big
+          fireworks?"
+
+    Leader: "Yeah, but I made some changes to it..."
+
+[The Villain cleans his cannon while Sankichi aims his]
+
+    Leader &
+    Big Guy: "Ok, here it goes, look up!"
+
+[Fires and hits the Villain's machine]
+
+    Leader &
+    Big Guy: "All right!  Ah?  The inside of the machine is made
+          of brick?"
+
+[The Villain fires another shot that hits the Japanese machine]
+
+    Thin Guy: [Mumbles something...] (?)
+
+    Big Guy: "What are we going to do, Sankichi?"
+
+    Leader:    "Ok, hit the guy who is standing on the shoulder
+         of that thing!"
+
+    Big Guy: (Surprised) "But if we hit, that guy will be killed!"
+
+    Leader: "That's ok, just shoot!"
+
+[They shoot but hit the head of the Villain's robot instead.  The Villain
+ starts laughing until the shot sets off his storage of ammo...]
+
+    Leader:    "Yeah!"
+
+    Big Guy: "Of course, we were aiming for the head to being with!" (?)
+
+    Leader: "Oh no we weren't..."
+        "Now we're going to tear down that machine!"
+
+[The Villain rants some more...]
+
+    Girl:    "Now we should stop fighting!" (?)
+
+    Leader:    "Huh?"
+
+    Girl:    "If we keep fighting, we'll destroy the whole
+         neighborhood!"
+
+    Leader:    "Don't make a fuss!  This is important!"
+
+    Girl:    "What did you say, you pinhead?"
+
+    Leader:    "Pinhead?"
+
+    Glasses: "Pinhead!"
+
+    Girl:    "If you don't like pinhead, how about peabrain, dunce,
+         moron..." <3>
+
+    Leader:    [gets irritated]
+
+    Glasses: "Since the last hit we took, something's not working
+          right!" (?)
+
+    Leader: "Shut up!  Be quiet!"
+
+    Girl:    "Someone who is so headstrong is called 'bullheaded'!" <4>
+
+    Leader:    "Ah?"
+
+    Girl:    "Don't act like you're so brave!  You don't have any
+         brains!  Why don't you learn to read or write?
+         A monkey is smarter than you are!"
+
+    Leader:    "You have a really mean personality!"
+
+    Girl:    [Sticks her tongue at him]
+
+[The kid with glasses rides some gears to get to another part of the
+ machine.  He yells, "Sankichi," then by accident sees under the
+ girl's kimono.]
+
+    Glasses: "Sorry!"
+
+    Girl:    [Kicks a shoe in his face]
+
+[Meanwhile the Villain discovers he's out of battery power.]
+
+    Big Guy: "Hey Sankichi, we ran out of coals!"
+
+    Leader: "Don't worry, just peel off and burn
+         any available wood!"
+
+[The Villain recharges his batteries.  It takes until sunset before
+ the two machines advance far enough to reach each other.]
+
+    Leader: "We finally got here..."
+
+[The Villain rants some more and raises the right arm of his machine]
+
+    Leader: "Raise the right arm!"
+
+[The kid with glasses raises the Japanese robot's right arm]
+
+    Leader: "That's good!  Raise the left hand and grab his arm!"
+
+    Girl:    "What are you going to do?"
+
+    Leader: "We're going to grab and throw him!" (?)
+
+    Girl:    "I grabbed it!"
+
+    Leader:    "Hold on tight!  Are you ok?"
+
+    Glasses: "Yes, I'm ok!"
+
+    Leader: "Daimaru, grab onto something!"
+
+[Daimaru clings for dear life]
+
+    Leader: [To pilot] "Is everything ok?"
+        "Good!  Raise the left leg and twist!"
+
+[The robot starts spinning]
+
+    Leader: "Go!"
+
+[The Japanese machine throws the Villain's machine into the river,
+ but the Japanese machine also falls.  The Villain's
+ robot causes a minature wave that washes out a bridge and the
+ spectators on it...  The kid with glasses views the destruction.]
+
+    Glasses: "Oh my town!  My neighborhood!"
+
+    Leader: "We won!"
+
+    Thin Guy: "I'm not so sure about that..."
+
+    Big Guy: "Yeah..."
+
+    Girl:    "But we did a lot..."
+
+    Leader:    "Hey look, that's a Japanese sunrise!"
+
+[Sky fills with an old-style 'Rising Sun' emblem]
+
+    Girl:    "No, that's sunset."
+
+[Emblem abruptly disappears...]
+
+    Leader:    "Oh."
+
+    Girl:    [Laughs]  "Sorry!"
+
+    Leader:    "Anyway, that battle is over.  We fought off the
+         foreigner with our own hands.  But since I saved
+         the peace in this town..."
+
+[Sankichi puts his arm on the girl's shoulder.  She responds by
+ stomping on his foot...]
+
+[And the Villain paddles off into the sunset, making plans for next
+ time...]
+
+
+Notes:    <1>    The first part of the title literally reads,
+        "Meiji Karakuri modern Western civilization
+        strange story" where karakuri is an old word
+        for a machine.
+
+    <2>    A lot of liberties are taken here.  Eg, instead of
+        "It is not the most technologically advanced," he
+        literally says, "It is not a big steam locomotive."
+
+    <3>    All the insults have to do with implying that
+        Sankichi has a low mental capacity...
+
+    <4>    Literally "Someone who gets hot-headed so quickly
+        is called 'kettleheaded'!"
+
+
+=====================
+Chicken Man & Redneck
+=====================
+
+At night, the robots wake up... to terrorize a hapless man on a scooter!
+The chase sequence is very reminiscient of Disney's "Legend of Sleepy
+Hollow."
+
+
+============================
+Robot Carnival Closing Title
+============================
+
+Out of the wreckage of the machine, a man finds a small metal ball
+and brings it back to his kids.  The toy delights them, but it has
+one last surprise...
+
+
+Translator:             Anonymous
+Transcription & polishing:     Ron Azuma
+
+Liberties have been taken in some of the translations, and undoubtedly
+we made mistakes along the way.  The more questionable passages are
+marked with a (?).  Notes and comments are marked with a <#>.
+Send any corrections to:
+
+                        Ron Azuma
+                        (azuma@dopey.cs.unc.edu)
+
+========================================================================
+Subject:  6.) PLEASE BLINK, GRANDMA synopsis (JAPAN TIMES, July 30, 1992)
+
+
+JAPAN TIMES, July 30, 1992
+
+Animated Film Tells Heart-warming Tale
+by Yuko Naito
+
+     When a family member becomes bedridden, the burden cast on the rest
+of the family is beyond words.  Physical fatigue, the high costs of
+hospitalization and medicine, and the accompanying psychological stress
+can bring about the collapse of the entire family.
+   In an effort to provide some support and helpful hints for such
+troubled families, Asahi Shimbun, Asahi Shimbun Social Welfare
+Organization and Cinema Work Co., have produced an animated film,
+"Patchin-shite!  Obaachan" (Please Blink, Grandmother,) to be released
+this autumn at theaters.  [Note: Scheduled for October release.]
+     Based on a true-life story that unfolded in a Kanazawa City hospital
+between 1983-1986, the film depicts the relationship between a bed-ridden
+old woman whose only way to communicate is to blink her eyes, and the
+more than 100 people who visit the hospital, and are drawn to her
+personality.
+     On a winter day in Kanazawa, Yasue Kitajima was rushed to the
+hospital after suffering her fourth cerebral thrombosis.
+     Doctors told her only daughter, Hiro, that Yasue was totally
+paralyzed and would not recover.  To help make Yasue's remaining years
+worthwhile, Hiro decided not to leave her alone.  The unmarried
+daughter, however, has to support herself and pay her mother's
+hospitalization fees.  Working during the day at an education center and
+attending Yasue at night is too much for Hiro, who eventually falls ill
+from exhaustion.
+     Then, in response to Hiro's call for aid, friends, neighbors, their
+daughters, Hiro's former students and others volunteer their help.  Those
+who actually nurse Yasue are largely young women in their 20's, totally
+inexperienced in the care of the sick.
+     At first, they are shocked at the sight of Yasue, who is little more
+than a vegetable, unable to even speak.  However, they learn how to
+communicate with her--blinking her eyes in response to their questions
+means "yes."
+     They like the old woman who expresses her feelings honestly and
+enjoy being with her.  Moreover, feeling needed gives them added strength
+and confidence.  They call themselves the Yasue Family, although they are
+not related by blood.
+     They do whatever pleases the elderly woman--reading the Bible,
+singing songs, playing the guitar, as well as feeding her, changing her
+diapers and moving her body to prevent bedsores.
+     The climax comes on Christmas Eve when people gather around the
+Christian woman's bed with candles in their hands and sing hymns.  Yasue,
+deeply touched, suddenly says, "Aaaa," which means "Arigato" (Thank you).
+     When Yasue passed away after three years and two months of
+hospitalization, the members of the Yasue Family numbered 54, or even as
+many as 100 when all the people who in some way supported Yasue and Hiro
+were included.
+     Their story was serially reported in 1986 in the Asahi Shimbun,
+Ishikawa Prefecture edition.  It won the fifth Upjohn Science Writer's
+Award, which is awarded articles related to medical science and medical
+care.
+     In 1990 Hiro published a book entitled "Hikari no Naka no Sei to Shi
+(Life and Death in the Light)" to show her gratitude to all those who
+helped her and her mother.
+     In the book's preface, Masami Seki, Hiro's husband, who married her
+during Yasue's hospitalization, writes: "There may be some people who
+cannot believe this story is fact.  Many people may think it is an
+exceptional case, a miracle.  But I think it is possible if only people
+would try.  To make it possible, it is important not to stick only to
+kinship."
+     In Japanese society it is considered a matter of course that
+children care for their parents.  Although the film shows one possible
+solution to the problem of caring for a bedridden relative, many people
+would hesitate to ask other people to help take care of their family.
+     In fact, Seki also mentions in the book that the Kanazawa branch
+office of Asahi Shimbun received a letter from a reader who was nursing
+an elderly person.  It said, "Please don't write such a happy story.  It
+makes me feel miserable."
+     When Hiro's book was published, there were several offers of
+dramatization from television stations and independent producers, which
+she, however, rejected for fear that the descriptions of medical
+treatment would be too graphic.
+     Asahi Shimbun was finally given permission to make a film on the
+condition that it would be an animated film.
+     "This film has two purposes," says Isao Kurose of Asahi Shimbun.
+"Firstly, we would like to let chidren know that an aging society has
+unavoidable problems.  Secondly, welfare workers can, with this film,
+study the ideal nursing of aged people."
+

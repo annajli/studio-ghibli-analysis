@@ -1,0 +1,1059 @@
+﻿From LISTSERV@BROWNVM.BROWN.EDU Sun Jan  1 23:02:06 1995
+Return-Path: <LISTSERV@BROWNVM.BROWN.EDU>
+Received: from mx5.u.washington.edu by redms.cac.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.32 ) id AA04127;
+	Sun, 1 Jan 95 23:02:05 -0800
+Received: from mx2.cac.washington.edu by mx5.u.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.31 ) id AA22478;
+	Sun, 1 Jan 95 23:02:04 -0800
+Received: from brownvm.brown.edu by mx2.cac.washington.edu
+	(5.65+UW94.10/UW-NDC Revision: 2.31 ) id AA13772;
+	Sun, 1 Jan 95 23:01:50 -0800
+Message-Id: <9501020701.AA13772@mx2.cac.washington.edu>
+Received: from BROWNVM.BROWN.EDU by BROWNVM.brown.edu (IBM VM SMTP V2R2)
+   with BSMTP id 2800; Mon, 02 Jan 95 02:00:53 EST
+Received: from BROWNVM.BROWN.EDU (NJE origin LISTSERV@BROWNVM) by BROWNVM.BROWN.EDU (LMail V1.2a/1.8a) with BSMTP id 3108; Mon, 2 Jan 1995 02:00:50 -0500
+Date:         Mon, 2 Jan 1995 02:00:47 -0500
+From: BITNET list server at BROWNVM (1.8a) <LISTSERV@BROWNVM.brown.edu>
+Subject:      File: "TOTORO SCRIPT"
+To: "Michael S. Johnson" <michj@nausicaa.net>
+Status: O
+
+TOTORO SCRIPT
+
+Subject:  1.) TOTORO script (David Goldsmith, January 30, 1994)
+L#00834   2.) TOTORO opening theme: "Sanpo" (Theresa Martin, July 7, 1992)
+[ revised May 10, 1994 ]
+L#00922   3.) TOTORO end theme: "Tonari no TOTORO" (T.Martin, July 7, 1992)
+
+
+=========================================================================
+Subject:  1.) TOTORO script (David Goldsmith, January 30, 1994)
+
+
+This translation was done entirely by the people of Nikaku Animart.
+Reproduction in whole or in part for profit is prohibited. This
+script may be reproduced freely as long as the full header remains
+as is (e.g. give them the credit).
+
+
+                               TONARI NO TOTORO
+                              My Neighbor Totoro
+
+                     Story and Animation by Hayao Miyazaki
+                        Music composed by Joe Hisaishi
+
+A translation by Nikaku Animart, dedicated to the Indianapolis-Dayton
+Anime Club, whose enthusiasm is an inspiration.
+
+Cast:
+    MEI: 4 year old girl
+    SATUSKI: 11 year old girl
+    MR. KUSAKABE: Father of Mei and Satsuki, researcher at a university in
+      Tokyo
+    MRS. KUSAKABE: Mother of Mei and Satsuki, sick in the hospital
+    GRANNY: Caretaker of the house they have just moved into
+    KANTA: The grandson of GRANNY
+    TOTORO, CHU TOTORO, CHIBI TOTORO: The 3 guardians of the forest
+    NEKO BUS: The Cat bus, a friend of TOTORO
+
+(In the Japanese countryside)
+Satsuki: Father, caramel.
+Father: Oh, thanks. Are you tired?
+Satsuki: Uh - uh.
+Father: It's just a little further.
+Satsuki: Mei! Hide!
+Satsuki: It wasn't a policeman. HI-I-I!
+
+(Arriving at the caretaker's house)
+Father: Is someone there from this house? Oh, thanks. I'm Kusakabe.
+        We've arrived. Yoroshiku Onegai Shimasu. (Very common expression.
+        Loosely translated, it means 'Your favor is humbly requested'.)
+Man: Welcome!
+Father: Thanks a lot.
+
+(At the gateway to the house)
+Father: Well, we've arrived.
+Mei: Wait!
+Satsuki: Mei, there's a bridge.
+Mei: Bridge?
+Satsuki: Fish. See, it flashed again.
+Father: Well, do you like it?
+Satsuki: Father, it's beautiful! A tunnel of trees. Ah, that house?
+Satsuki: Hurry
+
+(At the house)
+Satsuki: It's pretty old.
+Mei: Old!
+Satsuki: It's like a haunted house!
+Mei: Ghosts?
+Satsuki: It's rotten.
+Mei: It'll fall down. It'll fall down.
+Satsuki: Mei, look! There....Isn't it big?
+Satsuki: Father, a huge tree!
+Father: Right, it's a camphor tree.
+Satsuki: Oh, a camphor tree.
+Mei: Camphor tree.
+
+(In the room)
+Satsuki: An acorn.
+Mei: Let me see.
+Satsuki: Another one.
+Mei: I have one.
+Father: Hey, hey. We've got to open up the storm shutters.
+Mei: Acorns!
+Satsuki: There are acorns in the room.
+Mei: They fell from above.
+Father: Huh...I wonder if there are squirrels here?
+Mei & Satsuki: Squirrels?
+Father: Or maybe acorn-mice?
+Mei & Satsuki: What?
+Mei: No, squirrels are better.
+Man: Where do you want this?
+Father: Ah, just a minute. I'll open up over here.
+Father: Satsuki, would you open the back door?
+Satsuki: Okay.
+Father: You should be able to find it.
+Satsuki: Come on!
+Mei: Wait!
+Satsuki: Hurry up!
+
+(Satsuki opens the door)
+Mei & Satsuki: Ahhhh!
+Satsuki: I'm going in.
+Mei: The bath...
+Satsuki: Nothing there...
+Father: That's the bath.
+Satsuki: Father, there's something in here.
+Father: Squirrels?
+Satsuki: I don't know. Not cockroaches, not mice... Black. There were a whole
+         bunch!
+Father: Hmmmmm. Hmmmmm....
+Satsuki: Well?
+Father: It must be "Mak-kuro Kurosuke". (A play on the word black (kuro).
+        Mak-Kuro means pure-black or pitch_black and Kurosuke means Mr. Black
+        or Blackie.)
+Satsuki: Mak-kuro Kurosuke? Like the ones in the picture book?
+Father: It must be...Ghosts wouldn't be out on a beautiful day like this. When
+        you suddenly enter a dark place from bright sunlight, black spots
+        appear in front of your eyes.
+Satsuki: So that's it! MAK-KURO KUROSUKE,
+Mei & Satsuki: COME ON OUT! IF YOU DON'T,
+               WE'LL PULL YOU OUT BY YOUR EYEBALLS!!!
+Father: Okay, back to work. Where are the stairs to the second floor? Let's
+        Find the stairs and open the upstairs windows.
+Satsuki: Okay!
+Mei: Mei too!
+
+(Searching the house, they go running from room to room)
+Mei: Toilet!
+Satsuki: Over there!
+Mei: Over there!
+Satsuki: Not here!
+Mei: Not here!
+
+(They run from room to room, Mei imitating Satsuki)
+Satsuki: Mei, I found it.....It's pitch black.
+Mei: Mak-kuro Kurosuke! .....An acorn!
+Mei & Satsuke: MAK-KURO KUROSUKE, COME OUT!
+
+(They climb the stairs)
+Mei & Satsuke: AH-H-H-H-H-h-h-h-h......
+Satsuki: Mister Mak-kuro Kurosuke, are you here?
+
+(Satsuki calls from the window)
+Satsuki: Father, there's something in this house after all!
+Father: That's great! Since I was a boy, I've wanted to live in a haunted
+        house! Ooops!
+
+(Father drops a piece of furniture)
+Satsuki: Oh no!
+
+(Satsuki runs downstairs and Mei approaches a crack, catching a Mak-kuro
+ Kurosuke)
+Mei: I got one!! Sis!!
+
+(Mei runs downstairs and into an old woman)
+Father: Mei!
+Granny: What energy!
+Father: This is the neighbor-lady who watches over this house. She came to help
+        us move in.
+Satsuki: I'm Satsuki and this is my sister, Mei. How do you do?
+Granny: How do you do? What nice children. If there had been time I could
+        have cleaned up the house.
+Father: You've done plenty.
+Granny: We're so busy in the fields right now, but I cleaned a little, every
+        so often.
+Satsuki: Mei, your hands are black! What happened?
+Mei: Mak-kuro Kurosuke escaped!
+Satsuki: Oh, Mei, your feet...Oh, mine are black too!
+Granny: Oh, Oh. It looks like the 'susu-atari' have come out. (Soot balls of
+        fluff)
+Satsuki: Susu-atari? Are susu-atari like this, and move like this?
+Granny: Yes, they live in old, empty houses and make dust here and there. I
+        could see them too, when I was young. So, you also saw them....
+Father: Are they ghosts?
+Granny: Nothing that scary. If you're good, they won't do anything bad. Then
+        before you know it, they're gone. They're probably up in the ceiling
+        right now, discussing whether to move out.
+Satsuki: Mei, they're going to leave.
+Mei: I don't like that.
+Satsuki: But what would you do if they came out at once?
+Mei: Mei not scared.
+Satsuki: Okay then. I won't go with you to the toilet at night.
+Granny: Hee-hee. Say, would you go to the creek and bring up some water?
+Satsuki: The creek?
+Mei: Mei go too.
+
+(They go to the creek, get a bucket of water)
+Satsuki: Mei, you wait there.
+Mei: Catch any fish?
+
+(Working the pump)
+Satsuki: Granny, it works!
+Granny: Keep pumping, until the water runs cold.
+Satsuki: Okay.
+
+(Cleaning the house, Kanta arrives with lunch from Granny's house)
+Satsuki: Oh, it's you. What can I do for you?
+Kanta: From Mother, for Granny.
+Satsuki: What is it?
+Kanta: Here. Here!
+Satsuki: Wait! What is this?
+Granny: Is that Kanta?
+Kanta: YAH-H-H!! YOUR HOUSE IS HAUNTED!!!
+Granny: KANTA!
+
+(Having lunch...)
+Father: Ha, ha, ha! Reminds me of when I was a boy.
+Satsuki: I hate boys! But I love Granny's o-hagi (sweet rice cake).
+Granny: Eat all you like.
+
+(Later, saying goodbye to Granny)
+Satsuki: Thank you for all your help.
+Father: Thank you very much.
+Satsuki & Mei: Goodbye!
+
+(Evening, a storm coming up. Satsuki is outside collecting wood when a wind
+ whips by, scattering them)
+
+(Later, in the bath during the storm)
+Mei: Father, this old house will fall down.
+Father: Ha, ha! What a problem, since we just moved in.
+
+(Eerie sounds....)
+Father: HA HA HA HA HA! Everyone laugh! So your fears will all run away. HA HA
+        HA HA!!!
+Mei: Mei not scared, Mei not scared.
+
+(Everyone laughs and splashes water. The Mak-kuro Kurosuke fly off to the
+ camphor tree. The next morning, doing laundry...)
+
+Mei & Satsuki: One, two, one, two, one, two...
+Father: Keep it up, keep it up.
+Father: Okay, laundry is finished.
+Mei & Satsuki: Yea!
+Satsuki: Off we go!
+
+(Riding off on the bicycle to visit the hospital, they pass Granny in the
+fields)
+
+Satsuki: Granny! Good day!
+Father: Don't work too hard!
+Granny: Where are you going?
+Satsuki: To the hospital to visit mother!
+Granny: That's nice! Say hello for me!
+Satsuki: Okay!
+
+(They pass Kanta and he and Satsuki stick out there tongues at each other)
+
+(Futher down the road...)
+Satsuki: This way, this way!
+
+(At the hospital)
+Satsuki: Good day.
+Woman: Welcome.
+Mei: Oh, MOTHER!
+Mother: Mei, it's good to see you!
+Mei: Father took the wrong road.
+Mother: Really? Welcome.
+Satsuki: Today is the Harvest Holiday.
+Mother: Oh, so that's it.
+Satsuki: Father's talking with the doctor.
+Mother: I'm so happy you all came. How's the new house? Are you settled in?
+
+(Satsuki whispers to her mother)
+Mother: What? A haunted house?
+Satsuki: Uh-huh.
+Mei: Mother, do you like haunted houses?
+Mother: Of course. I've got to hurry and get well. I'd like to meet a ghost.
+Satsuki: That's good. Right, Mei? We were worried. If you were scared, we
+         wouldn't know what to do.
+Mother: What about you two?
+Satsuki: I like it!
+Mei: Mei not scared!
+Mother: Is Satsuki doing Mei's hair?
+Mei: Uh-huh.
+Mother: You're good at it. Isn't that nice, Mei?
+Mei: Uh-huh, but Sis gets real mad.
+Satsuki: That's because you never stay still.
+Mother: Satsuki, come here. Isn't it too short? (Brushing Satsuki's hair)
+Satsuki: I like it this way.
+Mei: Mei too, Mei too!
+Mother: Wait your turn.
+
+(Brushing Satsuki's hair)
+Mother: Unruly, just like always, isn't it. Exactly like mine when I was your
+        age.
+Satsuki: When I grow up, will my hair be just like Mother's?
+Mother: Probably, since you're just like I used to be.
+
+(On the road home....)
+Satsuki: Mother's looking good, isn't she?
+Father: Yes. The doctor was saying she'll be able to leave the hospital soon.
+Mei: Soon? tomorrow?
+Satsuki: There she goes again with 'tomorrow'.
+Father: Tomorrow is probably too soon, though.
+Mei: Mother says she wants to sleep together with Mei again.
+Satsuki: But you're a big girl now. Weren't you going to sleep by yourself?
+Mei: With mother is okay.
+
+(The next morning...)
+Satsuki: Father, it's morning!
+Mei: Hey, WAKE UP!!
+
+(The kitchen...)
+Father: Sorry, I overslept again.
+Satsuki: Starting today, I'm taking lunch (to school).
+Father: Darn, I completely forgot.
+Satsuki: It's okay. I'll make everyone's.
+Mei: It's burning!
+Satsuki: Just a minute.
+
+(At the table...)
+Satsuki: This one is Mei's.
+Mei: Mei's?
+Father: Mei, sit quietly and eat.
+Satsuki: Here. Wrap it yourself, okay?
+
+(A schoolmate calls for Satsuki)
+Michiko: Satsuki-chan!
+Satsuki: Oh, no! OKAY!!
+Father: You made a friend already?
+Mei: She called you 'Satsuki-chan'.
+Satsuki: Her name is Mit-chan. Gochiso-sama. (Expression used daily after
+         partaking of food, loosely translated as "That was delicious", with
+         an implied "Thank you".) I'll be going.
+Father & Mei: Have a nice day.
+
+(Satsuki meeting her friend)
+Satsuki: Morning.
+Michiko: Morning.
+Satsuki: Hurry, let's go.
+Michiko: Okay.
+
+(Later, in the garden)
+Mei: Father, does Mei look like Sis?
+Father: Yes. Where are you going with your lunch basket?
+Mei: Just over there.
+
+(Mei runs around in the yard for a few minutes)
+Mei: Father, is it time for lunch?
+Father: What, already?
+
+(Mei plays some more, picking some daisies and placing them on Father's desk)
+Mei: Father is a florist, okay?
+
+(At the pond)
+Mei: Tadpoles!
+
+(Mei goes to the well and finds a rusted bucket)
+Mei: Ah, bottom's gone.
+
+(Looking through the bucket, she sees an acorn in the grass)
+Mei: Found one!
+
+(Suddenly, she notices a small creature (Totoro Chibi) running through the
+ grass. She chases it under the porch, where it reappears with another,
+ larger creature (Totoro Chu). After a long chase through underbrush,
+ she falls through a hole and lands nearby a huge version of the 2 creatures
+ she has been chasing. While this large Totoro is sleeping, she climbs upon its
+ stomach.)
+Mei: Who are you? Mak-Kuro Kurosuke?
+Totoro: To Ro Ro.
+Mei: Totoro...Your name is Totoro, right?
+Totoro: YAWN.
+Mei: So...it's Totoro, after all...Totoro.
+
+(Later in the day, Satsuki returns from school)
+Michiko: Bye.
+Satsuki: See you later.
+Satsuki: I'm home.
+Father: Welcome. Oh, is it that time already?
+Satsuki: Where's Mei? I'm going over to Mit-chan's house.
+Father: We haven't had lunch yet. Isn't she playing in the garden?
+Satsuki: Mei! MEI!!!
+Father: Mei!
+Satsuki: Mei!
+
+(They search for Mei, until finally they spot her hat near the underbrush)
+Satsuki: Father, I found Mei's hat.
+
+(Entering the tunnel of underbrush...)
+Satsuki: Mei, Mei!! ....MEI! Wake up! You can't sleep in a place like this!
+Mei: Where's Totoro?
+Satsuki: Totoro?
+Mei: But...but...
+Satsuki: Were you dreaming?
+Mei: Totoro was here.
+Satsuki: Totoro? You mean Tororo that was in the picture book? (The character
+         in the book is Tororo, but Mei mispronounces it as 'Totoro'.)
+Mei: Uh-huh. He said he was Totoro. With fur, and a mouth like this. One like
+     this, and one about like this, and a B-I-G-G-G one like this, sleeping!
+Father: There you are, there you are. Hey, how great. Just like a secret
+        hideaway.
+Satsuki: Father! Mei, says she met Totoro here.
+Father: Totoro?
+Mei: Over here!
+Father: Hey, wait!
+Satsuki: Here?
+Mei: Uh-uh. Before he was by a big tree.
+Satsuki: But there was only one pathway...
+
+(Mei goes running into the tunnel again)
+Satsuki: Mei, let's go home. I said, Mei!
+
+(Mei emerges about two feet from where she entered the tunnel, shocked)
+Father & Satsuki: Ha ha ha ha ha.
+Mei: It's true! There really was Totoro! Not a lie.
+Father: Mei...
+Mei: It not lie.
+Father: Uh, Father and Satsuki don't think you're a liar. You must have
+        met the keeper of the forest. That means good fortune is with you.
+        But you can't see him all the time. Say, we haven't offered a proper
+        greeting yet.
+Satsuki: Greeting?
+Father: Tsukamori! (The shrine for the gods of the forest.) Let's go!
+
+(Climbing the hill....)
+Father: Mei's gotten so heavy.
+Satsuki: Father, that camphor tree. Isn't it huge?
+Mei: There it is!
+Satsuki: That tree?
+Mei: Yeah!
+Satsuki: Father, hurry. Hurry!
+Mei: The hole is gone.
+Satsuki: Was this really the place?
+Mei: Yeah.
+Satsuki: She says the hole is gone.
+Father: Well, you can't see him all the time.
+Satsuki: We'll see him again? I want to meet him too.
+Father: Well, if good fortune is with you. Isn't this a beautiful tree? It's
+        been here since long, long ago. Back then, man and trees were
+        friends. Father saw this tree and fell in love with that house. I'm
+        sure Mother will like it too. Well, let's offer our greetings and get
+        back home. We have to eat our lunch.
+Satsuki: Oh yeah. I was supposed to go to Mit-chan's.
+Mei: Mei go too.
+
+Father: (To Mei and Satsuki) Attention!
+Father: (To the gods of the forest) Thank you for taking care of Mei. From
+        this moment on, 'Onegai itashimasu'. (Encountered earlier. Itashimasu
+        is the even more polite form of the verb, shimasu, which is the polite
+        form of suru (to do).)
+Mei & Satsuki: Onegai itashimasu.
+Father: A race to the house!
+Satsuki: Cheater!
+Mei: (Drops hat and turns around to pick it up) Wait!
+Satsuki: Hurry!
+Mei: Wait!
+
+(Satsuki writing a letter...)
+Letter: Today I have wonderful news. Mei met the spirit, Totoro. I'm thinking
+        it would be wonderful to meet him too.
+
+(The next morning, at Granny's house)
+Kanta's Mother: Kanta! If you don't hurry, you'll be late!
+
+(In the classroom)
+Satsuki: Oh, it's Mei...Teacher?
+Teacher: Yes, Satsuki?
+Satsuki: My younger sister...
+
+(Satsuki runs outside to meet Mei and Granny)
+Satsuki: Granny, Mei...
+Granny: Well, she says she wants to go where you are, and she won't listen.
+Satsuki: But Mei, today's Father's day at the university and you promised
+         to be a good girl and stay with Granny. I have two more hours, and
+         Granny's busy too.
+Granny: She was a good girl all day, right?
+Satsuki: Sigh.....Granny, I'll go and speak with the teacher.
+
+Teacher: Satsuki's mother is in the hospital and it's rather difficult right
+         now. Class, we'll do all we can to help, right?
+Everyone: Right!
+
+(Mei drawing at Satsuki's desk)
+Michiko: What's that?
+Mei: It's Totoro!
+Satsuki: Shhhhh. You have to be quiet.
+Mei: Okay!
+
+(School lets out...)
+Satsuki: Tell them I'm going to skip the club today.
+Friend: Okay, I'll tell the teacher. See you later.
+Satsuki: Mei, let's hurry! It looks like rain.
+Satsuki: Here it comes...
+
+(Taking shelter under a roadside shrine...A common sight in rural Japan, a
+ roadside shrine to Jizo-san, the patron saint of travelers)
+Mei: Mei won't cry. Is she a big girl?
+Satsuki: Yes, but what a problem.
+
+(To Jizo-san)
+Satsuki: Please let us share your roof for a little while.
+
+(Kanta walks past with an umbrella, sees Satsuki, and turns around)
+Kanta: Here. Here. Here!
+Satsuki: But...
+
+(Kanta leaves the umbrella on the ground and runs off)
+Mei: Good thing. Right, Sis?
+Satsuki: Mm.
+Mei: It's got holes.
+Satsuki: Mm.
+
+(Later at home...)
+Satsuki: Father didn't take an umbrella.
+Mei: Mei go to meet him too.
+
+(At Granny's house)
+Kanta: And that's why I forgot it!
+Mother: (Kanta's Mother) What dummy would forget his umbrella when it's raining?
+Kanta: That hurts!
+Mother: You were probably swinging it around and broke it.
+Kanta: I didn't!
+Satsuki: Excuse me.
+Mother: Oh, Satsuki. And little Mei, too. Granny!
+Satsuki: Thank you for today (taking care of Mei).
+Mother: You're welcome. It wasn't much.
+Satsuki: Oh, Kanta lent us his umbrella.
+Mother: Really? That kid? It's such a beat up old umbrella.
+Satsuki: Mei was with me, so it really saved us. But Kanta got all wet. Thank
+         you.
+Mother: That's all right. He's always so dirty anyway; he must have gotten a
+         little bit cleaner. Are you going to meet your father?
+Satsuki: Yes.
+Mother: How thoughtful. Mei-chan, bye bye.
+Mei: Bye bye.
+
+(Granny sticks her head in the door)
+Granny: Who came?
+Kanta: I don't know.
+
+(Arriving at the bus stop to meet their father)
+Satsuki: There it comes.
+Conductor: Are you getting on? All right, driver.
+Mei: Father wasn't on it.
+Satsuki: It'll be the next bus for sure. Does Mei want to wait at Granny's
+         house?
+
+(Mei is bored, explores the nearby woods, and is frightened by a fox
+ statue at a Shinto shrine to Inari-san, the fox-god)
+Satsuki: What's wrong?
+Satsuki: Mei, are you sleepy? That's why I told you...Want to go to Granny's
+         house now? Hold on, it's just a little longer....The bus is sure
+         late...Here. (Satsuki lifts Mei onto her back)
+
+(Another passenger arrives at the bus stop)
+Satsuki: Totoro?......Ah, just a minute. I'll lend you this...Hurry, Mei will
+         fall. Use it like this.
+
+(Totoro takes Father's umbrella and is enchanted by the sound of the rain
+ against it. Oncoming headlights...)
+Satsuki: The bus is coming.
+
+(When Totoro's Neko-Bus (Cat Bus) arrives, he departs with the
+ umbrella, leaving Satsuki with a small package.)
+Satsuki: Totoro took father's umbrella....
+
+(The normal bus arrives)
+Father: Ah, sorry, sorry.
+Conductor: Departure. All right.
+Father: The train was late and I missed the bus. Were you worried?
+Mei: It came! Father, it came! It came!
+Mei and Satsuki: A cat, a cat bus! Really huge! With eyes like this!
+                 It was wonderful! We met him, we met him! We met Totoro!
+                 It was fantastic!
+
+(Satsuki writing a letter)
+Letter: Mother, it feels like my heart is still racing. It was a fantastic,
+        strange, wonderful day. And the gift Totoro gave us was wonderful
+        too. It was a bamboo-leaf package, tied with a dragon's whisker.
+        When we got home, we opened it and inside were nuts. If our garden
+        became a forest, it would be beautiful, so we planted them. But
+        they just won't grow. Every day, Mei says 'Still nothing, there's
+        still nothing'. She's just like the crab of the monkey-crab fable.
+        It will soon be summer vacation. Please hurry and get well. Satsuki.
+
+(Bedtime)
+Father: Okay, okay. I'm going to turn it off.
+Satsuki: Wait.
+Mei: Father, I wonder if they'll come up tommorrow?
+Father: I wonder. Totoro would probably know. Good night.
+
+(Later that night, both children awake)
+Satsuki: Mei, that's where we planted the seeds.
+
+(In the garden, the three Totoros dance about the seeds and they began to
+ grow at an amazing rate)
+Satsuki: Hooray! We did it, we did it!
+
+(After the garden has grown into a forest, Totoro produces a top and throws
+ it onto the ground. As it begins to spin, Mei, Satsuki, and the two smaller
+ Totoros jump on top of Totoro. With his umbrella in hand, Totoro hops onto
+ the top and they all go flying across the countryside.)
+Satsuki: Mei, we're the wind!
+
+(The next morning, the children awake to find their forest is gone)
+Mei: There's no tree.
+
+(At the garden, some of the seeds have sprouted)
+Mei & Satsuki: We did it, we did it! It was a dream but it wasn't a dream!
+               It was a dream but it wasn't a dream! We did it!
+
+(Later....)
+Mail Man: Mr. Kusakabe, telegram. Mr. Kusakabe, it's a telegram. Nobody
+          home?
+
+(In Granny's vegetable patch)
+Mei: Granny!
+Granny: Over here. This one's ready to eat.
+Satsuki: Granny, how about this one?
+Granny: It's ripe.
+Satsuki: Granny's garden is like a treasure-hill.
+Granny: Say, let's take a little rest....They're nice and cold.
+Satsuki: Itadakimasu. It's delicious.
+Granny: Is it? They've gotten a lot of Mr. Sun, so they're also good
+        for you.
+Satsuki: For Mother's sickness, too?
+Granny: Of course. If you eat Granny's vegetables, you'll get real healthy
+        fast.
+Satsuki: Mother's coming home this Saturday.
+Mei: She will sleep with Mei.
+Granny: So she's finally leaving the hospital.
+Satsuki: Un-uh. It's not for good. She'll return to the hospital on Monday.
+         It seems they're going to release her gradually.
+Granny: Is that right? Then we're going to have to get her to eat more and
+        more.
+Mei: The corn Mei picked, Mei will give to Mother.
+Granny: That will make her so happy.
+
+(Kanta comes running up)
+Kanta: A telegram. Nobody was home so we accepted it for you.
+Satsuki: For our house? Granny, Father won't be home until evening.
+Granny: Open it. It might be an emergency.
+Satsuki: Mmm.
+Satsuki: (reading) P-l-e-a-s-e re-ply, shi-chi-koku-yama...Shichikokuyama
+         Hospital! It's from Mother's Hospital! Something's happened!
+         Granny, what shall I do? We have to answer!
+Granny: Calm down, calm down. Do you know where your father is?
+Satsuki: I know the telephone number of the research department, but we
+         don't have a phone.
+Granny: Kanta, take her to your uncle's. Let her use the phone. Mei, you
+        stay with me.
+Satsuki: Mei, you stay with Granny!
+
+(At the Uncle's house)
+Satsuki: Hello, long distance please. Tokyo 31-1382. Yes.
+Old woman: Isn't she cute, Kanta?
+
+(The phone rings)
+Satsuki: Hello, yes....Hello, is this the Archaeology Research
+         Department?  Father, I mean, Mr. Kusakabe please. This is Satsuki
+         Kusakabe.  All right.....Oh Father, it's Satsuki.
+Father: Yes, what is it? Uh-huh...from the hospital? I understand. I'll call
+        the hospital right away.
+Satsuki: Did something happen with Mother? What shall I do? Father?
+Father: Don't worry. As soon as I find out what it's all about, I'll
+        call you. Ask them to let you wait there. I'm going to hang up now.
+Satsuki: Ma'am, may I wait here? Father will call back.
+Old woman: Of course. Rest awhile.
+
+(Outside...)
+Mei: Sis!
+Mei: No way! This corn is for Mother. I said, no way! I'm giving this to
+     Mother.
+
+(Meeting up with Satsuki and Kanta...)
+Satsuki: It seems Mother's not feeling well, so they're delaying her home
+         visit.
+Mei: No!
+Satsuki: It can't be helped. If she rushes it and gets worse, what'll we do?
+Mei: No!
+Satsuki: It's just a short postponement.
+Mei: No!
+Satsuki: Then it's all right if Mother dies, is that right?
+Mei: NO!
+Satsuki: You dummy! I'm not talking to you anymore!
+
+(Satsuki leaves Kanta and Mei)
+Kanta: Let's go.
+Mei: Sis is a dummy!
+
+(At the house...)
+Granny: Let's put away the laundry. Don't be so sad. Granny's come to help, so
+        perk up. Isn't your Father at the hospital? They say it's just a cold.
+        She'll be home next Saturday.
+Satsuki: It was just like this last time. Just a short stay at the hospital.
+         A little cold. What will we do if Mother dies?
+Granny: But, Satsuki...
+Satsuki: Maybe she'll...
+Granny: It's okay, it's okay. Who would die and leave such nice children? Don't
+        cry, don't cry. Granny will be here till your father comes home.
+        Okay?
+
+(Mei sees Satsuki crying and leaves with the corn. Later...)
+Granny: Mei-chan!
+Satsuki: Mei! Mei!
+Satsuki: Did Mei come home?
+Granny: You didn't see her at the bus stop?
+Satsuki: No.
+Granny: Funny, where could she have gone?
+Satsuki: A little while ago, we had a fight. Because Mei's a ...That kid. I
+         wonder if she went to Mother's hospital?
+Granny: The Shichikokuyama Hospital? It would take even an adult at least
+        three hours to walk there.
+Satsuki: I'm going to look.
+Granny: Kanta! Hurry and call your father! Mei's disappeared!
+
+(Running down the road...)
+Satsuki: Darn Mei! She's always getting lost.
+Satsuki: MEI!
+Satsuki: Excuse me, Mister. Did a little girl pass by on this road? My
+         little sister.
+Farmer: Hmmmm...a little girl? I would remember if I saw someone...
+Satsuki: I wonder if it was another road?
+
+(She looks around from the top of the hill)
+Farmer: Are you sure she came this way?
+Satsuki: I don't know.
+
+(Further down the road)
+Satsuki: Mei!
+
+(Satsuki jumps in front of an oncoming car)
+Satsuki: Stop, please!
+Man: You fool! That's dangerous!
+Satsuki: I'm looking for my little sister. Did you see a little girl?
+Woman: Your little sister?
+Sastsuki: I think she's on her way to the Shichikokuyama Hospital. Four
+          years old, a little girl.
+Man: Ryoko, did you see anyone?
+Woman: Uh-uh. We came from Shichikokuyama, but we didn't see anyone like that.
+Satsuki: Oh. Thank you.
+Man: Where did you come from?
+Satsuki: From Matsu-go.
+Man: Matsu-go?
+Woman: Isn't there some mistake?
+Man: Well, bye.
+
+(Kanta rides up on his bicycle)
+Kanta: Satsuki!
+Satsuki: Kan-chan! Find her?
+Kanta: No. How about you? Right now Dad and the others are searching. I'll
+       go to Shichikokuyama for you. You go home.
+Satsuki: Mei tried to get to the hospital and got lost on the way. I'm sure.
+Kanta: A while ago, they found a sandal in the pond.
+
+(Satsuki starts to run off)
+Kanta: We don't know for sure if it belongs to Mei!
+
+(Passing the farmer again)
+Farmer: Did you find her?
+
+(At the pond...)
+Granny: Nami Amida Buddha, Nami Amida Buddha... (a Buddhist chant)
+Man: The mud's deeper over there! Try there first!
+Man: Hey, got another pole?
+Michiko: Granny, Satsuki's coming.
+Satsuki: Granny!
+Granny: (Showing her the sandal) This...this is it.
+Satsuki: It's not Mei's.
+Granny: Thank heaven. I thought for sure it was Mei's.
+Man: What, Granny jumped to conclusions?
+Man: Hey, it was a mistake!
+Man: Where could she have gone?
+Man: We'll have to start over again.
+Woman: We'll have to hurry. It'll be dark soon.
+Man: Thanks everyone.
+Man: Let's divide up and search some more.
+
+(At the entrance to Totoro's tunnel)
+Satsuki: Please let me through to Totoro's den. Mei's lost. It'll be dark
+         soon, and that kid, she's lost somewhere.
+
+(Speaking to Totoro)
+Satsuki: Totoro! Totoro! Mei's lost! I've searched all over, but I can't
+         find her. Please, find Mei. I'm sure she's crying somewhere right
+         now. I don't know what to do!
+
+(Totoro flies with Satsuki to the top of his tree and roars. A second
+ later, the Cat bus can be seen galloping through the countryside.)
+Satsuki: Everyone can't see it!
+
+(Cat bus stops at tree and Satsuki boards. The sign on the front flips to
+ 'MEI' and he takes off)
+Granny: (yelling from the road as they pass) Mei-chan!
+Satsuki: The trees are leaning out of the way!
+
+(The Cat bus arrives beside a series of Jizo-san statues)
+Satsuki: Mei!
+Mei: Sis! Sis!
+Satsuki: Mei!
+Mei: Sis!
+Satsuki: You dummy!
+Mei: I'm sorry!
+Satsuki: You wanted to bring that corn to Mother?
+
+(The Cat bus sign flips to 'SHICHIKOKUYAMA HOSPITAL')
+Satsuki: You'll take us to the hospital? Thank you!
+
+(The Cat bus races to the hospital)
+
+(At the hospital, Father and Mother are talking by her bed)
+Mother: I'm sorry. It's just a little cold and the hospital had to go and
+        send a telegram. The kids are sure to be worried. They shouldn't
+        have done it.
+Father: Well, the kids will be relieved when they hear. We've all come this
+        far. Our good times are just put off for a little while, that's all.
+Mother: Those kids have to put up with so much. Satsuki's such a sensitive
+        child, I feel sorry for her.
+Father: You're right.
+Mother: When I get home I plan to really spoil them.
+Father: Hey, hey...
+
+(In the tree, the Cat bus and the children are watching through the window)
+Mei: Mother's laughing.
+Satsuki: She looks okay.
+Mei: Uh-huh.
+
+(The hospital room)
+Mother: Ah, I've got to hurry and get well.
+Father: Yes....What?....Who could it be?
+Mother: Ah...
+Father: What's the matter?
+Mother: (looking out the window) Just now, in the pine tree, I thought
+        I saw Mei and Satsuki laughing...
+Father: (picking up a piece of corn from the window) It could be. Look!
+
+(Carved into the husk of the corn, in a child's writing, are the words TO
+MOTHER)
+
+                              T H E   E N D
+
+=========================================================================
+Subject:  2.) TOTORO opening theme: "Sanpo" (July 7, 1992)
+[ revised May 10, 1994 ]
+
+
+Subject:      Totoro: "Sanpo" translation/lyrics  [TOTORO opening theme]
+Date:         Tue, 7 Jul 1992 00:07:36 GMT [ revised May 10, 1994 ]
+From:         "Japanese animedia and other animation news"
+                   <ANIME-L@VTVM1.BITNET>
+Really-from:  Theresa Martin <thmartin@romulus.rutgers.edu>
+
+Here are the lyrics in romaji and an English translation, followed by
+the lyrics in Japanese Industrial Standard codes.  The ESC characters
+in the JIS codes ("") are replaced with "^[" for posting
+[ Now corrected and converted from JIS to UTF8 - (Uploader) ].
+
+Just transliterating this song was a bit tricky, because the lyrics were
+written entirely in hiragana (except one katakana word).
+
+Many anime song lyrics and translations are available for anonymous ftp
+from romulus.rutgers.edu (128.6.13.2), in the pub/anime/lyrix
+subdirectory.
+
+I'm translating these songs to learn Japanese, so if you notice any
+mistakes, please correct me.
+
+Sanpo (Stroll)
+"Tonari no Totoro" opening theme (1987)
+
+* arukou  arukou  watashi wa genki
+  aruku no  daisuki  don-don ikou
+			Let's walk, let's walk, I feel fine.
+			I love to walk, let's go quickly.
+
+sakamichi  TONNERU  kusappara
+ipponbashi ni  dekoboko jari-michi
+kumo no su kugutte  kudari-michi
+			An uphill road, a tunnel, a meadow,
+			At a log bridge, a bumpy gravel path.
+			Passing under a spiderweb, a downhill path.
+
+* Repeat
+
+mitsubachi ga  bun-bun  hana batake
+hinata ni tokage  hebi wa hirune
+batta ga tonde  magari-michi
+			A honeybee buzzes in a field of flowers,
+			a lizard in the sunshine, a snake takes a midday nap,
+			a grasshopper leaps, along the curving path.
+
+* Repeat
+
+kitsune mo  tanuki mo  dete oide
+tanken-shiyou  hayashi no oku made
+tomodachi takusan  ureshii na
+tomodachi takusan  ureshii na
+			Foxes and badgers too, come out!
+			Let's go exploring deep into the woods.
+			I have lots of friends, I'm so happy.
+			I have lots of friends, I'm so happy.
+
+
+Singer: Inoue Azumi
+Lyricist: Nakagawa Rieko
+Composer/Arranger: Hisaishi Jou
+
+Translation: Theresa Martin (revised May 10, 1994)
+
+さんぽ
+「となりのトトロ」オープニング・テーマ (1987)
+
+※あるこう　あるこう　わたしはげんき
+　あるくの　だいすき　どんどんいこう
+
+さかみち　トンネル　くさっぱら
+いっぽんばしに　でこぼこじゃりみち
+くものすくぐって　くだりみち
+
+※くりかえし
+
+みつばち　ぶんぶん　はなばたけ
+ひなたにとかげ　へびはひるね
+ばったがとんで　まがりみち
+
+※くりかえし
+
+きつねも　たぬきも　でておいで
+たんけんしよう　はやしのおくまで
+ともだちたくさん　うれしいな
+ともだちたくさん　うれしいな
+
+
+歌：井上あずみ
+作詞：中川李枝子
+作曲・編曲：久石　譲
+
+=========================================================================
+Subject:  3.) TOTORO end theme: "Tonari no TOTORO" (July 7, 1992)
+
+
+Subject:      "Tonari no TOTORO" song lyrics  [TOTORO closing theme]
+Date:         Tue, 7 Jul 1992 00:07:39 GMT
+From:         "Japanese animedia and other animation news"
+                   <ANIME-L@VTVM1.BITNET>
+Really-from:  Theresa Martin <thmartin@romulus.rutgers.edu>
+
+Here are the lyrics in romaji and an English translation, followed by
+the lyrics in Japanese Industrial Standard codes.  The ESC characters
+in the JIS codes ("") are replaced with "^[" for posting
+[ Now corrected and converted from JIS to UTF8 - (Uploader) ].
+
+This and other lyrics and translations are available for anonymous ftp
+from remus.rutgers.edu or romulus.rutgers.edu, in the pub/anime/lyrix
+subdirectory.
+
+I'm translating these songs to learn Japanese, so if you notice any
+mistakes, please correct me.
+
+Tonari no TOTORO (My Neighbor Totoro)
+"Tonari no TOTORO" ending theme (1987)
+
+TOTORO  TOTORO  TOTORO  TOTORO          Totoro, Totoro, Totoro, Totoro,
+dareka ga  kossori                      Someone stealthily
+komichi ni  konomi  uzumete             buries nuts in the path.
+chissana me  haetara                    When a tiny sprout grows,
+  himitsu no angou                        [you'll find] a secret password--
+mori e no PASUPOOTO                     the passport to the forest.
+suteki-na bouken hajimaru               A wonderful adventure begins.
+
+tonari no                               My neighbor
+* TOTORO  TOTORO  TOTORO  TOTORO        Totoro, Totoro, Totoro, Totoro,
+  mori no naka ni                       who has lived in the forest
+    mukashi kara sunderu                  since ancient times.
+  tonari no TOTORO  TOTORO              My neighbor Totoro, Totoro,
+    TOTORO  TOTORO                        Totoro, Totoro,
+  kodomo no toki ni dake                only in your childhood age,
+    anata ni otozureru                    can one visit you--
+  fushigi-na deai                       a wonderous meeting.
+
+ame furi  BASU tei                      The rain falls at the bus stop,
+ZUBUNURE  OBAKE ga itara                if the spirit is drenched,
+anata no amaGASA  sashite agemasho      open your umbrella for it.
+mori e no PASUPOOTO                     The passport to the forest
+mahou no tobira  akimasu                opens the magic door.
+
+tonari no TOTORO  TOTORO                My neighbor Totoro, Totoro,
+  TOTORO  TOTORO                          Totoro, Totoro,
+tsukiyo no ban ni  OKARINA fuiteru      plays an ocarina on moonlit nights.
+tonari no TOTORO  TOTORO                My neighbor Totoro, Totoro,
+  TOTORO  TOTORO                          Totoro, Totoro,
+moshi mo aeta nara                      if you should ever meet,
+  suteki-na  shiawase ga                  wonderful fortune
+anata ni kuru wa                        will come to you.
+
+* Repeat
+
+TOTORO  TOTORO  TOTORO  TOTORO          Totoro, Totoro, Totoro, Totoro,
+TOTORO  TOTORO  TOTORO  TOTORO......... Totoro, Totoro, Totoro, Totoro.........
+
+
+Singer: Inoue Azumi
+Lyricist: Miyazaki Hayao
+Composer/Arranger: Hisaishi Jou
+
+Translation: Theresa Martin
+
+となりのトトロ
+「となりのトトロ」エンディング・テーマ (1987)
+
+トトロ　トトロ　トトロ　トトロ
+だれかが　こっそり
+小路に　木の実　うずめて
+ちっさな芽　生えたら　秘密の暗号
+森へのパスポート
+すてきな冒険はじまる
+
+となりの
+※トトロ　トトロ　トトロ　トトロ
+　森の中に　むかしから住んでる
+　となりのトトロ　トトロ　トトロ　トトロ
+　子供のときにだけ　あなたに訪れる
+　不思議な出会い
+
+雨ふり　バス停
+ズブヌレ　オバケがいたら
+あなたの雨ガサ　さしてあげましょ
+森へのパスポート
+魔法の扉　あきます
+
+となりのトトロ　トトロ　トトロ　トトロ
+月夜の晩に　オカリナ吹いてる
+となりのトトロ　トトロ　トトロ　トトロ
+もしも会えたなら　すてきな　しあわせが
+あなたに来るわ
+
+トトロ　トトロ　トトロ　トトロ
+※くりかえし
+
+トトロ　トトロ　トトロ　トトロ
+トトロ　トトロ　トトロ　トトロ………
+
+
+歌：井上あずみ
+作詞：宮崎　駿
+作曲・編曲：久石　譲
